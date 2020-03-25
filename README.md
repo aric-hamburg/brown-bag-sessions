@@ -10,7 +10,7 @@ Am Donnerstag, 26.03.2020, haben wir als Vortragenden gewinnen können:
 - Thema: Predictive Maintenance -- From Wine Cellars To 40.000ft
 
 Am Dienstag, 31.03.2020, haben wir als Vortragende gewinnen können:
-- Theresa Tran (Data Scientistin bei der Lufthansa Industry Solutions und ausgezeichnet als [KI-Newcomer*innen](https://ki50.de/ki-newcomer/)
+- Theresa Tran (Data Scientistin bei der Lufthansa Industry Solutions und ausgezeichnet als [KI-Newcomer*innen](https://ki50.de/ki-newcomer/))
 - Thema: Explainable AI
 
 ## Bisherige Vorträge
