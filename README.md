@@ -5,11 +5,13 @@ Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft s
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
 ## Nächste Vorträge:
-Am Dienstag, 31.03.2020, haben wir als Vortragende gewinnen können:
-- Theresa Tran (Data Scientistin bei der Lufthansa Industry Solutions und ausgezeichnet als [KI-Newcomer*innen](https://ki50.de/ki-newcomer/))
-- Thema: Explainable AI
+Am Dienstag, 07.04.2020, haben wir als Vortragende gewinnen können:
+- Jonas Schatz (TU Darmstadt/Heraeus)
+- Thema: Visual Inspection in the Electronics Industry
 
 ## Bisherige Vorträge
+- 02.04.2020, Dr. Lothar Hotz (Geschäftsführer HITeC e.V./Vorstand ARIC): Sehen
+- 31.03.2020, Theresa Tran (Data Scientistin bei der Lufthansa Industry Solutions und ausgezeichnet als KI-Newcomer: Explainable AI
 - 26.03.2020, Paul-Louis Pröve (Data Scientist bei der Lufthansa Industry Solutions): Predictive Maintenance
 - 24.03.2020, Alois Krtil (CEO des ARIC Hamburg): Das ARIC Hamburg -- Ziele, Struktur und Strategie
 - 19.03.2020, Dr. Alexander Motzek (Data Scientist bei der Lufthansa Industry Solutions): AI bei der Lufthansa
