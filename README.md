@@ -5,11 +5,26 @@ Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft s
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
 ## Nächste Vorträge:
-Am Dienstag, 07.04.2020, haben wir als Vortragende gewinnen können:
-- Jonas Schatz (TU Darmstadt/Heraeus)
-- Thema: Visual Inspection in the Electronics Industry
+Am Dienstag, 14.04.2020, haben wir als Vortragende gewinnen können:
+- Saskia Henatsch (Technik- Innovationssoziologin (TU Berlin))
+- Thema: „Der Wert von Usability Engineering (/Design Thinking) als Grundlage zur Entwicklung von Geschäftsmodellen und innovativen
+          Produkten"
+
+## Geplante Vorträge:
+- Dr. Edeltraut Leibrock (Connected Innovations)
+- Olaf Erichsen (Heldenkombinat)
+- Roland Becker (Just Add AI)
+- Felix Gessert (Bagend)
+- Omid Mogharian (Natix)
+- Jan Ruhnke (Inosim)
+- Felix Faber (MindPeak)
+- Werner Bogula
+- Prof. Dr. Walid Maalej (Uni Hamburg)
+
 
 ## Bisherige Vorträge
+- 09.04.2020, Dr. Sven Magg (HITeC e.V./Uni Hamburg): Optimierung evolutionärer Algorithmen
+- 07.04.2020, Jonas Schatz (TU Darmstadt/Heraeus): Visual Inspection in the Electronics Industry
 - 02.04.2020, Dr. Lothar Hotz (Geschäftsführer HITeC e.V./Vorstand ARIC): Sehen
 - 31.03.2020, Theresa Tran (Data Scientistin bei der Lufthansa Industry Solutions; ausgezeichnet als KI-Newcomer: Explainable AI
 - 26.03.2020, Paul-Louis Pröve (Data Scientist bei der Lufthansa Industry Solutions): Predictive Maintenance
