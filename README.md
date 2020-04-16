@@ -5,7 +5,7 @@ Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft s
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
 ## Nächste Vorträge:
-Am Dienstag, 16.04.2020, haben wir als Vortragende gewinnen können:
+Am Donnerstag, 16.04.2020, haben wir als Vortragende gewinnen können:
 - Dr. Achim Tappe (Senior Manager Data Science & Artificial Intelligence)
 - Thema: Erfolgsfaktoren für AI Projekte & Produkte – von Daten zu Mehrwert 
 
