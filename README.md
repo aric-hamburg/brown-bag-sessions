@@ -6,23 +6,13 @@ In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit 
 
 ## Nächste Vorträge:
 Am Dienstag, 14.04.2020, haben wir als Vortragende gewinnen können:
-- Saskia Henatsch (Technik- Innovationssoziologin (TU Berlin))
-- Thema: „Der Wert von Usability Engineering (/Design Thinking) als Grundlage zur Entwicklung von Geschäftsmodellen und innovativen
-          Produkten"
-
-## Geplante Vorträge:
-- Dr. Edeltraut Leibrock (Connected Innovations)
-- Olaf Erichsen (Heldenkombinat)
-- Roland Becker (Just Add AI)
-- Felix Gessert (Bagend)
-- Omid Mogharian (Natix)
-- Jan Ruhnke (Inosim)
-- Felix Faber (MindPeak)
-- Werner Bogula
-- Prof. Dr. Walid Maalej (Uni Hamburg)
+- Dr. Achim Tappe (Senior Manager Data Science & Artificial Intelligence)
+- Thema: Erfolgsfaktoren für AI Projekte & Produkte – von Daten zu Mehrwert 
 
 
 ## Bisherige Vorträge
+- 14.04.2020, Saskia Henatsch (Technik- Innovationssoziologin (TU Berlin)): Usability Engineering (/Design Thinking) als Grundlage zur
+              Entwicklung von Geschäftsmodellen und innovativen Produkten
 - 09.04.2020, Dr. Sven Magg (HITeC e.V./Uni Hamburg): Optimierung evolutionärer Algorithmen
 - 07.04.2020, Jonas Schatz (TU Darmstadt/Heraeus): Visual Inspection in the Electronics Industry
 - 02.04.2020, Dr. Lothar Hotz (Geschäftsführer HITeC e.V./Vorstand ARIC): Sehen
