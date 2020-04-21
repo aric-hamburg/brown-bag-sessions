@@ -5,12 +5,13 @@ Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft s
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
 ## Nächste Vorträge:
-Am Dienstag, 21.04.2020, haben wir als Vortragende gewinnen können:
-Jan Ruhnke (Projektmanager ARIC/Inosim)
-- Thema: "Wie Laufen funktioniert"
+Für Donnerstag, 23.04.2020, haben wir als Vortragende gewinnen können:
+Dalia Moniat (Visual Artist/ARIC)
+- Thema: "KI & Kunst"
 
 
 ## Bisherige Vorträge
+- 21.04.2020, Jan Ruhnke (Projektmanager ARIC/Inosim): Wie Laufen funktioniert"
 - 16.04.2020, Dr. Achim Tappe (Senior Manager Data Science & AI): Erfolgsfaktoren für AI Projekte & Produkte – von Daten zu Mehrwert
 - 14.04.2020, Saskia Henatsch (Technik- Innovationssoziologin (TU Berlin)): Usability Engineering (/Design Thinking) als Grundlage zur
               Entwicklung von Geschäftsmodellen und innovativen Produkten
