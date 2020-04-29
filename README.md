@@ -5,13 +5,14 @@ Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft s
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
 ## Nächste Vorträge:
-Für Dienstag, 28.04.2020, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 30.04.2020, haben wir als Vortragende gewinnen können:
 
-Jorge Davila-Chacon (Heldenkombinat)
-- Thema: "Überblick über Best-Practices für das Management und die Umsetzung von ML-Entwicklungen für die Industrie"
+Dr. Edeltraud Leibbrock & Tim Behrens (Connected Innovations)
+- Thema: "Machine Reasoning"
 
 
 ## Bisherige Vorträge
+- 28.04.2020, Jorge Davila-Chacon (Heldenkombinat):"Best-Practices für das Management und die Umsetzung von ML-Entwicklungen für die Industrie"
 - 23.04.2020, Dalia Moniat (Visual Artist/Aric): "KI und Kunst"
 - 21.04.2020, Jan Ruhnke (Projektmanager ARIC/Inosim): "Wie Laufen funktioniert"
 - 16.04.2020, Dr. Achim Tappe (Senior Manager Data Science & AI): Erfolgsfaktoren für AI Projekte & Produkte – von Daten zu Mehrwert
