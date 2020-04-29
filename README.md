@@ -7,7 +7,7 @@ In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit 
 ## Nächste Vorträge:
 Für Donnerstag, 30.04.2020, haben wir als Vortragende gewinnen können:
 
-Dr. Edeltraud Leibbrock & Tim Behrens (Connected Innovations)
+Dr. Edeltraud Leibrock & Tim Behrens (Connected Innovations)
 - Thema: "Machine Reasoning"
 
 
