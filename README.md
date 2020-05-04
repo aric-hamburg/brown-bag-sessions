@@ -5,14 +5,16 @@ Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft s
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
 ## Nächste Vorträge:
-Für Donnerstag, 30.04.2020, haben wir als Vortragende gewinnen können:
+Für Dienstag, 05.05.2020, haben wir als Vortragenden gewinnen können:
 
-Dr. Edeltraud Leibrock & Tim Behrens (Connected Innovations)
-- Thema: "Machine Reasoning"
+Olaf Erichsen (Heldenkombinat)
+- Thema: "Strategy and Machine Learning"
 
 
 ## Bisherige Vorträge
-- 28.04.2020, Jorge Davila-Chacon (Heldenkombinat):"Best-Practices für das Management und die Umsetzung von ML-Entwicklungen für die Industrie"
+- 30.04.2020, Dr. Edeltraud Leibrock & Tim Behrens (Connected Innovations): "Machine Reasoning"
+- 28.04.2020, Jorge Davila-Chacon (Heldenkombinat):"Best-Practices für das Management und die Umsetzung von ML-Entwicklungen für die
+              Industrie"
 - 23.04.2020, Dalia Moniat (Visual Artist/Aric): "KI und Kunst"
 - 21.04.2020, Jan Ruhnke (Projektmanager ARIC/Inosim): "Wie Laufen funktioniert"
 - 16.04.2020, Dr. Achim Tappe (Senior Manager Data Science & AI): Erfolgsfaktoren für AI Projekte & Produkte – von Daten zu Mehrwert
