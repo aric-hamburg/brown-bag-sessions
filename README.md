@@ -5,12 +5,14 @@ Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft s
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
 ## Nächste Vorträge:
-Für Dienstag, 12.05.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 19.05.2020, haben wir als Vortragenden gewinnen können:
 
-Dr. Lars Schwabe (Lufthansa Industrie Solutions)
--Thema: "Von Modellen für außerkörperliche Erfahrungen zu Brain-Dancing und Brain-Painting mit Brain-Computer-Interfaces"
+Alireza Ghods (Natix)
+-Thema: "Edge Vision"
 
 ## Bisherige Vorträge
+- 14.05.2020: Hans-Otto Weinhold (Osi Soft): "Digitales Gold"
+- 12.05.2020: Dr. Lars Schwabe (Lufthansa Industrie Solutions): "Von Modellen für außerkörperliche Erfahrungen zu Brain-Dancing und Brain-Painting mit Brain-Computer-Interfaces"
 - 07.05.2020, Martin Zielinski (12min.me): "Organisation und Communityaufbau eines Netzwerks für echte Menschen im KI Umfeld am Beispiel von 12MIN.AI"
 - 05.05.2020, Olaf Erichsen (Heldenkombinat): "Strategy and Machine Learning"
 - 30.04.2020, Dr. Edeltraud Leibrock & Tim Behrens (Connected Innovations): "Machine Reasoning"
