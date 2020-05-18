@@ -7,8 +7,8 @@ In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit 
 ## Nächste Vorträge:
 Für Dienstag, 19.05.2020, haben wir als Vortragenden gewinnen können:
 
-Alireza Ghods (Natix)
--Thema: "Edge Vision"
+Dr. Manfred Eppe (Uni Hamburg)
+-Thema: "What robots can learn from birds: an interdisciplinary perspective on problem-solving"
 
 ## Bisherige Vorträge
 - 14.05.2020: Hans-Otto Weinhold (Osi Soft): "Digitales Gold"
