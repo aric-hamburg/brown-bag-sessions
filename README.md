@@ -22,7 +22,7 @@ Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg)
 
 
 ## Weitere geplante Vorträge
-- 28.05.2020, Arne Bernin (HAW): "What robots can learn from birds: an interdisciplinary perspective on problem-solving"
+- 28.05.2020, Arne Bernin (HAW): "Emotionserkennung"
 - 02.06.2020, Prof. Dr. Alexander Fay (Helmut-Schmidt-Universität Hamburg): "10 Fragen zu KI und autonomen Systemen"
 - 09.06.2020, Dr. Lars Schwabe (LHIND): "The Fruitful Interaction Between Neuroscience and Deep Learning: Past, Presence and Future"
 - 16.06.2020, Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
