@@ -4,15 +4,35 @@ jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 stattfinden.
 Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft sprechen zur Mittagszeit zu spannenden Themen und Projekten aus den Bereichen Artificial Intelligence, Data Science, Data Architecture, AI Business Development, etc.
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
-## Nächste Vorträge:
-Für Dienstag, 19.05.2020, haben wir als Vortragenden gewinnen können:
 
-Dr. Manfred Eppe (Uni Hamburg)
--Thema: "What robots can learn from birds: an interdisciplinary perspective on problem-solving"
+
+
+
+## Nächster Vorträge:
+______________________________________________________________________________________________________________________
+
+!!!ACHTUNG!!!: Die Brown Bag Session am Donnerstag, 21.05.2020 entfällt aufgrund des Feiertages Christi Himmelfahrt!
+______________________________________________________________________________________________________________________
+
+
+Für Dienstag, 26.05.2020, haben wir als Vortragenden gewinnen können:
+
+Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg)
+-Thema: "KI als Bildungsherausforderung"
+
+
+## Weitere geplante Vorträge
+- 28.05.2020, Arne Bernin (HAW): "What robots can learn from birds: an interdisciplinary perspective on problem-solving"
+- 02.06.2020, Prof. Dr. Alexander Fay (Helmut-Schmidt-Universität Hamburg): "10 Fragen zu KI und autonomen Systemen"
+- 09.06.2020, Dr. Lars Schwabe (LHIND): "The Fruitful Interaction Between Neuroscience and Deep Learning: Past, Presence and Future"
+- 16.06.2020, Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
+- 16.06.2020, Meike Vogler (Yourstruly): "KI und Marketing"
+
 
 ## Bisherige Vorträge
-- 14.05.2020: Hans-Otto Weinhold (Osi Soft): "Digitales Gold"
-- 12.05.2020: Dr. Lars Schwabe (Lufthansa Industrie Solutions): "Von Modellen für außerkörperliche Erfahrungen zu Brain-Dancing und Brain-Painting mit Brain-Computer-Interfaces"
+- 19.05.2020, Dr. Manfred Eppe (Uni Hamburg): "What robots can learn from birds: an interdisciplinary perspective on problem-solving"
+- 14.05.2020, Hans-Otto Weinhold (Osi Soft): "Digitales Gold"
+- 12.05.2020, Dr. Lars Schwabe (Lufthansa Industrie Solutions): "Von Modellen für außerkörperliche Erfahrungen zu Brain-Dancing und Brain-Painting mit Brain-Computer-Interfaces"
 - 07.05.2020, Martin Zielinski (12min.me): "Organisation und Communityaufbau eines Netzwerks für echte Menschen im KI Umfeld am Beispiel von 12MIN.AI"
 - 05.05.2020, Olaf Erichsen (Heldenkombinat): "Strategy and Machine Learning"
 - 30.04.2020, Dr. Edeltraud Leibrock & Tim Behrens (Connected Innovations): "Machine Reasoning"
