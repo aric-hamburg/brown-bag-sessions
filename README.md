@@ -26,7 +26,7 @@ Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg)
 - 02.06.2020, Prof. Dr. Alexander Fay (Helmut-Schmidt-Universität Hamburg): "10 Fragen zu KI und autonomen Systemen"
 - 09.06.2020, Dr. Lars Schwabe (LHIND): "The Fruitful Interaction Between Neuroscience and Deep Learning: Past, Presence and Future"
 - 16.06.2020, Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
-- 16.06.2020, Meike Vogler (Yourstruly): "KI und Marketing"
+- 18.06.2020, Meik Vogler (Yourstruly): "KI und Marketing"
 
 
 ## Bisherige Vorträge
