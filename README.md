@@ -17,12 +17,11 @@ ________________________________________________________________________________
 
 Für Dienstag, 26.05.2020, haben wir als Vortragenden gewinnen können:
 
-Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg)
--Thema: "KI als Bildungsherausforderung"
+- 28.05.2020, Arne Bernin & Sobin Ghose (HAW)
+              Thema: "Affective Computing"
 
 
 ## Weitere geplante Vorträge
-- 28.05.2020, Arne Bernin (HAW): "Affective Computing"
 - 02.06.2020, Prof. Dr. Alexander Fay (Helmut-Schmidt-Universität Hamburg): "10 Fragen zu KI und autonomen Systemen"
 - 09.06.2020, Dr. Lars Schwabe (LHIND): "The Fruitful Interaction Between Neuroscience and Deep Learning: Past, Presence and Future"
 - 16.06.2020, Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
@@ -30,6 +29,7 @@ Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg)
 
 
 ## Bisherige Vorträge
+- 26.05.2020, Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg): "KI als Bildungsherausforderung"
 - 19.05.2020, Dr. Manfred Eppe (Uni Hamburg): "What robots can learn from birds: an interdisciplinary perspective on problem-solving"
 - 14.05.2020, Hans-Otto Weinhold (Osi Soft): "Digitales Gold"
 - 12.05.2020, Dr. Lars Schwabe (Lufthansa Industrie Solutions): "Von Modellen für außerkörperliche Erfahrungen zu Brain-Dancing und Brain-Painting mit Brain-Computer-Interfaces"
