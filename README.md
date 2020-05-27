@@ -8,12 +8,7 @@ In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit 
 
 
 
-## Nächster Vorträge:
-______________________________________________________________________________________________________________________
-
-!!!ACHTUNG!!!: Die Brown Bag Session am Donnerstag, 21.05.2020 entfällt aufgrund des Feiertages Christi Himmelfahrt!
-______________________________________________________________________________________________________________________
-
+## Nächster Vortrag:
 
 Für Donnerstag, 28.05.2020, haben wir als Vortragende gewinnen können:
 
