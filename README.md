@@ -15,10 +15,10 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________
 
 
-Für Dienstag, 26.05.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 28.05.2020, haben wir als Vortragende gewinnen können:
 
-- 28.05.2020, Arne Bernin & Sobin Ghose (HAW)
-              Thema: "Affective Computing"
+Dr. Arne Bernin & Sobin Ghose (HAW)
+Thema: "Affective Computing"
 
 
 ## Weitere geplante Vorträge
