@@ -10,20 +10,20 @@ In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit 
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 28.05.2020, haben wir als Vortragende gewinnen können:
+Für Dienstag, 02.06.2020, haben wir als Vortragenden gewinnen können:
 
-Dr. Arne Bernin & Sobin Ghose (HAW)
-Thema: "Affective Computing"
+Prof. Dr. Alexander Fay (Helmut-Schmidt-Universität Hamburg)
+Thema: "10 Fragen zu KI und autonomen Systemen"
 
 
 ## Weitere geplante Vorträge
-- 02.06.2020, Prof. Dr. Alexander Fay (Helmut-Schmidt-Universität Hamburg): "10 Fragen zu KI und autonomen Systemen"
 - 09.06.2020, Dr. Lars Schwabe (LHIND): "The Fruitful Interaction Between Neuroscience and Deep Learning: Past, Presence and Future"
 - 16.06.2020, Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
 - 18.06.2020, Meik Vogler (Yourstruly): "KI und Marketing"
 
 
 ## Bisherige Vorträge
+- 28.05.2020, Dr. Arne Bernin & Sobin Ghose (HAW): "Affective Computing"
 - 26.05.2020, Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg): "KI als Bildungsherausforderung"
 - 19.05.2020, Dr. Manfred Eppe (Uni Hamburg): "What robots can learn from birds: an interdisciplinary perspective on problem-solving"
 - 14.05.2020, Hans-Otto Weinhold (Osi Soft): "Digitales Gold"
