@@ -13,10 +13,10 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 09.06.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 11.06.2020, haben wir als Vortragenden gewinnen können:
 
-Dr. Lars Schwabe (Lufthansa Industry Solutions) 
-Thema: "The Fruitful Interaction Between Neuroscience and Deep Learning: Past, Presence and Future"
+Prof. Dr. Nick Gehrke (zapliance GmbH/Nordakademie gAG) 
+Thema: "KI in der Buchführung"
 
 
 ## Weitere geplante Vorträge
@@ -26,6 +26,7 @@ Thema: "The Fruitful Interaction Between Neuroscience and Deep Learning: Past, P
 
 
 ## Bisherige Vorträge
+- 09.06.2020, Dr. Lars Schwabe (Lufthansa Industry Solutions): "The Fruitful Relation Between Neuroscience and AI: Past, Presence and Future"
 - 04.06.2020, Dr. Markus Teichmann (Lufthansa Industry Solutions): "Sketch Demonstrator"
 - 02.06.2020, Prof. Dr. Alexander Fay (Helmut-Schmidt-Universität Hamburg): "10 Fragen zu KI und autonomen Systemen"
 - 28.05.2020, Dr. Arne Bernin & Sobin Ghose (HAW): "Affective Computing"
