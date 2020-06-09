@@ -20,9 +20,9 @@ Thema: "KI in der Buchführung"
 
 
 ## Weitere geplante Vorträge
-- 11.06.2020, Prof. Dr. Nick Gehrke (zapliance): "KI-Algorithmen in der doppelten Buchführung"
 - 16.06.2020, Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
 - 18.06.2020, Meik Vogler (Yourstruly): "KI und Marketing"
+- 23.06.2020, Jendrik Jördening (Nooxit): "Self-racing Using Deep Neural Networks" 
 
 
 ## Bisherige Vorträge
