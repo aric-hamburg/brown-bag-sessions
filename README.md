@@ -13,19 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 11.06.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 16.06.2020, haben wir als Vortragenden gewinnen können:
 
-Prof. Dr. Nick Gehrke (zapliance GmbH/Nordakademie gAG) 
-Thema: "KI in der Buchführung"
+Dr. Sebastian Janka (Luther Rechtsanwälte):  
+Thema: "Algorithmen und Kartellrecht"
 
 
 ## Weitere geplante Vorträge
-- 16.06.2020, Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
 - 18.06.2020, Meik Vogler (Yourstruly): "KI und Marketing"
 - 23.06.2020, Jendrik Jördening (Nooxit): "Self-racing Using Deep Neural Networks" 
 
 
 ## Bisherige Vorträge
+- Prof. Dr. Nick Gehrke (zapliance GmbH/Nordakademie gAG): "KI in der Buchführung"
 - 09.06.2020, Dr. Lars Schwabe (Lufthansa Industry Solutions): "The Fruitful Relation Between Neuroscience and AI: Past, Presence and Future"
 - 04.06.2020, Dr. Markus Teichmann (Lufthansa Industry Solutions): "Sketch Demonstrator"
 - 02.06.2020, Prof. Dr. Alexander Fay (Helmut-Schmidt-Universität Hamburg): "10 Fragen zu KI und autonomen Systemen"
