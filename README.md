@@ -13,18 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 16.06.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 18.06.2020, haben wir als Vortragenden gewinnen können:
 
-Dr. Sebastian Janka (Luther Rechtsanwälte):  
-Thema: "Algorithmen und Kartellrecht"
+Meik Vogler (Yourstruly):  
+Thema: "KI und Marketing"
 
 
 ## Weitere geplante Vorträge
-- 18.06.2020, Meik Vogler (Yourstruly): "KI und Marketing"
-- 23.06.2020, Jendrik Jördening (Nooxit): "Self-racing Using Deep Neural Networks" 
 
+- 23.06.2020, Jendrik Jördening (Nooxit): "Self-racing Using Deep Neural Networks"
+- 25.06.2020, Wilfried Bohlken: "Container Slot Allocation with Reinforcement Learning"
 
 ## Bisherige Vorträge
+- Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
 - Prof. Dr. Nick Gehrke (zapliance GmbH/Nordakademie gAG): "KI in der Buchführung"
 - 09.06.2020, Dr. Lars Schwabe (Lufthansa Industry Solutions): "The Fruitful Relation Between Neuroscience and AI: Past, Presence and Future"
 - 04.06.2020, Dr. Markus Teichmann (Lufthansa Industry Solutions): "Sketch Demonstrator"
