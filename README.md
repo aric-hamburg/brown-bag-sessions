@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 18.06.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 23.06.2020, haben wir als Vortragenden gewinnen können:
 
-Meik Vogler (Yourstruly):  
-Thema: "KI und Marketing"
+Jendrik Jördening (Nooxit): 
+Thema: "Self-racing Using Deep Neural Networks"
 
 
 ## Weitere geplante Vorträge
 
-- 23.06.2020, Jendrik Jördening (Nooxit): "Self-racing Using Deep Neural Networks"
 - 25.06.2020, Wilfried Bohlken: "Container Slot Allocation with Reinforcement Learning"
 
 ## Bisherige Vorträge
+- Meik Vogler (Yourstruly): "KI und Marketing"
 - Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
 - Prof. Dr. Nick Gehrke (zapliance GmbH/Nordakademie gAG): "KI in der Buchführung"
 - 09.06.2020, Dr. Lars Schwabe (Lufthansa Industry Solutions): "The Fruitful Relation Between Neuroscience and AI: Past, Presence and Future"
