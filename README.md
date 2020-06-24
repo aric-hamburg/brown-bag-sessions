@@ -21,7 +21,7 @@ Thema: "Container Slot Allocation with Reinforcement Learning"
 
 ## Weitere geplante Vorträge
 
-- 30.06.2020,Mahmoud Marouf: "Generative Models and Variational Autoencoders, use cases from Systems Biology"
+- 30.06.2020, Mahmoud Marouf (LHIND): "Generative Models and Variational Autoencoders, use cases from Systems Biology"
 
 ## Bisherige Vorträge
 - Jendrik Jördening (Nooxit): 
