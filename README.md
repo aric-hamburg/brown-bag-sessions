@@ -13,19 +13,20 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 25.06.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 30.06.2020, haben wir als Vortragenden gewinnen können:
 
-Wilfried Bohlken (HHLA): 
-Thema: "Container Slot Allocation with Reinforcement Learning"
+Dr.-Ing. Mahmoud Marouf (Lufthansa Industry Solutions) : "Generative Models and Variational Autoencoders, use cases from Systems Biology"
 
 
 ## Weitere geplante Vorträge
 
-- 30.06.2020, Mahmoud Marouf (LHIND): "Generative Models and Variational Autoencoders, use cases from Systems Biology"
+- KI-Methoden zum Umgang mit geringen Daten
+- Datenschutz und AI
+- Data Science Products in production..is it code or communication? 
 
 ## Bisherige Vorträge
-- Jendrik Jördening (Nooxit): 
-Thema: "Self-racing Using Deep Neural Networks"
+- Wilfried Bohlken (HHLA): "Container Slot Allocation with Reinforcement Learning"
+- Jendrik Jördening (Nooxit): "Self-racing Using Deep Neural Networks"
 - Meik Vogler (Yourstruly): "KI und Marketing"
 - Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
 - Prof. Dr. Nick Gehrke (zapliance GmbH/Nordakademie gAG): "KI in der Buchführung"
