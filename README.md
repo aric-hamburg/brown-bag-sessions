@@ -13,23 +13,27 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 30.06.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 02.07.2020, haben wir als Vortragenden gewinnen können:
 
-Dr.-Ing. Mahmoud Marouf (Lufthansa Industry Solutions) : "Generative Models and Variational Autoencoders, use cases from Systems Biology"
+Jan Ruhnke (ARIC e.V.) : "Rendering using AI"
 
 
 ## Weitere geplante Vorträge
 
-- KI-Methoden zum Umgang mit geringen Daten
-- Datenschutz und AI
-- Data Science Products in production..is it code or communication? 
+- 07.07.2020, Jakob: Datenschutz und AI
+- 09.07.2020, Tereza Iofciu (Free Now): "Data Science Products in production..is it code or communication?"
+- 14.07.2020, Janna Lipenkova (Anacode): "NLP für die Optimierung von Unternehmensprozessen"
+- 16.07.2020, Michael Welsch (Panda GmbH): "Anforderungen an die KI in der Produktion"
+- 21.07.2020, Ronny Schüritz (prenode GmbH): "KI-Methoden zum Umgang mit geringen Daten"
+
 
 ## Bisherige Vorträge
-- Wilfried Bohlken (HHLA): "Container Slot Allocation with Reinforcement Learning"
-- Jendrik Jördening (Nooxit): "Self-racing Using Deep Neural Networks"
-- Meik Vogler (Yourstruly): "KI und Marketing"
-- Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
-- Prof. Dr. Nick Gehrke (zapliance GmbH/Nordakademie gAG): "KI in der Buchführung"
+- 30.06.2020, Dr.-Ing. Mahmoud Marouf (Lufthansa Industry Solutions) : "Generative Models and Variational Autoencoders, use cases from Systems Biology"
+- 25.06.2020, Wilfried Bohlken (HHLA): "Container Slot Allocation with Reinforcement Learning"
+- 23.06.2020, Jendrik Jördening (Nooxit): "Self-racing Using Deep Neural Networks"
+- 18.06.2020, Meik Vogler (Yourstruly): "KI und Marketing"
+- 16.06.2020, Dr. Sebastian Janka (Luther Rechtsanwälte): "Algorithmen und Kartellrecht"
+- 11.06.2020, Prof. Dr. Nick Gehrke (zapliance GmbH/Nordakademie gAG): "KI in der Buchführung"
 - 09.06.2020, Dr. Lars Schwabe (Lufthansa Industry Solutions): "The Fruitful Relation Between Neuroscience and AI: Past, Presence and Future"
 - 04.06.2020, Dr. Markus Teichmann (Lufthansa Industry Solutions): "Sketch Demonstrator"
 - 02.06.2020, Prof. Dr. Alexander Fay (Helmut-Schmidt-Universität Hamburg): "10 Fragen zu KI und autonomen Systemen"
