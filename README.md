@@ -20,7 +20,7 @@ Jan Ruhnke (ARIC e.V.) : "Rendering using AI"
 
 ## Weitere geplante Vorträge
 
-- 07.07.2020, Jakob: Datenschutz und AI
+- 07.07.2020, Jakob Teuffel: Datenschutz und AI
 - 09.07.2020, Tereza Iofciu (Free Now): "Data Science Products in production..is it code or communication?"
 - 14.07.2020, Janna Lipenkova (Anacode): "NLP für die Optimierung von Unternehmensprozessen"
 - 16.07.2020, Michael Welsch (Panda GmbH): "Anforderungen an die KI in der Produktion"
