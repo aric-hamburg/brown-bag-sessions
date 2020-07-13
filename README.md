@@ -13,20 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 09.07.2020, haben wir als Vortragende gewinnen können:
+Für Dienstag, 14.07.2020, haben wir als Vortragende gewinnen können:
 
-Tereza Iofciu (Free Now): "Data Science Products in production..is it code or communication?"
+Lisa Stamm (Data42): "AI and Ethics"
 
 
 ## Weitere geplante Vorträge
 
-- 14.07.2020, Janna Lipenkova (Anacode): "NLP für die Optimierung von Unternehmensprozessen"
 - 16.07.2020, Michael Welsch (Panda GmbH): "Anforderungen an die KI in der Produktion"
 - 21.07.2020, Ronny Schüritz (prenode GmbH): "KI-Methoden zum Umgang mit geringen Daten"
 
-
 ## Bisherige Vorträge
-
+- 09.07.2020, Tereza Iofciu (Free Now): "Data Science Products in production..is it code or communication?"
 - 07.07.2020, Jakob Teuffel: Datenschutz und AI
 - 02.07.2020, Jan Ruhnke (ARIC e.V.) : "Rendering using AI"
 - 30.06.2020, Dr.-Ing. Mahmoud Marouf (Lufthansa Industry Solutions) : "Generative Models and Variational Autoencoders, use cases from Systems Biology"
