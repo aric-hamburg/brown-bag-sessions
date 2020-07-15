@@ -13,17 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 14.07.2020, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 16.07.2020, haben wir als Vortragenden gewinnen können:
 
-Lisa Stamm (Data42): "AI and Ethics"
+Michael Welsch (Panda GmbH): "Anforderungen an die KI in der Produktion"
 
 
 ## Weitere geplante Vorträge
 
-- 16.07.2020, Michael Welsch (Panda GmbH): "Anforderungen an die KI in der Produktion"
 - 21.07.2020, Ronny Schüritz (prenode GmbH): "KI-Methoden zum Umgang mit geringen Daten"
+- 23.07.2020, Jean-Michel Lourier (Lufthansa Industry Solutions): "AI and Quantum Computing"
+- 28.07.2020, Janna Lipenkova: "NLP für die Optimierung von Unternehmensprozessen"
 
 ## Bisherige Vorträge
+- 14.07.2020, Lisa Stamm (Data42): "AI and Ethics"
 - 09.07.2020, Tereza Iofciu (Free Now): "Data Science Products in production..is it code or communication?"
 - 07.07.2020, Jakob Teuffel: Datenschutz und AI
 - 02.07.2020, Jan Ruhnke (ARIC e.V.) : "Rendering using AI"
