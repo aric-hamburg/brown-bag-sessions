@@ -13,14 +13,13 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 16.07.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 21.07.2020, haben wir als Vortragenden gewinnen können:
 
-Michael Welsch (Panda GmbH): "Anforderungen an die KI in der Produktion"
+Robin Hirt (Prenode GmbH): "KI-Methoden auf Basis geringer Daten"
 
 
 ## Weitere geplante Vorträge
 
-- 21.07.2020, Ronny Schüritz (prenode GmbH): "KI-Methoden zum Umgang mit geringen Daten"
 - 23.07.2020, Jean-Michel Lourier (Lufthansa Industry Solutions): "AI and Quantum Computing"
 - 28.07.2020, Janna Lipenkova: "NLP für die Optimierung von Unternehmensprozessen"
 
