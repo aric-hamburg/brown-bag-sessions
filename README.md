@@ -13,17 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 21.07.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 28.07.2020, haben wir als Vortragende gewinnen können:
 
-Robin Hirt (Prenode GmbH): "KI-Methoden auf Basis geringer Daten"
+Janna Lipenkova: "Extracting insights from a conceptual vector space"
 
 
 ## Weitere geplante Vorträge
 
-- 23.07.2020, Jean-Michel Lourier (Lufthansa Industry Solutions): "AI and Quantum Computing"
-- 28.07.2020, Janna Lipenkova: "NLP für die Optimierung von Unternehmensprozessen"
+- 30.07.2020, Dr. Jonathan Mall (Neuro Flash): "Heisser content aus kalter KI: kreativeres Marketing mit NLP & ML"
 
 ## Bisherige Vorträge
+- 23.07.2020, Jean-Michel Lourier (Lufthansa Industry Solutions): "AI and Quantum Computing"
+- 21.07.2020, Robin Hirt (Prenode GmbH): "KI-Methoden auf Basis geringer Daten" 
 - 14.07.2020, Lisa Stamm (Data42): "AI and Ethics"
 - 09.07.2020, Tereza Iofciu (Free Now): "Data Science Products in production..is it code or communication?"
 - 07.07.2020, Jakob Teuffel: Datenschutz und AI
