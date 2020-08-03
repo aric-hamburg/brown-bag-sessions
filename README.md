@@ -22,7 +22,8 @@ Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg): "Integration z
 
 - Wolfram Wingerath & Benjamin Wollmer (Baqend GmbH)
 - Werner Bogula: "AI-Sprachtechnologien - Neue Modelle: Transformer, BERT und GPT"
-- Mohammad Ali Zamani Universität Hamburg/HITeC e.V.): "Continuous Acoustic Emotion Classification using Recurrent Neural Network"
+- Mohammad Ali Zamani (Universität Hamburg/HITeC e.V.): "Continuous Acoustic Emotion Classification using Recurrent Neural Network"
+- Jaroslav Blaha (CellmatiQ GmbH): "Schöne Zähne durch KI"
 
 ## Bisherige Vorträge
 - 30.07.2020, Dr. Jonathan Mall (Neuro Flash): "Heisser content aus kalter KI: kreativeres Marketing mit NLP & ML" 
