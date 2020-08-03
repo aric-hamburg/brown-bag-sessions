@@ -5,7 +5,7 @@ Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft s
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
 Über dann nachfolgenden Link könnt ihr euch gerne dazuschalten 
-(ihr könnt euch dazu die Microsoft Teams App kostenlos runterladen oder infach über euren Webbrowser daran teilnehmen):
+(ihr könnt euch dazu die Microsoft Teams App kostenlos runterladen oder einfach über euren Webbrowser daran teilnehmen):
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhLWE5YWEtYmU1MDI4N2Y0YjI0%40thread.v2/0?context=%7b%22Tid%22%3a%22b2f09837-8b02-4136-9f46-52ffb6b93f9a%22%2c%22Oid%22%3a%2230ac9a78-0adf-416f-bd76-afc7935555ef%22%7d
 
@@ -22,7 +22,7 @@ Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg): "Integration z
 
 - Wolfram Wingerath & Benjamin Wollmer (Baqend GmbH)
 - Werner Bogula: "AI-Sprachtechnologien - Neue Modelle: Transformer, BERT und GPT"
-- Dr. Mohammad Zamani: "Continuous Acoustic Emotion Classification using Recurrent Neural Network"
+- Mohammad Ali Zamani Universität Hamburg/HITeC e.V.): "Continuous Acoustic Emotion Classification using Recurrent Neural Network"
 
 ## Bisherige Vorträge
 - 30.07.2020, Dr. Jonathan Mall (Neuro Flash): "Heisser content aus kalter KI: kreativeres Marketing mit NLP & ML" 
