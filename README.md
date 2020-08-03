@@ -13,16 +13,20 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 28.07.2020, haben wir als Vortragende gewinnen können:
+Für Dienstag, 04.08.2020, haben wir als Vortragenden gewinnen können:
 
-Janna Lipenkova: "Extracting insights from a conceptual vector space"
+Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg): "Integration zwischen Maschinellem Lernen und symbolischer KI“
 
 
 ## Weitere geplante Vorträge
 
-- 30.07.2020, Dr. Jonathan Mall (Neuro Flash): "Heisser content aus kalter KI: kreativeres Marketing mit NLP & ML"
+- Wolfram Wingerath & Benjamin Wollmer (Baqend GmbH)
+- Werner Bogula: "AI-Sprachtechnologien - Neue Modelle: Transformer, BERT und GPT"
+- Dr. Mohammad Zamani: "Continuous Acoustic Emotion Classification using Recurrent Neural Network"
 
 ## Bisherige Vorträge
+- 30.07.2020, Dr. Jonathan Mall (Neuro Flash): "Heisser content aus kalter KI: kreativeres Marketing mit NLP & ML" 
+- 28.07.2020, Janna Lipenkova: "Extracting insights from a conceptual vector space"
 - 23.07.2020, Jean-Michel Lourier (Lufthansa Industry Solutions): "AI and Quantum Computing"
 - 21.07.2020, Robin Hirt (Prenode GmbH): "KI-Methoden auf Basis geringer Daten" 
 - 14.07.2020, Lisa Stamm (Data42): "AI and Ethics"
