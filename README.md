@@ -13,19 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 04.08.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 11.08.2020, haben wir als Vortragenden gewinnen können:
 
-Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg): "Integration zwischen Maschinellem Lernen und symbolischer KI“
+Werner Bogula: "AI-Sprachtechnologien - Neue Modelle: Transformer, BERT und GPT"
 
 
 ## Weitere geplante Vorträge
 
-- Wolfram Wingerath & Benjamin Wollmer (Baqend GmbH)
-- Werner Bogula: "AI-Sprachtechnologien - Neue Modelle: Transformer, BERT und GPT"
 - Mohammad Ali Zamani (Universität Hamburg/HITeC e.V.): "Continuous Acoustic Emotion Classification Using Deep Reinforcement Learning"
 - Jaroslav Blaha (CellmatiQ GmbH): "Schöne Zähne durch KI"
 
 ## Bisherige Vorträge
+- 06.08.2020, Wolfram Wingerath & Benjamin Wollmer (Baqend GmbH)
+- 04.08.2020, Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg): "Integration zwischen Maschinellem Lernen und symbolischer KI“
 - 30.07.2020, Dr. Jonathan Mall (Neuro Flash): "Heisser content aus kalter KI: kreativeres Marketing mit NLP & ML" 
 - 28.07.2020, Janna Lipenkova: "Extracting insights from a conceptual vector space"
 - 23.07.2020, Jean-Michel Lourier (Lufthansa Industry Solutions): "AI and Quantum Computing"
