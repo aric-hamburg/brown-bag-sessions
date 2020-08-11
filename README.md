@@ -15,7 +15,8 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 11.08.2020, haben wir als Vortragenden gewinnen können:
 
-Werner Bogula: "AI-Sprachtechnologien - Neue Modelle: Transformer, BERT und GPT"
+Werner Bogula: "AI-Sprachtechnologien - Neue Modelle: Transformer, BERT und GPT" (Links für weitere Informationen: https://bogula.org/ai/index.php/2020/08/07/nlp-and-ai-large-pre-trained-language-models/)
+
 
 
 ## Weitere geplante Vorträge
