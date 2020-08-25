@@ -13,18 +13,22 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 11.08.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 27.08.2020, haben wir als Vortragenden gewinnen können:
 
-Werner Bogula: "AI-Sprachtechnologien - Neue Modelle: Transformer, BERT und GPT" (Links für weitere Informationen: https://bogula.org/ai/index.php/2020/08/07/nlp-and-ai-large-pre-trained-language-models/)
-
+Riina Leminski: AI in Estonia
 
 
 ## Weitere geplante Vorträge
 
-- Mohammad Ali Zamani (Universität Hamburg/HITeC e.V.): "Continuous Acoustic Emotion Classification Using Deep Reinforcement Learning"
-- Jaroslav Blaha (CellmatiQ GmbH): "Schöne Zähne durch KI"
+- Sven Magg: Particle Swarm Optimization 
+- Tim Behrens: Achieving (nearly) autonomous organizations by radical process automation
 
 ## Bisherige Vorträge
+- 25.08.2020, Andreas Moring: KI & ökologische Nachhaltigkeit
+- 20.08.2020, Ingolf Mollat: Why am I seeing a different price today for my <ANY_PRODUCTNAME> than just yesterday
+- 18.08.2020, Jaro Blaha: Schöne Zähne durch KI
+- 13.08.2020, Mohammad Ali Zamani: Continuous Acoustic Emotion Classification using Recurrent Neural Network
+- 11.08.2020, Werner Bogula: AI-Sprachtechnologien - Neue Modelle: Transformer, BERT und GPT
 - 06.08.2020, Wolfram Wingerath & Benjamin Wollmer (Baqend GmbH)
 - 04.08.2020, Prof. Dr. Oliver Niggemann (Helmut-Schmidt-Universität Hamburg): "Integration zwischen Maschinellem Lernen und symbolischer KI“
 - 30.07.2020, Dr. Jonathan Mall (Neuro Flash): "Heisser content aus kalter KI: kreativeres Marketing mit NLP & ML" 
