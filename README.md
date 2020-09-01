@@ -13,17 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 27.08.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 01.09.2020, haben wir als Vortragenden gewinnen können:
 
-Riina Leminski: AI in Estonia
+Dr. Sven Magg (HITeC e.V./Uni Hamburg): Particle Swarm Optimization
 
 
 ## Weitere geplante Vorträge
 
-- Sven Magg: Particle Swarm Optimization 
-- Tim Behrens: Achieving (nearly) autonomous organizations by radical process automation
+- Tim Behrens (Connected Innovations): Achieving (nearly) autonomous organizations by radical process automation
+- RA Christian Kuss, LL.M.: DSGVO VS KI: Spannungsfelder und Lösungen
+- Prof. Dr. Michael Schulz (Nordakademie gAG): Projekt Data Science Handbuch
 
 ## Bisherige Vorträge
+- 27.08.2020, Andero Kaha (Enterprise Estonia): AI in Estonia
 - 25.08.2020, Andreas Moring: KI & ökologische Nachhaltigkeit
 - 20.08.2020, Ingolf Mollat: Why am I seeing a different price today for my <ANY_PRODUCTNAME> than just yesterday
 - 18.08.2020, Jaro Blaha: Schöne Zähne durch KI
