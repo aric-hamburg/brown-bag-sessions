@@ -13,17 +13,20 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 03.09.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 08.09.2020, haben wir als Vortragenden gewinnen können:
 
-Tim Behrens (Connected Innovations): Achieving (nearly) autonomous organizations by radical process automation
+Christian Kuss, LL.M. (Luther Rechtsanwaltsgesellschaft mbH): "DSGVO VS KI: Spannungsfelder und Lösungen"
 
 
 ## Weitere geplante Vorträge
 
-- RA Christian Kuss, LL.M.: DSGVO VS KI: Spannungsfelder und Lösungen
 - Prof. Dr. Michael Schulz (Nordakademie gAG): Projekt Data Science Handbuch
+- Meihen Kohsar (PANDA GmbH): Unsupervised Anomaly Detection in Images
+- Prof. Dr. Andreas Moring (ISM Hamburg): KI & ökonomische Nachhaltigkeit
+- KI-Bildung in der Schule (Nordakademie gAG): KI-Bildung in der Schule
 
 ## Bisherige Vorträge
+- 03.09.2020, Tim Behrens (Connectes Innovations): Achieving (nearly) autonomous organizations by radical process automation
 - 01.09.2020, Dr. Sven Magg (HITeC e.V./Uni Hamburg): Particle Swarm Optimization
 - 27.08.2020, Andero Kaha (Enterprise Estonia): AI in Estonia
 - 25.08.2020, Andreas Moring: KI & ökologische Nachhaltigkeit
