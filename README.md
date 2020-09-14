@@ -13,18 +13,22 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donenrstag, 10.09.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 14.09.2020, haben wir als Vortragenden gewinnen können:
 
-Prof. Dr. Michael Schulz (Nordakademie gAG): Data Science Process Model
+Meihen Kohsar (PANDA GmbH): Unsupervised Anomaly Detection in Images
 
 
 ## Weitere geplante Vorträge
 
-- Meihen Kohsar (PANDA GmbH): Unsupervised Anomaly Detection in Images
 - Prof. Dr. Andreas Moring (ISM Hamburg): KI & ökonomische Nachhaltigkeit
 - KI-Bildung in der Schule (Nordakademie gAG): KI-Bildung in der Schule
+- Felix Faber (Mindpeak): KI in der Medizin
+- Matyas Vilimek (AK Janousek): The AI Ecosystem in Czech Republic 
+- Juhan Pukk (Flowit/Estonia): Usage of predictive analytics in predicting the sales
+- Dalia Moniat (ARIC e.V.): A(I)nformation Warfare (Deep Media)
 
 ## Bisherige Vorträge
+- 10.09.2020, Prof. Dr. Michael Schulz (Nordakademie gAG): Data Science Process Model
 - 08.09.2020, Christian Kuss, LL.M. (Luther Rechtsanwaltsgesellschaft mbH): "DSGVO VS KI: Spannungsfelder und Lösungen"
 - 03.09.2020, Tim Behrens (Connectes Innovations): Achieving (nearly) autonomous organizations by radical process automation
 - 01.09.2020, Dr. Sven Magg (HITeC e.V./Uni Hamburg): Particle Swarm Optimization
