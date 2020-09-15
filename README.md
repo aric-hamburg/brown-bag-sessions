@@ -13,14 +13,13 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 14.09.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 16.09.2020, haben wir als Vortragenden gewinnen können:
 
-Meihen Kohsar (PANDA GmbH): Unsupervised Anomaly Detection in Images
+Prof. Dr. Andreas Moring (ISM Hamburg): KI & ökonomische Nachhaltigkeit
 
 
 ## Weitere geplante Vorträge
 
-- Prof. Dr. Andreas Moring (ISM Hamburg): KI & ökonomische Nachhaltigkeit
 - KI-Bildung in der Schule (Nordakademie gAG): KI-Bildung in der Schule
 - Felix Faber (Mindpeak): KI in der Medizin
 - Matyas Vilimek (AK Janousek): The AI Ecosystem in Czech Republic 
@@ -28,6 +27,7 @@ Meihen Kohsar (PANDA GmbH): Unsupervised Anomaly Detection in Images
 - Dalia Moniat (ARIC e.V.): A(I)nformation Warfare (Deep Media)
 
 ## Bisherige Vorträge
+- 14.09.2020, Meihen Kohsar (PANDA GmbH):  Unsupervised Anomaly Detection in Images
 - 10.09.2020, Prof. Dr. Michael Schulz (Nordakademie gAG): Data Science Process Model
 - 08.09.2020, Christian Kuss, LL.M. (Luther Rechtsanwaltsgesellschaft mbH): "DSGVO VS KI: Spannungsfelder und Lösungen"
 - 03.09.2020, Tim Behrens (Connectes Innovations): Achieving (nearly) autonomous organizations by radical process automation
