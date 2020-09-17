@@ -13,20 +13,20 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 16.09.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 22.09.2020, haben wir als Vortragenden gewinnen können:
 
-Prof. Dr. Andreas Moring (ISM Hamburg): KI & ökonomische Nachhaltigkeit
+Uwe Neuhaus (Nordakademie gAG): KI-Bildung in der Schule
 
 
 ## Weitere geplante Vorträge
 
-- KI-Bildung in der Schule (Nordakademie gAG): KI-Bildung in der Schule
 - Felix Faber (Mindpeak): KI in der Medizin
 - Matyas Vilimek (AK Janousek): The AI Ecosystem in Czech Republic 
 - Juhan Pukk (Flowit/Estonia): Usage of predictive analytics in predicting the sales
 - Dalia Moniat (ARIC e.V.): A(I)nformation Warfare (Deep Media)
 
 ## Bisherige Vorträge
+- 16.09.2020, Prof. Dr. Andreas Moring (ISM Hamburg): KI & ökonomische Nachhaltigkeit
 - 14.09.2020, Meihen Kohsar (PANDA GmbH):  Unsupervised Anomaly Detection in Images
 - 10.09.2020, Prof. Dr. Michael Schulz (Nordakademie gAG): Data Science Process Model
 - 08.09.2020, Christian Kuss, LL.M. (Luther Rechtsanwaltsgesellschaft mbH): "DSGVO VS KI: Spannungsfelder und Lösungen"
