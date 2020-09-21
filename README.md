@@ -20,7 +20,7 @@ Uwe Neuhaus (Nordakademie gAG): KI-Bildung in der Schule
 
 ## Weitere geplante Vorträge
 
-- Felix Faber (Mindpeak): KI in der Medizin
+- Felix Faber (Mindpeak): Krebsbefundung demokratisieren mit Hilfe von KI
 - Matyas Vilimek (AK Janousek): The AI Ecosystem in Czech Republic 
 - Juhan Pukk (Flowit/Estonia): Usage of predictive analytics in predicting the sales
 - Dalia Moniat (ARIC e.V.): A(I)nformation Warfare (Deep Media)
