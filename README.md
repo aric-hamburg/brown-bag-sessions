@@ -13,19 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 22.09.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 24.09.2020, haben wir als Vortragenden gewinnen können:
 
-Uwe Neuhaus (Nordakademie gAG): KI-für Kids
+Felix Faber (Mindpeak): Krebsbefundung demokratisieren mit Hilfe von KI
 
 
 ## Weitere geplante Vorträge
 
-- Felix Faber (Mindpeak): Krebsbefundung demokratisieren mit Hilfe von KI
 - Matyas Vilimek (AK Janousek): The AI Ecosystem in Czech Republic 
 - Juhan Pukk (Flowit/Estonia): Usage of predictive analytics in predicting the sales
 - Dalia Moniat (ARIC e.V.): A(I)nformation Warfare (Deep Media)
 
 ## Bisherige Vorträge
+- 22.09.2020, Uwe Neuhaus (Nordakademie gAG): KI-für Kids
 - 16.09.2020, Prof. Dr. Andreas Moring (ISM Hamburg): KI & ökonomische Nachhaltigkeit
 - 14.09.2020, Meihen Kohsar (PANDA GmbH):  Unsupervised Anomaly Detection in Images
 - 10.09.2020, Prof. Dr. Michael Schulz (Nordakademie gAG): Data Science Process Model
