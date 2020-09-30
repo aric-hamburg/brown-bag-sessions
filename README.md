@@ -13,21 +13,24 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 29.09.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 01.10.2020, haben wir als Vortragenden gewinnen können:
 
-Matyas Vilimek (AK Janousek): The AI Ecosystem in Czech Republic
+Juhan Pukk (Flowit/Estonia): Usage of predictive analytics in predicting the sales
 
 
 ## Weitere geplante Vorträge
 
-- Juhan Pukk (Flowit/Estonia): Usage of predictive analytics in predicting the sales
 - Dalia Moniat (ARIC e.V.): A(I)nformation Warfare (Deep Media)
+- Jan Bremer: FMRI data prediction	
+- Prof. Dr. Andreas Moring (ISM Hamburg): KI & soziale Nachhaltigkeit
+- Hauke Zimmermann (Verband der Internetwirtschaft) :Plattformen im KI-Umfeld – Akzeptanz oder Ablehnung?	
 
 ## Bisherige Vorträge
-- 23.09.2020, Felix Faber (Mindpeak): Krebsbefundung demokratisieren mit Hilfe von KI
-- 21.09.2020, Uwe Neuhaus (Nordakademie gAG): KI-für Kids
-- 16.09.2020, Prof. Dr. Andreas Moring (ISM Hamburg): KI & ökonomische Nachhaltigkeit
-- 14.09.2020, Meihen Kohsar (PANDA GmbH):  Unsupervised Anomaly Detection in Images
+- 29.09.2020, Matyas Vilimek (AK Janousek): The AI Ecosystem in Czech Republic
+- 24.09.2020, Felix Faber (Mindpeak): Krebsbefundung demokratisieren mit Hilfe von KI
+- 22.09.2020, Uwe Neuhaus (Nordakademie gAG): KI-für Kids
+- 17.09.2020, Prof. Dr. Andreas Moring (ISM Hamburg): KI & ökonomische Nachhaltigkeit
+- 15.09.2020, Meihen Kohsar (PANDA GmbH):  Unsupervised Anomaly Detection in Images
 - 10.09.2020, Prof. Dr. Michael Schulz (Nordakademie gAG): Data Science Process Model
 - 08.09.2020, Christian Kuss, LL.M. (Luther Rechtsanwaltsgesellschaft mbH): "DSGVO VS KI: Spannungsfelder und Lösungen"
 - 03.09.2020, Tim Behrens (Connectes Innovations): Achieving (nearly) autonomous organizations by radical process automation
