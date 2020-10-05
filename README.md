@@ -13,19 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 01.10.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 06.10.2020, haben wir als Vortragende gewinnen können:
 
-Juhan Pukk (Flowit/Estonia): Usage of predictive analytics in predicting the sales
+Dalia Moniat (ARIC e.V.): A(I)nformation Warfare (Deep Media)
 
 
 ## Weitere geplante Vorträge
 
-- Dalia Moniat (ARIC e.V.): A(I)nformation Warfare (Deep Media)
 - Jan Bremer: FMRI data prediction	
 - Prof. Dr. Andreas Moring (ISM Hamburg): KI & soziale Nachhaltigkeit
 - Hauke Zimmermann (Verband der Internetwirtschaft) :Plattformen im KI-Umfeld – Akzeptanz oder Ablehnung?	
 
 ## Bisherige Vorträge
+- 01.10.2020, Juhan Pukk (Flowit/Estonia): Usage of predictive analytics in predicting the sales
 - 29.09.2020, Matyas Vilimek (AK Janousek): The AI Ecosystem in Czech Republic
 - 24.09.2020, Felix Faber (Mindpeak): Krebsbefundung demokratisieren mit Hilfe von KI
 - 22.09.2020, Uwe Neuhaus (Nordakademie gAG): KI-für Kids
