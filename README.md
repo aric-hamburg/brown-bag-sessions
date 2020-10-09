@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 08.10.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 13.10.2020, haben wir als Vortragenden gewinnen können:
 
-Jan Bremer: FMRI data prediction
+Oliver Weiss (Aqilliz): KI im Marketing
 
 
 ## Weitere geplante Vorträge
@@ -24,6 +24,7 @@ Jan Bremer: FMRI data prediction
 - Hauke Zimmermann (Verband der Internetwirtschaft) :Plattformen im KI-Umfeld – Akzeptanz oder Ablehnung?	
 
 ## Bisherige Vorträge
+- 08.10.2020, Jan Bremer: FMRI data prediction
 - 06.10.2020, Dalia Moniat (ARIC e.V.): A(I)nformation Warfare (Deep Media)
 - 01.10.2020, Juhan Pukk (Flowit/Estonia): Usage of predictive analytics in predicting the sales
 - 29.09.2020, Matyas Vilimek (AK Janousek): The AI Ecosystem in Czech Republic
