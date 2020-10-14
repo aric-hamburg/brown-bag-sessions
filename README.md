@@ -13,17 +13,21 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 13.10.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 15.10.2020, haben wir als Vortragenden gewinnen können:
 
-Oliver Weiss (Aqilliz): KI im Marketing
+Prof. Dr. Andreas Moring (ISM Hamburg): KI & soziale Nachhaltigkeit
 
 
 ## Weitere geplante Vorträge
 
-- Prof. Dr. Andreas Moring (ISM Hamburg): KI & soziale Nachhaltigkeit
 - Hauke Zimmermann (Verband der Internetwirtschaft) :Plattformen im KI-Umfeld – Akzeptanz oder Ablehnung?	
+- Paul-Louis Pröve (Lufthansa Industry Solutions): Uncertainties in Machine Learning
+- Andreas Dondera (LKA Hamburg): KI im polizeilichen Umfeld
+- Christo Zonnev (Capgemini Invent): Techlabs
+
 
 ## Bisherige Vorträge
+- 13.10.2020, Oliver Weiss (Aqilliz): KI im Marketing
 - 08.10.2020, Jan Bremer: FMRI data prediction
 - 06.10.2020, Dalia Moniat (ARIC e.V.): A(I)nformation Warfare (Deep Media)
 - 01.10.2020, Juhan Pukk (Flowit/Estonia): Usage of predictive analytics in predicting the sales
