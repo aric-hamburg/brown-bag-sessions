@@ -20,7 +20,7 @@ Prof. Dr. Andreas Moring (ISM Hamburg): KI & soziale Nachhaltigkeit
 
 ## Weitere geplante Vorträge
 
-- Hauke Zimmermann (Verband der Internetwirtschaft) :Plattformen im KI-Umfeld – Akzeptanz oder Ablehnung?	
+- Hauke Timmermann (Verband der Internetwirtschaft) :Plattformen im KI-Umfeld – Akzeptanz oder Ablehnung?	
 - Paul-Louis Pröve (Lufthansa Industry Solutions): Uncertainties in Machine Learning
 - Andreas Dondera (LKA Hamburg): KI im polizeilichen Umfeld
 - Christo Zonnev (Capgemini Invent): Techlabs
