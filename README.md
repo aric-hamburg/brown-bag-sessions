@@ -13,19 +13,20 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 20.10.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 22.10.2020, haben wir als Vortragenden gewinnen können:
 
-Hauke Timmermann (Verband der Internetwirtschaft) :Plattformen im KI-Umfeld – Akzeptanz oder Ablehnung?
+Paul-Louis Pröve (Lufthansa Industry Solutions): Uncertainties in Machine Learning
 
 
 ## Weitere geplante Vorträge
 
-- Paul-Louis Pröve (Lufthansa Industry Solutions): Uncertainties in Machine Learning
-- Andreas Dondera (LKA Hamburg): KI im polizeilichen Umfeld
-- Christo Zonnev (Capgemini Invent): Techlabs
+- 
+- Andreas Dondera (LKA Hamburg): Erste Gedanken zu Einsatzmöglichkeiten von KI in der IT-Forensik
+- Christo Zonnev (Capgemini Invent): TechLabs - Data Science & AI Education - from Students, for Students
 
 
 ## Bisherige Vorträge
+- 20.10.2020, Hauke Timmermann (Verband der Internetwirtschaft) :Plattformen im KI-Umfeld – Akzeptanz oder Ablehnung?
 - 15.10.2020, Prof. Dr. Andreas Moring (ISM Hamburg): KI & soziale Nachhaltigkeit
 - 13.10.2020, Oliver Weiss (Aqilliz): KI im Marketing
 - 08.10.2020, Jan Bremer: FMRI data prediction
