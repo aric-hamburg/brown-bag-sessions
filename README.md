@@ -13,16 +13,20 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 27.10.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 29.10.2020, haben wir als Vortragenden gewinnen können:
 
-Andreas Dondera (LKA Hamburg): Erste Gedanken zu Einsatzmöglichkeiten von KI in der IT-Forensik
+Christo Zonnev (Capgemini Invent): TechLabs - Data Science & AI Education - from Students, for Students
 
 
 ## Weitere geplante Vorträge
 
-- Christo Zonnev (Capgemini Invent): TechLabs - Data Science & AI Education - from Students, for Students
+- Christian Bennefeld (eBlocker): Digitale Selbstverteidigung
+- Sven Crone (iQuast): predicting the future with AI
+- Franziska Wittleder (ARIC): 2d forecasting in logistics
+- Werner Bogula: KISS* - Künstliche Intellligenz für Schüler*innen und Studierende, Vorstellung des HAW-HOOU-Projektes
 
 ## Bisherige Vorträge
+- 27.10.2020, Andreas Dondera (LKA Hamburg): Erste Gedanken zu Einsatzmöglichkeiten von KI in der IT-Forensik
 - 22.10.2020, Paul-Louis Pröve (Lufthansa Industry Solutions): Uncertainties in Machine Learning
 - 20.10.2020, Hauke Timmermann (Verband der Internetwirtschaft) :Plattformen im KI-Umfeld – Akzeptanz oder Ablehnung?
 - 15.10.2020, Prof. Dr. Andreas Moring (ISM Hamburg): KI & soziale Nachhaltigkeit
