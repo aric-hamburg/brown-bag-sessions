@@ -20,6 +20,7 @@ Christian Bennefeld (eBlocker): KI zum Schutz der Privatsphäre und IT-Security 
 
 ## Weitere geplante Vorträge
 
+- Hicham Aroudaki (UMLAUT): Data can tell us different stories 
 - Sven Crone (iQuast): predicting the future with AI
 - Franziska Wittleder (ARIC): 2d forecasting in logistics
 - Werner Bogula: KISS* - Künstliche Intellligenz für Schüler*innen und Studierende, Vorstellung des HAW-HOOU-Projektes
