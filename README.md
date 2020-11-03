@@ -20,7 +20,7 @@ Hicham Aroudaki (UMLAUT): Data can tell us different stories
 
 ## Weitere geplante Vorträge
  
-- Sven Crone (iQuast): predicting the future with AI
+- Sven Crone (iQuast): Predicting the future with AI
 - Franziska Wittleder (ARIC): Product Manager for Machine Learning - the basics
 - Werner Bogula: KISS* - Künstliche Intellligenz für Schüler*innen und Studierende, Vorstellung des HAW-HOOU-Projektes
 
