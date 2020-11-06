@@ -13,19 +13,21 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donenrstag, 05.11.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 10.11.2020, haben wir als Vortragenden gewinnen können:
 
-Hicham Aroudaki (UMLAUT): Data can tell us different stories
+Sven Crone (iquast): Predicting the future with AI
 
 
 ## Weitere geplante Vorträge
  
-- Sven Crone (iquast): Predicting the future with AI
 - Franziska Wittleder (ARIC): Product Manager for Machine Learning - the basics
 - Werner Bogula: KISS* - Künstliche Intellligenz für Schüler*innen und Studierende, Vorstellung des HAW-HOOU-Projektes
-
+- Philipp Huhn (Appanion Labs GmbH): Geo-Daten in Python: Von Latitude, Longitude und Coordinate Reference Systems zu aussagekräftigen Ergebnissen	
+- Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI driven use case
+- Johnny Kessler (ARIC e.V.): "Wie nähere ich mich dem Thema KI"
 
 ## Bisherige Vorträge
+- 05.11.2020, Hicham Aroudaki (UMLAUT): Data can tell us different stories
 - 03.11.2020, Christian Bennefeld (eBlocker): KI zum Schutz der Privatsphäre und IT-Security von Konsumenten
 - 29.10.2020, Christo Zonnev (Capgemini Invent): TechLabs - Data Science & AI Education - from Students, for Students
 - 27.10.2020, Andreas Dondera (LKA Hamburg): Erste Gedanken zu Einsatzmöglichkeiten von KI in der IT-Forensik
