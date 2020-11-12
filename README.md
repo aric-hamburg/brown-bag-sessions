@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 17.11.2020, haben wir als Vortragenden gewinnen können:
 
-Werner Bogula: KISS* - Künstliche Intellligenz für Schüler*innen und Studierende, Vorstellung des HAW-HOOU-Projektes
+Werner Bogula: KISS* - Künstliche Intelligenz für Schüler*innen und Studierende, Vorstellung des HAW-HOOU-Projektes
 
 
 ## Weitere geplante Vorträge
