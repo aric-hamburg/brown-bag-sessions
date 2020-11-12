@@ -15,13 +15,15 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 17.11.2020, haben wir als Vortragenden gewinnen können:
 
-Werner Bogula: KISS* - Künstliche Intelligenz für Schüler*innen und Studierende, Vorstellung des HAW-HOOU-Projektes
+Oliver Bleeker (PwC): Unüberwachte Risikoquantifizierung von Aktienportfolios mittels Dimensionsreduktion in den Tails
 
 
 ## Weitere geplante Vorträge
  
+- Werner Bogula: KISS* - Künstliche Intelligenz für Schüler*innen und Studierende, Vorstellung des HAW-HOOU-Projektes
 - Philipp Huhn (Appanion Labs GmbH): Geo-Daten in Python: Von Latitude, Longitude und Coordinate Reference Systems zu aussagekräftigen Ergebnissen	
 - Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI driven use case
+- Vanessa Cann (KI Bundesverband): KI in Deutschland - wie stehen wir da?
 - Johnny Kessler (ARIC e.V.): "Wie nähere ich mich dem Thema KI"
 
 ## Bisherige Vorträge
