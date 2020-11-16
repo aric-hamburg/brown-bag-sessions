@@ -24,7 +24,7 @@ Oliver Bleeker (PwC): Unüberwachte Risikoquantifizierung von Aktienportfolios m
 - Philipp Huhn (Appanion Labs GmbH): Geo-Daten in Python: Von Latitude, Longitude und Coordinate Reference Systems zu aussagekräftigen Ergebnissen	
 - Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI driven use case
 - Vanessa Cann (KI Bundesverband): KI in Deutschland - wie stehen wir da?
-- Johnny Kessler (ARIC e.V.): "Wie nähere ich mich dem Thema KI"
+- Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
 
 ## Bisherige Vorträge
 - 12.11.2020, Franziska Wittleder (ARIC): Product Manager for Machine Learning - the basics
