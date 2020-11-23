@@ -21,7 +21,6 @@ Philipp Huhn (Appanion Labs GmbH): Geo-Daten in Python: Von Latitude, Longitude 
 ## Weitere geplante Vorträge
  
 - Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI driven use case
-- Vanessa Cann (KI Bundesverband): KI in Deutschland - wie stehen wir da?
 - Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
 
 ## Bisherige Vorträge
