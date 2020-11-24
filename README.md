@@ -13,17 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 24.11.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 26.11.2020, haben wir als Vortragenden gewinnen können:
 
-Philipp Huhn (Appanion Labs GmbH): Geo-Daten in Python: Von Latitude, Longitude und Coordinate Reference Systems zu aussagekräftigen Ergebnissen
+Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI driven use case
 
 
 ## Weitere geplante Vorträge
  
-- Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI driven use case
 - Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
 
 ## Bisherige Vorträge
+
+- 24.11.2020, Philipp Huhn (Appanion Labs GmbH): Geo-Daten in Python: Von Latitude, Longitude und Coordinate Reference Systems zu aussagekräftigen Ergebnissen
 - 19.11.2020, Werner Bogula: KISS* - Künstliche Intelligenz für Schüler*innen und Studierende, Vorstellung des HAW-HOOU-Projektes
 - 17.11.2020, Oliver Bleeker (PwC): Unüberwachte Risikoquantifizierung von Aktienportfolios mittels Dimensionsreduktion in den Tails
 - 12.11.2020, Franziska Wittleder (ARIC): Product Manager for Machine Learning - the basics
