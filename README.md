@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 26.11.2020, haben wir als Vortragenden gewinnen können:
 
-Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI driven use case
+Carsten Hagemann (Hagemann Consulting): KI vor 40 Jahren
 
 
 ## Weitere geplante Vorträge
@@ -24,6 +24,7 @@ Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI drive
 
 ## Bisherige Vorträge
 
+- 26.11.2020, Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI driven use case
 - 24.11.2020, Philipp Huhn (Appanion Labs GmbH): Geo-Daten in Python: Von Latitude, Longitude und Coordinate Reference Systems zu aussagekräftigen Ergebnissen
 - 19.11.2020, Werner Bogula: KISS* - Künstliche Intelligenz für Schüler*innen und Studierende, Vorstellung des HAW-HOOU-Projektes
 - 17.11.2020, Oliver Bleeker (PwC): Unüberwachte Risikoquantifizierung von Aktienportfolios mittels Dimensionsreduktion in den Tails
