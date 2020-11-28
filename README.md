@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 26.11.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 01.12.2020, haben wir als Vortragenden gewinnen können:
 
 Carsten Hagemann (Hagemann Consulting): KI vor 40 Jahren
 
