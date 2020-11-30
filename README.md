@@ -21,6 +21,7 @@ Carsten Hagemann (Hagemann Consulting): KI vor 40 Jahren
 ## Weitere geplante Vorträge
  
 - Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
+- Aljoscha Niazi-Shahabi (Just Add AI): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
 
 ## Bisherige Vorträge
 
