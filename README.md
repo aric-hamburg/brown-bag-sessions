@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 01.12.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 03.12.2020, haben wir als Vortragenden gewinnen können:
 
-Carsten Hagemann (Hagemann Consulting): KI vor 40 Jahren
+Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
 
 
 ## Weitere geplante Vorträge
  
-- Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
 - Aljoscha Niazi-Shahabi (Just Add AI): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
 
 ## Bisherige Vorträge
 
+- 01.12.2020, Carsten Hagemann (Hagemann Consulting): KI vor 40 Jahren
 - 26.11.2020, Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI driven use case
 - 24.11.2020, Philipp Huhn (Appanion Labs GmbH): Geo-Daten in Python: Von Latitude, Longitude und Coordinate Reference Systems zu aussagekräftigen Ergebnissen
 - 19.11.2020, Werner Bogula: KISS* - Künstliche Intelligenz für Schüler*innen und Studierende, Vorstellung des HAW-HOOU-Projektes
