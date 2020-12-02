@@ -21,6 +21,7 @@ Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
 ## Weitere geplante Vorträge
  
 - Aljoscha Niazi-Shahabi (Just Add AI): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
+- Daniel Beutel (ADAP GmbH): Federated Learning with Flower
 
 ## Bisherige Vorträge
 
