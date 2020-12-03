@@ -13,18 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 03.12.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 08.12.2020, haben wir als Vortragenden gewinnen können:
 
-Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
+Aljoscha Niazi-Shahabi (Just Add AI): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
 
 
 ## Weitere geplante Vorträge
  
-- Aljoscha Niazi-Shahabi (Just Add AI): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
 - Daniel Beutel (ADAP GmbH): Federated Learning with Flower
+- Jan Schnedler (ARIC e.V.): ARIC Brown Bag Jahresrückblick
 
 ## Bisherige Vorträge
 
+- 03.12.2020, Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
 - 01.12.2020, Carsten Hagemann (Hagemann Consulting): KI vor 40 Jahren
 - 26.11.2020, Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI driven use case
 - 24.11.2020, Philipp Huhn (Appanion Labs GmbH): Geo-Daten in Python: Von Latitude, Longitude und Coordinate Reference Systems zu aussagekräftigen Ergebnissen
