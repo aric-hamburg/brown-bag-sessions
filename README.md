@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 08.12.2020, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 10.12.2020, haben wir als Vortragenden gewinnen können:
 
-Aljoscha Niazi-Shahabi (botario): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
+Daniel Beutel (ADAP GmbH): Federated Learning with Flower
 
 
 ## Weitere geplante Vorträge
  
-- Daniel Beutel (ADAP GmbH): Federated Learning with Flower
 - Jan Schnedler (ARIC e.V.): ARIC Brown Bag Jahresrückblick
 
 ## Bisherige Vorträge
 
+- 08.12.2020, Aljoscha Niazi-Shahabi (botario): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
 - 03.12.2020, Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
 - 01.12.2020, Carsten Hagemann (Hagemann Consulting): KI vor 40 Jahren
 - 26.11.2020, Olaf Erichsen (Heldenkombinat): How to find the right provider for your AI driven use case
