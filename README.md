@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 08.12.2020, haben wir als Vortragenden gewinnen können:
 
-Aljoscha Niazi-Shahabi (Just Add AI): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
+Aljoscha Niazi-Shahabi (botario): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
 
 
 ## Weitere geplante Vorträge
