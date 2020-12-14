@@ -13,17 +13,21 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 10.12.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 15.12.2020, haben wir als Vortragenden gewinnen können:
 
-Daniel Beutel (ADAP GmbH): Federated Learning with Flower
+Jan Schnedler (ARIC e.V.): ARIC Brown Bag Jahresrückblick
 
 
 ## Weitere geplante Vorträge
  
-- Jan Schnedler (ARIC e.V.): ARIC Brown Bag Jahresrückblick
+Wir gehen in die Winterpause
+Die nächste Brown Bag Session findet am 19.01.2021 mit dem Vortrag von Jorge Davilla-Chacon von Heldenkombinat.
+
+Wir wünsche euch eine entspannte und besinnliche Weihnachtszeit, ein frohes und gesundes, neues Jahr und freuen uns euch im neuen Jahr wieder bei unseren Brown Bag Sessions begrüßen zu dürfen
 
 ## Bisherige Vorträge
 
+- 10.12.2020, Daniel Beutel (ADAP GmbH): Federated Learning with Flower
 - 08.12.2020, Aljoscha Niazi-Shahabi (botario): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
 - 03.12.2020, Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
 - 01.12.2020, Carsten Hagemann (Hagemann Consulting): KI vor 40 Jahren
