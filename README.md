@@ -23,7 +23,7 @@ Jan Schnedler (ARIC e.V.): ARIC Brown Bag Jahresrückblick
 Wir gehen in die Winterpause
 Die nächste Brown Bag Session findet am 19.01.2021 mit dem Vortrag von Jorge Davilla-Chacon von Heldenkombinat.
 
-Wir wünsche euch eine entspannte und besinnliche Weihnachtszeit, ein frohes und gesundes, neues Jahr und freuen uns euch im neuen Jahr wieder bei unseren Brown Bag Sessions begrüßen zu dürfen
+Wir wünsche euch eine entspannte und besinnliche Weihnachtszeit, ein frohes und gesundes, neues Jahr und freuen uns euch im neuen Jahr wieder bei unseren Brown Bag Sessions begrüßen zu dürfen.
 
 ## Bisherige Vorträge
 
