@@ -15,18 +15,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 15.12.2020, haben wir als Vortragenden gewinnen können:
 
-Jan Schnedler (ARIC e.V.): ARIC Brown Bag Jahresrückblick
+Jorge Davilla-Chacon (Heldenkombinat): Generative models in the arts: exploring creative possibilities with underspecified objectives
 
 
 ## Weitere geplante Vorträge
  
-Wir gehen in die Winterpause
-Die nächste Brown Bag Session findet am 19.01.2021 mit dem Vortrag von Jorge Davilla-Chacon von Heldenkombinat.
-
-Wir wünsche euch eine entspannte und besinnliche Weihnachtszeit, ein frohes und gesundes, neues Jahr und freuen uns euch im neuen Jahr wieder bei unseren Brown Bag Sessions begrüßen zu dürfen.
+ - Vanessa Cann (KI Bundesverband): KI in Deutschland - wie stehen wir da?
+ - Jochen Halfmann (Handelskammer IPC): KI Standpunktepapier - Patentanalyse des Innovations und Patent Centrums der Handelskammer Hamburg
+ - Karsten Heinemeyer (AdvInno GmbH): KI & Patente
+ - Pouyan Fard (Fard Consulting): AI and customer data science
 
 ## Bisherige Vorträge
 
+- 15.12.2020, Jan Schnedler (ARIC e.V.): ARIC Brown Bag Jahresrückblick
 - 10.12.2020, Daniel Beutel (ADAP GmbH): Federated Learning with Flower
 - 08.12.2020, Aljoscha Niazi-Shahabi (botario): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
 - 03.12.2020, Johnny Kessler (ARIC e.V.): Wie nähere ich mich dem Thema KI?
