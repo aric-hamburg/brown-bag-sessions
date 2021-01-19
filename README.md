@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 15.12.2020, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 19.01.2021, haben wir als Vortragenden gewinnen können:
 
 Jorge Davilla-Chacon (Heldenkombinat): Generative models in the arts: exploring creative possibilities with underspecified objectives
 
