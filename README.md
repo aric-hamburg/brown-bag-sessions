@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 21.01.2021, haben wir als Vortragende gewinnen können:
 
-Vanessa Cann (KI Bundesverband): KI in Deutschland - wie stehen wir da?
+Vanessa Cann (KI Bundesverband): KI in Deutschland - Sind wir für die Zukunft gut aufgestellt?
 
 
 ## Weitere geplante Vorträge
