@@ -13,19 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 28.01.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 02.02.2021, haben wir als Vortragenden gewinnen können:
 
-Karsten Heinemeyer (AdvInno GmbH): KI & Patente
-
+Pouyan Fard (Fard Consulting): AI and customer data science 
 
 ## Weitere geplante Vorträge
  
- - Pouyan Fard (Fard Consulting): AI and customer data science
  - Michael Leitl (TOI): Der AI – Planner – eine Schritt-für-Schrittanleitung für Manager, Macher und Innovatoren. So entwickeln Sie KI-Anwendungskonzepte auch ohne IT-Kenntnisse
  - Klaas Bollhöfer	(Birds on Mars): AIX(perience)
 
 ## Bisherige Vorträge
 
+- 28.01.2021, Karsten Heinemeyer (AdvInno GmbH): KI & Patente
 - 26.01.2021, Jochen Halfmann (Handelskammer IPC): KI Standpunktepapier - Patentanalyse des Innovations und Patent Centrums der Handelskammer Hamburg
 - 21.01.2021, Vanessa Cann (KI Bundesverband): KI in Deutschland - Sind wir für die Zukunft gut aufgestellt?
 - 19.01.2021, Jorge Davilla-Chacon (Heldenkombinat): Generative models in the arts: exploring creative possibilities with underspecified objectives
