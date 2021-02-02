@@ -13,17 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 02.02.2021, haben wir als Vortragenden gewinnen können:
+Für Donnertsag, 04.02.2021, haben wir als Vortragenden gewinnen können:
 
-Pouyan Fard (Fard Consulting): AI and customer data science 
+Michael Leitl (TOI): Der AI – Planner – eine Schritt-für-Schrittanleitung für Manager, Macher und Innovatoren. So entwickeln Sie KI-Anwendungskonzepte auch ohne IT-Kenntnisse 
 
 ## Weitere geplante Vorträge
  
- - Michael Leitl (TOI): Der AI – Planner – eine Schritt-für-Schrittanleitung für Manager, Macher und Innovatoren. So entwickeln Sie KI-Anwendungskonzepte auch ohne IT-Kenntnisse
  - Klaas Bollhöfer	(Birds on Mars): AIX(perience)
+ - Josefine Kuka (Otto): KI-Use Cases bei der Otto Gruppe 
+ - Nikolai Wilckens (Dataport): Dataport Hub
 
 ## Bisherige Vorträge
 
+- 02.02.2021, Pouyan Fard (Fard Consulting): AI and customer data science
 - 28.01.2021, Karsten Heinemeyer (AdvInno GmbH): KI & Patente
 - 26.01.2021, Jochen Halfmann (Handelskammer IPC): KI Standpunktepapier - Patentanalyse des Innovations und Patent Centrums der Handelskammer Hamburg
 - 21.01.2021, Vanessa Cann (KI Bundesverband): KI in Deutschland - Sind wir für die Zukunft gut aufgestellt?
