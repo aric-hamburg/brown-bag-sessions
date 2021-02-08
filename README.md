@@ -19,7 +19,7 @@ Für Dienstag, 09.02.2021, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
  
- - Josefine Kuka (Otto): KI-Use Cases bei der Otto Gruppe 
+ - Josefine Kuka (Otto Group data.works): KI in der Otto Group - Wie Algorithmen das Einkaufserlebnis verbessern
  - Nikolai Wilckens (Dataport): Dataport Hub
 
 ## Bisherige Vorträge
