@@ -13,17 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 09.02.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 11.02.2021, haben wir als Vortragende gewinnen können:
 
- Klaas Bollhöfer	(Birds on Mars): AIX(perience)
+Josefine Kuka (Otto Group data.works): KI in der Otto Group - Wie Algorithmen das Einkaufserlebnis verbessern
 
 ## Weitere geplante Vorträge
  
- - Josefine Kuka (Otto Group data.works): KI in der Otto Group - Wie Algorithmen das Einkaufserlebnis verbessern
  - Nikolai Wilckens (Dataport): Dataport Hub
 
 ## Bisherige Vorträge
 
+- 09.02.2021, Klaas Bollhöfer	(Birds on Mars): AIX(perience)
 - 04.02.2021, Michael Leitl (TOI): Der AI – Planner – eine Schritt-für-Schrittanleitung für Manager, Macher und Innovatoren. So entwickeln Sie KI-Anwendungskonzepte auch ohne IT-Kenntnisse
 - 02.02.2021, Pouyan Fard (Fard Consulting): AI and customer data science
 - 28.01.2021, Karsten Heinemeyer (AdvInno GmbH): KI & Patente
