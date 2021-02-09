@@ -19,6 +19,7 @@ Josefine Kuka (Otto Group data.works): KI in der Otto Group - Wie Algorithmen da
 
 ## Weitere geplante Vorträge
  
+ - Prof. Dr. Andreas Moring (ISM Hamburg): Tech for good(?) - Stand der KI und Nachhaltigkeitsforschung in Hamburg
  - Nikolai Wilckens (Dataport): Dataport Hub
 
 ## Bisherige Vorträge
