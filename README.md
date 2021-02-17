@@ -13,14 +13,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 16.02.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 18.02.2021, haben wir als Vortragenden gewinnen können:
 
-Prof. Dr. Andreas Moring (ISM Hamburg): Tech for good(?) - Stand der KI und Nachhaltigkeitsforschung in Hamburg
+Nikolai Wilckens (Dataport): Dataport Hub
 
 ## Weitere geplante Vorträge
  
- 
- - Nikolai Wilckens (Dataport): Dataport Hub
  - Sebastian Nickels (Ailio): Intelligentes Marketing
  - Prof. Dr. Jan Baumbach (Uni Hamburg): Privacy Preserving Systems Medicine
  - Ronald Winnemöller (Lufthansa Industry Solutions): Explainable subsymbolic Semantics
@@ -28,6 +26,7 @@ Prof. Dr. Andreas Moring (ISM Hamburg): Tech for good(?) - Stand der KI und Nach
 
 ## Bisherige Vorträge
 
+- 16.02.2021, Prof. Dr. Andreas Moring (ISM Hamburg): Tech for good(?) - Stand der KI und Nachhaltigkeitsforschung in Hamburg
 - 11.09.2021, Josefine Kuka (Otto Group data.works): KI in der Otto Group - Wie Algorithmen das Einkaufserlebnis verbessern
 - 09.02.2021, Klaas Bollhöfer	(Birds on Mars): AIX(perience)
 - 04.02.2021, Michael Leitl (TOI): Der AI – Planner – eine Schritt-für-Schrittanleitung für Manager, Macher und Innovatoren. So entwickeln Sie KI-Anwendungskonzepte auch ohne IT-Kenntnisse
