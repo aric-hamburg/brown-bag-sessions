@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 25.02.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 02.03.2021, haben wir als Vortragenden gewinnen können:
 
-Prof. Dr. Jan Baumbach (Uni Hamburg): Privacy Preserving Systems Medicine
+Ronald Winnemöller (Lufthansa Industry Solutions): Explainable subsymbolic Semantics
 
 ## Weitere geplante Vorträge
  
@@ -24,6 +24,7 @@ Prof. Dr. Jan Baumbach (Uni Hamburg): Privacy Preserving Systems Medicine
 
 ## Bisherige Vorträge
 
+- 25.02.2021, Prof. Dr. Jan Baumbach (Uni Hamburg): Privacy Preserving Systems Medicine
 - 23.02.2021, Sebastian Nickels (Ailio): Intelligentes Marketing
 - 18.02.2021, Nikolai Wilckens (Dataport): Dataport Hub
 - 16.02.2021, Prof. Dr. Andreas Moring (ISM Hamburg): Tech for good(?) - Stand der KI und Nachhaltigkeitsforschung in Hamburg
