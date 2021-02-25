@@ -19,8 +19,8 @@ Ronald Winnemöller (Lufthansa Industry Solutions): Explainable subsymbolic Sema
 
 ## Weitere geplante Vorträge
  
- - Ronald Winnemöller (Lufthansa Industry Solutions): Explainable subsymbolic Semantics
- - Klaas Bollhöfer (Birds on Mars): Intellligence Architecture
+- Klaas Bollhöfer (Birds on Mars): Intellligence Architecture
+- Simon Frentrup (umlaut AG): Verkehrssimulation basierend auf Crowd Daten
 
 ## Bisherige Vorträge
 
