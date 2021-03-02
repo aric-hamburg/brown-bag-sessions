@@ -13,17 +13,22 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 02.03.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 04.03.2021, haben wir als Vortragenden gewinnen können:
 
-Ronald Winnemöller (Lufthansa Industry Solutions): Explainable subsymbolic Semantics
+Klaas Bollhöfer (Birds on Mars): Intellligence Architecture
 
 ## Weitere geplante Vorträge
  
-- Klaas Bollhöfer (Birds on Mars): Intellligence Architecture
 - Simon Frentrup (umlaut AG): Verkehrssimulation basierend auf Crowd Daten
+- Meik Vogler (Yours Truly): Der Date Doktor
+- Werner Bogula: KI Trends 20/21
+- Dr. Florian Vogt (IKS Hamburg): Emotion Bike 
+- Jascha Stein (Omnibot): ChatBots & Sprachassistenten in Deutschland, Europa und der Welt, inkl. Kurztest GPT-3 KI
+- Jochen Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): Privatisierung von Recht 
 
 ## Bisherige Vorträge
 
+- 02.03.2021, Dr. Ronald Winnemöller (Lufthansa Industry Solutions): Explainable subsymbolic Semantics
 - 25.02.2021, Prof. Dr. Jan Baumbach (Uni Hamburg): Privacy Preserving Systems Medicine
 - 23.02.2021, Sebastian Nickels (Ailio): Intelligentes Marketing
 - 18.02.2021, Nikolai Wilckens (Dataport): Dataport Hub
