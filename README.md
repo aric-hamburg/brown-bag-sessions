@@ -21,6 +21,7 @@ Klaas Bollhöfer (Birds on Mars): Intellligence Architecture
  
 - Simon Frentrup (umlaut AG): Verkehrssimulation basierend auf Crowd Daten
 - Meik Vogler (Yours Truly): Der Date Doktor
+- Janna Lipenkova (Anacode): NLP for keeping track of dynamic domains - Web monitoring at the example of the AI domain
 - Werner Bogula: KI Trends 20/21
 - Dr. Florian Vogt (IKS Hamburg): Emotion Bike 
 - Jascha Stein (Omnibot): ChatBots & Sprachassistenten in Deutschland, Europa und der Welt, inkl. Kurztest GPT-3 KI
