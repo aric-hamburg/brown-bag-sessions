@@ -13,13 +13,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 04.03.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 09.03.2021, haben wir als Vortragenden gewinnen können:
 
-Klaas Bollhöfer (Birds on Mars): Intellligence Architecture
+Simon Frentrup (umlaut AG): Verkehrssimulation basierend auf Crowd Daten
 
 ## Weitere geplante Vorträge
  
-- Simon Frentrup (umlaut AG): Verkehrssimulation basierend auf Crowd Daten
 - Meik Vogler (Yours Truly): Der Date Doktor
 - Janna Lipenkova (Anacode): NLP for keeping track of dynamic domains - Web monitoring at the example of the AI domain
 - Werner Bogula: KI Trends 20/21
@@ -29,6 +28,7 @@ Klaas Bollhöfer (Birds on Mars): Intellligence Architecture
 
 ## Bisherige Vorträge
 
+- 04.03.2021, Klaas Bollhöfer (Birds on Mars): Intellligence Architecture
 - 02.03.2021, Dr. Ronald Winnemöller (Lufthansa Industry Solutions): Explainable subsymbolic Semantics
 - 25.02.2021, Prof. Dr. Jan Baumbach (Uni Hamburg): Privacy Preserving Systems Medicine
 - 23.02.2021, Sebastian Nickels (Ailio): Intelligentes Marketing
