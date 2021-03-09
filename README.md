@@ -13,13 +13,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 09.03.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 11.03.2021, haben wir als Vortragenden gewinnen können:
 
-Simon Frentrup (umlaut AG): Verkehrssimulation basierend auf Crowd Daten
+Meik Vogler (Yours Truly): Der Date Doktor
 
 ## Weitere geplante Vorträge
  
-- Meik Vogler (Yours Truly): Der Date Doktor
 - Janna Lipenkova (Anacode): NLP for keeping track of dynamic domains - Web monitoring at the example of the AI domain
 - Werner Bogula: KI Trends 20/21
 - Dr. Florian Vogt (IKS Hamburg): Emotion Bike 
@@ -28,6 +27,7 @@ Simon Frentrup (umlaut AG): Verkehrssimulation basierend auf Crowd Daten
 
 ## Bisherige Vorträge
 
+- 09.03.2021, Simon Frentrup (umlaut AG): Verkehrssimulation basierend auf Crowd Daten
 - 04.03.2021, Klaas Bollhöfer (Birds on Mars): Intellligence Architecture
 - 02.03.2021, Dr. Ronald Winnemöller (Lufthansa Industry Solutions): Explainable subsymbolic Semantics
 - 25.02.2021, Prof. Dr. Jan Baumbach (Uni Hamburg): Privacy Preserving Systems Medicine
