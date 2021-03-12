@@ -13,13 +13,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 11.03.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 16.03.2021, haben wir als Vortragende gewinnen können:
 
-Meik Vogler (Yours Truly): Der Date Doktor
+Janna Lipenkova (Anacode): NLP for keeping track of dynamic domains - Web monitoring at the example of the AI domain
 
 ## Weitere geplante Vorträge
  
-- Janna Lipenkova (Anacode): NLP for keeping track of dynamic domains - Web monitoring at the example of the AI domain
 - Werner Bogula: KI Trends 20/21
 - Dr. Florian Vogt (IKS Hamburg): Emotion Bike 
 - Jascha Stein (Omnibot): ChatBots & Sprachassistenten in Deutschland, Europa und der Welt, inkl. Kurztest GPT-3 KI
@@ -27,6 +26,7 @@ Meik Vogler (Yours Truly): Der Date Doktor
 
 ## Bisherige Vorträge
 
+- 11.03.2021, Meik Vogler (Yours Truly): Der Date Doktor
 - 09.03.2021, Simon Frentrup (umlaut AG): Verkehrssimulation basierend auf Crowd Daten
 - 04.03.2021, Klaas Bollhöfer (Birds on Mars): Intellligence Architecture
 - 02.03.2021, Dr. Ronald Winnemöller (Lufthansa Industry Solutions): Explainable subsymbolic Semantics
