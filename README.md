@@ -13,19 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 16.03.2021, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 18.03.2021, haben wir als Vortragenden gewinnen können:
 
-Janna Lipenkova (Anacode): NLP for keeping track of dynamic domains - Web monitoring at the example of the AI domain
+Werner Bogula: KI Trends 20/21
 
 ## Weitere geplante Vorträge
  
-- Werner Bogula: KI Trends 20/21
 - Dr. Florian Vogt (IKS Hamburg): Emotion Bike 
 - Jascha Stein (Omnibot): ChatBots & Sprachassistenten in Deutschland, Europa und der Welt, inkl. Kurztest GPT-3 KI
 - Jochen Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): Privatisierung von Recht 
 
 ## Bisherige Vorträge
 
+- 16.03.2021, Janna Lipenkova (Anacode): NLP for keeping track of dynamic domains - Web monitoring at the example of the AI domain
 - 11.03.2021, Meik Vogler (Yours Truly): Der Date Doktor
 - 09.03.2021, Simon Frentrup (umlaut AG): Verkehrssimulation basierend auf Crowd Daten
 - 04.03.2021, Klaas Bollhöfer (Birds on Mars): Intellligence Architecture
