@@ -21,7 +21,7 @@ Werner Bogula: KI Trends 20/21
  
 - Dr. Florian Vogt (IKS Hamburg): Emotion Bike 
 - Jascha Stein (Omnibot): ChatBots & Sprachassistenten in Deutschland, Europa und der Welt, inkl. Kurztest GPT-3 KI
-- Jochen Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): Privatisierung von Recht 
+- Jochen Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Rule of Law - Chancen und Herausforderungen 
 
 ## Bisherige Vorträge
 
