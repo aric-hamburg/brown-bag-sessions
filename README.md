@@ -15,16 +15,16 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 18.03.2021, haben wir als Vortragenden gewinnen können:
 
-Werner Bogula: KI Trends 20/21
+- Dr. Florian Vogt (IKS Hamburg): Emotion Bike
 
 ## Weitere geplante Vorträge
- 
-- Dr. Florian Vogt (IKS Hamburg): Emotion Bike 
+  
 - Jascha Stein (Omnibot): ChatBots & Sprachassistenten in Deutschland, Europa und der Welt, inkl. Kurztest GPT-3 KI
 - Jochen Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Rule of Law - Chancen und Herausforderungen 
 
 ## Bisherige Vorträge
 
+- 18.03.2021, Werner Bogula: KI Trends 20/21
 - 16.03.2021, Janna Lipenkova (Anacode): NLP for keeping track of dynamic domains - Web monitoring at the example of the AI domain
 - 11.03.2021, Meik Vogler (Yours Truly): Der Date Doktor
 - 09.03.2021, Simon Frentrup (umlaut AG): Verkehrssimulation basierend auf Crowd Daten
