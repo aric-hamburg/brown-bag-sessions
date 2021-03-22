@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 18.03.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 23.03.2021, haben wir als Vortragenden gewinnen können:
 
 - Dr. Florian Vogt (IKS Hamburg): Emotion Bike
 
