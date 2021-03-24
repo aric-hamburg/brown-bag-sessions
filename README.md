@@ -13,17 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 23.03.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 24.03.2021, haben wir als Vortragenden gewinnen können:
 
-- Dr. Florian Vogt (IKS Hamburg): Emotion Bike
+- Sebastian Seck (LHIND): Anomaliedetektion mit Computer Vision in der Gepäckförderanlage
 
 ## Weitere geplante Vorträge
   
-- Jascha Stein (Omnibot): ChatBots & Sprachassistenten in Deutschland, Europa und der Welt, inkl. Kurztest GPT-3 KI
 - Jochen Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Rule of Law - Chancen und Herausforderungen 
 
 ## Bisherige Vorträge
 
+- 22.03.2021, Dr. Florian Vogt (IKS Hamburg): Emotion Bike
 - 18.03.2021, Werner Bogula: KI Trends 20/21
 - 16.03.2021, Janna Lipenkova (Anacode): NLP for keeping track of dynamic domains - Web monitoring at the example of the AI domain
 - 11.03.2021, Meik Vogler (Yours Truly): Der Date Doktor
