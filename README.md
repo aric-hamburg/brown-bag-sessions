@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 30.03.2021, haben wir als Vortragenden gewinnen können:
 
-- Jochen Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Rule of Law - Chancen und Herausforderungen
+- Friedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Rule of Law - Chancen und Herausforderungen
 
 ## Weitere geplante Vorträge
   
