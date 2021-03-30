@@ -13,13 +13,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 30.03.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 01.04.2021, haben wir als Vortragenden gewinnen können:
 
-- Friedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Rule of Law - Chancen und Herausforderungen
+- Falko Spiller (CGI): Julia, eine neue Programmiersprache mit schneller Numerik, und ihre AI Libraries (ein Teaser)
 
 ## Weitere geplante Vorträge
   
--  Falko Spiller (CGI): Julia, eine neue Programmiersprache mit schneller Numerik, und ihre AI Libraries (ein Teaser)
 -  Sebastian Hugl (GoodIP): How AI can help you stay ahead of your competitors: Actionable insights about IP for C-level executives, startup founders and investors
 -  Sven Crone (iQast): SMALL data forecasting with AI – a case study at Janssen (a Johnson & Johnson company)
 -  Tambet Matiisen (Self driving Lab Tartu): Two approaches to autonomous driving
@@ -27,6 +26,7 @@ Für Dienstag, 30.03.2021, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 30.03.2021, riedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Rule of Law - Chancen und Herausforderungen
 - 24.03.2021, Sebastian Seck (LHIND): Anomaliedetektion mit Computer Vision in der Gepäckförderanlage
 - 22.03.2021, Dr. Florian Vogt (IKS Hamburg): Emotion Bike
 - 18.03.2021, Werner Bogula: KI Trends 20/21
