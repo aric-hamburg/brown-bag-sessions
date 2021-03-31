@@ -19,7 +19,7 @@ Für Dienstag, 01.04.2021, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
   
--  Sebastian Hugl (GoodIP): How AI can help you stay ahead of your competitors: Actionable insights about IP for C-level executives, startup founders and investors
+-  Dr. Bastian July (GoodIP): How AI can help you stay ahead of your competitors: Actionable insights about IP for C-level executives, startup founders and investors
 -  Sven Crone (iQast): SMALL data forecasting with AI – a case study at Janssen (a Johnson & Johnson company)
 -  Tambet Matiisen (Self driving Lab Tartu): Two approaches to autonomous driving
 -  Johnny Kessler (Student Uni Hamburg): Bildgeneration mit Generative Adverserial Networks (GANs)
