@@ -21,12 +21,14 @@ Für Dienstag, 01.04.2021, haben wir als Vortragenden gewinnen können:
   
 -  Dr. Bastian July (GoodIP): How AI can help you stay ahead of your competitors: Actionable insights about IP for C-level executives, startup founders and investors
 -  Sven Crone (iQast): SMALL data forecasting with AI – a case study at Janssen (a Johnson & Johnson company)
+-  Werner Bogula (ARIC e.V.): KI und Ethik - Vom selbstfahrenden Auto bis zum Robo-Richter: Wer trägt die Verantwortung für den Einsatz von KI?
 -  Tambet Matiisen (Self driving Lab Tartu): Two approaches to autonomous driving
 -  Johnny Kessler (Student Uni Hamburg): Bildgeneration mit Generative Adverserial Networks (GANs)
+-  Dalia Moniat (ARIC e.V.): KI & Kunst
 
 ## Bisherige Vorträge
 
-- 30.03.2021, riedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Rule of Law - Chancen und Herausforderungen
+- 30.03.2021, Friedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Rule of Law - Chancen und Herausforderungen
 - 24.03.2021, Sebastian Seck (LHIND): Anomaliedetektion mit Computer Vision in der Gepäckförderanlage
 - 22.03.2021, Dr. Florian Vogt (IKS Hamburg): Emotion Bike
 - 18.03.2021, Werner Bogula: KI Trends 20/21
