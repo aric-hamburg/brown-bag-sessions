@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 15.04.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 20.04.2021, haben wir als Vortragende gewinnen können:
 
-- Tambet Matiisen (Self driving Lab Tartu): Two approaches to autonomous driving
+- Franziska Wittleder (ARIC e.V.): Bias in Sprache
 
 ## Weitere geplante Vorträge
   
--  Tambet Matiisen (Self driving Lab Tartu): Two approaches to autonomous driving
 -  Johnny Kessler (Student Uni Hamburg): Bildgeneration mit Generative Adverserial Networks (GANs)
 -  Dalia Moniat (ARIC e.V.): KI & Kunst
 
 ## Bisherige Vorträge
 
+- 15.04.2021, Tambet Matiisen (Self driving Lab Tartu): Two approaches to autonomous driving
 - 13.04.2021, Werner Bogula (ARIC e.V.): KI und Ethik - Vom selbstfahrenden Auto bis zum Robo-Richter: Wer trägt die Verantwortung für den Einsatz von KI?
 - 08.04.2021, Sven Crone (iQast): SMALL data forecasting with AI – a case study at Janssen (a Johnson & Johnson company)
 - 06.04.2021, Dr. Bastian July (GoodIP): How AI can help you stay ahead of your competitors: Actionable insights about IP for C-level executives, startup founders and investors
