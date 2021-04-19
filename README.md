@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 20.04.2021, haben wir als Vortragende gewinnen können:
 
-- Franziska Wittleder (ARIC e.V.): Bias in Sprache
+- Franziska Wittleder (ARIC e.V.): Get inspired by word embeddings
 
 ## Weitere geplante Vorträge
   
