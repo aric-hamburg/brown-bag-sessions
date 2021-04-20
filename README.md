@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 20.04.2021, haben wir als Vortragende gewinnen können:
 
-- Franziska Wittleder (ARIC e.V.): Word Embeddings. Eine Inspiration...(für Beginner)
+- Franziska Wittleder (ARIC e.V.): Word Embeddings. Eine Inspiration...(Beginner)
 
 ## Weitere geplante Vorträge
   
