@@ -13,13 +13,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 22.04.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 22.04.2021, haben wir als Vortragende gewinnen können:
 
-- Johnny Kessler (Student Uni Hamburg): Bildgeneration mit Generative Adverserial Networks (GANs)
+- Dalia Moniat (ARIC e.V.): KI & Kunst
 
 ## Weitere geplante Vorträge
   
--  Dalia Moniat (ARIC e.V.): KI & Kunst
 -  Michael Welsch (Panda): Secret Weapons of Data Scientists in Manufacturing
 -  Prof. Dr. Martin Spindler (Uni Hamburg): Causal AI / Machine Learning: Introduction & Applications
 -  Tomas van der Heijden (Legal Tech Founder at Merantix): Ross Intelligence
@@ -27,6 +26,7 @@ Für Donnerstag, 22.04.2021, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 22.04.2021, Johnny Kessler (Student Uni Hamburg): Bildgeneration mit Generative Adverserial Networks (GANs)
 - 20.04.2021, Franziska Wittleder (ARIC e.V.): Word Embeddings. Eine Inspiration...(Beginner)
 - 15.04.2021, Tambet Matiisen (Self driving Lab Tartu): Two approaches to autonomous driving
 - 13.04.2021, Werner Bogula (ARIC e.V.): KI und Ethik - Vom selbstfahrenden Auto bis zum Robo-Richter: Wer trägt die Verantwortung für den Einsatz von KI?
