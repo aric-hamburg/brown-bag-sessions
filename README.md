@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 22.04.2021, haben wir als Vortragende gewinnen können:
+Für Dienstag, 27.04.2021, haben wir als Vortragende gewinnen können:
 
 - Dalia Moniat (ARIC e.V.): KI & Kunst
 
