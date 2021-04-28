@@ -15,17 +15,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 27.04.2021, haben wir als Vortragende gewinnen können:
 
-- Dalia Moniat (ARIC e.V.): KI & Kunst
+- Michael Welsch (Panda): Secret Weapons of Data Scientists in Manufacturing
 
 ## Weitere geplante Vorträge
   
--  Michael Welsch (Panda): Secret Weapons of Data Scientists in Manufacturing
 -  Prof. Dr. Martin Spindler (Uni Hamburg): Causal AI / Machine Learning: Introduction & Applications
+-  Kristina Haars (Lufthansa Industry Solutions): KI-Innovationen unternehmensweit fördern und Insides zu der daraus entstandenen Idee „Golden Customer“
 -  Tomas van der Heijden (Legal Tech Founder at Merantix): Ross Intelligence
 -  Axel Dürkop (HOOU): HOOU ARIC Kooperation
 
 ## Bisherige Vorträge
 
+- 27.04.2021, Dalia Moniat (ARIC e.V.): KI & Kunst
 - 22.04.2021, Johnny Kessler (Student Uni Hamburg): Bildgeneration mit Generative Adverserial Networks (GANs)
 - 20.04.2021, Franziska Wittleder (ARIC e.V.): Word Embeddings. Eine Inspiration...(Beginner)
 - 15.04.2021, Tambet Matiisen (Self driving Lab Tartu): Two approaches to autonomous driving
