@@ -20,9 +20,9 @@ Für Dienstag, 27.04.2021, haben wir als Vortragende gewinnen können:
 ## Weitere geplante Vorträge
   
 -  Prof. Dr. Martin Spindler (Uni Hamburg): Causal AI / Machine Learning: Introduction & Applications
--  Kristina Haars (Lufthansa Industry Solutions): KI-Innovationen unternehmensweit fördern und Insides zu der daraus entstandenen Idee „Golden Customer“
+-  Kristina Haars & Dr. Alexander Motzek (Lufthansa Industry Solutions): KI-Innovationen unternehmensweit fördern und Insides zu der daraus entstandenen Idee „Golden Customer“
 -  Tomas van der Heijden (Legal Tech Founder at Merantix): Ross Intelligence
--  Axel Dürkop (HOOU): HOOU ARIC Kooperation
+-  Axel Dürkop & Jan von Roth (HOOU/MMKH) (HOOU): HOOU ARIC Kooperation
 
 ## Bisherige Vorträge
 
