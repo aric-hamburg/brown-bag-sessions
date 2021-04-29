@@ -31,7 +31,7 @@ Für Dienstag, 27.04.2021, haben wir als Vortragende gewinnen können:
 - 20.04.2021, Franziska Wittleder (ARIC e.V.): Word Embeddings. Eine Inspiration...(Beginner)
 - 15.04.2021, Tambet Matiisen (Self driving Lab Tartu): Two approaches to autonomous driving
 - 13.04.2021, Werner Bogula (ARIC e.V.): KI und Ethik - Vom selbstfahrenden Auto bis zum Robo-Richter: Wer trägt die Verantwortung für den Einsatz von KI?
-**- 08.04.2021, Sven Crone (iQast): SMALL data forecasting with AI – a case study at Janssen (a Johnson & Johnson company)**
+- 08.04.2021, Sven Crone (iQast): SMALL data forecasting with AI – a case study at Janssen (a Johnson & Johnson company)
 - 06.04.2021, Dr. Bastian July (GoodIP): How AI can help you stay ahead of your competitors: Actionable insights about IP for C-level executives, startup founders and investors
 - 01.04.2021, Falko Spiller (CGI): Julia, eine neue Programmiersprache mit schneller Numerik, und ihre AI Libraries (ein Teaser)
 - 30.03.2021, Friedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Rule of Law - Chancen und Herausforderungen
