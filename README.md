@@ -19,8 +19,8 @@ Für Dienstag, 04.05.2021, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
   
--   Kristina Haars & Dr. Alexander Motzek (Lufthansa Industry Solutions): KI-Innovationen unternehmensweit fördern und Insides zu der daraus entstandenen Idee „Golden Customer“
--  Tomas van der Heijden (Legal Tech Founder at Merantix): Ross Intelligence
+-  Kristina Haars & Dr. Alexander Motzek (Lufthansa Industry Solutions): KI-Innovationen unternehmensweit fördern und Insides zu der daraus entstandenen Idee „Golden Customer“
+-  Tomas van der Heijden (Legal Tech Founder at Merantix): Building NLP applications on primary law data: challenges and opportunities
 -  Axel Dürkop & Jan von Roth (HOOU/MMKH) (HOOU): HOOU ARIC Kooperation
 
 ## Bisherige Vorträge
