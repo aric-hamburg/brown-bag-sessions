@@ -13,18 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 04.05.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 06.05.2021, haben wir als Vortragende gewinnen können:
 
--  Prof. Dr. Martin Spindler (Uni Hamburg): Causal AI / Machine Learning: Introduction & Applications
+-  Kristina Haars & Dr. Alexander Motzek (Lufthansa Industry Solutions): KI-Innovationen unternehmensweit fördern und Insides zu der daraus entstandenen Idee „Golden Customer“
+
 
 ## Weitere geplante Vorträge
   
--  Kristina Haars & Dr. Alexander Motzek (Lufthansa Industry Solutions): KI-Innovationen unternehmensweit fördern und Insides zu der daraus entstandenen Idee „Golden Customer“
 -  Tomas van der Heijden (Legal Tech Founder at Merantix): Building NLP applications on primary law data: challenges and opportunities
 -  Axel Dürkop & Jan von Roth (HOOU/MMKH) (HOOU): HOOU ARIC Kooperation
 
 ## Bisherige Vorträge
 
+- 04.05.2021, Prof. Dr. Martin Spindler (Uni Hamburg): Causal AI / Machine Learning: Introduction & Applications
 - 29.04.2021, Michael Welsch (Panda): Secret Weapons of Data Scientists in Manufacturing
 - 27.04.2021, Dalia Moniat (ARIC e.V.): KI & Kunst
 - 22.04.2021, Johnny Kessler (Student Uni Hamburg): Bildgeneration mit Generative Adverserial Networks (GANs)
