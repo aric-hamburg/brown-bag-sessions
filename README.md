@@ -13,17 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 11.05.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 18.05.2021, haben wir als Vortragende gewinnen können:
 
-Tomas van der Heijden (Legal Tech Founder at Merantix): Building NLP applications on primary law data: challenges and opportunities
+Axel Dürkop & Jan von Roth (HOOU/MMKH) (HOOU): HOOU ARIC Kooperation
 
 
 ## Weitere geplante Vorträge
   
--  Axel Dürkop & Jan von Roth (HOOU/MMKH) (HOOU): HOOU ARIC Kooperation
+-  to be announced shortly
 
 ## Bisherige Vorträge
 
+- 11.05.2021, Tomas van der Heijden (Legal Tech Founder at Merantix): Building NLP applications on primary law data: challenges and opportunities
 - 06.05.2021, Kristina Haars & Dr. Alexander Motzek (Lufthansa Industry Solutions): KI-Innovationen unternehmensweit fördern und Insides zu der daraus entstandenen Idee „Golden
               Customer“
 - 04.05.2021, Prof. Dr. Martin Spindler (Uni Hamburg): Causal AI / Machine Learning: Introduction & Applications
