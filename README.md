@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 18.05.2021, haben wir als Vortragende gewinnen können:
 
-Axel Dürkop & Jan von Roth (HOOU/MMKH) (HOOU): HOOU ARIC Kooperation
+Axel Dürkop & Jan von Roth (Hamburg Open Online University (HOOU) und Multimediakontor Hamburg (MMKH)): Mein Weg zu KI - Eine Kooperation von HOOU und ARIC e.V.
 
 
 ## Weitere geplante Vorträge
