@@ -20,7 +20,7 @@ Axel Dürkop & Jan von Roth (Hamburg Open Online University (HOOU) und Multimedi
 
 ## Weitere geplante Vorträge
   
--  to be announced shortly
+-  Jens Weppner (Lufthansa Industry Solutions): Machine Sales Agent
 
 ## Bisherige Vorträge
 
