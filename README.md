@@ -13,17 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 18.05.2021, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 20.05.2021, haben wir als Vortragenden gewinnen können:
 
-Axel Dürkop & Jan von Roth (Hamburg Open Online University (HOOU) und Multimediakontor Hamburg (MMKH)): Mein Weg zu KI - Eine Kooperation von HOOU und ARIC e.V.
+-  Jens Weppner (Lufthansa Industry Solutions): Machine Sales Agent
 
 
 ## Weitere geplante Vorträge
   
--  Jens Weppner (Lufthansa Industry Solutions): Machine Sales Agent
+-  to be announced shortly
 
 ## Bisherige Vorträge
 
+- 18.05.2021, Axel Dürkop & Jan von Roth (Hamburg Open Online University (HOOU) und Multimediakontor Hamburg (MMKH)): Mein Weg zu KI - Eine Kooperation von HOOU und ARIC e.V.
 - 11.05.2021, Tomas van der Heijden (Legal Tech Founder at Merantix): Building NLP applications on primary law data: challenges and opportunities
 - 06.05.2021, Kristina Haars & Dr. Alexander Motzek (Lufthansa Industry Solutions): KI-Innovationen unternehmensweit fördern und Insides zu der daraus entstandenen Idee „Golden
               Customer“
