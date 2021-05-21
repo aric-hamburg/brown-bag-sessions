@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 20.05.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 25.05.2021, haben wir als Vortragenden gewinnen können:
 
--  Jens Weppner (Lufthansa Industry Solutions): Machine Sales Agent
+-  Christopher Gahler (umlaut AG): Data Science
 
 
 ## Weitere geplante Vorträge
@@ -24,6 +24,7 @@ Für Donnerstag, 20.05.2021, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 20.05.2021, Jens Weppner (Lufthansa Industry Solutions): Machine Sales Agent
 - 18.05.2021, Axel Dürkop & Jan von Roth (Hamburg Open Online University (HOOU) und Multimediakontor Hamburg (MMKH)): Mein Weg zu KI - Eine Kooperation von HOOU und ARIC e.V.
 - 11.05.2021, Tomas van der Heijden (Legal Tech Founder at Merantix): Building NLP applications on primary law data: challenges and opportunities
 - 06.05.2021, Kristina Haars & Dr. Alexander Motzek (Lufthansa Industry Solutions): KI-Innovationen unternehmensweit fördern und Insides zu der daraus entstandenen Idee „Golden
