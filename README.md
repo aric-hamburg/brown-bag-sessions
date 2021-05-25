@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 25.05.2021, haben wir als Vortragenden gewinnen können:
 
--  Christopher Gahler (umlaut AG): Data Science
+-  Christopher Gahler (umlaut AG): Data Science  - ein Hands-On Beispiel
 
 
 ## Weitere geplante Vorträge
