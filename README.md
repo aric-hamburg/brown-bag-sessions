@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 27.05.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 01.06.2021, haben wir als Vortragenden gewinnen können:
 
--  Leonard Rothacker (Lufthansa Industry Solutions): Recommender System zur Newsletter Personalisierung
+-  Daniel Beutel (Adap GmbH): Federated Learning: From Research To Production
 
 
 ## Weitere geplante Vorträge
@@ -24,6 +24,7 @@ Für Donnerstag, 27.05.2021, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 27.05.2021, Leonard Rothacker (Lufthansa Industry Solutions): Recommender System zur Newsletter Personalisierung
 - 25.05.2021, Christopher Gahler (umlaut AG): Data Science  - ein Hands-On Beispiel
 - 20.05.2021, Jens Weppner (Lufthansa Industry Solutions): Machine Sales Agent
 - 18.05.2021, Axel Dürkop & Jan von Roth (Hamburg Open Online University (HOOU) und Multimediakontor Hamburg (MMKH)): Mein Weg zu KI - Eine Kooperation von HOOU und ARIC e.V.
