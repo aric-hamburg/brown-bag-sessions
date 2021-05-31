@@ -20,7 +20,15 @@ Für Dienstag, 01.06.2021, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
   
--  to be announced shortly
+-  Wolfram Wingerath (Baqend GmbH): Handsfree Coding
+-  Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
+-  Sebastian Hugl (GoodIP): How AI-driven patent evaluation is the future way to minimise risks and save costs: Learn how you can detect and mitigate risks in your patent portfolio 
+-  Tarun Batra (Brand University): BRAND University and ARIC Kooperation 
+-  Dalia Moniat (ARIC e.V.): Mind and Machines
+-  Dr. Florian Vogt (IKS Hamburg): Multiphysics effect modeling with AI
+-  Jan Schnedler (Aric e.V.): ARIC Halbjahresrückblick
+-  Prof. Dr. Randolf Isenberg (HAW Hamburg): Python, Numpy, Pandas für KI-Frischlinge - Ein Hands-On Einstieg 
+-  Philipp Rosenthal (Helmut Schmidt Univerität): Problem examination for AI methods in conceptual product design
 
 ## Bisherige Vorträge
 
