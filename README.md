@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 03.06.2021, haben wir als Vortragenden gewinnen können:
 
--  Wolfram Wingerath (Baqend GmbH): Handsfree Coding
+-  Wolfram Wingerath (Baqend GmbH): What you say is what you get - Handfree Coding in 2021
 
 
 ## Weitere geplante Vorträge
