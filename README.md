@@ -31,7 +31,7 @@ Für Dienstag, 08.06.2021, haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
-- Wolfram Wingerath (Baqend GmbH): What you say is what you get - Handfree Coding in 2021
+- 03.06.2021, Wolfram Wingerath (Baqend GmbH): What you say is what you get - Handfree Coding in 2021
 - 01.06.2021, Daniel Beutel (Adap GmbH): Federated Learning: From Research To Production
 - 27.05.2021, Leonard Rothacker (Lufthansa Industry Solutions): Recommender System zur Newsletter Personalisierung
 - 25.05.2021, Christopher Gahler (umlaut AG): Data Science  - ein Hands-On Beispiel
