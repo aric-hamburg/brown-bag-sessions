@@ -13,14 +13,13 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 03.06.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 08.06.2021, haben wir als Vortragende gewinnen können:
 
--  Wolfram Wingerath (Baqend GmbH): What you say is what you get - Handfree Coding in 2021
+-  Rolf Feichtenbeiner (DFKI)/Barbara Lippa (Bundesverband Deutscher Berufsförderungswerke): KI für Inklusion in der Arbeitswelt. Einblicke in das Projekt KI.ASSIST
 
 
 ## Weitere geplante Vorträge
   
--  Rolf Feichtenbeiner (DFKI)/Barbara Lippa (Bundesverband Deutscher Berufsförderungswerke): KI für Inklusion in der Arbeitswelt. Einblicke in das Projekt KI.ASSIST
 -  Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
 -  Sebastian Hugl (GoodIP): How AI-driven patent evaluation is the future way to minimise risks and save costs: Learn how you can detect and mitigate risks in your patent portfolio 
 -  Tarun Batra (Brand University): BRAND University and ARIC Kooperation 
@@ -32,6 +31,7 @@ Für Donnerstag, 03.06.2021, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- Wolfram Wingerath (Baqend GmbH): What you say is what you get - Handfree Coding in 2021
 - 01.06.2021, Daniel Beutel (Adap GmbH): Federated Learning: From Research To Production
 - 27.05.2021, Leonard Rothacker (Lufthansa Industry Solutions): Recommender System zur Newsletter Personalisierung
 - 25.05.2021, Christopher Gahler (umlaut AG): Data Science  - ein Hands-On Beispiel
