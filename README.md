@@ -13,14 +13,13 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 08.06.2021, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 10.06.2021, haben wir als Vortragenden gewinnen können:
 
--  Rolf Feichtenbeiner (DFKI)/Barbara Lippa (Bundesverband Deutscher Berufsförderungswerke): KI für Inklusion in der Arbeitswelt. Einblicke in das Projekt KI.ASSIST
+-  Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
 
 
 ## Weitere geplante Vorträge
   
--  Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
 -  Sebastian Hugl (GoodIP): How AI-driven patent evaluation is the future way to minimise risks and save costs: Learn how you can detect and mitigate risks in your patent portfolio 
 -  Dalia Moniat (ARIC e.V.): Mind and Machines
 -  Dr. Florian Vogt (IKS Hamburg): Multiphysics effect modeling with AI
@@ -30,6 +29,7 @@ Für Dienstag, 08.06.2021, haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
+- 08.06.2021, Rolf Feichtenbeiner (DFKI)/Barbara Lippa (Bundesverband Deutscher Berufsförderungswerke): KI für Inklusion in der Arbeitswelt. Einblicke in das Projekt KI.ASSIST
 - 03.06.2021, Wolfram Wingerath (Baqend GmbH): What you say is what you get - Handfree Coding in 2021
 - 01.06.2021, Daniel Beutel (Adap GmbH): Federated Learning: From Research To Production
 - 27.05.2021, Leonard Rothacker (Lufthansa Industry Solutions): Recommender System zur Newsletter Personalisierung
