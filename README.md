@@ -13,14 +13,13 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 10.06.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 15.06.2021, haben wir als Vortragenden gewinnen können:
 
--  Dr. Florian Vogt (IKS Hamburg): Multiphysics effect modeling with AI
+-  Sebastian Hugl (GoodIP): How AI-driven patent evaluation is the future way to minimise risks and save costs: Learn how you can detect and mitigate risks in your patent portfolio
 
 
 ## Weitere geplante Vorträge
-  
--  Sebastian Hugl (GoodIP): How AI-driven patent evaluation is the future way to minimise risks and save costs: Learn how you can detect and mitigate risks in your patent portfolio 
+   
 -  Anja Bühler (Nordakademie): Der KI-Koffer
 -  Cagdas Sayin (matched.io): tba.
 -  Dalia Moniat (ARIC e.V.): Mind and Machines
@@ -31,6 +30,7 @@ Für Donnerstag, 10.06.2021, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 10.06.2021, Dr. Florian Vogt (IKS Hamburg): Multiphysics effect modeling with AI
 - 08.06.2021, Rolf Feichtenbeiner (DFKI)/Barbara Lippa (Bundesverband Deutscher Berufsförderungswerke): KI für Inklusion in der Arbeitswelt. Einblicke in das Projekt KI.ASSIST
 - 03.06.2021, Wolfram Wingerath (Baqend GmbH): What you say is what you get - Handfree Coding in 2021
 - 01.06.2021, Daniel Beutel (Adap GmbH): Federated Learning: From Research To Production
