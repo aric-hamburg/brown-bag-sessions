@@ -15,14 +15,16 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 10.06.2021, haben wir als Vortragenden gewinnen können:
 
--  Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
+-  Dr. Florian Vogt (IKS Hamburg): Multiphysics effect modeling with AI
 
 
 ## Weitere geplante Vorträge
   
 -  Sebastian Hugl (GoodIP): How AI-driven patent evaluation is the future way to minimise risks and save costs: Learn how you can detect and mitigate risks in your patent portfolio 
+-  Anja Bühler (Nordakademie): Der KI-Koffer
+-  Cagdas Sayin (matched.io): tba.
 -  Dalia Moniat (ARIC e.V.): Mind and Machines
--  Dr. Florian Vogt (IKS Hamburg): Multiphysics effect modeling with AI
+-  Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
 -  Jan Schnedler (Aric e.V.): ARIC Halbjahresrückblick
 -  Prof. Dr. Randolf Isenberg (HAW Hamburg): Python, Numpy, Pandas für KI-Frischlinge - Ein Hands-On Einstieg 
 -  Philipp Rosenthal (Helmut Schmidt Univerität): Problem examination for AI methods in conceptual product design
