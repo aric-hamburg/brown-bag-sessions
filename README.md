@@ -21,7 +21,7 @@ Für Dienstag, 15.06.2021, haben wir als Vortragenden gewinnen können:
 ## Weitere geplante Vorträge
    
 -  Anja Bühler (Nordakademie): Der KI-Koffer
--  Cagdas Sayin (matched.io): tba.
+-  Cagdas Sayin (matched.io): Wie man wirklich versteht, was Menschen wollen.Ein Einblick in die Graphentheorie.
 -  Dalia Moniat (ARIC e.V.): Mind and Machines
 -  Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
 -  Jan Schnedler (Aric e.V.): ARIC Halbjahresrückblick
