@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 17.06.2021, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 22.06.2021, haben wir als Vortragenden gewinnen können:
 
--  Anja Bühler (Nordakademie): Der KI-Koffer
+-  Cagdas Sayin (matched.io): Wie man wirklich versteht, was Menschen wollen. Ein Einblick in die Graphentheorie
 
 
 ## Weitere geplante Vorträge
@@ -29,7 +29,8 @@ Für Donnerstag, 17.06.2021, haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
-- 17.06.2021, Sebastian Hugl/Bastian July (GoodIP): How AI-driven patent evaluation is the future way to minimise risks and save costs: Learn how you can detect and mitigate risks in your patent portfolio
+- 17.06.2021, Anja Bühler/Marc Normann (Nordakademie): Der KI-Koffer
+- 15.06.2021, Sebastian Hugl/Bastian July (GoodIP): How AI-driven patent evaluation is the future way to minimise risks and save costs: Learn how you can detect and mitigate risks in your patent portfolio
 - 10.06.2021, Dr. Florian Vogt (IKS Hamburg): Multiphysics effect modeling with AI
 - 08.06.2021, Rolf Feichtenbeiner (DFKI)/Barbara Lippa (Bundesverband Deutscher Berufsförderungswerke): KI für Inklusion in der Arbeitswelt. Einblicke in das Projekt KI.ASSIST
 - 03.06.2021, Wolfram Wingerath (Baqend GmbH): What you say is what you get - Handfree Coding in 2021
