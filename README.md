@@ -21,7 +21,7 @@ Für Donnerstag, 22.06.2021, haben wir als Vortragenden gewinnen können:
 ## Weitere geplante Vorträge
    
 -  Cagdas Sayin (matched.io): Wie man wirklich versteht, was Menschen wollen.Ein Einblick in die Graphentheorie.
--  Dalia Moniat (ARIC e.V.): Mind and Machines
+-  Lea Wulf (BREMEN.AI): Vorstellung BREMEN.AI
 -  Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
 -  Jan Schnedler (Aric e.V.): ARIC Halbjahresrückblick
 -  Prof. Dr. Randolf Isenberg (HAW Hamburg): Python, Numpy, Pandas für KI-Frischlinge - Ein Hands-On Einstieg 
