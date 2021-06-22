@@ -13,15 +13,13 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 22.06.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 24.06.2021, haben wir als Vortragende gewinnen können:
 
--  Cagdas Sayin (matched.io): Wie man wirklich versteht, was Menschen wollen. Ein Einblick in die Graphentheorie
+-  Lea Wulf (BREMEN.AI): BREMEN.AI: Netzwerken in und mit der Bremer KI-Szene
 
 
 ## Weitere geplante Vorträge
    
--  Cagdas Sayin (matched.io): Wie man wirklich versteht, was Menschen wollen.Ein Einblick in die Graphentheorie.
--  Lea Wulf (BREMEN.AI): BREMEN.AI: Netzwerken in und mit der Bremer KI-Szene
 -  Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
 -  Jan Schnedler (Aric e.V.): ARIC Halbjahresrückblick
 -  Prof. Dr. Randolf Isenberg (HAW Hamburg): Python, Numpy, Pandas für KI-Frischlinge - Ein Hands-On Einstieg 
@@ -29,6 +27,7 @@ Für Donnerstag, 22.06.2021, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 22.06.2021, Cagdas Sayin (matched.io): Wie man wirklich versteht, was Menschen wollen. Ein Einblick in die Graphentheorie
 - 17.06.2021, Anja Bühler/Marc Normann (Nordakademie): Der KI-Koffer
 - 15.06.2021, Sebastian Hugl/Bastian July (GoodIP): How AI-driven patent evaluation is the future way to minimise risks and save costs: Learn how you can detect and mitigate risks in your patent portfolio
 - 10.06.2021, Dr. Florian Vogt (IKS Hamburg): Multiphysics effect modeling with AI
