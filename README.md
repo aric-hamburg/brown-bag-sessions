@@ -13,19 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 29.06.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 01.07.2021, haben wir als Vortragenden gewinnen können:
 
--  Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
+-  Jan Schnedler (Aric e.V.): ARIC Halbjahresrückblick
 
 
 ## Weitere geplante Vorträge
    
--  Jan Schnedler (Aric e.V.): ARIC Halbjahresrückblick
 -  Prof. Dr. Randolf Isenberg (HAW Hamburg): Python, Numpy, Pandas für KI-Frischlinge - Ein Hands-On Einstieg 
 -  Philipp Rosenthal (Helmut Schmidt Univerität): Problem examination for AI methods in conceptual product design
 
 ## Bisherige Vorträge
 
+- 29.06.2021, Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
 - 24.06.2021, Lea Wulf (BREMEN.AI): BREMEN.AI: Netzwerken in und mit der Bremer KI-Szene
 - 22.06.2021, Cagdas Sayin (matched.io): Wie man wirklich versteht, was Menschen wollen. Ein Einblick in die Graphentheorie
 - 17.06.2021, Anja Bühler/Marc Normann (Nordakademie): Der KI-Koffer
