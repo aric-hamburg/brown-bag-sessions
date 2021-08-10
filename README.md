@@ -13,17 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 05.08.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 10.08.2021, haben wir als Vortragenden gewinnen können:
 
--  Philipp Rosenthal (Helmut Schmidt Univerität): Problem examination for AI methods in conceptual product design
+-  Simon Frentrup (neusta): Hedita Plattform
 
 
 ## Weitere geplante Vorträge
     
--  Simon Frentrup (neusta): Hedita Plattform
+-  Celina Book, Mareike Geyer (FOM): FRIDA - PLATFORM FOR FEMALE EMPOWERMENT
+-  Nils Urbanek (FOM): Eine Analyse über die Relevanz und Implementierung von Künstlicher Intelligenz im Bereich des E-Commerce für Unternehmen in Deutschland
 
 ## Bisherige Vorträge
 
+- 05.08.2021, Philipp Rosenthal (Helmut Schmidt Univerität): Problem examination for AI methods in conceptual product design
 - 03.08.2021, Prof. Dr. Randolf Isenberg/Jan-Malte Kapust (HAW Hamburg): Python, Numpy, Pandas für KI-Frischlinge - Ein Hands-On Einstieg
 - 01.07.2021, Jan Schnedler (Aric e.V.): ARIC Halbjahresrückblick
 - 29.06.2021, Dr. Toufik al Khawli (Umlaut AG): (R) Evolution of Applied Intelligence : Closing The Loop
