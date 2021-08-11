@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 10.08.2021, haben wir als Vortragenden gewinnen können:
+Für Donnertsag, 12.08.2021, haben wir als Vortragenden gewinnen können:
 
--  Simon Frentrup (neusta): Hedita Plattform
+-  Jan Ruhnke (ARIC): Application Lifecycle
 
 
 ## Weitere geplante Vorträge
@@ -25,6 +25,7 @@ Für Dienstag, 10.08.2021, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 10.08.2021, Simon Frentrup (neusta): Hedita Designer
 - 05.08.2021, Philipp Rosenthal (Helmut Schmidt Univerität): Problem examination for AI methods in conceptual product design
 - 03.08.2021, Prof. Dr. Randolf Isenberg/Jan-Malte Kapust (HAW Hamburg): Python, Numpy, Pandas für KI-Frischlinge - Ein Hands-On Einstieg
 - 01.07.2021, Jan Schnedler (Aric e.V.): ARIC Halbjahresrückblick
