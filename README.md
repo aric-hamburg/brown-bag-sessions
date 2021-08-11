@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnertsag, 12.08.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 12.08.2021, haben wir als Vortragenden gewinnen können:
 
 -  Jan Ruhnke (ARIC): Application Lifecycle
 
