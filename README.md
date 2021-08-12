@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 12.08.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 17.08.2021, haben wir als Vortragende gewinnen können:
 
--  Jan Ruhnke (ARIC): Application Lifecycle
+-  Celina Book, Mareike Geyer (FOM): FRIDA - PLATFORM FOR FEMALE EMPOWERMENT
 
 
 ## Weitere geplante Vorträge
     
--  Celina Book, Mareike Geyer (FOM): FRIDA - PLATFORM FOR FEMALE EMPOWERMENT
 -  Nils Urbanek (FOM): Eine Analyse über die Relevanz und Implementierung von Künstlicher Intelligenz im Bereich des E-Commerce für Unternehmen in Deutschland
 
 ## Bisherige Vorträge
 
+- 12.08.2021, Jan Ruhnke (ARIC): Application Lifecycle
 - 10.08.2021, Simon Frentrup (neusta): Hedita Designer
 - 05.08.2021, Philipp Rosenthal (Helmut Schmidt Univerität): Problem examination for AI methods in conceptual product design
 - 03.08.2021, Prof. Dr. Randolf Isenberg/Jan-Malte Kapust (HAW Hamburg): Python, Numpy, Pandas für KI-Frischlinge - Ein Hands-On Einstieg
