@@ -13,17 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 17.08.2021, haben wir als Vortragende gewinnen können:
+Für Dienstag, 24.08.2021, haben wir als Vortragende gewinnen können:
 
--  Celina Book, Mareike Geyer (FOM): FRIDA - PLATFORM FOR FEMALE EMPOWERMENT
+-  Eva Koball (Bremen digtialmedia): Bremen digitalmedia Gender Balance-Projekt
 
 
 ## Weitere geplante Vorträge
     
--  Nils Urbanek (FOM): Eine Analyse über die Relevanz und Implementierung von Künstlicher Intelligenz im Bereich des E-Commerce für Unternehmen in Deutschland
+-  Dr. Kuuya Chibanguza (Luther Lawfirm): Die Produktbeobachtungspflicht im Wandel der Digitalisierung - Was gilt bei KI?
 
 ## Bisherige Vorträge
 
+- 19.08.2021, Nils Urbanek (FOM): Eine Analyse über die Relevanz und Implementierung von Künstlicher Intelligenz im Bereich des E-Commerce für Unternehmen in Deutschland
+- 17.08.2021, Celina Book, Mareike Geyer (FOM): FRIDA - PLATFORM FOR FEMALE EMPOWERMENT
 - 12.08.2021, Jan Ruhnke (ARIC): Application Lifecycle
 - 10.08.2021, Simon Frentrup (neusta): Hedita Designer
 - 05.08.2021, Philipp Rosenthal (Helmut Schmidt Univerität): Problem examination for AI methods in conceptual product design
