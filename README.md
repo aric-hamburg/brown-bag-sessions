@@ -13,17 +13,22 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 24.08.2021, haben wir als Vortragende gewinnen können:
+Für Dienstag, 31.08.2021, haben wir als Vortragende gewinnen können:
 
--  Eva Koball (Bremen digtialmedia): Bremen digitalmedia Gender Balance-Projekt
+-  Florian Vogt (ARIC): Companion Technologies
 
 
 ## Weitere geplante Vorträge
     
--  Dr. Kuuya Chibanguza (Luther Lawfirm): Die Produktbeobachtungspflicht im Wandel der Digitalisierung - Was gilt bei KI?
+-  Olaf Schäfer (Cloudsupplies): Intelligent Automation im Mittelstand
+-  Christian von den Brincken (Ströer): ARIC/Crossroads
+-  Elisabeth Weißbecker (Handelskammer Hamburg): KI-Standpunktepapier
+-  
 
 ## Bisherige Vorträge
 
+- 26.08.2021, Dr. Kuuya Chibanguza (Luther Lawfirm): Die Produktbeobachtungspflicht im Wandel der Digitalisierung - Was gilt bei KI?
+- 24.08.2021, Eva Koball (Bremen digtialmedia): Bremen digitalmedia Gender Balance-Projekt
 - 19.08.2021, Nils Urbanek (FOM): Eine Analyse über die Relevanz und Implementierung von Künstlicher Intelligenz im Bereich des E-Commerce für Unternehmen in Deutschland
 - 17.08.2021, Celina Book, Mareike Geyer (FOM): FRIDA - PLATFORM FOR FEMALE EMPOWERMENT
 - 12.08.2021, Jan Ruhnke (ARIC): Application Lifecycle
