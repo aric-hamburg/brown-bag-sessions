@@ -23,7 +23,6 @@ Für Dienstag, 31.08.2021, haben wir als Vortragende gewinnen können:
 -  Olaf Schäfer (Cloudsupplies): Intelligent Automation im Mittelstand
 -  Christian von den Brincken (Ströer): ARIC/Crossroads
 -  Elisabeth Weißbecker (Handelskammer Hamburg): KI-Standpunktepapier
--  
 
 ## Bisherige Vorträge
 
