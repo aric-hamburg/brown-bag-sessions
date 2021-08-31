@@ -13,19 +13,20 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 31.08.2021, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 02.09.2021, haben wir als Vortragenden gewinnen können:
 
--  Florian Vogt (ARIC): Companion Technologies
+-   Olaf Schäfer (Cloudsupplies): Intelligent Automation im Mittelstand
 
 
 ## Weitere geplante Vorträge
     
--  Olaf Schäfer (Cloudsupplies): Intelligent Automation im Mittelstand
+- 
 -  Christian von den Brincken (Ströer): ARIC/Crossroads
 -  Elisabeth Weißbecker (Handelskammer Hamburg): KI-Standpunktepapier
 
 ## Bisherige Vorträge
 
+- 31.08.2021, Florian Vogt (ARIC): Companion Technologies
 - 26.08.2021, Dr. Kuuya Chibanguza (Luther Lawfirm): Die Produktbeobachtungspflicht im Wandel der Digitalisierung - Was gilt bei KI?
 - 24.08.2021, Eva Koball (Bremen digtialmedia): Bremen digitalmedia Gender Balance-Projekt
 - 19.08.2021, Nils Urbanek (FOM): Eine Analyse über die Relevanz und Implementierung von Künstlicher Intelligenz im Bereich des E-Commerce für Unternehmen in Deutschland
