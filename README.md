@@ -20,10 +20,8 @@ Für Donnerstag, 02.09.2021, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
     
-- 
--  Christian von den Brincken (Ströer): ARIC/Crossroads
--  Elisabeth Weißbecker (Handelskammer Hamburg): KI-Standpunktepapier
 -  Christian von den Brincken (Ströer): A glimpse at Crossroads: Megatrends im Deutschen Mediamarkt
+-  Elisabeth Weißbecker (Handelskammer Hamburg): KI-Standpunktepapier
 
 ## Bisherige Vorträge
 
