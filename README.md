@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 02.09.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 07.09.2021, haben wir als Vortragenden gewinnen können:
 
--   Olaf Schäfer (Cloudsupplies): Intelligent Automation im Mittelstand
+-   Christian von den Brincken (Ströer): A glimpse at Crossroads: Megatrends im Deutschen Mediamarkt
 
 
 ## Weitere geplante Vorträge
     
--  Christian von den Brincken (Ströer): A glimpse at Crossroads: Megatrends im Deutschen Mediamarkt
 -  Elisabeth Weißbecker (Handelskammer Hamburg): KI-Standpunktepapier
 
 ## Bisherige Vorträge
 
+- 02.09.2021, Olaf Schäfer (Cloudsupplies): Intelligent Automation im Mittelstand
 - 31.08.2021, Florian Vogt (ARIC): Companion Technologies
 - 26.08.2021, Dr. Kuuya Chibanguza (Luther Lawfirm): Die Produktbeobachtungspflicht im Wandel der Digitalisierung - Was gilt bei KI?
 - 24.08.2021, Eva Koball (Bremen digtialmedia): Bremen digitalmedia Gender Balance-Projekt
