@@ -20,7 +20,7 @@ Für Donnerstag, 09.09.2021, haben wir als Vortragende gewinnen können:
 
 ## Weitere geplante Vorträge
     
--  
+-  tba.
 
 ## Bisherige Vorträge
 
