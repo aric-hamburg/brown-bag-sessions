@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 09.09.2021, haben wir als Vortragende gewinnen können:
+Für Dienstag, 14.09.2021, haben wir als Vortragende gewinnen können:
 
 -  Volkmar Foelsch, Marc Jäger (Sellforte): KI & Marketing  
 
