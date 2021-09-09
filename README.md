@@ -21,6 +21,8 @@ Für Dienstag, 14.09.2021, haben wir als Vortragende gewinnen können:
 ## Weitere geplante Vorträge
     
 -  Cord Willhöft und Oliver Süme (Fieldfisher): KI & Medizintechnologie
+-  Dr. Imke Sommer (Landesbeauftragte Datenschutz FHB): KI und Datenschutz
+-  Sobin Ghose und Arne Bernin (Beyond Emotion): Emotional recognition
 
 ## Bisherige Vorträge
 
