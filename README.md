@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 14.09.2021, haben wir als Vortragende gewinnen können:
 
--  Volkmar Foelsch, Marc Jäger (Sellforte): KI & Marketing  
+-  Volkmar Foelsch, Marc Jäger (Sellforte): Marketing Measurement with Bayesian Inference 
 
 
 ## Weitere geplante Vorträge
