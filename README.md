@@ -13,19 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 14.09.2021, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 16.09.2021, haben wir als Vortragende gewinnen können:
 
--  Volkmar Foelsch, Marc Jäger (Sellforte): Marketing Measurement with Bayesian Inference 
-
+-  Cord Willhöft und Oliver Süme (Fieldfisher): KI & Medizintechnologie
 
 ## Weitere geplante Vorträge
     
--  Cord Willhöft und Oliver Süme (Fieldfisher): KI & Medizintechnologie
 -  Dr. Imke Sommer (Landesbeauftragte Datenschutz FHB): KI und Datenschutz
 -  Sobin Ghose und Arne Bernin (Beyond Emotion): Emotional recognition
 
 ## Bisherige Vorträge
 
+- 14.09.2021, Volkmar Foelsch, Marc Jäger (Sellforte): Marketing Measurement with Bayesian Inference 
 - 09.09.2021, Elisabeth Weißbecker (Handelskammer Hamburg): KI-Standpunktepapier
 - 07.09.2021, Christian von den Brincken (Ströer): A glimpse at Crossroads: Megatrends im Deutschen Mediamarkt
 - 02.09.2021, Olaf Schäfer (Cloudsupplies): Intelligent Automation im Mittelstand
