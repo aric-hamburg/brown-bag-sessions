@@ -20,7 +20,7 @@ Für Donnerstag, 16.09.2021, haben wir als Vortragende gewinnen können:
 ## Weitere geplante Vorträge
     
 -  Dr. Imke Sommer (Landesbeauftragte Datenschutz FHB): KI und Datenschutz
--  Sobin Ghose und Arne Bernin (Beyond Emotion): Emotional recognition
+-  Sobin Ghose und Arne Bernin (Beyond Emotion): Emotion AI
 
 ## Bisherige Vorträge
 
