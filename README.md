@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 16.09.2021, haben wir als Vortragende gewinnen können:
 
--  Cord Willhöft und Oliver Süme (Fieldfisher): KI & Medizintechnologie
+-  Dr. Cord Willhöft und Oliver Süme (Fieldfisher): KI & Medizintechnologie
 
 ## Weitere geplante Vorträge
     
