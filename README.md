@@ -13,17 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 16.09.2021, haben wir als Vortragende gewinnen können:
+Für Dienstag, 21.09.2021, haben wir als Vortragende gewinnen können:
 
--  Dr. Cord Willhöft und Oliver Süme (Fieldfisher): KI & Medizintechnologie
+-  Dr. Imke Sommer (Landesbeauftragte Datenschutz FHB): KI und Datenschutz
 
 ## Weitere geplante Vorträge
     
--  Dr. Imke Sommer (Landesbeauftragte Datenschutz FHB): KI und Datenschutz
 -  Sobin Ghose und Arne Bernin (Beyond Emotion): Emotion AI
 
 ## Bisherige Vorträge
 
+- 16.09.2021, Dr. Cord Willhöft und Oliver Süme (Fieldfisher): KI & Medizintechnologie
 - 14.09.2021, Volkmar Foelsch, Marc Jäger (Sellforte): Marketing Measurement with Bayesian Inference 
 - 09.09.2021, Elisabeth Weißbecker (Handelskammer Hamburg): KI-Standpunktepapier
 - 07.09.2021, Christian von den Brincken (Ströer): A glimpse at Crossroads: Megatrends im Deutschen Mediamarkt
