@@ -18,7 +18,6 @@ Für Donnerstag, 23.09.2021, haben wir als Vortragende gewinnen können:
 -  Sobin Ghose und Arne Bernin (Beyond Emotion): Emotion AI
 
 ## Weitere geplante Vorträge
-    
 -  Johnny Kessler (Uni Hamburg): Tagesschau Mining mit NLP in Python
 -  Franziska Wittleder: tbd
 -  Katja Michel & Andreas Driver (Fieldfisher): Big Data und künstliche Intelligenz im Finanzsektor: KI-Prinzipienpapier der BaFin
