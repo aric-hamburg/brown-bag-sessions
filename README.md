@@ -13,16 +13,23 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 21.09.2021, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 23.09.2021, haben wir als Vortragende gewinnen können:
 
--  Dr. Imke Sommer (Landesbeauftragte Datenschutz FHB): KI und Datenschutz
+-  Sobin Ghose und Arne Bernin (Beyond Emotion): Emotion AI
 
 ## Weitere geplante Vorträge
     
--  Sobin Ghose und Arne Bernin (Beyond Emotion): Emotion AI
+-  Johnny Kessler (Uni Hamburg): Tagesschau Mining mit NLP in Python
+-  Franziska Wittleder: tbd
+-  Katja Michel & Andreas Driver (Fieldfisher): Big Data und künstliche Intelligenz im Finanzsektor: KI-Prinzipienpapier der BaFin
+-  Prof. Dr. Randolf Isenberg (HAW): Responsible AI - Aus der Sicht Manager und Student - mit Beispiel zu Explainable AI
+-  Tim Schröder: Monitoring lernender Systeme
+-  Stephan Zimprich (Fieldfisher): Die EU-KI-Verordnung
+-  Max Blum (Tech Labs Group/Uni Hamburg): Rotten Fruits
 
 ## Bisherige Vorträge
 
+- 21.09.2021, Dr. Imke Sommer (Landesbeauftragte Datenschutz FHB): KI und Datenschutz
 - 16.09.2021, Dr. Cord Willhöft und Oliver Süme (Fieldfisher): KI & Medizintechnologie
 - 14.09.2021, Volkmar Foelsch, Marc Jäger (Sellforte): Marketing Measurement with Bayesian Inference 
 - 09.09.2021, Elisabeth Weißbecker (Handelskammer Hamburg): KI-Standpunktepapier
