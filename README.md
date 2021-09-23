@@ -18,7 +18,7 @@ Für Donnerstag, 28.09.2021, haben wir als Vortragenden gewinnen können:
 -  Johnny Kessler (Uni Hamburg): Tagesschau Mining mit NLP
 
 ## Weitere geplante Vorträge
--  Franziska Wittleder: tbd
+-  Franziska Wittleder (Merantix): AI for Sales
 -  Katja Michel & Andreas Driver (Fieldfisher): Big Data und künstliche Intelligenz im Finanzsektor: KI-Prinzipienpapier der BaFin
 -  Prof. Dr. Randolf Isenberg (HAW): Responsible AI - Aus der Sicht Manager und Student - mit Beispiel zu Explainable AI
 -  Tim Schröder: Monitoring lernender Systeme
