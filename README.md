@@ -13,12 +13,11 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 23.09.2021, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 28.09.2021, haben wir als Vortragenden gewinnen können:
 
--  Sobin Ghose und Arne Bernin (Beyond Emotion): Emotion AI
+-  Johnny Kessler (Uni Hamburg): Tagesschau Mining mit NLP
 
 ## Weitere geplante Vorträge
--  Johnny Kessler (Uni Hamburg): Tagesschau Mining mit NLP in Python
 -  Franziska Wittleder: tbd
 -  Katja Michel & Andreas Driver (Fieldfisher): Big Data und künstliche Intelligenz im Finanzsektor: KI-Prinzipienpapier der BaFin
 -  Prof. Dr. Randolf Isenberg (HAW): Responsible AI - Aus der Sicht Manager und Student - mit Beispiel zu Explainable AI
@@ -28,6 +27,7 @@ Für Donnerstag, 23.09.2021, haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
+- 23.09.2021, Sobin Ghose und Arne Bernin (Beyond Emotion): Emotion AI
 - 21.09.2021, Dr. Imke Sommer (Landesbeauftragte Datenschutz FHB): KI und Datenschutz
 - 16.09.2021, Dr. Cord Willhöft und Oliver Süme (Fieldfisher): KI & Medizintechnologie
 - 14.09.2021, Volkmar Foelsch, Marc Jäger (Sellforte): Marketing Measurement with Bayesian Inference 
