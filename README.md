@@ -21,9 +21,9 @@ Für Donnerstag, 28.09.2021, haben wir als Vortragenden gewinnen können:
 -  Franziska Wittleder (Merantix): AI for Sales
 -  Katja Michel & Andreas Driver (Fieldfisher): Big Data und künstliche Intelligenz im Finanzsektor: KI-Prinzipienpapier der BaFin
 -  Prof. Dr. Randolf Isenberg (HAW): Responsible AI - Aus der Sicht Manager und Student - mit Beispiel zu Explainable AI
--  Tim Schröder: Monitoring lernender Systeme
+-  Tim Schröder (Nordakademie): Monitoring lernender Systeme
 -  Stephan Zimprich (Fieldfisher): Die EU-KI-Verordnung
--  Max Blum (Tech Labs Group/Uni Hamburg): Rotten Fruits
+-  Max Blum (Tech Labs Hamburg Group): Rotten Fruits
 
 ## Bisherige Vorträge
 
