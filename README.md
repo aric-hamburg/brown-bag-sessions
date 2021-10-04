@@ -13,12 +13,11 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 30.09.2021, haben wir als Vortragende gewinnen können:
+Für Dienstag, 05.10.2021, haben wir als Vortragende gewinnen können:
 
--  Franziska Wittleder (Merantix): AI for Sales
+-  Katja Michel & Andreas Driver (Fieldfisher): Big Data und künstliche Intelligenz im Finanzsektor: KI-Prinzipienpapier der BaFin
 
 ## Weitere geplante Vorträge
--  Katja Michel & Andreas Driver (Fieldfisher): Big Data und künstliche Intelligenz im Finanzsektor: KI-Prinzipienpapier der BaFin
 -  Prof. Dr. Randolf Isenberg (HAW): Responsible AI - Aus der Sicht Manager und Student - mit Beispiel zu Explainable AI
 -  Tim Schröder (Nordakademie): Monitoring lernender Systeme
 -  Stephan Zimprich (Fieldfisher): Die EU-KI-Verordnung
@@ -26,6 +25,7 @@ Für Donnerstag, 30.09.2021, haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
+- 30.09.2021, Franziska Wittleder (Merantix): AI for Sales
 - 28.09.2021, Johnny Kessler (Uni Hamburg): Tagesschau Mining mit NLP
 - 23.09.2021, Sobin Ghose und Arne Bernin (Beyond Emotion): Emotion AI
 - 21.09.2021, Dr. Imke Sommer (Landesbeauftragte Datenschutz FHB): KI und Datenschutz
