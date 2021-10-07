@@ -13,17 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 07.10.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 12.10.2021, haben wir als Vortragenden gewinnen können:
 
--  Prof. Dr. Randolf Isenberg (HAW): Responsible AI - Aus der Sicht Manager und Student - mit Beispiel zu Explainable AI
+-  Tim Schröder (Nordakademie): Monitoring lernender Systeme
 
 ## Weitere geplante Vorträge
--  Tim Schröder (Nordakademie): Monitoring lernender Systeme
 -  Stephan Zimprich (Fieldfisher): Die EU-KI-Verordnung
 -  Max Blum (Tech Labs Hamburg Group): Rotten Fruits
 
 ## Bisherige Vorträge
 
+- 07.10.2021, Prof. Dr. Randolf Isenberg & Marius Overhage (HAW): Responsible AI - Aus der Sicht Manager und Student - mit Beispiel zu Explainable AI
 - 05.10.2021, Dr. Andreas Driver (Rechtsanwalt und Fintech Experte bei Fieldfisher): Big Data und künstliche Intelligenz im Finanzsektor: KI-Prinzipienpapier der BaFin
 - 30.09.2021, Franziska Wittleder (Merantix): AI for Sales
 - 28.09.2021, Johnny Kessler (Uni Hamburg): Tagesschau Mining mit NLP
