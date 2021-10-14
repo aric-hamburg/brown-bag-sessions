@@ -19,7 +19,7 @@ Für Dienstag, 19.10.2021, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
--  
+-  Frank Passing (Intuitive AI): ESG-Risk Fingerprint: Wie der Einsatz von KI & Big Data in der Nachhaltigkeit unterstützen kann
 
 ## Bisherige Vorträge
 
