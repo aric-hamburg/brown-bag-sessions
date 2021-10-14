@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 14.10.2021, haben wir als Vortragenden gewinnen können:
-
--  Stephan Zimprich (Fieldfisher): Die EU-KI-Verordnung
-
-## Weitere geplante Vorträge
+Für Dienstag, 19.10.2021, haben wir als Vortragenden gewinnen können:
 
 -  Max Blum (Tech Labs Hamburg Group): Rotten Fruits
 
+## Weitere geplante Vorträge
+
+-  
+
 ## Bisherige Vorträge
 
+- 14.10.2021, Stephan Zimprich (Fieldfisher): Die EU-KI-Verordnung
 - 12.10.2021, Tim Schröder (Nordakademie): Monitoring lernender Systeme
 - 07.10.2021, Prof. Dr. Randolf Isenberg & Marius Overhage (HAW): Responsible AI - Aus der Sicht Manager und Student - mit Beispiel zu Explainable AI
 - 05.10.2021, Dr. Andreas Driver (Rechtsanwalt und Fintech Experte bei Fieldfisher): Big Data und künstliche Intelligenz im Finanzsektor: KI-Prinzipienpapier der BaFin
