@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 19.10.2021, haben wir als Vortragenden gewinnen können:
-
--  Max Blum (Tech Labs Hamburg Group): Rotten Fruits
-
-## Weitere geplante Vorträge
+Für Dienstag, 21.10.2021, haben wir als Vortragenden gewinnen können:
 
 -  Frank Passing (Intuitive AI): ESG-Risk Fingerprint: Wie der Einsatz von KI & Big Data in der Nachhaltigkeit unterstützen kann
 
+## Weitere geplante Vorträge
+
+-  Lukas Lenz(Stromnetz Hamburg): Entwicklung und Implementierung eines Verfahrens zur Eigenverbrauchsoptimierung auf Haushaltsebene mittels Methoden des Maschinellen Lernens
+
 ## Bisherige Vorträge
 
+- 19.10.2021, Max Blum (Tech Labs Hamburg Group): Fruit Show
 - 14.10.2021, Stephan Zimprich (Fieldfisher): Die EU-KI-Verordnung
 - 12.10.2021, Tim Schröder (Nordakademie): Monitoring lernender Systeme
 - 07.10.2021, Prof. Dr. Randolf Isenberg & Marius Overhage (HAW): Responsible AI - Aus der Sicht Manager und Student - mit Beispiel zu Explainable AI
