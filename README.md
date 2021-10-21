@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 21.10.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 26.10.2021, haben wir als Vortragenden gewinnen können:
 
 -  Lukas Lenz(Stromnetz Hamburg): Entwicklung und Implementierung eines Verfahrens zur Eigenverbrauchsoptimierung auf Haushaltsebene mittels Methoden des Maschinellen Lernens
 
