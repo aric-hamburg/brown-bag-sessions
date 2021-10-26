@@ -13,16 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 26.10.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 28.10.2021, haben wir als Vortragende gewinnen können:
 
--  Lukas Lenz(Stromnetz Hamburg): Entwicklung und Implementierung eines Verfahrens zur Eigenverbrauchsoptimierung auf Haushaltsebene mittels Methoden des Maschinellen Lernens
+-  Marina Tchanetsky (ARIC e.V.): Das neue Regionale Zukunftszentrum Nord (RZZ Nord): KI-Zukunftsinitiative für KMU und Wegweiser in die digitale Zukunft
 
 ## Weitere geplante Vorträge
 
--  to be announced
+-  Reinhard Wagner (Tiba Management Beratung): WIE KÜNSTLICHE INTELLIGENZ (KI) DAS PROJEKTMANAGEMENT BEEINFLUSST
+-  Friedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Verwaltung -Rechtsstaatlichkeit und Rechtsschutz auf Augenhöhe?!
 
 ## Bisherige Vorträge
 
+- 26.10.2021, Lukas Lenz(Stromnetz Hamburg): Entwicklung und Implementierung eines Verfahrens zur Eigenverbrauchsoptimierung auf Haushaltsebene mittels Methoden des Maschinellen Lernens
 - 21.10.2021, Frank Passing (Intuitive AI): ESG-Risk Fingerprint: Wie der Einsatz von KI & Big Data in der Nachhaltigkeit unterstützen kann
 - 19.10.2021, Max Blum (Tech Labs Hamburg Group): Fruit Show
 - 14.10.2021, Stephan Zimprich (Fieldfisher): Die EU-KI-Verordnung
