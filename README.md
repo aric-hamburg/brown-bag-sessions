@@ -21,6 +21,7 @@ Für Donnerstag, 28.10.2021, haben wir als Vortragende gewinnen können:
 
 -  Reinhard Wagner (Tiba Management Beratung): WIE KÜNSTLICHE INTELLIGENZ (KI) DAS PROJEKTMANAGEMENT BEEINFLUSST
 -  Friedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Verwaltung -Rechtsstaatlichkeit und Rechtsschutz auf Augenhöhe?!
+-  Tim-Patrick Saß ((Lufthansa Industry Solutions): No cookies, no cry!
 
 ## Bisherige Vorträge
 
