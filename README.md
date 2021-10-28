@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 28.10.2021, haben wir als Vortragende gewinnen können:
+Für Dienstag, 02.11.2021, haben wir als Vortragenden gewinnen können:
 
--  Marina Tchanetsky (ARIC e.V.): Das neue Regionale Zukunftszentrum Nord (RZZ Nord): KI-Zukunftsinitiative für KMU und Wegweiser in die digitale Zukunft
+-  Reinhard Wagner (Tiba Management Beratung): Wie Künstliche Intelligenz (KI) das Projektmanagement beeinflusst 
 
 ## Weitere geplante Vorträge
 
--  Reinhard Wagner (Tiba Management Beratung): WIE KÜNSTLICHE INTELLIGENZ (KI) DAS PROJEKTMANAGEMENT BEEINFLUSST
 -  Friedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Verwaltung -Rechtsstaatlichkeit und Rechtsschutz auf Augenhöhe?!
 -  Tim-Patrick Saß ((Lufthansa Industry Solutions): No cookies, no cry!
 
 ## Bisherige Vorträge
 
+- 28.10.2021, Marina Tchanetsky & Werner Bogula (ARIC e.V.): Das neue Regionale Zukunftszentrum Nord (RZZ Nord): KI-Zukunftsinitiative für KMU und Wegweiser in die digitale Zukunft
 - 26.10.2021, Lukas Lenz(Stromnetz Hamburg): Entwicklung und Implementierung eines Verfahrens zur Eigenverbrauchsoptimierung auf Haushaltsebene mittels Methoden des Maschinellen Lernens
 - 21.10.2021, Frank Passing (Intuitive AI): ESG-Risk Fingerprint: Wie der Einsatz von KI & Big Data in der Nachhaltigkeit unterstützen kann
 - 19.10.2021, Max Blum (Tech Labs Hamburg Group): Fruit Show
