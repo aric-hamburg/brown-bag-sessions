@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnertsag, 09.11.2021, haben wir als Vortragenden gewinnen können:
 
--   Tim-Patrick Saß ((Lufthansa Industry Solutions): No cookies, no cry!
+-   Tim-Patrick Saß (Lufthansa Industry Solutions): No cookies, no cry!
 
 ## Weitere geplante Vorträge
 
