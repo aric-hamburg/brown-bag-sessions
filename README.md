@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnertsag, 04.11.2021, haben wir als Vortragenden gewinnen können:
+Für Donnertsag, 09.11.2021, haben wir als Vortragenden gewinnen können:
 
--   Friedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Verwaltung -Rechtsstaatlichkeit und Rechtsschutz auf Augenhöhe?!
+-   Tim-Patrick Saß ((Lufthansa Industry Solutions): No cookies, no cry!
 
 ## Weitere geplante Vorträge
 
--  Tim-Patrick Saß ((Lufthansa Industry Solutions): No cookies, no cry!
+-  Omid Mogharian (Natix): Privacy in Computer Vision
 
 ## Bisherige Vorträge
 
+- 04.11.2021, Friedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Verwaltung -Rechtsstaatlichkeit und Rechtsschutz auf Augenhöhe?!
 - 02.11.2021, Reinhard Wagner (Tiba Management Beratung): Wie Künstliche Intelligenz (KI) das Projektmanagement beeinflusst
 - 28.10.2021, Marina Tchanetsky & Werner Bogula (ARIC e.V.): Das neue Regionale Zukunftszentrum Nord (RZZ Nord): KI-Zukunftsinitiative für KMU und Wegweiser in die digitale Zukunft
 - 26.10.2021, Lukas Lenz(Stromnetz Hamburg): Entwicklung und Implementierung eines Verfahrens zur Eigenverbrauchsoptimierung auf Haushaltsebene mittels Methoden des Maschinellen Lernens
