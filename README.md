@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 09.11.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 11.11.2021, haben wir als Vortragenden gewinnen können:
 
--   Tim-Patrick Saß (Lufthansa Industry Solutions): No cookies, no cry!
+-  Omid Mogharian (Natix): Privacy in Computer Vision 
 
 ## Weitere geplante Vorträge
 
--  Omid Mogharian (Natix): Privacy in Computer Vision
+-  Muriel Max (Peltarion): Resource-efficient image segmentation using self-supervision and active learning
 
 ## Bisherige Vorträge
 
+- 09.11.2021, Tim-Patrick Saß (Lufthansa Industry Solutions): No cookie, no cry!
 - 04.11.2021, Friedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Verwaltung -Rechtsstaatlichkeit und Rechtsschutz auf Augenhöhe?!
 - 02.11.2021, Reinhard Wagner (Tiba Management Beratung): Wie Künstliche Intelligenz (KI) das Projektmanagement beeinflusst
 - 28.10.2021, Marina Tchanetsky & Werner Bogula (ARIC e.V.): Das neue Regionale Zukunftszentrum Nord (RZZ Nord): KI-Zukunftsinitiative für KMU und Wegweiser in die digitale Zukunft
