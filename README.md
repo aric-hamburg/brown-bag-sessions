@@ -13,16 +13,21 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 11.11.2021, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 18.11.2021, haben wir als Vortragenden gewinnen können:
 
--  Omid Mogharian (Natix): Privacy in Computer Vision 
+-  Florian Luft (ATOS): 
 
 ## Weitere geplante Vorträge
 
--  Muriel Max (Peltarion): Resource-efficient image segmentation using self-supervision and active learning
+-  Prof. Dr. Randolf Isenberg (HAW Hamburg), Steven Dehlan (ARIC e.V.): Datenarchitektur in Unternehmen als Basis für eine erfolgreiche KI-Strategie
+-  Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
+-  Steffen Maas (Ginko Analytics): KI-Studie im Energiesektor
+-  Jan Schnedler (ARIC e.V.): ARIC-Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 16.11.2021, Muriel Max (Peltarion): Resource-efficient image segmentation using self-supervision and active learning
+- 11.11.2021, Omid Mogharian (Natix): Privacy in Computer Vision
 - 09.11.2021, Tim-Patrick Saß (Lufthansa Industry Solutions): No cookie, no cry!
 - 04.11.2021, Friedrich-Joachim Mehmel (Präsident des Hamburgischen Oberverwaltungsgerichts a.D.): KI und Verwaltung -Rechtsstaatlichkeit und Rechtsschutz auf Augenhöhe?!
 - 02.11.2021, Reinhard Wagner (Tiba Management Beratung): Wie Künstliche Intelligenz (KI) das Projektmanagement beeinflusst
