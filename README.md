@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 18.11.2021, haben wir als Vortragenden gewinnen können:
 
--  Florian Luft (ATOS): 
+-  Florian Luft (ATOS): tba.
 
 ## Weitere geplante Vorträge
 
