@@ -13,20 +13,21 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 23.11.2021, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 25.11.2021, haben wir als Vortragenden gewinnen können:
 
--  Elisabeth Weißbecker (ARIC e.V.): Monty Hall Dilemma - Mathe vs. Intuition
+-  Johannes Lauer (Hamburger Hochbahn): KI MEETS ITS – Die Digitalisierung des Verkehrs in Hamburg
 
 ## Weitere geplante Vorträge
 
--  Johannes Lauer (Hamburger Hochbahn): KI MEETS ITS – Die Digitalisierung des Verkehrs in Hamburg
--  Prof. Dr. Randolf Isenberg (HAW Hamburg), Steven Dehlan (ARIC e.V.): Datenarchitektur in Unternehmen als Basis für eine erfolgreiche KI-Strategie
+-  Prof. Dr. Randolf Isenberg (HAW Hamburg), Steven Dehlan (ARIC e.V.): Ist Data Driven das neue Lean?
 -  Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
 -  Steffen Maas (Ginko Analytics): KI-Studie im Energiesektor
 -  Jan Schnedler (ARIC e.V.): ARIC-Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+
+- 23.11.2021, Elisabeth Weißbecker (ARIC e.V.): Monty Hall Dilemma - Mathe vs. Intuition
 - 18.11.2021, Florian Luft (ATOS): Textzusammenfassungen mit Transformer-Modellen
 - 16.11.2021, Muriel Max (Peltarion): Resource-efficient image segmentation using self-supervision and active learning
 - 11.11.2021, Omid Mogharian (Natix): Privacy in Computer Vision
