@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 30.11.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 30.11.2021, haben wir als Vortragende gewinnen können:
 
 -  Prof. Dr. Randolf Isenberg (HAW Hamburg), Steven Dehlan (ARIC e.V.): Ist Data Driven das neue Lean?
 
