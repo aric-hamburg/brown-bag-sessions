@@ -15,16 +15,16 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 30.11.2021, haben wir als Vortragende gewinnen können:
 
--  Prof. Dr. Randolf Isenberg (HAW Hamburg), Steven Dehlan (ARIC e.V.): Ist Data Driven das neue Lean?
+-  Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
 
 ## Weitere geplante Vorträge
 
--  Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
 -  Steffen Maas (Ginko Analytics): KI-Studie im Energiesektor
 -  Jan Schnedler (ARIC e.V.): ARIC-Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 30.11.2021, Prof. Dr. Randolf Isenberg (HAW Hamburg), Steven Dehlan (ARIC e.V.): Ist Data Driven das neue Lean?
 - 25.11.2021, Johannes Lauer (Hamburger Hochbahn): KI MEETS ITS – Die Digitalisierung des Verkehrs in Hamburg
 - 23.11.2021, Elisabeth Weißbecker (ARIC e.V.): Monty Hall Dilemma - Mathe vs. Intuition
 - 18.11.2021, Florian Luft (ATOS): Textzusammenfassungen mit Transformer-Modellen
