@@ -13,17 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 02.12.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 07.12.2021, haben wir als Vortragenden gewinnen können:
 
--  Dr. Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
+-  Steffen Maas (Ginko Analytics): KI-Studie im Energiesektor
 
 ## Weitere geplante Vorträge
 
--  Steffen Maas (Ginko Analytics): KI-Studie im Energiesektor
 -  Jan Schnedler (ARIC e.V.): ARIC-Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 02.12.2021, Dr. Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
 - 30.11.2021, Prof. Dr. Randolf Isenberg (HAW Hamburg), Steven Dehlan (ARIC e.V.): Ist Data Driven das neue Lean?
 - 25.11.2021, Johannes Lauer (Hamburger Hochbahn): KI MEETS ITS – Die Digitalisierung des Verkehrs in Hamburg
 - 23.11.2021, Elisabeth Weißbecker (ARIC e.V.): Monty Hall Dilemma - Mathe vs. Intuition
