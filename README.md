@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 30.11.2021, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 02.12.2021, haben wir als Vortragenden gewinnen können:
 
--  Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
+-  Dr. Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
 
 ## Weitere geplante Vorträge
 
