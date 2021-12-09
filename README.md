@@ -13,17 +13,21 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 09.12.2021, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 18.01.2022, haben wir als Vortragende gewinnen können:
 
--  Jan Schnedler (ARIC e.V.): ARIC-Halbjahresrückblick
+-  Stephanie von Riegen (HITeC e.V.): Towards a traffic understanding by ontology-based rules
 
 ## Weitere geplante Vorträge
 
--  tba.
+- Javier Canales: You can’t fix what you can’t see. - Discussing the role of Earth Observation in monitoring environmental change. The case of Climate TRACE
+- Markus Iske (Fieldfisher): Arbeitsrechtliche Implikationen beim Einsatz von KI-Systemen
+- Yannik Gaebel (Uni Lübeck): Hybrides Lernen mit simulierten Daten
+- Meik Vogler (Yours Truly): State of AI im Marketing
 
 ## Bisherige Vorträge
 
-- 07.02.2021, Jan Ruhnke (ARIC e.V.): 
+- 09.12.2021, Jan Schnedler (ARIC e.V.): ARIC-Halbjahresrückblick
+- 07.02.2021, Jan Ruhnke (ARIC e.V.): Vorstellung Roboterprojekt AIMEE
 - 02.12.2021, Dr. Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
 - 30.11.2021, Prof. Dr. Randolf Isenberg (HAW Hamburg), Steven Dehlan (ARIC e.V.): Ist Data Driven das neue Lean?
 - 25.11.2021, Johannes Lauer (Hamburger Hochbahn): KI MEETS ITS – Die Digitalisierung des Verkehrs in Hamburg
