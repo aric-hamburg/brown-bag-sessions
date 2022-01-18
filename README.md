@@ -19,7 +19,6 @@ Für Donnerstag, 20.01.2022, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- 
 - Markus Iske (Fieldfisher): Arbeitsrechtliche Implikationen beim Einsatz von KI-Systemen
 - Yannik Gaebel (Uni Lübeck): Hybrides Lernen mit simulierten Daten
 - Meik Vogler (Yours Truly): State of AI im Marketing
