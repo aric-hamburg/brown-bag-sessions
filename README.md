@@ -13,19 +13,21 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 18.01.2022, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 20.01.2022, haben wir als Vortragenden gewinnen können:
 
--  Stephanie von Riegen (HITeC e.V.): Towards a traffic understanding by ontology-based rules
+-  Javier Canales: You can’t fix what you can’t see. - Discussing the role of Earth Observation in monitoring environmental change. The case of Climate TRACE
 
 ## Weitere geplante Vorträge
 
-- Javier Canales: You can’t fix what you can’t see. - Discussing the role of Earth Observation in monitoring environmental change. The case of Climate TRACE
+- 
 - Markus Iske (Fieldfisher): Arbeitsrechtliche Implikationen beim Einsatz von KI-Systemen
 - Yannik Gaebel (Uni Lübeck): Hybrides Lernen mit simulierten Daten
 - Meik Vogler (Yours Truly): State of AI im Marketing
 
 ## Bisherige Vorträge
 
+- 18.01.2022, Stephanie von Riegen (HITeC e.V.): Towards a traffic understanding by ontology-based rules
+**********************************************************************************************************************************************
 - 09.12.2021, Jan Schnedler (ARIC e.V.): ARIC-Halbjahresrückblick
 - 07.02.2021, Jan Ruhnke (ARIC e.V.): Vorstellung Roboterprojekt AIMEE
 - 02.12.2021, Dr. Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
