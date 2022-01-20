@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 20.01.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 25.01.2022, haben wir als Vortragenden gewinnen können:
 
--  Javier Canales: You can’t fix what you can’t see. - Discussing the role of Earth Observation in monitoring environmental change. The case of Climate TRACE
+-  Markus Iske (Fieldfisher): Arbeitsrechtliche Implikationen beim Einsatz von KI-Systemen
 
 ## Weitere geplante Vorträge
 
-- Markus Iske (Fieldfisher): Arbeitsrechtliche Implikationen beim Einsatz von KI-Systemen
 - Yannik Gaebel & Maciej Maciejak (Uni Lübeck): Hybrides Lernen mit simulierten Daten
 - Meik Vogler (Yours Truly): State of AI im Marketing
 
 ## Bisherige Vorträge
 
+- 20.01.2022, Javier Canales: You can’t fix what you can’t see. - Discussing the role of Earth Observation in monitoring environmental change. The case of Climate TRACE
 - 18.01.2022, Stephanie von Riegen (HITeC e.V.): Towards a traffic understanding by ontology-based rules
 **********************************************************************************************************************************************
 - 09.12.2021, Jan Schnedler (ARIC e.V.): ARIC-Halbjahresrückblick
