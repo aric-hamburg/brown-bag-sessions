@@ -13,17 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 25.01.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 27.01.2022, haben wir als Vortragende gewinnen können:
 
--  Markus Iske (Fieldfisher): Arbeitsrechtliche Implikationen beim Einsatz von KI-Systemen
+-  Yannik Gaebel & Maciej Maciejak (Uni Lübeck): Hybrides Lernen mit simulierten Daten
 
 ## Weitere geplante Vorträge
 
-- Yannik Gaebel & Maciej Maciejak (Uni Lübeck): Hybrides Lernen mit simulierten Daten
 - Meik Vogler (Yours Truly): State of AI im Marketing
 
 ## Bisherige Vorträge
 
+- 25.01.2022, Markus Iske (Fieldfisher): Arbeitsrechtliche Implikationen beim Einsatz von KI-Systemen
 - 20.01.2022, Javier Canales: You can’t fix what you can’t see. - Discussing the role of Earth Observation in monitoring environmental change. The case of Climate TRACE
 - 18.01.2022, Stephanie von Riegen (HITeC e.V.): Towards a traffic understanding by ontology-based rules
 **********************************************************************************************************************************************
