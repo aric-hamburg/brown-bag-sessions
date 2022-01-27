@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 27.01.2022, haben wir als Vortragende gewinnen können:
 
--  Yannik Gaebel & Maciej Maciejak (Uni Lübeck): Hybrides Lernen mit simulierten Daten
+-  Yannik Gaebel (Uni Lübeck) & Maciej Maciejak (Panda): Hybrides Lernen mit simulierten Daten
 
 ## Weitere geplante Vorträge
 
