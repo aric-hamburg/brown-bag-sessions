@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 01.02.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 01.02.2022, haben wir als Vortragenden gewinnen können:
 
 -  Meik Vogler (Yours Truly): State of AI im Marketing
 
