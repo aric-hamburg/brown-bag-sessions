@@ -19,7 +19,7 @@ Für Dienstag, 01.02.2022, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- tba
+- Paul-Louis Pröve (Tensora): Fairness in AI
 
 ## Bisherige Vorträge
 
