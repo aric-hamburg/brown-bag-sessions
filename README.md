@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 01.02.2022, haben wir als Vortragenden gewinnen können:
+Für Donnertsag, 03.02.2022, haben wir als Vortragenden gewinnen können:
 
--  Meik Vogler (Yours Truly): State of AI im Marketing
+- Paul-Louis Pröve (Tensora): Fairness in AI 
 
 ## Weitere geplante Vorträge
 
-- Paul-Louis Pröve (Tensora): Fairness in AI
+- tba
 
 ## Bisherige Vorträge
 
+- 01.02.2022, Meik Vogler (Yours Truly): State of AI im Marketing
 - 27.01.2022, Yannik Gaebel (Uni Lübeck) & Maciej Maciejak (Panda): Hybrides Lernen mit simulierten Daten
 - 25.01.2022, Markus Iske (Fieldfisher): Arbeitsrechtliche Implikationen beim Einsatz von KI-Systemen
 - 20.01.2022, Javier Canales: You can’t fix what you can’t see. - Discussing the role of Earth Observation in monitoring environmental change. The case of Climate TRACE
