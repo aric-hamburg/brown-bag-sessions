@@ -19,7 +19,7 @@ Für Donnertsag, 03.02.2022, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- tba
+- Simon Frentrup (neusta): KI-basiertes Frühwarnsystem vor Starkregen und urbanen Sturzfluten (KIWASUS)
 
 ## Bisherige Vorträge
 
