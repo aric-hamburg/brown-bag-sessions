@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnertsag, 03.02.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 08.02.2022, haben wir als Vortragenden gewinnen können:
 
-- Paul-Louis Pröve (Tensora): Fairness in AI 
+-  Simon Frentrup (neusta): KI-basiertes Frühwarnsystem vor Starkregen und urbanen Sturzfluten (KIWASUS)
 
 ## Weitere geplante Vorträge
 
-- Simon Frentrup (neusta): KI-basiertes Frühwarnsystem vor Starkregen und urbanen Sturzfluten (KIWASUS)
+- tba.
 
 ## Bisherige Vorträge
 
+- 03.02.2022, Paul-Louis Pröve (Tensora): Fairness in AI
 - 01.02.2022, Meik Vogler (Yours Truly): State of AI im Marketing
 - 27.01.2022, Yannik Gaebel (Uni Lübeck) & Maciej Maciejak (Panda): Hybrides Lernen mit simulierten Daten
 - 25.01.2022, Markus Iske (Fieldfisher): Arbeitsrechtliche Implikationen beim Einsatz von KI-Systemen
