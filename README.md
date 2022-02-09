@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 08.02.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 10.02.2022, haben wir als Vortragenden gewinnen können:
 
 -  Joseph Doetsch (Lufthansa Industrie Solutions): Quantencomputing aus dem Forschungslabor in die Praxis
 
