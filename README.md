@@ -15,14 +15,15 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 08.02.2022, haben wir als Vortragenden gewinnen können:
 
--  Simon Frentrup (neusta): KI-basiertes Frühwarnsystem vor Starkregen und urbanen Sturzfluten (KIWASUS)
+-  Joseph Doetsch (Lufthansa Industrie Solutions): Quantencomputing aus dem Forschungslabor in die Praxis
 
 ## Weitere geplante Vorträge
 
-- tba.
+- Dr. Jan Schoenke (LMIS AG): Autowerkstatt 4.0 - Ein Gaia X Use Case
 
 ## Bisherige Vorträge
 
+- 09.02.2022, Simon Frentrup (neusta): KI-basiertes Frühwarnsystem vor Starkregen und urbanen Sturzfluten (KIWASUS)
 - 03.02.2022, Paul-Louis Pröve (Tensora): Fairness in AI
 - 01.02.2022, Meik Vogler (Yours Truly): State of AI im Marketing
 - 27.01.2022, Yannik Gaebel (Uni Lübeck) & Maciej Maciejak (Panda): Hybrides Lernen mit simulierten Daten
