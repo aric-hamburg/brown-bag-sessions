@@ -13,17 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 10.02.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 15.02.2022, haben wir als Vortragenden gewinnen können:
 
--  Joseph Doetsch (Lufthansa Industrie Solutions): Quantencomputing aus dem Forschungslabor in die Praxis
+-  Dr. Jan Schoenke (LMIS AG): Autowerkstatt 4.0 - Ein Gaia X Use Case
 
 ## Weitere geplante Vorträge
 
-- Dr. Jan Schoenke (LMIS AG): Autowerkstatt 4.0 - Ein Gaia X Use Case
+- tba.
 
 ## Bisherige Vorträge
 
-- 09.02.2022, Simon Frentrup (neusta): KI-basiertes Frühwarnsystem vor Starkregen und urbanen Sturzfluten (KIWASUS)
+- 10.02.2022, Joseph Doetsch (Lufthansa Industrie Solutions): Quantencomputing aus dem Forschungslabor in die Praxis
+- 08.02.2022, Simon Frentrup (neusta): KI-basiertes Frühwarnsystem vor Starkregen und urbanen Sturzfluten (KIWASUS)
 - 03.02.2022, Paul-Louis Pröve (Tensora): Fairness in AI
 - 01.02.2022, Meik Vogler (Yours Truly): State of AI im Marketing
 - 27.01.2022, Yannik Gaebel (Uni Lübeck) & Maciej Maciejak (Panda): Hybrides Lernen mit simulierten Daten
