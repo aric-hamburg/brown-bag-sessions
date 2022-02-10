@@ -19,11 +19,13 @@ Für Dienstag, 15.02.2022, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- tba.
+- René Wöstmann (IPS TU Dortmund): Machinelles Lernen in der Getränkeindustrie
+- Merten Stender (TU Hamburg): Physics Informed Learning
+- Janis Meyer: DeepDoctection -Analyse von komplex strukturierten Dokumenten
 
 ## Bisherige Vorträge
 
-- 10.02.2022, Joseph Doetsch (Lufthansa Industrie Solutions): Quantencomputing aus dem Forschungslabor in die Praxis
+- 10.02.2022, Dr. Joseph Doetsch (Lufthansa Industrie Solutions): Quantencomputing aus dem Forschungslabor in die Praxis
 - 08.02.2022, Simon Frentrup (neusta): KI-basiertes Frühwarnsystem vor Starkregen und urbanen Sturzfluten (KIWASUS)
 - 03.02.2022, Paul-Louis Pröve (Tensora): Fairness in AI
 - 01.02.2022, Meik Vogler (Yours Truly): State of AI im Marketing
