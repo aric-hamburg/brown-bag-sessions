@@ -21,7 +21,7 @@ Für Dienstag, 15.02.2022, haben wir als Vortragenden gewinnen können:
 
 - René Wöstmann (IPS TU Dortmund): Machinelles Lernen in der Getränkeindustrie
 - Merten Stender (TU Hamburg): Physics Informed Learning
-- Janis Meyer: DeepDoctection -Analyse von komplex strukturierten Dokumenten
+- Janis Meyer: deepdoctection -Analyse von komplex strukturierten Dokumenten
 
 ## Bisherige Vorträge
 
