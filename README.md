@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 15.02.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 17.02.2022, haben wir als Vortragende gewinnen können:
 
--  Dr. Jan Schoenke (LMIS AG): Autowerkstatt 4.0 - Ein Gaia X Use Case
+-  Olaf Schäfers & Thomas Müller (Cloudsupplies): KI Readiness Check
 
 ## Weitere geplante Vorträge
 
@@ -25,6 +25,7 @@ Für Dienstag, 15.02.2022, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 15.02.2022, Dr. Jan Schoenke (LMIS AG): Autowerkstatt 4.0 - Ein Gaia X Use Case
 - 10.02.2022, Dr. Joseph Doetsch (Lufthansa Industrie Solutions): Quantencomputing aus dem Forschungslabor in die Praxis
 - 08.02.2022, Simon Frentrup (neusta): KI-basiertes Frühwarnsystem vor Starkregen und urbanen Sturzfluten (KIWASUS)
 - 03.02.2022, Paul-Louis Pröve (Tensora): Fairness in AI
