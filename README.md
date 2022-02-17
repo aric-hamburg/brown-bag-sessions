@@ -24,7 +24,7 @@ Für Dienstag, 22.02.2022, haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
-- 17.02.2022, Olaf Schäfers & Thomas Müller (Cloudsupplies): KI Readiness Check
+- 17.02.2022, Olaf Schäfers & Thomas Müller (Cloudsupplies) & Steven Dehlan (ARIC e.V.): KI Readiness Check
 - 15.02.2022, Dr. Jan Schoenke (LMIS AG): Autowerkstatt 4.0 - Ein Gaia X Use Case
 - 10.02.2022, Dr. Joseph Doetsch (Lufthansa Industrie Solutions): Quantencomputing aus dem Forschungslabor in die Praxis
 - 08.02.2022, Simon Frentrup (neusta): KI-basiertes Frühwarnsystem vor Starkregen und urbanen Sturzfluten (KIWASUS)
