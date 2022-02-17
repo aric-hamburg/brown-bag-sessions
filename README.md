@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 17.02.2022, haben wir als Vortragende gewinnen können:
+Für Dienstag, 22.02.2022, haben wir als Vortragende gewinnen können:
 
--  Olaf Schäfers & Thomas Müller (Cloudsupplies): KI Readiness Check
+-  René Wöstmann (IPS TU Dortmund): Machinelles Lernen in der Getränkeindustrie
 
 ## Weitere geplante Vorträge
 
-- René Wöstmann (IPS TU Dortmund): Machinelles Lernen in der Getränkeindustrie
 - Merten Stender (TU Hamburg): Physics Informed Learning
 - Janis Meyer: deepdoctection -Analyse von komplex strukturierten Dokumenten
 
 ## Bisherige Vorträge
 
+- 17.02.2022, Olaf Schäfers & Thomas Müller (Cloudsupplies): KI Readiness Check
 - 15.02.2022, Dr. Jan Schoenke (LMIS AG): Autowerkstatt 4.0 - Ein Gaia X Use Case
 - 10.02.2022, Dr. Joseph Doetsch (Lufthansa Industrie Solutions): Quantencomputing aus dem Forschungslabor in die Praxis
 - 08.02.2022, Simon Frentrup (neusta): KI-basiertes Frühwarnsystem vor Starkregen und urbanen Sturzfluten (KIWASUS)
