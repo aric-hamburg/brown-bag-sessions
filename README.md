@@ -23,7 +23,7 @@ Für Dienstag, 01.03.2022, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
-- 24.02.2022, Merten Stender (TU Hamburg): Physics Informed Learning
+- 24.02.2022, Merten Stender (TU Hamburg): Physics-Informed Machine Learning
 - 22.02.2022, René Wöstmann (IPS TU Dortmund): Machinelles Lernen in der Getränkeindustrie
 - 17.02.2022, Olaf Schäfers & Thomas Müller (Cloudsupplies) & Steven Dehlan (ARIC e.V.): KI Readiness Check
 - 15.02.2022, Dr. Jan Schoenke (LMIS AG): Autowerkstatt 4.0 - Ein Gaia X Use Case
