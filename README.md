@@ -13,17 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 24.02.2022, haben wir als Vortragende gewinnen können:
+Für Dienstag, 01.03.2022, haben wir als Vortragenden gewinnen können:
 
--  Merten Stender (TU Hamburg): Physics Informed Learning
+-  Janis Meyer: deepdoctection -Analyse von komplex strukturierten Dokumenten
 
 ## Weitere geplante Vorträge
 
-- 
-- Janis Meyer: deepdoctection -Analyse von komplex strukturierten Dokumenten
+- tba.
 
 ## Bisherige Vorträge
 
+- 24.02.2022, Merten Stender (TU Hamburg): Physics Informed Learning
 - 22.02.2022, René Wöstmann (IPS TU Dortmund): Machinelles Lernen in der Getränkeindustrie
 - 17.02.2022, Olaf Schäfers & Thomas Müller (Cloudsupplies) & Steven Dehlan (ARIC e.V.): KI Readiness Check
 - 15.02.2022, Dr. Jan Schoenke (LMIS AG): Autowerkstatt 4.0 - Ein Gaia X Use Case
