@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 01.03.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 03.03.2022, haben wir als Vortragende gewinnen können:
 
--  Janis Meyer: deepdoctection -Analyse von komplex strukturierten Dokumenten
+-  Dalia Moniat (Uni Hamburg): Deep Fakes
 
 ## Weitere geplante Vorträge
 
@@ -23,6 +23,7 @@ Für Dienstag, 01.03.2022, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 01.03.2022, Janis Meyer: deepdoctection -Analyse von komplex strukturierten Dokumenten
 - 24.02.2022, Merten Stender (TU Hamburg): Physics-Informed Machine Learning
 - 22.02.2022, René Wöstmann (IPS TU Dortmund): Machinelles Lernen in der Getränkeindustrie
 - 17.02.2022, Olaf Schäfers & Thomas Müller (Cloudsupplies) & Steven Dehlan (ARIC e.V.): KI Readiness Check
