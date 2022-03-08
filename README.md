@@ -23,7 +23,7 @@ Janna Lipenkova (Anacode): AI-Monitor
 
 ## Bisherige Vorträge
 
-- 08.03.2022, Niza Muddin Syed (Digilab/LSBG): Roadlytics
+- 08.03.2022, Nizam Uddin Syed (Digilab/LSBG): Roadlytics
 - 03.03.2022, Dalia Moniat (Uni Hamburg): Deep Fakes
 - 01.03.2022, Janis Meyer: deepdoctection -Analyse von komplex strukturierten Dokumenten
 - 24.02.2022, Merten Stender (TU Hamburg): Physics-Informed Machine Learning
