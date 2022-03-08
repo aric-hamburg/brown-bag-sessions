@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 08.03.2022, haben wir als Vortragenden gewinnen können:
+Für Donnertsag, 10.03.2022, haben wir als Vortragende gewinnen können:
 
-Nizamuddin Syed (Digilab/LSBG): Roadlytics
+Janna Lipenkova (Anacode): AI-Monitor
 
 ## Weitere geplante Vorträge
 
-- Janna Lipenkova (Anacode): AI-Monitor
+- tbd
 
 ## Bisherige Vorträge
 
+- 08.03.2022, Niza Muddin Syed (Digilab/LSBG): Roadlytics
 - 03.03.2022, Dalia Moniat (Uni Hamburg): Deep Fakes
 - 01.03.2022, Janis Meyer: deepdoctection -Analyse von komplex strukturierten Dokumenten
 - 24.02.2022, Merten Stender (TU Hamburg): Physics-Informed Machine Learning
