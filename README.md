@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnertsag, 10.03.2022, haben wir als Vortragende gewinnen können:
+Für Dienstag, 15.03.2022, haben wir als Vortragenden gewinnen können:
 
-Janna Lipenkova (Anacode): AI-Monitor
+Jonathan Mall (Neuroflash): Wie du mit KI-Copywriting Software schneller bessere Texte schreibst
 
 ## Weitere geplante Vorträge
 
@@ -23,6 +23,7 @@ Janna Lipenkova (Anacode): AI-Monitor
 
 ## Bisherige Vorträge
 
+- 10.03.2022, Janna Lipenkova (Anacode): AI-Monitor
 - 08.03.2022, Nizam Uddin Syed (Digilab/LSBG): Roadlytics
 - 03.03.2022, Dalia Moniat (Uni Hamburg): Deep Fakes
 - 01.03.2022, Janis Meyer: deepdoctection -Analyse von komplex strukturierten Dokumenten
