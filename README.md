@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 17.03.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 22.03.2022, haben wir als Vortragenden gewinnen können:
 
-Anthony Cavin (Panda): Extract the structure of datasets with AI and graph theory
+
 
 ## Weitere geplante Vorträge
 
@@ -23,6 +23,7 @@ Anthony Cavin (Panda): Extract the structure of datasets with AI and graph theor
 
 ## Bisherige Vorträge
 
+- 17.03.2022, Anthony Cavin (Panda): Extract the structure of datasets with AI and graph theory
 - 15.03.2022, Jonathan Mall (Neuroflash): Wie du mit KI-Copywriting Software schneller bessere Texte schreibst
 - 10.03.2022, Janna Lipenkova (Anacode): AI-Monitor
 - 08.03.2022, Nizam Uddin Syed (Digilab/LSBG): Roadlytics
