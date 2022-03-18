@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 22.03.2022, haben wir als Vortragenden gewinnen können:
 
-
+Jonas Wilinski (Sitra Spedition): Projekt Cargofaces
 
 ## Weitere geplante Vorträge
 
