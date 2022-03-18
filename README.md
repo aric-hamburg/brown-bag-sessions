@@ -43,7 +43,7 @@ Jonas Wilinski (Sitra Spedition): Projekt Cargofaces
 - 18.01.2022, Stephanie von Riegen (HITeC e.V.): Towards a traffic understanding by ontology-based rules
 **********************************************************************************************************************************************
 - 09.12.2021, Jan Schnedler (ARIC e.V.): ARIC-Halbjahresrückblick
-- 07.02.2021, Jan Ruhnke (ARIC e.V.): Vorstellung Roboterprojekt AIMEE
+- 07.12.2021, Jan Ruhnke (ARIC e.V.): Vorstellung Roboterprojekt AIMEE
 - 02.12.2021, Dr. Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
 - 30.11.2021, Prof. Dr. Randolf Isenberg (HAW Hamburg), Steven Dehlan (ARIC e.V.): Ist Data Driven das neue Lean?
 - 25.11.2021, Johannes Lauer (Hamburger Hochbahn): KI MEETS ITS – Die Digitalisierung des Verkehrs in Hamburg
