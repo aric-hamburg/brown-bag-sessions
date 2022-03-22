@@ -13,16 +13,24 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 22.03.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 24.03.2022, haben wir als Vortragende gewinnen können:
 
-Jonas Wilinski (Sitra Spedition): Projekt Cargofaces
+Dr. Annelie Pentenrieder (IIT Berlin): Interdisziplinär erklärbare KI gestalten – ist es den Aufwand von Beteiligungsformaten wert?
 
 ## Weitere geplante Vorträge
 
-- tbd
+- Prof. Dr. Nick Gehrke (zapliance): KI unter Kontrolle: KI Compliance im Unternehmen organisieren
+- Dr. Bahne Sievers (Fieldfisher): Metaverse – Virtueller Raum, virtuelles Recht?
+- Dr. Lothar Hotz (HITeC e.V.): Kunst und KI
+- Lars Hofferbert (ARIC e.V.): Vorstellung AI.Startup.Hub
+- Prof. Dr. Peter Zentel (LMU München): KI für Menschen mit geistigen Behinderungen
+- Prof. Dr. Henner Gärtner (HAW Hamburg): KI-basierte Pfützenerkennung zur Navigation für Blinde
+- Janna Lipenkova (Anacode): Charakterisierung und Identifikation von Trendthemen mit AI
+- Hendrik Lume (Nortal): KI-Entscheidungshilfe in der estnischen Arbeitsagentur
 
 ## Bisherige Vorträge
 
+- 22.03.2022, Jonas Wilinski (Sitra Spedition): Projekt Cargofaces
 - 17.03.2022, Anthony Cavin (Panda): Extract the structure of datasets with AI and graph theory
 - 15.03.2022, Jonathan Mall (Neuroflash): Wie du mit KI-Copywriting Software schneller bessere Texte schreibst
 - 10.03.2022, Janna Lipenkova (Anacode): AI-Monitor
