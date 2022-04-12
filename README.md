@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 12.04.2022, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 14.04.2022, haben wir als Vortragende gewinnen können:
 
-Prof. Dr. Peter Zentel (LMU München): KI für Menschen mit geistigen Behinderungen
+Prof. Dr. Henner Gärtner (HAW Hamburg): KI-basierte Pfützenerkennung zur Navigation für Blinde
 
 ## Weitere geplante Vorträge
 
-- Prof. Dr. Henner Gärtner (HAW Hamburg): KI-basierte Pfützenerkennung zur Navigation für Blinde
 - Janna Lipenkova (Anacode): Charakterisierung und Identifikation von Trendthemen mit AI
 - Hendrik Lume (Nortal): KI-Entscheidungshilfe in der estnischen Arbeitsagentur
 
 ## Bisherige Vorträge
 
+- 12.04.2022, Prof. Dr. Peter Zentel (LMU München): KI für Menschen mit geistigen Behinderungen
 - 07.04.2022, Lars Hofferbert (ARIC e.V.): Vorstellung AI.Startup.Hub
 - 05.04.2022, Dr. Lothar Hotz (HITeC e.V.): Kunst und KI
 - 31.03.2022, Dr. Bahne Sievers (Fieldfisher): Metaverse – Virtueller Raum, virtuelles Recht?
