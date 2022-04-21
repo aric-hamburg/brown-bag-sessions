@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 19.04.2022, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 21.04.2022, haben wir als Vortragenden gewinnen können:
 
 Kilian Kluge (Inlinity AI): Explainable AI als Schlüssel zu erfolgreichem KI-Einsatz
 
