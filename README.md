@@ -15,14 +15,16 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 19.04.2022, haben wir als Vortragende gewinnen können:
 
-Janna Lipenkova (Anacode): Charakterisierung und Identifikation von Trendthemen mit AI
+Kilian Kluge (Inlinity AI): Explainable AI als Schlüssel zu erfolgreichem KI-Einsatz
 
 ## Weitere geplante Vorträge
 
 - Hendrik Lume (Nortal): KI-Entscheidungshilfe in der estnischen Arbeitsagentur
+- Christopher Gahler (Umlaut): Welchen Beitrag können Mobilitätsdaten in der Kriminalitätsforschung liefern?
 
 ## Bisherige Vorträge
 
+- 19.04.2022, Janna Lipenkova (Anacode): Charakterisierung und Identifikation von Trendthemen mit AI
 - 14.04.2022, Prof. Dr. Henner Gärtner (HAW Hamburg): KI-basierte Pfützenerkennung zur Navigation für Blinde
 - 12.04.2022, Prof. Dr. Peter Zentel (LMU München): KI für Menschen mit geistigen Behinderungen
 - 07.04.2022, Lars Hofferbert (ARIC e.V.): Vorstellung AI.Startup.Hub
