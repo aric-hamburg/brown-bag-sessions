@@ -13,17 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 21.04.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 28.04.2022, haben wir als Vortragenden gewinnen können:
 
-Kilian Kluge (Inlinity AI): Explainable AI als Schlüssel zu erfolgreichem KI-Einsatz
+Christopher Gahler (Umlaut): Welchen Beitrag können Mobilitätsdaten in der Kriminalitätsforschung liefern?
 
 ## Weitere geplante Vorträge
 
 - Hendrik Lume (Nortal): KI-Entscheidungshilfe in der estnischen Arbeitsagentur
-- Christopher Gahler (Umlaut): Welchen Beitrag können Mobilitätsdaten in der Kriminalitätsforschung liefern?
+- 
 
 ## Bisherige Vorträge
 
+- 26.04.2022, Werner Bogula (ARIC e.V.): KISS - Künstliche Intelligenz für Schüler*innen und Student*innen
+- 21.04.2022, Kilian Kluge (Inlinity AI): Explainable AI als Schlüssel zu erfolgreichem KI-Einsatz
 - 19.04.2022, Janna Lipenkova (Anacode): Charakterisierung und Identifikation von Trendthemen mit AI
 - 14.04.2022, Prof. Dr. Henner Gärtner (HAW Hamburg): KI-basierte Pfützenerkennung zur Navigation für Blinde
 - 12.04.2022, Prof. Dr. Peter Zentel (LMU München): KI für Menschen mit geistigen Behinderungen
