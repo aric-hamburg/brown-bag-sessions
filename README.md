@@ -19,8 +19,11 @@ Christopher Gahler (Umlaut): Welchen Beitrag können Mobilitätsdaten in der Kri
 
 ## Weitere geplante Vorträge
 
+- Lukas Lenz (Stromnetz Hamburg): Ersatzwertbildung in der Energieversorgung
+- Olga Lysak (LembergSolutions): tbd.
+- Barbara Banczyk (Landesanstalt Medien NRW): KIVI
+- Manuel Wanisch (Twaice): Twaice
 - Hendrik Lume (Nortal): KI-Entscheidungshilfe in der estnischen Arbeitsagentur
-- 
 
 ## Bisherige Vorträge
 
