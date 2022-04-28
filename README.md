@@ -13,13 +13,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 28.04.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 03.05.2022, haben wir als Vortragenden gewinnen können:
 
-Christopher Gahler (Umlaut): Welchen Beitrag können Mobilitätsdaten in der Kriminalitätsforschung liefern?
+Lukas Lenz (Stromnetz Hamburg): Ersatzwertbildung in der Energieversorgung
 
 ## Weitere geplante Vorträge
 
-- Lukas Lenz (Stromnetz Hamburg): Ersatzwertbildung in der Energieversorgung
 - Olga Lysak (LembergSolutions): tbd.
 - Barbara Banczyk (Landesanstalt Medien NRW): KIVI
 - Manuel Wanisch (Twaice): Twaice
@@ -27,6 +26,7 @@ Christopher Gahler (Umlaut): Welchen Beitrag können Mobilitätsdaten in der Kri
 
 ## Bisherige Vorträge
 
+- 28.04.2022, Christopher Gahler (Umlaut): Welchen Beitrag können Mobilitätsdaten in der Kriminalitätsforschung liefern?
 - 26.04.2022, Werner Bogula (ARIC e.V.): KISS - Künstliche Intelligenz für Schüler*innen und Student*innen
 - 21.04.2022, Kilian Kluge (Inlinity AI): Explainable AI als Schlüssel zu erfolgreichem KI-Einsatz
 - 19.04.2022, Janna Lipenkova (Anacode): Charakterisierung und Identifikation von Trendthemen mit AI
