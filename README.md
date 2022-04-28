@@ -19,7 +19,7 @@ Lukas Lenz (Stromnetz Hamburg): Ersatzwertbildung in der Energieversorgung
 
 ## Weitere geplante Vorträge
 
-- Olga Lysak (LembergSolutions): tbd.
+- Olga Lysak (Lemberg Solutions): AI Sales Forecasting in einer Lebensmittelkette
 - Barbara Banczyk (Landesanstalt Medien NRW): KIVI
 - Manuel Wanisch (Twaice): Twaice
 - Hendrik Lume (Nortal): KI-Entscheidungshilfe in der estnischen Arbeitsagentur
