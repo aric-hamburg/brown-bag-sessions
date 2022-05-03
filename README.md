@@ -13,13 +13,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 03.05.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 05.05.2022, haben wir als Vortragende gewinnen können:
 
-Lukas Lenz (Stromnetz Hamburg): Ersatzwertbildung in der Energieversorgung
+Olga Lysak (Lemberg Solutions): AI Sales Forecasting in einer Lebensmittelkette
 
 ## Weitere geplante Vorträge
 
-- Olga Lysak (Lemberg Solutions): AI Sales Forecasting in einer Lebensmittelkette
 - Barbara Banczyk (Landesanstalt Medien NRW): KIVI
 - Manuel Wanisch (Twaice): Twaice
 - Paul-Louis Pröve (Tensora): Neural Implicit Representations with NeRF
@@ -27,6 +26,7 @@ Lukas Lenz (Stromnetz Hamburg): Ersatzwertbildung in der Energieversorgung
 
 ## Bisherige Vorträge
 
+- 03.05.2022, Lukas Lenz (Stromnetz Hamburg): Ersatzwertbildung in der Energieversorgung
 - 28.04.2022, Christopher Gahler (Umlaut): Welchen Beitrag können Mobilitätsdaten in der Kriminalitätsforschung liefern?
 - 26.04.2022, Werner Bogula (ARIC e.V.): KISS - Künstliche Intelligenz für Schüler*innen und Student*innen
 - 21.04.2022, Kilian Kluge (Inlinity AI): Explainable AI als Schlüssel zu erfolgreichem KI-Einsatz
