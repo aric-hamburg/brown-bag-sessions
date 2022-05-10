@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 10.05.2022, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 12.05.2022, haben wir als Vortragenden gewinnen können:
 
-Barbara Banczyk (Landesanstalt Medien NRW): KIVI
+Manuel Wanisch (Twaice): Twaice
 
 ## Weitere geplante Vorträge
 
@@ -25,6 +25,7 @@ Barbara Banczyk (Landesanstalt Medien NRW): KIVI
 
 ## Bisherige Vorträge
 
+- 10.05.2022, Barbara Banczyk (Landesanstalt Medien NRW): KIVI
 - 05.05.2022, Olga Lysak (Lemberg Solutions): AI Sales Forecasting in einer Lebensmittelkette
 - 03.05.2022, Lukas Lenz (Stromnetz Hamburg): Ersatzwertbildung in der Energieversorgung
 - 28.04.2022, Christopher Gahler (Umlaut): Welchen Beitrag können Mobilitätsdaten in der Kriminalitätsforschung liefern?
