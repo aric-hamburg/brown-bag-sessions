@@ -13,19 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 17.05.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 19.05.2022, haben wir als Vortragenden gewinnen können:
 
-Paul-Louis Pröve (Tensora): Neural Implicit Representations with NeRF
+Joshua Mähl (Nordakademie Alumni): Vorgehensmodell zur Informationsextraktion aus Verträgen
 
 ## Weitere geplante Vorträge
 
-- Joshua Mähl (Nordakademie Alumni): Vorgehensmodell zur Informationsextraktion aus Verträgen
 - Aleksander Fegel (Ailio): KI im Bereich Reparatur und Service von Messgeräten
 - Wael Alkhatib (Sopra Steria): KI-gestütztes Einwendungsmanagement
 - Hendrik Lume (Nortal): KI-Entscheidungshilfe in der estnischen Arbeitsagentur
 
 ## Bisherige Vorträge
 
+- 17.05.2022, Paul-Louis Pröve (Tensora): Neural Implicit Representations with NeRF
 - 12.05.2022, Manuel Wanisch (Twaice): Twaice
 - 10.05.2022, Barbara Banczyk (Landesanstalt Medien NRW): KIVI
 - 05.05.2022, Olga Lysak (Lemberg Solutions): AI Sales Forecasting in einer Lebensmittelkette
