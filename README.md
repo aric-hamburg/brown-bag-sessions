@@ -20,6 +20,8 @@ Paul-Louis Pröve (Tensora): Neural Implicit Representations with NeRF
 ## Weitere geplante Vorträge
 
 - Joshua Mähl (Nordakademie Alumni): Vorgehensmodell zur Informationsextraktion aus Verträgen
+- Aleksander Fegel (Ailio): KI im Bereich Reparatur und Service von Messgeräten
+- Wael Alkhatib (Sopra Steria): KI-gestütztes Einwendungsmanagement
 - Hendrik Lume (Nortal): KI-Entscheidungshilfe in der estnischen Arbeitsagentur
 
 ## Bisherige Vorträge
