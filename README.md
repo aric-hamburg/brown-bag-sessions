@@ -13,17 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 24.05.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 02.06.2022, haben wir als Vortragenden gewinnen können:
 
-Aleksander Fegel (Ailio): KI im Bereich Reparatur und Service von Messgeräten
+Wael Alkhatib (Sopra Steria): KI-gestütztes Einwendungsmanagement
 
 ## Weitere geplante Vorträge
 
-- Wael Alkhatib (Sopra Steria): KI-gestütztes Einwendungsmanagement
 - Hendrik Lume (Nortal): KI-Entscheidungshilfe in der estnischen Arbeitsagentur
 
 ## Bisherige Vorträge
 
+- 31.05.2022, -,-
+- 24.05.2022, Aleksander Fegel (Ailio): KI im Bereich Reparatur und Service von Messgeräten
 - 19.05.2022, Joshua Mähl (Nordakademie Alumni): Vorgehensmodell zur Informationsextraktion aus Verträgen
 - 17.05.2022, Paul-Louis Pröve (Tensora): Neural Implicit Representations with NeRF
 - 12.05.2022, Manuel Wanisch (Twaice): Twaice
