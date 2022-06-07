@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 09.06.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 09.06.2022, haben wir als Vortragende gewinnen können:
 
 Lisa Hanny/Dr. Martin Weibelzahl (Fraunhofer FIT/): Flexibilisierung durch Digitalisierung: Wo KI einen Beitrag zum Gelingen der Energiewende leisten kann
 
