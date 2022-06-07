@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 02.06.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 09.06.2022, haben wir als Vortragenden gewinnen können:
 
-Wael Alkhatib (Sopra Steria): KI-gestütztes Einwendungsmanagement
+Lisa Hanny/Dr. Martin Weibelzahl (Fraunhofer FIT/): Flexibilisierung durch Digitalisierung: Wo KI einen Beitrag zum Gelingen der Energiewende leisten kann
 
 ## Weitere geplante Vorträge
 
@@ -23,6 +23,8 @@ Wael Alkhatib (Sopra Steria): KI-gestütztes Einwendungsmanagement
 
 ## Bisherige Vorträge
 
+- 07.06.2022, Dr. Bahne Sievers (Fieldfisher): KI und IP Rechte
+- 02.06.2022, Wael Alkhatib (Sopra Steria): KI-gestütztes Einwendungsmanagement
 - 31.05.2022, -,-
 - 24.05.2022, Aleksander Fegel (Ailio): KI im Bereich Reparatur und Service von Messgeräten
 - 19.05.2022, Joshua Mähl (Nordakademie Alumni): Vorgehensmodell zur Informationsextraktion aus Verträgen
