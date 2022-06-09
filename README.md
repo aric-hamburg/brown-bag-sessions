@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 09.06.2022, haben wir als Vortragende gewinnen können:
+Für Dienstag, 14.06.2022, haben wir als Vortragenden gewinnen können:
 
-Lisa Hanny/Dr. Martin Weibelzahl (Fraunhofer FIT/): Flexibilisierung durch Digitalisierung: Wo KI einen Beitrag zum Gelingen der Energiewende leisten kann
+Mahendran Reddy (Fehrmann GmbH): AI+M at the cusp of materials and Artificial Intelligence
 
 ## Weitere geplante Vorträge
 
-- Hendrik Lume (Nortal): KI-Entscheidungshilfe in der estnischen Arbeitsagentur
+- tba.
 
 ## Bisherige Vorträge
 
+- 09.06.2022, Lisa Hanny/Dr. Martin Weibelzahl (Fraunhofer FIT): Flexibilisierung durch Digitalisierung: Wo KI einen Beitrag zum Gelingen der Energiewende leisten kann
 - 07.06.2022, Dr. Bahne Sievers (Fieldfisher): KI und IP Rechte
 - 02.06.2022, Wael Alkhatib (Sopra Steria): KI-gestütztes Einwendungsmanagement
 - 31.05.2022, -,-
