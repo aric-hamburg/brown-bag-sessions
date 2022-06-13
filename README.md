@@ -23,7 +23,7 @@ Mahendran Reddy (Fehrmann GmbH): AI+M at the cusp of materials and Artificial In
 - Werner Bogula (ARIC): Creative AI: Kann AI kreativ sein?
 - Anil Berger (Mindpeak): AI für Precision Medicine Histology
 - Katharina Kampen (Sopra Steria): AI Ethics Quick Check
-- Prof. Dr. Christoph SChmidt (Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg):Der zukünftige Einsatz von Künstlicher Intelligenz in der deutschen Finanzverwaltung – Entscheidungsunterstützung im Rahmen der hybriden Fallbearbeitung
+- Prof. Dr. Christoph Schmidt (Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg):Der zukünftige Einsatz von Künstlicher Intelligenz in der deutschen Finanzverwaltung – Entscheidungsunterstützung im Rahmen der hybriden Fallbearbeitung
 - Jan Schnedler (ARIC): ARIC Halbjahresrückblick
 
 ## Bisherige Vorträge
