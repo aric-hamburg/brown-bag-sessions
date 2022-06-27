@@ -13,21 +13,21 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 14.06.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 28.06.2022, haben wir als Vortragende gewinnen können:
 
-Mahendran Reddy (Fehrmann GmbH): AI+M at the cusp of materials and Artificial Intelligence
+Katharina Kampen (Sopra Steria): AI Ethics Quick Check
 
 ## Weitere geplante Vorträge
 
-- Prof. Dr. Axel Ngonga (Databorg): Intro zu Knowledge Graphs
-- Werner Bogula (ARIC): Creative AI: Kann AI kreativ sein?
-- Dr. Anil Berger (Mindpeak): AI für Precision Medicine Histology
-- Katharina Kampen (Sopra Steria): AI Ethics Quick Check
 - Prof. Dr. Christoph Schmidt (Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg):Der zukünftige Einsatz von Künstlicher Intelligenz in der deutschen Finanzverwaltung – Entscheidungsunterstützung im Rahmen der hybriden Fallbearbeitung
 - Jan Schnedler (ARIC): ARIC Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 23.06.2022, Dr. Anil Berger (Mindpeak): AI für Precision Medicine Histology
+- 21.06.2022, Werner Bogula (ARIC): Creative AI: Kann AI kreativ sein?
+- 16.06.2022,Prof. Dr. Axel Ngonga (Databorg): Intro zu Knowledge Graphs
+- 14.06.2022, Mahendran Reddy (Fehrmann GmbH): AI+M at the cusp of materials and Artificial Intelligence
 - 09.06.2022, Lisa Hanny/Dr. Martin Weibelzahl (Fraunhofer FIT): Flexibilisierung durch Digitalisierung: Wo KI einen Beitrag zum Gelingen der Energiewende leisten kann
 - 07.06.2022, Dr. Bahne Sievers (Fieldfisher): KI und IP Rechte
 - 02.06.2022, Wael Alkhatib (Sopra Steria): KI-gestütztes Einwendungsmanagement
