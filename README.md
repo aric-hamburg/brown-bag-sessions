@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 28.06.2022, haben wir als Vortragende gewinnen können:
 
-Katharina Kampen (Sopra Steria): AI Ethics Quick Check
+
 
 ## Weitere geplante Vorträge
 
@@ -24,9 +24,10 @@ Katharina Kampen (Sopra Steria): AI Ethics Quick Check
 
 ## Bisherige Vorträge
 
+- 28.06.2022, Katharina Kampen (Sopra Steria): AI Ethics Quick Check
 - 23.06.2022, Dr. Anil Berger (Mindpeak): AI für Precision Medicine Histology
 - 21.06.2022, Werner Bogula (ARIC): Creative AI: Kann AI kreativ sein?
-- 16.06.2022,Prof. Dr. Axel Ngonga (Databorg): Intro zu Knowledge Graphs
+- 16.06.2022, Prof. Dr. Axel Ngonga (Databorg): Intro zu Knowledge Graphs
 - 14.06.2022, Mahendran Reddy (Fehrmann GmbH): AI+M at the cusp of materials and Artificial Intelligence
 - 09.06.2022, Lisa Hanny/Dr. Martin Weibelzahl (Fraunhofer FIT): Flexibilisierung durch Digitalisierung: Wo KI einen Beitrag zum Gelingen der Energiewende leisten kann
 - 07.06.2022, Dr. Bahne Sievers (Fieldfisher): KI und IP Rechte
