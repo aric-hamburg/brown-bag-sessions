@@ -13,13 +13,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 28.06.2022, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 30.06.2022, haben wir als Vortragenden gewinnen können:
 
-
+Prof. Dr. Christoph Schmidt (Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg):Der zukünftige Einsatz von Künstlicher Intelligenz in der deutschen Finanzverwaltung – Entscheidungsunterstützung im Rahmen der hybriden Fallbearbeitung
 
 ## Weitere geplante Vorträge
 
-- Prof. Dr. Christoph Schmidt (Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg):Der zukünftige Einsatz von Künstlicher Intelligenz in der deutschen Finanzverwaltung – Entscheidungsunterstützung im Rahmen der hybriden Fallbearbeitung
 - Jan Schnedler (ARIC): ARIC Halbjahresrückblick
 
 ## Bisherige Vorträge
