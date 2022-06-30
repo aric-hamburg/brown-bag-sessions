@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 30.06.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 05.07.2022, haben wir als Vortragenden gewinnen können:
 
-Prof. Dr. Christoph Schmidt (Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg):Der zukünftige Einsatz von Künstlicher Intelligenz in der deutschen Finanzverwaltung – Entscheidungsunterstützung im Rahmen der hybriden Fallbearbeitung
+Jan Schnedler (ARIC): ARIC Halbjahresrückblick
 
 ## Weitere geplante Vorträge
 
-- Jan Schnedler (ARIC): ARIC Halbjahresrückblick
+Sommerpause. Los geht's wieder am 23.08
 
 ## Bisherige Vorträge
 
+- 30.06.2022, Prof. Dr. Christoph Schmidt (Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg):Der zukünftige Einsatz von Künstlicher Intelligenz in der deutschen Finanzverwaltung – Entscheidungsunterstützung im Rahmen der hybriden Fallbearbeitung
 - 28.06.2022, Katharina Kampen (Sopra Steria): AI Ethics Quick Check
 - 23.06.2022, Dr. Anil Berger (Mindpeak): AI für Precision Medicine Histology
 - 21.06.2022, Werner Bogula (ARIC): Creative AI: Kann AI kreativ sein?
