@@ -13,13 +13,13 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 05.07.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 23.08.2022, haben wir als Vortragenden gewinnen können:
 
-Jan Schnedler (ARIC): ARIC Halbjahresrückblick
+Anton Wiehe (Adalab)
 
 ## Weitere geplante Vorträge
 
-Sommerpause. Los geht's wieder am 23.08
+tbd.
 
 ## Bisherige Vorträge
 
