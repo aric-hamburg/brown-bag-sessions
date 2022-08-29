@@ -13,16 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 23.08.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 30.08.2022, haben wir als Vortragenden gewinnen können:
 
-Anton Wiehe (Adalab)
+Yakup Özkardes-Cheung (ContentAItools): Schreiben, ohne zu schreiben - KI generierter Content
 
 ## Weitere geplante Vorträge
 
-tbd.
+Prof. Dr. Sven Crone (iquast): AI Forecasting in Industry
+Prof Dr. Simon Scheidegger (Nuvolos.Cloud): Deep Learning for climate change mitigation
 
 ## Bisherige Vorträge
 
+- 25.08.2022, Indruk Velthut (Nortal): Entscheidungshilfe in der estnischen Arbeitsagentur
+- 23.08.2022, Anton Wiehe (Adalab): Blutanalyse 2.0
 - 30.06.2022, Prof. Dr. Christoph Schmidt (Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg):Der zukünftige Einsatz von Künstlicher Intelligenz in der deutschen Finanzverwaltung – Entscheidungsunterstützung im Rahmen der hybriden Fallbearbeitung
 - 28.06.2022, Katharina Kampen (Sopra Steria): AI Ethics Quick Check
 - 23.06.2022, Dr. Anil Berger (Mindpeak): AI für Precision Medicine Histology
