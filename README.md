@@ -20,6 +20,7 @@ Yakup Özkardes-Cheung (ContentAItools): Schreiben, ohne zu schreiben - KI gener
 ## Weitere geplante Vorträge
 
 Prof. Dr. Sven Crone (iquast): AI Forecasting in Industry
+
 Prof Dr. Simon Scheidegger (Nuvolos.Cloud): Deep Learning for climate change mitigation
 
 ## Bisherige Vorträge
