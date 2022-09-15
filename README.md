@@ -19,11 +19,11 @@ Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsp
 
 ## Weitere geplante Vorträge
 
-tba.
+Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil II)
 
 ## Bisherige Vorträge
 
-- 15.09.2022, Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle
+- 15.09.2022, Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil I)
 - 13.09.2022, Falko Spiller (CGI): Was ist Quantum-Computing? Faszination, Hype, und Stand der Dinge
 - 08.09.2022, Brown Bag Talks & Award auf der Solutions 2022
 - 06.09.2022, Prof Dr. Simon Scheidegger (Nuvolos.Cloud): Deep Learning for climate change mitigation
