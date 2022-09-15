@@ -13,16 +13,21 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 01.09.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 20.09.2022, haben wir als Vortragenden gewinnen können:
 
-Prof. Dr. Sven Crone (iquast): AI Forecasting in Industry
+Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
 
 ## Weitere geplante Vorträge
 
-Prof Dr. Simon Scheidegger (Nuvolos.Cloud): Deep Learning for climate change mitigation
+tba.
 
 ## Bisherige Vorträge
 
+- 15.09.2022, Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle
+- 13.09.2022, Falko Spiller (CGI): Was ist Quantum-Computing? Faszination, Hype, und Stand der Dinge
+- 08.09.2022, Brown Bag Talks & Award auf der Solutions 2022
+- 06.09.2022, Prof Dr. Simon Scheidegger (Nuvolos.Cloud): Deep Learning for climate change mitigation
+- 01.09.2022, Prof. Dr. Sven Crone (iquast): AI Forecasting in Industry
 - 30.08.2022, Yakup Özkardes-Cheung (ContentAItools): Schreiben, ohne zu schreiben - KI generierter Content
 - 25.08.2022, Indruk Velthut (Nortal): Entscheidungshilfe in der estnischen Arbeitsagentur
 - 23.08.2022, Anton Wiehe (Adalab): Blutanalyse 2.0
