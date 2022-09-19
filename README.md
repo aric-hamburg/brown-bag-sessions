@@ -15,11 +15,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 20.09.2022, haben wir als Vortragenden gewinnen können:
 
-Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
+Deep Learning zur Generierung von Vektorgrafiken
 
 ## Weitere geplante Vorträge
 
 Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil II)
+Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
 
 ## Bisherige Vorträge
 
