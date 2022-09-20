@@ -13,17 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 20.09.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 22.09.2022, haben wir als Vortragenden gewinnen können:
 
-Deep Learning zur Generierung von Vektorgrafiken
+Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil II)
 
 ## Weitere geplante Vorträge
 
-Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil II)
 Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
 
 ## Bisherige Vorträge
 
+- 20.09.2022, Pascal Wichmann (ARIC e.V.): Deep Learning zur Generierung von Vektorgrafiken
 - 15.09.2022, Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil I)
 - 13.09.2022, Falko Spiller (CGI): Was ist Quantum-Computing? Faszination, Hype, und Stand der Dinge
 - 08.09.2022, Brown Bag Talks & Award auf der Solutions 2022
