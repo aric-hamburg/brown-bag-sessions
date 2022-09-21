@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 22.09.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 22.09.2022, haben wir als Vortragenden gewinnen können:
 
 Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil II)
 
