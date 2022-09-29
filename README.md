@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 29.09.2022, haben wir als Vortragenden gewinnen können:
 
-Anselm Fehnker (ARIC e.V.): Clustering Verfahren
+Anselm Fehnker (ARIC e.V.): Überblick zu Clusteringverfahren
 
 ## Weitere geplante Vorträge
 
