@@ -13,16 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 22.09.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 29.09.2022, haben wir als Vortragenden gewinnen können:
 
-Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil II)
+Anselm Fehnker (ARIC e.V.): Clustering Verfahren
 
 ## Weitere geplante Vorträge
 
+Anton Wiehe (Adalab): Entwicklung eines KI-generierten Musikvideos
 Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
 
 ## Bisherige Vorträge
 
+- 22.09.2022, Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil II)
 - 20.09.2022, Pascal Wichmann (ARIC e.V.): Deep Learning zur Generierung von Vektorgrafiken
 - 15.09.2022, Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil I)
 - 13.09.2022, Falko Spiller (CGI): Was ist Quantum-Computing? Faszination, Hype, und Stand der Dinge
