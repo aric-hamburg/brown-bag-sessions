@@ -13,17 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 29.09.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 04.10.2022, haben wir als Vortragenden gewinnen können:
 
-Anselm Fehnker (ARIC e.V.): Überblick zu Clusteringverfahren
+Anton Wiehe (Adalab): Entwicklung eines KI-generierten Musikvideos
 
 ## Weitere geplante Vorträge
 
-Anton Wiehe (Adalab): Entwicklung eines KI-generierten Musikvideos
+
 Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
 
 ## Bisherige Vorträge
 
+- 27.09.2022, Anselm Fehnker (ARIC e.V.): Überblick zu Clusteringverfahren
 - 22.09.2022, Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil II)
 - 20.09.2022, Pascal Wichmann (ARIC e.V.): Deep Learning zur Generierung von Vektorgrafiken
 - 15.09.2022, Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil I)
