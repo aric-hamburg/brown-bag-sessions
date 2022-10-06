@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 04.10.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 11.10.2022, haben wir als Vortragenden gewinnen können:
 
-Anton Wiehe (Adalab): Entwicklung eines KI-generierten Musikvideos
+Stefan Holst (Techlabs): VisioBike - Biking made safer
 
 ## Weitere geplante Vorträge
 
@@ -24,6 +24,8 @@ Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsp
 
 ## Bisherige Vorträge
 
+- 06.10.2022, Pascal Wichmann (ARIC e.V.): Towards automatically generating supply chain maps from natural language text
+- 04.10.2022, Anton Wiehe (Adalab): Entwicklung eines KI-generierten Musikvideos
 - 27.09.2022, Anselm Fehnker (ARIC e.V.): Überblick zu Clusteringverfahren
 - 22.09.2022, Dennis Hillemann (Fieldfisher): Fördermittel für KI-Projekte und Technologiegeschäftsmodelle (Teil II)
 - 20.09.2022, Pascal Wichmann (ARIC e.V.): Deep Learning zur Generierung von Vektorgrafiken
