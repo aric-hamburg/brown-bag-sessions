@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 11.10.2022, haben wir als Vortragenden gewinnen können:
 
-Stefan Holst (Techlabs): VisioBike - Biking made safer
+Stefan Holst & Elias Hühne (Techlabs): VisioBike - Biking made safer
 
 ## Weitere geplante Vorträge
 
