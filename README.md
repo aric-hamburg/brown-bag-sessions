@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 13.10.2022, haben wir als Vortragenden gewinnen können:
 
-Dr. Andreas Martens (Qurix): 
+Werner Bogula (ARIC e.V.): Prompting is the new coding, writing, painting. Content creation mit AI
 
 ## Weitere geplante Vorträge
 
