@@ -13,16 +13,24 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 13.10.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 18.10.2022, haben wir als Vortragenden gewinnen können:
 
-Werner Bogula (ARIC e.V.): Prompting is the new coding, writing, painting. Content creation mit AI
+André Sprenger (Photonic Insights): Edge ML - Aktuelle Herausforderungen und Ansätze
 
 ## Weitere geplante Vorträge
 
+Simon Frentrup (neusta): Daten zur Prognose von Niederschlag und Überflutungen in KIWaSuS
+Dr. Lothar Hotz (HITeC e.V.): Iterative Constraint Reasoning - Dynamic Constraint Reasoning in Time Space
+Ramin Ataei (Justaddsugar): tba.
+Janna Lipenkova (Anacode): tba.
+Sven Crone (iquast): tba.
 Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
+Andreas Martens (Qurix): tba.
+Anton Wiehe (Adalab): Hirndruck Vorhersage
 
 ## Bisherige Vorträge
 
+- 13.10.2022, Werner Bogula (ARIC e.V.): Prompting is the new coding, writing, painting. Content creation mit AI
 - 11.10.2022, Stefan Holst & Elias Hühne (Techlabs): VisioBike - Biking made safer
 - 06.10.2022, Pascal Wichmann (ARIC e.V.): Towards automatically generating supply chain maps from natural language text
 - 04.10.2022, Anton Wiehe (Adalab): Entwicklung eines KI-generierten Musikvideos
