@@ -13,13 +13,11 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 18.10.2022, haben wir als Vortragenden gewinnen können:
-
-André Sprenger (Photonic Insights): Edge ML - Aktuelle Herausforderungen und Ansätze
-
-## Weitere geplante Vorträge
+Für Donnerstag, 20.10.2022, haben wir als Vortragenden gewinnen können:
 
 Simon Frentrup (neusta): Daten zur Prognose von Niederschlag und Überflutungen in KIWaSuS
+
+## Weitere geplante Vorträge
 
 Dr. Lothar Hotz (HITeC e.V.): Iterative Constraint Reasoning - Dynamic Constraint Reasoning in Time Space
 
@@ -37,6 +35,7 @@ Anton Wiehe (Adalab): Hirndruck Vorhersage
 
 ## Bisherige Vorträge
 
+- 18.10.2022, André Sprenger (Photonic Insights): Edge ML - Aktuelle Herausforderungen und Ansätze
 - 13.10.2022, Werner Bogula (ARIC e.V.): Prompting is the new coding, writing, painting. Content creation mit AI
 - 11.10.2022, Stefan Holst & Elias Hühne (Techlabs): VisioBike - Biking made safer
 - 06.10.2022, Pascal Wichmann (ARIC e.V.): Towards automatically generating supply chain maps from natural language text
