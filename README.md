@@ -20,12 +20,19 @@ André Sprenger (Photonic Insights): Edge ML - Aktuelle Herausforderungen und An
 ## Weitere geplante Vorträge
 
 Simon Frentrup (neusta): Daten zur Prognose von Niederschlag und Überflutungen in KIWaSuS
+
 Dr. Lothar Hotz (HITeC e.V.): Iterative Constraint Reasoning - Dynamic Constraint Reasoning in Time Space
+
 Ramin Ataei (Justaddsugar): How AI changes the Agency World
+
 Janna Lipenkova (Anacode): tba.
+
 Sven Crone (iquast): tba.
+
 Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
+
 Andreas Martens (Qurix): tba.
+
 Anton Wiehe (Adalab): Hirndruck Vorhersage
 
 ## Bisherige Vorträge
