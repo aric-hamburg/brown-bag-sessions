@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 27.10.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 01.11.2022, haben wir als Vortragenden gewinnen können:
 
 Janna Lipenkova (Anacode): Comparing state-of-the-art approaches to Text2SQL
 
