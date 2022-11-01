@@ -15,12 +15,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 27.10.2022, haben wir als Vortragenden gewinnen können:
 
-Ramin Ataei (Justaddsugar): How AI changes the Agency World
+Janna Lipenkova (Anacode): Comparing state-of-the-art approaches to Text2SQL
 
 ## Weitere geplante Vorträge
-
-
-Janna Lipenkova (Anacode): tba.
 
 Sven Crone (iquast): tba.
 
@@ -32,6 +29,7 @@ Anton Wiehe (Adalab): Hirndruck Vorhersage
 
 ## Bisherige Vorträge
 
+- 27.10.2022, Ramin Ataei (Justaddsugar): How AI changes the Agency World
 - 25.10.2022, Dr. Lothar Hotz (HITeC e.V.): Iterative Constraint Reasoning - Dynamic Constraint Reasoning in Time Space
 - 20.10.2022, Simon Frentrup (neusta analytics & insights): Daten zur Prognose von Niederschlag und Überflutungen in KIWaSuS
 - 18.10.2022, André Sprenger (Photonic Insights): Edge ML - Aktuelle Herausforderungen und Ansätze
