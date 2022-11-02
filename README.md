@@ -19,13 +19,13 @@ Jonathan Mall (Neuroflash): Texter aufgepasst - aus deinen Gedanken werden autom
 
 ## Weitere geplante Vorträge
 
-Sven Crone (iquast): tba.
-
 Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
 
-Andreas Martens (Qurix): tba.
+Andreas Martens (Qurix): Es ist Zeit für Data Leaders die Verantwortung zu übernehmen (und Ergebnisse zu liefern)
 
 Anton Wiehe (Adalab): Hirndruck Vorhersage
+
+Sven Crone (iquast): tba.
 
 ## Bisherige Vorträge
 
