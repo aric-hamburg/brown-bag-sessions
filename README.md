@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 01.11.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 03.11.2022, haben wir als Vortragenden gewinnen können:
 
-Janna Lipenkova (Anacode): Comparing state-of-the-art approaches to Text2SQL
+Jonathan Mall (Neuroflash): Texter aufgepasst - aus deinen Gedanken werden automatisch Wörter mit KI
 
 ## Weitere geplante Vorträge
 
@@ -29,6 +29,7 @@ Anton Wiehe (Adalab): Hirndruck Vorhersage
 
 ## Bisherige Vorträge
 
+- 01.11.2022, Janna Lipenkova (Anacode): Comparing state-of-the-art approaches to Text2SQL
 - 27.10.2022, Ramin Ataei (Justaddsugar): How AI changes the Agency World
 - 25.10.2022, Dr. Lothar Hotz (HITeC e.V.): Iterative Constraint Reasoning - Dynamic Constraint Reasoning in Time Space
 - 20.10.2022, Simon Frentrup (neusta analytics & insights): Daten zur Prognose von Niederschlag und Überflutungen in KIWaSuS
