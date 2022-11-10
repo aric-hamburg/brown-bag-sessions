@@ -13,18 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 10.11.2022, haben wir als Vortragenden gewinnen können:
-
-Andreas Martens (Qurix): Es ist Zeit für Data Leaders die Verantwortung zu übernehmen (und Ergebnisse zu liefern)
-
-## Weitere geplante Vorträge
+Für Dienstag, 15.11.2022, haben wir als Vortragenden gewinnen können:
 
 Anton Wiehe (Adalab): Hirndruck Vorhersage
+
+## Weitere geplante Vorträge
 
 Sven Crone (iquast): tba.
 
 ## Bisherige Vorträge
 
+- 10.11.2022, Andreas Martens (Qurix): Es ist Zeit für Data Leaders die Verantwortung zu übernehmen (und Ergebnisse zu liefern)
 - 08.11.2022, Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
 - 03.11.2022, Jonathan Mall (Neuroflash): Texter aufgepasst - aus deinen Gedanken werden automatisch Wörter mit KI
 - 01.11.2022, Janna Lipenkova (Anacode): Comparing state-of-the-art approaches to Text2SQL
