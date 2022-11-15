@@ -13,17 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 15.11.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 17.11.2022, haben wir als Vortragenden gewinnen können:
 
-Anton Wiehe (Adalab): Hirndruck Vorhersage
+tbd.
 
 ## Weitere geplante Vorträge
 
+Anton Wiehe (Adalab): Hirndruck Vorhersage
 Sven Crone (iquast): tba.
 
 ## Bisherige Vorträge
 
-- 15.11.2022, Kübra Tokuc (HAW Hamburg): Dafne - Synthetische Daten für die künstliche Intelligenz in Smart Cities
+- 15.11.2022, Kübra Tokuç (HAW Hamburg): Dafne - Synthetische Daten für die künstliche Intelligenz in Smart Cities
 - 10.11.2022, Andreas Martens (Qurix): Es ist Zeit für Data Leaders die Verantwortung zu übernehmen (und Ergebnisse zu liefern)
 - 08.11.2022, Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
 - 03.11.2022, Jonathan Mall (Neuroflash): Texter aufgepasst - aus deinen Gedanken werden automatisch Wörter mit KI
