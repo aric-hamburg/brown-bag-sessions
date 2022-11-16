@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 17.11.2022, haben wir als Vortragenden gewinnen können:
 
-tbd.
+Paul-Louis Pröve (Tensora): Data Science: heute und morgen
 
 ## Weitere geplante Vorträge
 
