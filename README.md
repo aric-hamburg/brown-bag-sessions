@@ -13,12 +13,13 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 17.11.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 22.11.2022, haben wir als Vortragende gewinnen können:
 
-Paul-Louis Pröve (Tensora): Data Science: heute und morgen
+Alexandra Wudel (enableYou): Feministische KI
 
 ## Weitere geplante Vorträge
 
+Paul-Louis Pröve (Tensora): Data Science: heute und morgen
 Anton Wiehe (Adalab): Hirndruck Vorhersage
 Sven Crone (iquast): tba.
 
