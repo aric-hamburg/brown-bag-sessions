@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 22.11.2022, haben wir als Vortragende gewinnen können:
 
-Alexandra Wudel (enableYou): Feministische KI
+Dr. Florian Vogt (ARIC e.V.): KI-Anwendungshub Kunststoffverpackungen - nahchaltige Kreislaufwirtschaft durch Künstliche Intelligenz
 
 ## Weitere geplante Vorträge
 
@@ -25,6 +25,7 @@ Sven Crone (iquast): tba.
 
 ## Bisherige Vorträge
 
+- 22.11.2022, Alexandra Wudel (enableYou): Feministische KI
 - 15.11.2022, Kübra Tokuç (HAW Hamburg): Dafne - Synthetische Daten für die künstliche Intelligenz in Smart Cities
 - 10.11.2022, Andreas Martens (Qurix): Es ist Zeit für Data Leaders die Verantwortung zu übernehmen (und Ergebnisse zu liefern)
 - 08.11.2022, Lennart Brand (LSBG/Digilab): KI und Digitalisierung für den Ingenieursarbeitsplatz der Zukunft
