@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 24.11.2022, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 29.11.2022, haben wir als Vortragenden gewinnen können:
 
-Dr. Florian Vogt (ARIC e.V.): KI-Anwendungshub Kunststoffverpackungen - nahchaltige Kreislaufwirtschaft durch Künstliche Intelligenz
+Julien Marteen Kay (Ailio): Non-Contrastive Self-Supervised Learning
 
 ## Weitere geplante Vorträge
 
@@ -25,6 +25,7 @@ Sven Crone (iquast): tba.
 
 ## Bisherige Vorträge
 
+- 24.11.2022, Dr. Florian Vogt (ARIC e.V.): KI-Anwendungshub Kunststoffverpackungen - nahchaltige Kreislaufwirtschaft durch Künstliche Intelligenz
 - 22.11.2022, Alexandra Wudel (enableYou): Feministische KI
 - 15.11.2022, Kübra Tokuç (HAW Hamburg): Dafne - Synthetische Daten für die künstliche Intelligenz in Smart Cities
 - 10.11.2022, Andreas Martens (Qurix): Es ist Zeit für Data Leaders die Verantwortung zu übernehmen (und Ergebnisse zu liefern)
