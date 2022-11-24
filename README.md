@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 22.11.2022, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 24.11.2022, haben wir als Vortragenden gewinnen können:
 
 Dr. Florian Vogt (ARIC e.V.): KI-Anwendungshub Kunststoffverpackungen - nahchaltige Kreislaufwirtschaft durch Künstliche Intelligenz
 
