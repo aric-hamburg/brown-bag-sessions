@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 29.11.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 01.12.2022, haben wir als Vortragenden gewinnen können:
 
-Julien Marteen Kay (Ailio): Non-Contrastive Self-Supervised Learning
+Dr. Kristoffer Appel
 
 ## Weitere geplante Vorträge
 
-Paul-Louis Pröve (Tensora): Data Science: heute und morgen
-Anton Wiehe (Adalab): Hirndruck Vorhersage
-Sven Crone (iquast): tba.
+Sven Crone (iquast): AI Forecasting in Industry
+Jan Schnedler (ARIC e.V.): Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 29.11.2022, Julien Marteen Kay (Ailio): Non-Contrastive Self-Supervised Learning
 - 24.11.2022, Dr. Florian Vogt (ARIC e.V.): KI-Anwendungshub Kunststoffverpackungen - nahchaltige Kreislaufwirtschaft durch Künstliche Intelligenz
 - 22.11.2022, Alexandra Wudel (enableYou): Feministische KI
 - 15.11.2022, Kübra Tokuç (HAW Hamburg): Dafne - Synthetische Daten für die künstliche Intelligenz in Smart Cities
