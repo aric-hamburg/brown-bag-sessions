@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Donnerstag, 01.12.2022, haben wir als Vortragenden gewinnen können:
 
-Dr. Kristoffer Appel
+Dr. Kristoffer Appel (IFB Hamburg): Fördermöglichkeiten für innovative F&E-Projekte
 
 ## Weitere geplante Vorträge
 
