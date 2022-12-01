@@ -13,18 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 01.12.2022, haben wir als Vortragenden gewinnen können:
-
-Dr. Kristoffer Appel (IFB Hamburg): Fördermöglichkeiten für innovative F&E-Projekte
-
-## Weitere geplante Vorträge
+Für Dienstag, 06.12.2022, haben wir als Vortragenden gewinnen können:
 
 Sven Crone (iquast): AI Forecasting in Industry
+
+## Weitere geplante Vorträge
 
 Jan Schnedler (ARIC e.V.): Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 01.12.2022, Dr. Kristoffer Appel (IFB Hamburg): Fördermöglichkeiten für innovative F&E-Projekte
 - 29.11.2022, Julien Marteen Kay (Ailio): Non-Contrastive Self-Supervised Learning
 - 24.11.2022, Dr. Florian Vogt (ARIC e.V.): KI-Anwendungshub Kunststoffverpackungen - nahchaltige Kreislaufwirtschaft durch Künstliche Intelligenz
 - 22.11.2022, Alexandra Wudel (enableYou): Feministische KI
