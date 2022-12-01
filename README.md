@@ -20,6 +20,7 @@ Dr. Kristoffer Appel (IFB Hamburg): Fördermöglichkeiten für innovative F&E-Pr
 ## Weitere geplante Vorträge
 
 Sven Crone (iquast): AI Forecasting in Industry
+
 Jan Schnedler (ARIC e.V.): Halbjahresrückblick
 
 ## Bisherige Vorträge
