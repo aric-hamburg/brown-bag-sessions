@@ -24,7 +24,7 @@ Jan Schnedler (ARIC e.V.): Halbjahresrückblick
 ## Bisherige Vorträge
 
 - 01.12.2022, Dr. Kristoffer Appel (IFB Hamburg): Fördermöglichkeiten für innovative F&E-Projekte
-- 29.11.2022, Julien Marteen Kay (Ailio): Non-Contrastive Self-Supervised Learning
+- 29.11.2022, Julien Marteen Akay (Ailio): Non-Contrastive Self-Supervised Learning
 - 24.11.2022, Dr. Florian Vogt (ARIC e.V.): KI-Anwendungshub Kunststoffverpackungen - nahchaltige Kreislaufwirtschaft durch Künstliche Intelligenz
 - 22.11.2022, Alexandra Wudel (enableYou): Feministische KI
 - 15.11.2022, Kübra Tokuç (HAW Hamburg): Dafne - Synthetische Daten für die künstliche Intelligenz in Smart Cities
