@@ -13,16 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 06.12.2022, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 12.01.2023, haben wir als Vortragenden gewinnen können:
 
-Sven Crone (iquast): AI Forecasting in Industry
+Falko Spiller (CGI): Quanten-Computing in der Praxis. Wir haben den Quanten-Computer von D-Wave Systems in einem kleinen Beispielprojekt getestet.
 
 ## Weitere geplante Vorträge
 
-Jan Schnedler (ARIC e.V.): Halbjahresrückblick
+
 
 ## Bisherige Vorträge
 
+- 08.12.2022, Jan Schnedler (ARIC e.V.): Halbjahresrückblick
+- 06.12.2022, Sven Crone (iquast): AI Forecasting in Industry
 - 01.12.2022, Dr. Kristoffer Appel (IFB Hamburg): Fördermöglichkeiten für innovative F&E-Projekte
 - 29.11.2022, Julien Marteen Akay (Ailio): Non-Contrastive Self-Supervised Learning
 - 24.11.2022, Dr. Florian Vogt (ARIC e.V.): KI-Anwendungshub Kunststoffverpackungen - nahchaltige Kreislaufwirtschaft durch Künstliche Intelligenz
