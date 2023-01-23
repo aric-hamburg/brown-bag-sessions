@@ -13,15 +13,21 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 12.01.2023, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 24.01.2023, haben wir als Vortragenden gewinnen können:
 
-Falko Spiller (CGI): Quanten-Computing in der Praxis. Wir haben den Quanten-Computer von D-Wave Systems in einem kleinen Beispielprojekt getestet.
+-
 
 ## Weitere geplante Vorträge
 
-
+Dimitrij Lewin (Novo AI): tba.
+Paul-Louis Pröwe (Tensora): Data Science Teams  - Heute und morgen
 
 ## Bisherige Vorträge
+
+- Anton Wiehe (Adalab): Hirndruckvorhersage anhand residualer Messungen
+- 12.01.2023, Anna Ehrenberg & Daniel Baumgärtner (Nordakademie): Quantencomputing mit D-Wave. Am Beispiel von Fährroutenoptimierung
+
+2022
 
 - 08.12.2022, Jan Schnedler (ARIC e.V.): Halbjahresrückblick
 - 06.12.2022, Sven Crone (iquast): AI Forecasting in Industry
