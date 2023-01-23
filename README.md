@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 24.01.2023, haben wir als Vortragenden gewinnen können:
 
--
+- tba
 
 ## Weitere geplante Vorträge
 
@@ -24,7 +24,8 @@ Paul-Louis Pröwe (Tensora): Data Science Teams  - Heute und morgen
 
 ## Bisherige Vorträge
 
-- Anton Wiehe (Adalab): Hirndruckvorhersage anhand residualer Messungen
+- 19.01.2023, Anton Wiehe (Adalab): Hirndruckvorhersage anhand residualer Messungen
+- 17.01.2023, Yakup Özkardes-Cheung (ContentAItools): Video Content mit KI
 - 12.01.2023, Anna Ehrenberg & Daniel Baumgärtner (Nordakademie): Quantencomputing mit D-Wave. Am Beispiel von Fährroutenoptimierung
 
 2022
