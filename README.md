@@ -20,6 +20,9 @@ Für Donnerstag, 26.01.2023, haben wir als Vortragenden gewinnen können:
 ## Weitere geplante Vorträge
 
 Paul-Louis Pröwe (Tensora): Data Science Teams  - Heute und morgen
+James Sutherland (Autonomo): tba.
+Henning Johannesson (United Robots): Unleashing the Potential of AI in the Media Industry
+Johanna Hackl & Alexander Geisler (Sopra Steria): RPA @ Public Sector: Status Quo und Zukunftsstrategie
 
 ## Bisherige Vorträge
 
