@@ -13,7 +13,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 24.01.2023, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 26.01.2023, haben wir als Vortragenden gewinnen können:
 
 - Dimitrij Lewin (Novo AI): Iot Sensoren und 30% mehr Produktionseffizienz
 
