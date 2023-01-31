@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 31.01.2023, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 02.02.2023, haben wir als Vortragenden gewinnen können:
 
-- Paul-Louis Pröwe (Tensora): Data Science Teams  - Heute und morgen
+- James Sutherland (Autonomo): tba.
 
 ## Weitere geplante Vorträge
 
-- James Sutherland (Autonomo): tba.
 - Henning Johannesson (United Robots): Unleashing the Potential of AI in the Media Industry
 - Johanna Hackl & Alexander Geisler (Sopra Steria): RPA @ Public Sector: Status Quo und Zukunftsstrategie
 
 ## Bisherige Vorträge
 
+- 31.01.2023, Paul-Louis Pröwe (Tensora): Data Science Teams  - Heute und morgen
 - 26.01.2023, Dimitrij Lewin (Novo AI): Iot Sensoren und 30% mehr Produktionseffizienz
 - 19.01.2023, Anton Wiehe (Adalab): Hirndruckvorhersage anhand residualer Messungen
 - 17.01.2023, Yakup Özkardes-Cheung (ContentAItools): Video Content mit KI
