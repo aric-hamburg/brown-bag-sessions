@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 07.02.2023, haben wir als Vortragenden gewinnen können:
-
-- Henning Johannesson (United Robots): Unleashing the Potential of AI in the Media Industry
-
-## Weitere geplante Vorträge
+Für Donnerstag, 09.02.2023, haben wir als Vortragende gewinnen können:
 
 - Johanna Hackl & Alexander Geisler (Sopra Steria): RPA @ Public Sector: Status Quo und Zukunftsstrategie
 
+## Weitere geplante Vorträge
+
+- tbd.
+
 ## Bisherige Vorträge
 
+- 07.02.2023, Henning Johannesson (United Robots): Unleashing the Potential of AI in the Media Industry
 - 02.02.2023, James Sutherland (Autonomo): Autonomo: building the future of retail with autonomous stores
 - 31.01.2023, Paul-Louis Pröwe (Tensora): Data Science Teams  - Heute und morgen
 - 26.01.2023, Dimitrij Lewin (Novo AI): Iot Sensoren und 30% mehr Produktionseffizienz
