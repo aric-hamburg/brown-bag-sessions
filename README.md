@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 09.02.2023, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 23.02.2023, haben wir als Vortragende gewinnen können:
 
-- Johanna Hackl & Alexander Geisler (Sopra Steria): RPA @ Public Sector: Status Quo und Zukunftsstrategie
+- Vanessa Pohlmann (Institut der deutschen Wirtschaft): IT-Fachkräfte aus dem Ausland gewinnen – ein Wegweiser
 
 ## Weitere geplante Vorträge
 
@@ -23,6 +23,10 @@ Für Donnerstag, 09.02.2023, haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
+- 21.02.2023, Legal1st: Dawn of AI - Warum der Anwalt ausgesorgt hat!
+- 16.02.2023, Christian Bennefeld (eBlocker):Stable Diffusion live zum Anfassen - mit Diskussion zu Chancen und Risiken
+- 14.02.2023, Prof. Dr. Markus Dahm (FOM): Wie Künstliche Intelligenz unser Leben prägt: KI verständlich erklärt
+- 09.02.2023, Johanna Hackl & Alexander Geisler (Sopra Steria): RPA @ Public Sector: Status Quo und Zukunftsstrategie
 - 07.02.2023, Henning Johannesson (United Robots): Unleashing the Potential of AI in the Media Industry
 - 02.02.2023, James Sutherland (Autonomo): Autonomo: building the future of retail with autonomous stores
 - 31.01.2023, Paul-Louis Pröwe (Tensora): Data Science Teams  - Heute und morgen
