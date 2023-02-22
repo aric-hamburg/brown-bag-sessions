@@ -19,7 +19,7 @@ Für Donnerstag, 23.02.2023, haben wir als Vortragende gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- tbd.
+- Dr. Wael Alkhatib (Sopra Steria): Reveal AI - Die Brücke für Fachexperten zur KI: eine Plattform für automatische Objekterkennung und -segmentierung mit Interaktive Learning
 
 ## Bisherige Vorträge
 
