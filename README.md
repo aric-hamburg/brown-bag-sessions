@@ -19,6 +19,7 @@ Für Dienstag, 28.02.2023, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
+- Falko Kähler (TU Hamburg): KI in der Fahrwerksinstandhaltung von Flugzeugen
 - Dr. Jonathan Mall (Neuroflash): tbd.
 
 ## Bisherige Vorträge
