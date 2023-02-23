@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 23.02.2023, haben wir als Vortragende gewinnen können:
-
-- Vanessa Pohlmann (Institut der deutschen Wirtschaft): IT-Fachkräfte aus dem Ausland gewinnen – ein Wegweiser
-
-## Weitere geplante Vorträge
+Für Dienstag, 28.02.2023, haben wir als Vortragenden gewinnen können:
 
 - Dr. Wael Alkhatib (Sopra Steria): Reveal AI - Die Brücke für Fachexperten zur KI: eine Plattform für automatische Objekterkennung und -segmentierung mit Interaktive Learning
 
+## Weitere geplante Vorträge
+
+- Dr. Jonathan Mall (Neuroflash): tbd.
+
 ## Bisherige Vorträge
 
+- 23.02.2023, Vanessa Pohlmann (Institut der deutschen Wirtschaft): IT-Fachkräfte aus dem Ausland gewinnen – ein Wegweiser
 - 21.02.2023, Legal1st: Dawn of AI - Warum der Anwalt ausgesorgt hat!
 - 16.02.2023, Christian Bennefeld (eBlocker):Stable Diffusion live zum Anfassen - mit Diskussion zu Chancen und Risiken
 - 14.02.2023, Prof. Dr. Markus Dahm (FOM): Wie Künstliche Intelligenz unser Leben prägt: KI verständlich erklärt
