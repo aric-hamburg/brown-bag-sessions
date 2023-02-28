@@ -13,17 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 28.02.2023, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 02.03.2023, haben wir als Vortragenden gewinnen können:
 
-- Dr. Wael Alkhatib (Sopra Steria): Reveal AI - Die Brücke für Fachexperten zur KI: eine Plattform für automatische Objekterkennung und -segmentierung mit Interaktive Learning
+- Falko Kähler (TU Hamburg): KI in der Fahrwerksinstandhaltung von Flugzeugen
 
 ## Weitere geplante Vorträge
 
-- Falko Kähler (TU Hamburg): KI in der Fahrwerksinstandhaltung von Flugzeugen
-- Dr. Jonathan Mall (Neuroflash): tbd.
+- Dr. Jonathan Mall (Neuroflash): Klare Kommunikation mit Empathie und KI
 
 ## Bisherige Vorträge
 
+- 28.02.2023, Dr. Wael Alkhatib (Sopra Steria): Reveal AI - Die Brücke für Fachexperten zur KI: eine Plattform für automatische Objekterkennung und -segmentierung mit Interaktive Learning
 - 23.02.2023, Vanessa Pohlmann (Institut der deutschen Wirtschaft): IT-Fachkräfte aus dem Ausland gewinnen – ein Wegweiser
 - 21.02.2023, Legal1st: Dawn of AI - Warum der Anwalt ausgesorgt hat!
 - 16.02.2023, Christian Bennefeld (eBlocker):Stable Diffusion live zum Anfassen - mit Diskussion zu Chancen und Risiken
