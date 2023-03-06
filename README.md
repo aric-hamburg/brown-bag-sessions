@@ -22,7 +22,7 @@ Für Dienstag, 07.03.2023, haben wir als Vortragenden gewinnen können:
 - Prof. Dr. Wilfried Bernhardt (Universität Leipzig): Einsatz von KI in der Justiz - Kommt der Roboterrichter?
 - Chikaodi Uba (Universität Hamburg): AI-based Transformation
 - Sabrina Göllner (HAW Hamburg): VERIFAI - Ein Ansatz zur Evaluierung verantwortungsvoller KI
-- Antonio Bikic (LMU München): KI & Ethik
+- Antonio Bikić (LMU München): KI & Ethik
 
 ## Bisherige Vorträge
 
