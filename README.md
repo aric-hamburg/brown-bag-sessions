@@ -13,19 +13,19 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 07.03.2023, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 09.03.2023, haben wir als Vortragenden gewinnen können:
 
-- Dr. Jonathan Mall (Neuroflash): Klare Kommunikation mit Empathie und KI
+- Prof. Dr. Wilfried Bernhardt (Universität Leipzig): Einsatz von KI in der Justiz - Kommt der Roboterrichter?
 
 ## Weitere geplante Vorträge
 
-- Prof. Dr. Wilfried Bernhardt (Universität Leipzig): Einsatz von KI in der Justiz - Kommt der Roboterrichter?
 - Chikaodi Uba (Universität Hamburg): AI-based Transformation
 - Sabrina Göllner (HAW Hamburg): VERIFAI - Ein Ansatz zur Evaluierung verantwortungsvoller KI
 - Antonio Bikić (LMU München): KI & Ethik
 
 ## Bisherige Vorträge
 
+- 07.03.2023, Dr. Jonathan Mall (Neuroflash): Klare Kommunikation mit Empathie und KI
 - Falko Kähler (TU Hamburg): KI in der Fahrwerksinstandhaltung von Flugzeugen
 - 28.02.2023, Dr. Wael Alkhatib (Sopra Steria): Reveal AI - Die Brücke für Fachexperten zur KI: eine Plattform für automatische Objekterkennung und -segmentierung mit Interaktive Learning
 - 23.02.2023, Vanessa Pohlmann (Institut der deutschen Wirtschaft): IT-Fachkräfte aus dem Ausland gewinnen – ein Wegweiser
