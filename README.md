@@ -13,9 +13,9 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 21.03.2023, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 04.04.2023, haben wir als Vortragenden gewinnen können:
 
-- Antonio Bikić (LMU München): KI & Ethik
+- tba.
 
 ## Weitere geplante Vorträge
 
@@ -23,6 +23,10 @@ Für Dienstag, 21.03.2023, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 30.03.2023, -,-
+- 28.03.2023, -,-
+- 23.03.2023, Dennis Hillemann (Fieldfisher): Robo-Richter
+- 21.03.2023, Antonio Bikić (LMU München): KI & Ethik
 - 16.03.2023, Sabrina Göllner (HAW Hamburg): VERIFAI - Ein Ansatz zur Evaluierung verantwortungsvoller KI
 - 14.03.2023, Chikaodi Uba (Universität Hamburg): AI-based Transformation
 - 09.03.2023, Prof. Dr. Wilfried Bernhardt (Universität Leipzig): Einsatz von KI in der Justiz - Kommt der Roboterrichter?
