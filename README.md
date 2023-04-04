@@ -13,16 +13,17 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 04.04.2023, haben wir als Vortragenden gewinnen können:
-
-- Dr. Florian Vogt (IKS Hamburg/ARIC e.V.): KI-unterstütztes Transformationsvorhaben einer Wertschöpfungskette
-
-## Weitere geplante Vorträge
+Für Donnerstag, 06.04.2023, haben wir als Vortragenden gewinnen können:
 
 - Prof. Dr. Nick Gehrke (zapliance): Cash Recovery mit KI
 
+## Weitere geplante Vorträge
+
+- 
+
 ## Bisherige Vorträge
 
+- Dr. Florian Vogt (IKS Hamburg/ARIC e.V.): KI-unterstütztes Transformationsvorhaben einer Wertschöpfungskette
 - 30.03.2023, -,-
 - 28.03.2023, -,-
 - 23.03.2023, Dennis Hillemann (Fieldfisher): Robo-Richter
