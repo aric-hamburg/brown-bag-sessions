@@ -15,11 +15,11 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 04.04.2023, haben wir als Vortragenden gewinnen können:
 
-- tba.
+- Dr. Florian Vogt (IKS Hamburg/ARIC e.V.): KI-unterstütztes Transformationsvorhaben einer Wertschöpfungskette
 
 ## Weitere geplante Vorträge
 
-- tba.
+- Prof. Dr. Nick Gehrke (zapliance): Cash Recovery mit KI
 
 ## Bisherige Vorträge
 
