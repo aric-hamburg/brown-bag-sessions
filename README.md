@@ -13,16 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 11.04.2023, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 18.04.2023, haben wir als Vortragenden gewinnen können:
 
-- Michael Welsch (Metric Space): Train your own ChatGPT
+- Arman Kayhan (Co-One): Building Reliable AI Faster: “The Role of Data Annotation in Developing AI Models
 
 ## Weitere geplante Vorträge
 
-- tbd.
+- Felix von Roesgen (Whyzer): KI verantwortungsbewusst im Unternehmen einsetzen
 
 ## Bisherige Vorträge
 
+- 13.04.2023, -,-
+- 11.04.2023, Michael Welsch (Metric Space): Train your own ChatGPT
 - 06.04.2023, Prof. Dr. Nick Gehrke (zapliance): Cash Recovery mit KI
 - 04.04.2023, Dr. Florian Vogt (IKS Hamburg/ARIC e.V.): KI-unterstütztes Transformationsvorhaben einer Wertschöpfungskette
 - 30.03.2023, -,-
