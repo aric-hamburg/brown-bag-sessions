@@ -28,7 +28,6 @@ Für Donnerstag, 27.04.2023, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
-- 
 - 25.04.2023, -,-
 - 20.04.2023, Felix von Roesgen (Whyzer): KI verantwortungsbewusst im Unternehmen einsetzen
 - 18.04.2023, Arman Kayhan (Co-One): Building Reliable AI Faster: “The Role of Data Annotation in Developing AI Models
