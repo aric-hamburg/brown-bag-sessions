@@ -13,16 +13,25 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 18.04.2023, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 27.04.2023, haben wir als Vortragenden gewinnen können:
 
-- Arman Kayhan (Co-One): Building Reliable AI Faster: “The Role of Data Annotation in Developing AI Models
+- Jiří Janoušek (Anwaltskanzlei Janoušek): Golem im Handy – Kann KI menschlich urteilen?
 
 ## Weitere geplante Vorträge
 
-- Felix von Roesgen (Whyzer): KI verantwortungsbewusst im Unternehmen einsetzen
+- Ingo Martens (3D Aero): tba.
+- Branko Presic (BUREAU Paradiso): Werbung mit KI - zwischen bewusster Verführung und bewusstloser Verwirrung
+- Hauke Timmermann (eco – Verband der Internetwirtschaft e.V.): tba.
+- Dr. Volodymyr Andrushchak (Lemberg Solutions GmbH): Cloud solutions for predictive maintenance
+- Aljoscha Niazi-Shahabi (botario): Flexible aber kontrallierbare KI-Dialoge
+- Dalia Moniat (Kaeur Studio): Generative Ästhetik - die Wirkung synthetischer Medien auf unsere Wahrnehmung und unser Lernverhalten
 
 ## Bisherige Vorträge
 
+- 
+- 25.04.2023, -,-
+- 20.04.2023, Felix von Roesgen (Whyzer): KI verantwortungsbewusst im Unternehmen einsetzen
+- 18.04.2023, Arman Kayhan (Co-One): Building Reliable AI Faster: “The Role of Data Annotation in Developing AI Models
 - 13.04.2023, -,-
 - 11.04.2023, Michael Welsch (Metric Space): Train your own ChatGPT
 - 06.04.2023, Prof. Dr. Nick Gehrke (zapliance): Cash Recovery mit KI
