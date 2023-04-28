@@ -19,7 +19,7 @@ Für Donnerstag, 27.04.2023, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- Ingo Martens (3D Aero): tba. 
+- Ingo Martens (Hanse-Aerospace Wirtschaftsdienst GmbH): tba. 
 - Branko Presic (BUREAU Paradiso): Werbung mit KI - zwischen bewusster Verführung und bewusstloser Verwirrung
 - Hauke Timmermann (eco – Verband der Internetwirtschaft e.V.): tba.
 - Dr. Volodymyr Andrushchak (Lemberg Solutions GmbH): Cloud solutions for predictive maintenance
