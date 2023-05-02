@@ -13,13 +13,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 27.04.2023, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 02.05.2023, haben wir als Vortragenden gewinnen können:
 
-- Jiří Janoušek (Anwaltskanzlei Janoušek): Golem im Handy – Kann KI menschlich urteilen?
+- Ingo Martens (Hanse-Aerospace Wirtschaftsdienst GmbH): EFPF und Anwendungsfällefür die Luftfahrtindustrie
 
 ## Weitere geplante Vorträge
-
-- Ingo Martens (Hanse-Aerospace Wirtschaftsdienst GmbH): tba. 
+ 
 - Branko Presic (BUREAU Paradiso): Werbung mit KI - zwischen bewusster Verführung und bewusstloser Verwirrung
 - Hauke Timmermann (eco – Verband der Internetwirtschaft e.V.): tba.
 - Dr. Volodymyr Andrushchak (Lemberg Solutions GmbH): Cloud solutions for predictive maintenance
@@ -28,6 +27,7 @@ Für Donnerstag, 27.04.2023, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 27.04.2023, Jiří Janoušek (Anwaltskanzlei Janoušek): Golem im Handy – Kann KI menschlich urteilen?
 - 25.04.2023, -,-
 - 20.04.2023, Felix von Roesgen (Whyzer): KI verantwortungsbewusst im Unternehmen einsetzen
 - 18.04.2023, Arman Kayhan (Co-One): Building Reliable AI Faster: “The Role of Data Annotation in Developing AI Models
