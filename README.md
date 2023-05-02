@@ -13,13 +13,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 02.05.2023, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 04.05.2023, haben wir als Vortragenden gewinnen können:
 
-- Ingo Martens (Hanse-Aerospace Wirtschaftsdienst GmbH): EFPF und Anwendungsfällefür die Luftfahrtindustrie
+- Branko Presic (BUREAU Paradiso): Werbung mit KI - zwischen bewusster Verführung und bewusstloser Verwirrung
 
 ## Weitere geplante Vorträge
  
-- Branko Presic (BUREAU Paradiso): Werbung mit KI - zwischen bewusster Verführung und bewusstloser Verwirrung
 - Hauke Timmermann (eco – Verband der Internetwirtschaft e.V.): tba.
 - Dr. Volodymyr Andrushchak (Lemberg Solutions GmbH): Cloud solutions for predictive maintenance
 - Aljoscha Niazi-Shahabi (botario): Flexible aber kontrallierbare KI-Dialoge
@@ -27,6 +26,7 @@ Für Dienstag, 02.05.2023, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 02.05.2023, Ingo Martens (Hanse-Aerospace Wirtschaftsdienst GmbH): EFPF und Anwendungsfällefür die Luftfahrtindustrie
 - 27.04.2023, Jiří Janoušek (Anwaltskanzlei Janoušek): Golem im Handy – Kann KI menschlich urteilen?
 - 25.04.2023, -,-
 - 20.04.2023, Felix von Roesgen (Whyzer): KI verantwortungsbewusst im Unternehmen einsetzen
