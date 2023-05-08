@@ -15,7 +15,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Für Dienstag, 09.05.2023, haben wir als Vortragenden gewinnen können:
 
-- Hauke Timmermann (eco – Verband der Internetwirtschaft e.V.): tba.
+- Hauke Timmermann (eco – Verband der Internetwirtschaft e.V.): LEAM:AI, die deutsche Antwort auf ChatGPT
 
 ## Weitere geplante Vorträge
  
