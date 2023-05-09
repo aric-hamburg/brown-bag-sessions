@@ -13,18 +13,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 ## Nächster Vortrag:
 
-Für Dienstag, 09.05.2023, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 11.05.2023, haben wir als Vortragenden gewinnen können:
 
-- Hauke Timmermann (eco – Verband der Internetwirtschaft e.V.): LEAM:AI, die deutsche Antwort auf ChatGPT
+- Dr. Volodymyr Andrushchak (Lemberg Solutions GmbH): Cloud solutions for predictive maintenance
 
 ## Weitere geplante Vorträge
  
-- Dr. Volodymyr Andrushchak (Lemberg Solutions GmbH): Cloud solutions for predictive maintenance
 - Aljoscha Niazi-Shahabi (botario): Flexible aber kontrallierbare KI-Dialoge
 - Dalia Moniat (Kaeur Studio): Generative Ästhetik - die Wirkung synthetischer Medien auf unsere Wahrnehmung und unser Lernverhalten
 
 ## Bisherige Vorträge
 
+- 09.05.2023, Hauke Timmermann (eco – Verband der Internetwirtschaft e.V.): LEAM:AI, die deutsche Antwort auf ChatGPT
 - 04.05.2023, Branko Presic (BUREAU Paradiso): Werbung mit KI - zwischen bewusster Verführung und bewusstloser Verwirrung
 - 02.05.2023, Ingo Martens (Hanse-Aerospace Wirtschaftsdienst GmbH): EFPF und Anwendungsfällefür die Luftfahrtindustrie
 - 27.04.2023, Jiří Janoušek (Anwaltskanzlei Janoušek): Golem im Handy – Kann KI menschlich urteilen?
