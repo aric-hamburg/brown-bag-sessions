@@ -9,7 +9,7 @@ In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit 
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhLWE5YWEtYmU1MDI4N2Y0YjI0%40thread.v2/0?context=%7b%22Tid%22%3a%22b2f09837-8b02-4136-9f46-52ffb6b93f9a%22%2c%22Oid%22%3a%2230ac9a78-0adf-416f-bd76-afc7935555ef%22%7d
 
-
+Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unterstützung durch die EU und die IFB Hamburg durchgeführt.
 
 ## Nächster Vortrag:
 
