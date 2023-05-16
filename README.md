@@ -13,16 +13,17 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Dienstag, 16.05.2023, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 23.05.2023, haben wir als Vortragende gewinnen können:
 
-- Aljoscha Niazi-Shahabi (botario): Flexible aber kontrallierbare KI-Dialoge
+- Dalia Moniat (Kaeur Studio): Generative Ästhetik - die Wirkung synthetischer Medien auf unsere Wahrnehmung und unser Lernverhalten
 
 ## Weitere geplante Vorträge
  
-- Dalia Moniat (Kaeur Studio): Generative Ästhetik - die Wirkung synthetischer Medien auf unsere Wahrnehmung und unser Lernverhalten
+- tbd.
 
 ## Bisherige Vorträge
 
+- 16.05.2023, Aljoscha Niazi-Shahabi (botario): Flexible aber kontrallierbare KI-Dialoge 
 - 11.05.2023, Dr. Volodymyr Andrushchak (Lemberg Solutions GmbH): Cloud solutions for predictive maintenance
 - 09.05.2023, Hauke Timmermann (eco – Verband der Internetwirtschaft e.V.): LEAM:AI, die deutsche Antwort auf ChatGPT
 - 04.05.2023, Branko Presic (BUREAU Paradiso): Werbung mit KI - zwischen bewusster Verführung und bewusstloser Verwirrung
