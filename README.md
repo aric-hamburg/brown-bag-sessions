@@ -13,16 +13,18 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Dienstag, 23.05.2023, haben wir als Vortragende gewinnen können:
+Für Dienstag, 30.05.2023, haben wir als Vortragende gewinnen können:
 
-- Dalia Moniat (Kaeur Studio): Generative Ästhetik - die Wirkung synthetischer Medien auf unsere Wahrnehmung und unser Lernverhalten
+- Laura Tönnsen (ARIC e.V.): tbd
 
 ## Weitere geplante Vorträge
  
-- tbd.
+- Anke Pätzold (Ströer): Crossroads Evolution 2023
 
 ## Bisherige Vorträge
 
+- 25.05.2023, -,-
+- 23.05.2023, Dalia Moniat (Kaeur Studio): Generative Ästhetik - die Wirkung synthetischer Medien auf unsere Wahrnehmung und unser Lernverhalten
 - 16.05.2023, Aljoscha Niazi-Shahabi (botario): Flexible aber kontrallierbare KI-Dialoge 
 - 11.05.2023, Dr. Volodymyr Andrushchak (Lemberg Solutions GmbH): Cloud solutions for predictive maintenance
 - 09.05.2023, Hauke Timmermann (eco – Verband der Internetwirtschaft e.V.): LEAM:AI, die deutsche Antwort auf ChatGPT
