@@ -15,7 +15,7 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 Für Dienstag, 30.05.2023, haben wir als Vortragende gewinnen können:
 
-- Laura Tönnsen (ARIC e.V.): tbd
+- Laura Tönnsen (ARIC e.V.): Update aus der StartUp-Welt - neuer Batch - neue Ideen
 
 ## Weitere geplante Vorträge
  
