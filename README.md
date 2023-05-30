@@ -13,16 +13,17 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Dienstag, 30.05.2023, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 01.06.2023, haben wir als Vortragende gewinnen können:
 
-- Laura Tönnsen (ARIC e.V.): Update aus der StartUp-Welt - neuer Batch - neue Ideen
+- Anke Pätzold (Ströer): Crossroads Evolution 2023
 
 ## Weitere geplante Vorträge
  
-- Anke Pätzold (Ströer): Crossroads Evolution 2023
+- Sassan Sangsari (Datonomy): Gesundheitsdaten für KI Forschung rechtskonform nutzbar machen
 
 ## Bisherige Vorträge
 
+- 30.05.2023, Laura Tönnsen (ARIC e.V.): Update aus der StartUp-Welt - neuer Batch - neue Ideen
 - 25.05.2023, -,-
 - 23.05.2023, Dalia Moniat (Kaeur Studio): Generative Ästhetik - die Wirkung synthetischer Medien auf unsere Wahrnehmung und unser Lernverhalten
 - 16.05.2023, Aljoscha Niazi-Shahabi (botario): Flexible aber kontrallierbare KI-Dialoge 
