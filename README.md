@@ -20,6 +20,7 @@ Für Donnerstag, 01.06.2023, haben wir als Vortragende gewinnen können:
 ## Weitere geplante Vorträge
  
 - Sassan Sangsari (Datonomy): Gesundheitsdaten für KI Forschung rechtskonform nutzbar machen
+- Niklas Twesten: tbd.
 
 ## Bisherige Vorträge
 
@@ -47,7 +48,7 @@ Für Donnerstag, 01.06.2023, haben wir als Vortragende gewinnen können:
 - 14.03.2023, Chikaodi Uba (Universität Hamburg): AI-based Transformation
 - 09.03.2023, Prof. Dr. Wilfried Bernhardt (Universität Leipzig): Einsatz von KI in der Justiz - Kommt der Roboterrichter?
 - 07.03.2023, Dr. Jonathan Mall (Neuroflash): Klare Kommunikation mit Empathie und KI
-- Falko Kähler (TU Hamburg): KI in der Fahrwerksinstandhaltung von Flugzeugen
+- 02.03.2023, Falko Kähler (TU Hamburg): KI in der Fahrwerksinstandhaltung von Flugzeugen
 - 28.02.2023, Dr. Wael Alkhatib (Sopra Steria): Reveal AI - Die Brücke für Fachexperten zur KI: eine Plattform für automatische Objekterkennung und -segmentierung mit Interaktive Learning
 - 23.02.2023, Vanessa Pohlmann (Institut der deutschen Wirtschaft): IT-Fachkräfte aus dem Ausland gewinnen – ein Wegweiser
 - 21.02.2023, Legal1st: Dawn of AI - Warum der Anwalt ausgesorgt hat!
