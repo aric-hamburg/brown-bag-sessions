@@ -19,7 +19,7 @@ Für Dienstag, 06.06.2023, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
  
-- Niklas Twesten: tbd.
+- Niklas Twesten (FOM): Der Artificial Intelligence Act als neuer Maßstab für künstliche Intelligenz - Das Spannungsfeld zwischen Regulatorik und Unternehmen
 
 ## Bisherige Vorträge
 
