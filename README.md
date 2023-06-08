@@ -13,9 +13,9 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 08.06.2023, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 13.06.2023, haben wir als Vortragenden gewinnen können:
 
-- Niklas Twesten (FOM): Der Artificial Intelligence Act als neuer Maßstab für künstliche Intelligenz - Das Spannungsfeld zwischen Regulatorik und Unternehmen
+- tbd.
 
 ## Weitere geplante Vorträge
  
@@ -23,6 +23,7 @@ Für Donnerstag, 08.06.2023, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 08.06.2023, Niklas Twesten (FOM): Der Artificial Intelligence Act als neuer Maßstab für künstliche Intelligenz - Das Spannungsfeld zwischen Regulatorik und Unternehmen
 - 06.06.2023, Sassan Sangsari (Datonomy): Gesundheitsdaten für KI Forschung rechtskonform nutzbar machen
 - 01.06.2023, Anke Pätzold (Ströer): Crossroads Evolution 2023
 - 30.05.2023, Laura Tönnsen (ARIC e.V.): Update aus der StartUp-Welt - neuer Batch - neue Ideen
