@@ -13,9 +13,9 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Dienstag, 13.06.2023, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 15.06.2023, haben wir als Vortragende gewinnen können:
 
-- tbd.
+- Ria Fornia (TU Hamburg): MRI - Spectroscopy for invivo cancer characterisation  and treatment response
 
 ## Weitere geplante Vorträge
  
@@ -23,6 +23,7 @@ Für Dienstag, 13.06.2023, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 13.06.2023, -,-
 - 08.06.2023, Niklas Twesten (FOM): Der Artificial Intelligence Act als neuer Maßstab für künstliche Intelligenz - Das Spannungsfeld zwischen Regulatorik und Unternehmen
 - 06.06.2023, Sassan Sangsari (Datonomy): Gesundheitsdaten für KI Forschung rechtskonform nutzbar machen
 - 01.06.2023, Anke Pätzold (Ströer): Crossroads Evolution 2023
