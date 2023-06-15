@@ -24,6 +24,7 @@ Für Donnerstag, 22.06.2023, haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
+- 20.06.2023, -,-
 - 15.06.2023, Ria Fornia (TU Hamburg): MRI - Spectroscopy for invivo cancer characterisation  and treatment response
 - 13.06.2023, -,-
 - 08.06.2023, Niklas Twesten (FOM): Der Artificial Intelligence Act als neuer Maßstab für künstliche Intelligenz - Das Spannungsfeld zwischen Regulatorik und Unternehmen
