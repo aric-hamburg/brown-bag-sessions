@@ -13,18 +13,19 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 04.07.2023, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 06.07.2023, haben wir als Vortragende gewinnen können:
 
-- Mathis Hans Stolz: Employing machine learning and remote sensing to enhance infrastructure resiliency
+- Aljoscha Niazi-Shahabi: TBD
 
 ## Weitere geplante Vorträge
  
-- Aljoscha Niazi-Shahabi: TBD
+- Jan Schnedler: ARIC Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 04.07.2023, Mathis Hans Stolz: Employing machine learning and remote sensing to enhance infrastructure resiliency
 - 29.06.2023, Andreas Zimmermann (mysupply): Procurement and AI – How to make sourcing autonomously
-- 22.06.2023, Anne Mareike Schlinkert (Katulu): KI für Fabrik-Netzwerke - am Bespiel von Siemens PCB-Produktion 
+- 22.06.2023, Anne Mareike Schlinkert (Katulu): KI für Fabrik-Netzwerke - am Beispiel von Siemens PCB-Produktion 
 - 20.06.2023, -,-
 - 15.06.2023, Ria Fornia (TU Hamburg): MRI - Spectroscopy for invivo cancer characterisation  and treatment response
 - 13.06.2023, -,-
