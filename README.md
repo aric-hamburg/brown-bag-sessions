@@ -15,7 +15,7 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 Für Donnerstag, 06.07.2023, haben wir als Vortragende gewinnen können:
 
-- Aljoscha Niazi-Shahabi: TBD
+- Jonas Klaff & David Steding (botario): Talk to me - How to make your Chatbot pick up the phone
 
 ## Weitere geplante Vorträge
  
