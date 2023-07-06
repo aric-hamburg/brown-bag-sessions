@@ -13,16 +13,17 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 06.07.2023, haben wir als Vortragende gewinnen können:
+Für Dienstag, 11.07.2023, haben wir als Vortragende gewinnen können:
 
-- Jonas Klaff & David Steding (botario): Talk to me - How to make your Chatbot pick up the phone
+- Jan Schnedler: ARIC Halbjahresrückblick
 
 ## Weitere geplante Vorträge
  
-- Jan Schnedler: ARIC Halbjahresrückblick
+- nach der Sommerpause geht es hier weiter
 
 ## Bisherige Vorträge
 
+- 06.07.2023, Jonas Klaff & David Steding (botario): Talk to me - How to make your Chatbot pick up the phone
 - 04.07.2023, Mathis Hans Stolz: Employing machine learning and remote sensing to enhance infrastructure resiliency
 - 29.06.2023, Andreas Zimmermann (mysupply): Procurement and AI – How to make sourcing autonomously
 - 22.06.2023, Anne Mareike Schlinkert (Katulu): KI für Fabrik-Netzwerke - am Beispiel von Siemens PCB-Produktion 
