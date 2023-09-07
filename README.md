@@ -13,16 +13,17 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Dienstag, 11.07.2023, haben wir als Vortragende gewinnen können:
+Für Dienstag, 12.09.2023, haben wir als Vortragenden gewinnen können:
 
-- Jan Schnedler: ARIC Halbjahresrückblick
+- Paul Prins (SimCog): KI-Anwendung aus der Praxis in der Hafenlogistik
 
 ## Weitere geplante Vorträge
  
-- nach der Sommerpause geht es hier weiter
+- tba.
 
 ## Bisherige Vorträge
 
+- 11.07.2023, Jan Schnedler: ARIC Halbjahresrückblick
 - 06.07.2023, Jonas Klaff & David Steding (botario): Talk to me - How to make your Chatbot pick up the phone
 - 04.07.2023, Mathis Hans Stolz: Employing machine learning and remote sensing to enhance infrastructure resiliency
 - 29.06.2023, Andreas Zimmermann (mysupply): Procurement and AI – How to make sourcing autonomously
