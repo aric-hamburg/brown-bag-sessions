@@ -13,16 +13,20 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Dienstag, 12.09.2023, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 14.09.2023, haben wir als Vortragenden gewinnen können:
 
-- Paul Prins (SimCog): KI-Anwendung aus der Praxis in der Hafenlogistik
+- Julien Marteen Akay (Ailio): Latent-Variable Energy-Based Models
 
 ## Weitere geplante Vorträge
  
-- tba.
+- Prof. Dr. Martin Spindler (Uni Hamburg): tbd.
+- Yakup Özkardes-Cheung (Content AI Tools): Kosten senken mit KI: Prozesse und Systeme für Marketing Teams
+- Paul Prins (SimCog): tbd.
+- Michelle Gutting (Luis Technology): tbd.
 
 ## Bisherige Vorträge
 
+- 12.09.2023, Paul Prins (SimCog): KI-Anwendung aus der Praxis in der Hafenlogistik
 - 11.07.2023, Jan Schnedler: ARIC Halbjahresrückblick
 - 06.07.2023, Jonas Klaff & David Steding (botario): Talk to me - How to make your Chatbot pick up the phone
 - 04.07.2023, Mathis Hans Stolz: Employing machine learning and remote sensing to enhance infrastructure resiliency
