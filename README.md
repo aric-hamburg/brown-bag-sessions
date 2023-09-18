@@ -15,7 +15,7 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 Für Dienstag, 19.09.2023, haben wir als Vortragenden gewinnen können:
 
-- Prof. Dr. Martin Spindler (Uni Hamburg): tbd.
+- Prof. Dr. Martin Spindler (Uni Hamburg): CausalML mit DoubleML: Eine Einführung und Use Cases
 
 ## Weitere geplante Vorträge
  
