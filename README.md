@@ -19,6 +19,7 @@ Für Donnerstag, 21.09.2023, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
  
+- Aleksander Fegel (Ailio): Individuelles KI Projekt in der Produktion – Vom Prototypen zum MVP
 - Paul Prins (SimCog): tbd.
 - Michelle Gutting (Luis Technology): tbd.
 
