@@ -13,18 +13,18 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 21.09.2023, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 26.09.2023, haben wir als Vortragenden gewinnen können:
 
-- Yakup Özkardes-Cheung (Content AI Tools): Kosten senken mit KI: Prozesse und Systeme für Marketing Teams
+- Aleksander Fegel (Ailio): Individuelles KI Projekt in der Produktion – Vom Prototypen zum MVP
 
 ## Weitere geplante Vorträge
  
-- Aleksander Fegel (Ailio): Individuelles KI Projekt in der Produktion – Vom Prototypen zum MVP
 - Paul Prins (SimCog): tbd.
 - Michelle Gutting (Luis Technology): tbd.
 
 ## Bisherige Vorträge
 
+- 21.09.2023, Yakup Özkardes-Cheung (Content AI Tools): Kosten senken mit KI: Prozesse und Systeme für Marketing Teams
 - 19.09.2023, Prof. Dr. Martin Spindler (Uni Hamburg): CausalML mit DoubleML: Eine Einführung und Use Cases
 - 14.09.2023, Julien Marteen Akay (Ailio): Latent-Variable Energy-Based Models
 - 12.09.2023, Paul Prins (SimCog): KI-Anwendung aus der Praxis in der Hafenlogistik
