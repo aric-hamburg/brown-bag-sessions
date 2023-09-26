@@ -15,7 +15,7 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 Für Donnerstag, 28.09.2023, haben wir als Vortragenden gewinnen können:
 
-- Paul Prins (SimCog): tbd.
+- Paul Prins (SimCog): Kapitalbindung durch präzise Nachfrageprognosen um 10% reduzieren
 
 ## Weitere geplante Vorträge
 
