@@ -19,7 +19,7 @@ Für Donnerstag, 28.09.2023, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- Michelle Gutting (Luis Technology): tbd.
+- Michelle Gutting (Luis Technology): Breaking Boundaries - wenn KI und Marketingexperten aufeinandertreffen
 
 ## Bisherige Vorträge
 
