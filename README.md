@@ -13,9 +13,9 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 05.10.2023, haben wir als Vortragende gewinnen können:
+Für Dienstag, 10.10.2023, haben wir als Vortragenden gewinnen können:
 
-- Michelle Gutting (Luis Technology): Breaking Boundaries - wenn KI und Marketingexperten aufeinandertreffen
+- Olaf Schäfers (Cloudsupplies): Virtuelle Mitarbeiter – KI gewinnt gegen den IT-Fachkräftemangel
 
 ## Weitere geplante Vorträge
 
@@ -23,7 +23,8 @@ Für Donnerstag, 05.10.2023, haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
-- 18.09.2023, Paul Prins (SimCog): Kapitalbindung durch präzise Nachfrageprognosen um 10% reduzieren
+- 05.10.2023, Michelle Gutting (Luis Technology): Breaking Boundaries - wenn KI und Marketingexperten aufeinandertreffen
+- 28.09.2023, Paul Prins (SimCog): Kapitalbindung durch präzise Nachfrageprognosen um 10% reduzieren
 - 26.09.2023, Aleksander Fegel (Ailio): Individuelles KI Projekt in der Produktion – Vom Prototypen zum MVP
 - 21.09.2023, Yakup Özkardes-Cheung (Content AI Tools): Kosten senken mit KI: Prozesse und Systeme für Marketing Teams
 - 19.09.2023, Prof. Dr. Martin Spindler (Uni Hamburg): CausalML mit DoubleML: Eine Einführung und Use Cases
