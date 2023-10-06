@@ -19,7 +19,9 @@ Für Dienstag, 10.10.2023, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- tbd.
+- Lisa Stamm (Data42): Wie wir unsere Leitlinien für den Umgang mit KI im Unternehmen definiert haben
+- Paul Prins (SimCog): Mitarbeiterentlastung durch intelligente Prozesssteuerung
+- Yakup Özkardes-Cheung (Content AI Tools): Prompt Engineering: Nützliche Prompts bei ChatGPT für Marketing Experten
 
 ## Bisherige Vorträge
 
