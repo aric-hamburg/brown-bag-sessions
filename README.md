@@ -13,18 +13,18 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Dienstag, 10.10.2023, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 12.10.2023, haben wir als Vortragende gewinnen können:
 
-- Olaf Schäfers (Cloudsupplies): Virtuelle Mitarbeiter – KI gewinnt gegen den IT-Fachkräftemangel
+- Lisa Stamm (Data42): Wie wir unsere Leitlinien für den Umgang mit KI im Unternehmen definiert haben
 
 ## Weitere geplante Vorträge
 
-- Lisa Stamm (Data42): Wie wir unsere Leitlinien für den Umgang mit KI im Unternehmen definiert haben
 - Paul Prins (SimCog): Mitarbeiterentlastung durch intelligente Prozesssteuerung
 - Yakup Özkardes-Cheung (Content AI Tools): Prompt Engineering: Nützliche Prompts bei ChatGPT für Marketing Experten
 
 ## Bisherige Vorträge
 
+- 
 - 05.10.2023, Michelle Gutting (Luis Technology): Breaking Boundaries - wenn KI und Marketingexperten aufeinandertreffen
 - 28.09.2023, Paul Prins (SimCog): Kapitalbindung durch präzise Nachfrageprognosen um 10% reduzieren
 - 26.09.2023, Aleksander Fegel (Ailio): Individuelles KI Projekt in der Produktion – Vom Prototypen zum MVP
