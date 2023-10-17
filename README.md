@@ -19,7 +19,7 @@ Für Donnerstag, 19.10.2023, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- 
+- tba.
 
 ## Bisherige Vorträge
 
