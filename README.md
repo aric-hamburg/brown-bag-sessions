@@ -15,7 +15,7 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 Für Dienstag, 24.10.2023, haben wir als Vortragenden gewinnen können:
 
-- tba.
+- Das Brown Bag fällt heute leider aus!
 
 ## Weitere geplante Vorträge
 
