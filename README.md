@@ -13,9 +13,9 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Dienstag, 24.10.2023, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 07.11.2023, haben wir als Vortragenden gewinnen können:
 
-- Das Brown Bag fällt heute leider aus!
+- tba.
 
 ## Weitere geplante Vorträge
 
@@ -23,6 +23,8 @@ Für Dienstag, 24.10.2023, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 02.11.2023, Paul Prins (SimCog): Media-ROI durch KI-Umsatzsimulation präziser bestimmen
+- 24.10.2023, -,-
 - 19.10.2023, Yakup Özkardes-Cheung (Content AI Tools): Prompt Engineering: Nützliche Prompts bei ChatGPT für Marketing Experten
 - 17.10.2023, Paul Prins (SimCog): Mitarbeiterentlastung durch intelligente Prozesssteuerung
 - 12.10.2023, Lisa Stamm (Data42): Wie wir unsere Leitlinien für den Umgang mit KI im Unternehmen definiert haben
