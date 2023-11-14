@@ -13,13 +13,17 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Dienstag, 07.11.2023, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 14.11.2023, haben wir als Vortragenden gewinnen können:
 
-- tba.
+- Mahendran Reddy (Fehrmann GmbH): Singapore’s Advance Manufacturing and AI Ecosystem: Bridging Hamburg to Singapore
 
 ## Weitere geplante Vorträge
 
-- tba.
+- Nicolas Schulz (ARIC e.V.): KI zur Analyse digitaler Patientenakten
+- Prof. Dr. Reinhard Moratz (Uni Münster): Qualitative Räumliche Repräsentationen
+- Kim Nadja Jopp (CGI): Psychologische Aspekte bei der Synergie von menschlicher und künstlicher Intelligenz
+- Jun-Gyu Kim (Fehrmann GmbH): tbd.
+- Jan Schedler (ARIC e.V.): ARIC Halbjahresrückblick
 
 ## Bisherige Vorträge
 
