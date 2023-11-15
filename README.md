@@ -19,6 +19,7 @@ Für Donnerstag, 16.11.2023, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
+- Jens Duhme (Eviden): tbd.
 - Prof. Dr. Reinhard Moratz (Uni Münster): Qualitative Räumliche Repräsentationen
 - Kim Nadja Jopp (CGI): Psychologische Aspekte bei der Synergie von menschlicher und künstlicher Intelligenz
 - Jun-Gyu Kim (Fehrmann GmbH): tbd.
