@@ -26,7 +26,9 @@ Für Donnerstag, 16.11.2023, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
-- Mahendran Reddy (Fehrmann GmbH): Singapore’s Advance Manufacturing and AI Ecosystem: Bridging Hamburg to Singapore
+- 14.11.2023, Mahendran Reddy (Fehrmann GmbH): Singapore’s Advance Manufacturing and AI Ecosystem: Bridging Hamburg to Singapore
+- 09.11.2023, -,-
+- 07.11.2023, -,-
 - 02.11.2023, Paul Prins (SimCog): Media-ROI durch KI-Umsatzsimulation präziser bestimmen
 - 24.10.2023, -,-
 - 19.10.2023, Yakup Özkardes-Cheung (Content AI Tools): Prompt Engineering: Nützliche Prompts bei ChatGPT für Marketing Experten
