@@ -13,7 +13,7 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 30.01.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 30.01.2024, haben wir als Vortragenden gewinnen können:
 
 - tba
 
