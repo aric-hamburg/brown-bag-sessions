@@ -13,18 +13,22 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 23.11.2023, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 30.01.2024, haben wir als Vortragenden gewinnen können:
 
-- Prof. Dr. Reinhard Moratz (Uni Münster): Qualitative Räumliche Repräsentationen
+- tba
 
 ## Weitere geplante Vorträge
 
-- Kim Nadja Jopp (CGI): Psychologische Aspekte bei der Synergie von menschlicher und künstlicher Intelligenz
-- Jun-Gyu Kim (Fehrmann GmbH): tbd.
-- Jan Schedler (ARIC e.V.): ARIC Halbjahresrückblick
+- tba.
 
 ## Bisherige Vorträge
 
+2023
+
+- 05.12.2023, Jan Schedler (ARIC e.V.): ARIC Halbjahresrückblick
+- 30.11.2023, Jun-Gyu Kim (Fehrmann GmbH): MatGPT – Beschleunigte Legierungsentwicklung durch Kombination von LLMs, maschinellem Lernen und Simulation
+- 28.11.2023, Kim Nadja Jopp (CGI): Psychologische Aspekte bei der Synergie von menschlicher und künstlicher Intelligenz
+- 23.11.2023, Prof. Dr. Reinhard Moratz (Uni Münster): Qualitative Räumliche Repräsentationen
 - 21.11.2023, Jens Duhme (Eviden): Öffentliche Daten sinnvoll nutzen: „Analyse von Zulassungszahlen, Ladesäulen und Pendlerströmen zur Identifikation von White Spots."
 - 16.11.2023, Nicolas Schulz (ARIC e.V.): KI zur Analyse digitaler Patientenakten
 - 14.11.2023, Mahendran Reddy (Fehrmann GmbH): Singapore’s Advance Manufacturing and AI Ecosystem: Bridging Hamburg to Singapore
