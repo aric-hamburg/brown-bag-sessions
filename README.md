@@ -15,7 +15,7 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 Für Dienstag, 30.01.2024, haben wir als Vortragenden gewinnen können:
 
-- tba
+- Janis Goesser (Ailio): Big Data gleich Big Chaos?! So meistern wir tausende Pipelines und liefern effiziente Wege zur Datenqualitätssicherung
 
 ## Weitere geplante Vorträge
 
