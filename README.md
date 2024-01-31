@@ -13,15 +13,18 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Dienstag, 30.01.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 01.01.2024, haben wir als Vortragenden gewinnen können:
 
-- Janis Goesser (Ailio): Big Data gleich Big Chaos?! So meistern wir tausende Pipelines und liefern effiziente Wege zur Datenqualitätssicherung
+- Dr. Florian Vogt (ARIC e.V.): Randbedingungen für den Einsatz von Rezyklaten in Kunststoffverpackungen
 
 ## Weitere geplante Vorträge
 
-- tba.
+- Anselm Fehnker/Nicolas Schulz (ARIC e.V.): tba.
 
 ## Bisherige Vorträge
+
+
+- 30.01.2024, Janis Goesser (Ailio): Big Data gleich Big Chaos?! So meistern wir tausende Pipelines und liefern effiziente Wege zur Datenqualitätssicherung
 
 2023
 
