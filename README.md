@@ -13,7 +13,7 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 01.01.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 01.02.2024, haben wir als Vortragenden gewinnen können:
 
 - Dr. Florian Vogt (ARIC e.V.): Randbedingungen für den Einsatz von Rezyklaten in Kunststoffverpackungen
 
