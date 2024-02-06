@@ -13,17 +13,17 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 01.02.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 06.02.2024, haben wir als Vortragende gewinnen können:
 
-- Dr. Florian Vogt (ARIC e.V.): Randbedingungen für den Einsatz von Rezyklaten in Kunststoffverpackungen
+- Anselm Fehnker/Nicolas Schulz (ARIC e.V.): Responsible AI - Worauf man bei der Implementierung von KI achten sollte
 
 ## Weitere geplante Vorträge
 
-- Anselm Fehnker/Nicolas Schulz (ARIC e.V.): tba.
+- tba.
 
 ## Bisherige Vorträge
 
-
+- 01.02.2024, Dr. Florian Vogt (ARIC e.V.): Randbedingungen für den Einsatz von Rezyklaten in Kunststoffverpackungen
 - 30.01.2024, Janis Goesser (Ailio): Big Data gleich Big Chaos?! So meistern wir tausende Pipelines und liefern effiziente Wege zur Datenqualitätssicherung
 
 2023
