@@ -19,7 +19,7 @@ Für Dienstag, 06.02.2024, haben wir als Vortragende gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- tba.
+- Janna Lipenkova (Anacode): Trend detection & profiling with NLP and time series analysis
 
 ## Bisherige Vorträge
 
