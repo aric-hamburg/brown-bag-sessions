@@ -13,9 +13,9 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 08.02.2024, haben wir als Vortragende gewinnen können:
+Für Dienstag, 13.02.2024, haben wir als Vortragenden gewinnen können:
 
-- Janna Lipenkova (Anacode): Discovering, profiling and acting on trends with NLP
+- Ruben Aster (Quibiq): Discover Real-World Projects powered by Azure OpenAI and Integration
 
 ## Weitere geplante Vorträge
 
@@ -23,6 +23,7 @@ Für Donnerstag, 08.02.2024, haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
+- 08.02.2024, Janna Lipenkova (Anacode): Discovering, profiling and acting on trends with NLP
 - 06.02.2024, Anselm Fehnker/Nicolas Schulz (ARIC e.V.): Responsible AI - Worauf man bei der Implementierung von KI achten sollte
 - 01.02.2024, Dr. Florian Vogt (ARIC e.V.): Randbedingungen für den Einsatz von Rezyklaten in Kunststoffverpackungen
 - 30.01.2024, Janis Goesser (Ailio): Big Data gleich Big Chaos?! So meistern wir tausende Pipelines und liefern effiziente Wege zur Datenqualitätssicherung
