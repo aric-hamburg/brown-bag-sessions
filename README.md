@@ -19,7 +19,7 @@ Für Donnerstag, 08.02.2024, haben wir als Vortragende gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- 
+- tba.
 
 ## Bisherige Vorträge
 
