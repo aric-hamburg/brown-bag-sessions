@@ -13,9 +13,9 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Dienstag, 13.02.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 15.02.2024, haben wir als Vortragenden gewinnen können:
 
-- Ruben Aster (Quibiq): Discover Real-World Projects powered by Azure OpenAI and Integration
+- Daniel Speck (HITeC e.V.): Let It Grow: Modular Growing Neural Networks
 
 ## Weitere geplante Vorträge
 
@@ -23,6 +23,7 @@ Für Dienstag, 13.02.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 13.02.2024, Ruben Aster (Quibiq): Discover Real-World Projects powered by Azure OpenAI and Integration
 - 08.02.2024, Janna Lipenkova (Anacode): Discovering, profiling and acting on trends with NLP
 - 06.02.2024, Anselm Fehnker/Nicolas Schulz (ARIC e.V.): Responsible AI - Worauf man bei der Implementierung von KI achten sollte
 - 01.02.2024, Dr. Florian Vogt (ARIC e.V.): Randbedingungen für den Einsatz von Rezyklaten in Kunststoffverpackungen
