@@ -13,16 +13,22 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 15.02.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 20.02.2024, haben wir als Vortragende gewinnen können:
 
-- Daniel Speck (HITeC e.V.): Let It Grow: Modular Growing Neural Networks
+- Paul-Louis Pröve/Florian Fabry/Marcel Bosse (Tensora): Prozessautomatisierung mit LLMs in der Industrie
 
 ## Weitere geplante Vorträge
 
-- tba.
+- Akbay Tabak: Introducing FraiLT: Compact and Powerful Language Model
+- Soner Emec (ARIC e.V.): tba.
+- Bahne Sievers (Fieldfisher): KI und Persönlichkeitsrecht
+- Johannes Jamroszczyk (Charit Insight): LLMs und ihre innovative Bedeutung im Markt von morgen
+- Bahne Sievers (Fieldfisher): KI & Urheberrecht – Lösung durch den AI Act?
+- Tom Tlok: Detectora – Erkennung von KI-generierten Texten
 
 ## Bisherige Vorträge
 
+- 15.02.2024, Daniel Speck (HITeC e.V.): Let It Grow: Modular Growing Neural Networks
 - 13.02.2024, Ruben Aster (Quibiq): Discover Real-World Projects powered by Azure OpenAI and Integration
 - 08.02.2024, Janna Lipenkova (Anacode): Discovering, profiling and acting on trends with NLP
 - 06.02.2024, Anselm Fehnker/Nicolas Schulz (ARIC e.V.): Responsible AI - Worauf man bei der Implementierung von KI achten sollte
