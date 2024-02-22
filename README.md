@@ -11,7 +11,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unterstützung durch die EU und die IFB Hamburg durchgeführt. Um unsere Events zukünftig noch besser auf die Wünsche und Bedürfnisse unserer Teilnehmer abstimmen zu können, sind wir auf Dein Feedback angewiesen. Wir würden uns sehr freuen, wenn Du Dir ein paar Minuten Zeit nehmen könntest, um unseren Fragebogen auszufüllen. 
 
-Hier findest Du den Link zum Feedback-Formular: EUSurvey - Survey (europa.eu) 
+Hier findest Du den Link zum Feedback-Formular: [EUSurvey - Survey (europa.eu)](https://ec.europa.eu/eusurvey/runner/EDIH_Hamburg_Befragung_Innovation_Ecosystem) 
 
 Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir unsere Veranstaltungen stetig verbessern können. Vielen Dank im Voraus für Deine Unterstützung! 
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
