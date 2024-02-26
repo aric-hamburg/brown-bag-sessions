@@ -11,16 +11,16 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhL
 
 Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unterstützung durch die EU und die IFB Hamburg durchgeführt. Um unsere Events zukünftig noch besser auf die Wünsche und Bedürfnisse unserer Teilnehmer abstimmen zu können, sind wir auf Dein Feedback angewiesen. Wir würden uns sehr freuen, wenn Du Dir ein paar Minuten Zeit nehmen könntest, um unseren Fragebogen auszufüllen. 
 
-Hier findest Du den Link zum Feedback-Formular: [EUSurvey - Survey (europa.eu)](https://ec.europa.eu/eusurvey/runner/EDIH_Hamburg_Befragung_Innovation_Ecosystem) 
+Hier findest Du den Link zum Feedback-Formular: https://ec.europa.eu/eusurvey/runner/EDIH_Hamburg_Befragung_Innovation_Ecosystem
 
 Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir unsere Veranstaltungen stetig verbessern können. Vielen Dank im Voraus für Deine Unterstützung! 
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 22.02.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 27.02.2024, haben wir als Vortragende gewinnen können:
 
-- Akbay Tabak: Introducing FraiLT: Compact and Powerful Language Model
+- Elisabeth Weißbecker (ARIC e.V.): Projektvorstellung IlidenT - Responsible AI in der Luftfahrt
 
 ## Weitere geplante Vorträge
 
@@ -31,6 +31,7 @@ Für Donnerstag, 22.02.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 22.02.2024, Akbay Tabak: Introducing FraiLT: Compact and Powerful Language Model
 - 20.02.2024, Paul-Louis Pröve/Florian Fabry/Marcel Bosse (Tensora): Prozessautomatisierung mit LLMs in der Industrie
 - 15.02.2024, Daniel Speck (HITeC e.V.): Let It Grow: Modular Growing Neural Networks
 - 13.02.2024, Ruben Aster (Quibiq): Discover Real-World Projects powered by Azure OpenAI and Integration
