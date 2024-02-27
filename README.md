@@ -18,19 +18,19 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 27.02.2024, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 29.02.2024, haben wir als Vortragenden gewinnen können:
 
-- Elisabeth Weißbecker (ARIC e.V.): Projektvorstellung IlidenT - Responsible AI in der Luftfahrt
+- Bahne Sievers (Fieldfisher): KI und Persönlichkeitsrecht
 
 ## Weitere geplante Vorträge
 
-- Bahne Sievers (Fieldfisher): KI und Persönlichkeitsrecht
 - Johannes Jamroszczyk (Charit Insight): LLMs und ihre innovative Bedeutung im Markt von morgen
 - Bahne Sievers (Fieldfisher): KI & Urheberrecht – Lösung durch den AI Act?
 - Tom Tlok: Detectora – Erkennung von KI-generierten Texten
 
 ## Bisherige Vorträge
 
+- 27.02.2024, Elisabeth Weißbecker (ARIC e.V.): Projektvorstellung IlidenT - Responsible AI in der Luftfahrt
 - 22.02.2024, Akbay Tabak: Introducing FraiLT: Compact and Powerful Language Model
 - 20.02.2024, Paul-Louis Pröve/Florian Fabry/Marcel Bosse (Tensora): Prozessautomatisierung mit LLMs in der Industrie
 - 15.02.2024, Daniel Speck (HITeC e.V.): Let It Grow: Modular Growing Neural Networks
