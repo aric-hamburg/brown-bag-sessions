@@ -18,18 +18,18 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 12.03.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 14.03.2024, haben wir als Vortragenden gewinnen können:
 
-- Tom Tlok: Detectora – Erkennung von KI-generierten Texten
+- Shekhar Khandelwal (Mercury): Large Language Models (LLMs) - GenAI
 
 ## Weitere geplante Vorträge
 
-- Shekhar Khandelwal (Mercury): Large Language Models (LLMs) - GenAI
 - Yakup Özkardes-Cheung (Content AI Tools): KI-Projektmanagement: Planung, Durchführung und Erfolgsmessung
 - Max Wilke (Nice Outside): Beyond ChatGPT: Using LLMs to build new kinds of products
 
 ## Bisherige Vorträge
 
+- 12.03.2024, Tom Tlok: Detectora – Erkennung von KI-generierten Texten
 - 07.03.2024, Bahne Sievers (Fieldfisher): KI & Urheberrecht – Lösung durch den AI Act?
 - 05.03.2024, Johannes Jamroszczyk (Charit Insight): LLMs und ihre innovative Bedeutung im Markt von morgen
 - 29.02.2024, Bahne Sievers (Fieldfisher): KI und Persönlichkeitsrecht
