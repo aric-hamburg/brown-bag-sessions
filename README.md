@@ -18,16 +18,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 19.03.2024, haben wir als Vortragenden gewinnen können:
-
-- Yakup Özkardes-Cheung (Content AI Tools): KI-Projektmanagement: Planung, Durchführung und Erfolgsmessung
-
-## Weitere geplante Vorträge
+Für dONNERSTAG, 21.03.2024, haben wir als Vortragenden gewinnen können:
 
 - Max Wilke (Nice Outside): Beyond ChatGPT: Using LLMs to build new kinds of products
 
+## Weitere geplante Vorträge
+
+- tbd.
+
 ## Bisherige Vorträge
 
+- 19.03.2024, Yakup Özkardes-Cheung (Content AI Tools): Warum KI-Projekte scheitern und was wir daraus lernen können
 - 14.03.2024, Shekhar Khandelwal (Mercury): Large Language Models (LLMs) - GenAI
 - 12.03.2024, Tom Tlok: Detectora – Erkennung von KI-generierten Texten
 - 07.03.2024, Bahne Sievers (Fieldfisher): KI & Urheberrecht – Lösung durch den AI Act?
