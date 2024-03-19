@@ -1,7 +1,7 @@
 # Brown Bag Talks des ARIC Hamburg
 Das ARIC Hamburg (aric-hamburg.de) organisiert sogenannte "Brown Bag Sessions", die derzeit
 jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 stattfinden.
-Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft sprechen zur Mittagszeit zu spannenden Themen und Projekten aus den Bereichen Artificial Intelligence, Data Science, Data Architecture, AI Business Development, etc.
+Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft sprechen zur Mittagszeit zu spannenden Themen und Projekten aus den Bereichen Artificial Intelligence, Data Science, Data Architecture, AI Business Development, Quantum Technology, etc.
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
 Über dann nachfolgenden Link könnt ihr euch gerne dazuschalten 
@@ -24,7 +24,7 @@ Für dONNERSTAG, 21.03.2024, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- tbd.
+- Dr.-Ing. Soner Emec (ARIC e.V./HQIC): “Hamburg Quantum Innovation Capital - Combined expertise in quantum technology from research to application”
 
 ## Bisherige Vorträge
 
