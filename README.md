@@ -18,7 +18,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für dONNERSTAG, 21.03.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 21.03.2024, haben wir als Vortragenden gewinnen können:
 
 - Max Wilke (Nice Outside): Beyond ChatGPT: Using LLMs to build new kinds of products
 
