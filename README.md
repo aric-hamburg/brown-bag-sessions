@@ -24,7 +24,7 @@ Für Donnerstag, 21.03.2024, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- Dr.-Ing. Soner Emec (ARIC e.V./HQIC): “Hamburg Quantum Innovation Capital - Combined expertise in quantum technology from research to application”
+- Dr.-Ing. Soner Emec (ARIC e.V./HQIC): Hamburg Quantum Innovation Capital - Combined expertise in quantum technology from research to application
 
 ## Bisherige Vorträge
 
