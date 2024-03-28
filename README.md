@@ -18,16 +18,18 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 21.03.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 28.03.2024, haben wir als Vortragenden gewinnen können:
 
-- Max Wilke (Nice Outside): Beyond ChatGPT: Using LLMs to build new kinds of products
+- Alessandro Alviani (Ippen Media): Welche Herausforderungen hat ein Medienverlag mit KI-Tools?
 
 ## Weitere geplante Vorträge
 
-- Dr.-Ing. Soner Emec (ARIC e.V./HQIC): Hamburg Quantum Innovation Capital - Combined expertise in quantum technology from research to application
+- Martin Lose (Fieldfisher): Update zum AI Act: Jetzt wird es ernst
 
 ## Bisherige Vorträge
 
+- 23.03.2024, Dr.-Ing. Soner Emec (ARIC e.V./HQIC): Hamburg Quantum Innovation Capital - Combined expertise in quantum technology from research to application
+- 21.03.2024, Max Wilke (Nice Outside): Beyond ChatGPT: Using LLMs to build new kinds of products
 - 19.03.2024, Yakup Özkardes-Cheung (Content AI Tools): Warum KI-Projekte scheitern und was wir daraus lernen können
 - 14.03.2024, Shekhar Khandelwal (Mercury): Large Language Models (LLMs) - GenAI
 - 12.03.2024, Tom Tlok: Detectora – Erkennung von KI-generierten Texten
