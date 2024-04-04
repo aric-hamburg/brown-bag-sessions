@@ -18,9 +18,9 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 04.02.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 09.04.2024, haben wir als Vortragenden gewinnen können:
 
-- Johannes Jamroszczyk (Charit Insight): KI-Psychometrie: Was LLM's im Durchschnitt zu sagen haben
+- Martin Lose (Fieldfisher): Gen-AI im Unternehmen
 
 ## Weitere geplante Vorträge
 
@@ -28,6 +28,7 @@ Für Donnerstag, 04.02.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 04.04.2024, Johannes Jamroszczyk (Charit Insight): KI-Psychometrie: Was LLM's im Durchschnitt zu sagen haben
 - 02.04.2024, Martin Lose (Fieldfisher): Update zum AI Act: Jetzt wird es ernst
 - 28.03.2024, Alessandro Alviani (Ippen Media): Welche Herausforderungen hat ein Medienverlag mit KI-Tools?
 - 23.03.2024, Dr.-Ing. Soner Emec (ARIC e.V./HQIC): Hamburg Quantum Innovation Capital - Combined expertise in quantum technology
