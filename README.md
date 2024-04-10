@@ -18,9 +18,9 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 09.04.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 16.04.2024, haben wir als Vortragenden gewinnen können:
 
-- Martin Lose (Fieldfisher): Gen-AI im Unternehmen
+- Benedikt Schulz (ARIC e.V.): KI & Consulting - Unternehmensberatung in Zeiten der KI
 
 ## Weitere geplante Vorträge
 
@@ -28,6 +28,7 @@ Für Dienstag, 09.04.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 09.04.2024, Martin Lose (Fieldfisher): Gen-AI im Unternehmen
 - 04.04.2024, Johannes Jamroszczyk (Charit Insight): KI-Psychometrie: Was LLM's im Durchschnitt zu sagen haben
 - 02.04.2024, Martin Lose (Fieldfisher): Update zum AI Act: Jetzt wird es ernst
 - 28.03.2024, Alessandro Alviani (Ippen Media): Welche Herausforderungen hat ein Medienverlag mit KI-Tools?
