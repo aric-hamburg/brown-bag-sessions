@@ -20,7 +20,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Dienstag, 16.04.2024, haben wir als Vortragenden gewinnen können:
 
-- Benedikt Schulz (ARIC e.V.): KI & Consulting - Unternehmensberatung in Zeiten der KI
+- Benedikt Schulz (-): KI & Consulting - Unternehmensberatung in Zeiten der KI
 
 ## Weitere geplante Vorträge
 
