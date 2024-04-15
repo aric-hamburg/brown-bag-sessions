@@ -24,7 +24,7 @@ Für Dienstag, 16.04.2024, haben wir als Vortragenden gewinnen können:
 
 ## Weitere geplante Vorträge
 
-- tba.
+- Natalie Rotermund/Sassan Sangsari (ARIC e.V.): Gesundheitsdaten - Spannungsfeld zwischen Nutzen und Schutz
 
 ## Bisherige Vorträge
 
