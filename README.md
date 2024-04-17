@@ -18,16 +18,19 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 16.04.2024, haben wir als Vortragenden gewinnen können:
-
-- Benedikt Schulz (-): KI & Consulting - Unternehmensberatung in Zeiten der KI
-
-## Weitere geplante Vorträge
+Für Donnerstag, 18.04.2024, haben wir als Vortragende gewinnen können:
 
 - Natalie Rotermund/Sassan Sangsari (ARIC e.V.): Gesundheitsdaten - Spannungsfeld zwischen Nutzen und Schutz
 
+## Weitere geplante Vorträge
+
+- Shekhar Khandelwal (Mercury): Understand next frontier of AI advancement - Agents!
+- Shekhar Khandelwal (Mercury): Build AI Applications from scratch
+
 ## Bisherige Vorträge
 
+- 16.04.2024, Benedikt Schulz (-): KI & Consulting - Unternehmensberatung in Zeiten der KI
+- 11.04.2024, -,-
 - 09.04.2024, Martin Lose (Fieldfisher): Gen-AI im Unternehmen
 - 04.04.2024, Johannes Jamroszczyk (Charit Insight): KI-Psychometrie: Was LLM's im Durchschnitt zu sagen haben
 - 02.04.2024, Martin Lose (Fieldfisher): Update zum AI Act: Jetzt wird es ernst
