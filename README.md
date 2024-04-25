@@ -18,17 +18,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 25.04.2024, haben wir als Vortragende gewinnen können:
+Für Dienstag, 30.04.2024, haben wir als Vortragende gewinnen können:
 
-- Shekhar Khandelwal (Mercury): Build AI Applications from scratch
+- Dr.-Ing. Anisa Rizvanolli (Fraunhofer CML): Potenziale des Quantencomputings für verbesserte Schifffahrt und maritime Logistik
 
 ## Weitere geplante Vorträge
 
-- Dr.-Ing. Anisa Rizvanolli (Fraunhofer CML): Potenziale des Quantencomputings für verbesserte Schifffahrt und maritime Logistik
 - Dr. Pedram Emami (Ärztekammer Hamburg): Brauchen wir Ärzt:innen im Zeitalter von KI
 
 ## Bisherige Vorträge
 
+- 25.04.2024, Shekhar Khandelwal (Mercury): Build AI Applications from scratch
 - 23.04.2024, Shekhar Khandelwal (Mercury): Understand next frontier of AI advancement - Agents!
 - 18.04.2024, Natalie Rotermund/Sassan Sangsari (ARIC e.V.): Gesundheitsdaten - Spannungsfeld zwischen Nutzen und Schutz
 - 16.04.2024, Benedikt Schulz (-): KI & Consulting - Unternehmensberatung in Zeiten der KI
