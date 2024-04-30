@@ -18,14 +18,15 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Dienstag, 30.04.2024, haben wir als Vortragende gewinnen können:
 
-- Dr.-Ing. Anisa Rizvanolli (Fraunhofer CML): Potenziale des Quantencomputings für verbesserte Schifffahrt und maritime Logistik
+- Dr. Pedram Emami (Ärztekammer Hamburg): Brauchen wir Ärzt:innen im Zeitalter von KI
 
 ## Weitere geplante Vorträge
 
-- Dr. Pedram Emami (Ärztekammer Hamburg): Brauchen wir Ärzt:innen im Zeitalter von KI
+- tbd.
 
 ## Bisherige Vorträge
 
+- 30.04.2024, Dr.-Ing. Anisa Rizvanolli (Fraunhofer CML): Potenziale des Quantencomputings für verbesserte Schifffahrt und maritime Logistik
 - 25.04.2024, Shekhar Khandelwal (Mercury): Build AI Applications from scratch
 - 23.04.2024, Shekhar Khandelwal (Mercury): Understand next frontier of AI advancement - Agents!
 - 18.04.2024, Natalie Rotermund/Sassan Sangsari (ARIC e.V.): Gesundheitsdaten - Spannungsfeld zwischen Nutzen und Schutz
