@@ -16,16 +16,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 02.05.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 07.05.2024, haben wir als Vortragenden gewinnen können:
 
-- Dr. Pedram Emami (Ärztekammer Hamburg): Brauchen wir Ärzt:innen im Zeitalter von KI
-
+- Yakup Özkardes-Cheung (Content AI Tools): Zehn Schlüsselfragen zur Förderung einer KI-positiven Organisationskultur
+- 
 ## Weitere geplante Vorträge
 
 - tbd.
 
 ## Bisherige Vorträge
 
+- 02.05.2024, Dr. Pedram Emami (Ärztekammer Hamburg): Brauchen wir Ärzt:innen im Zeitalter von KI
 - 30.04.2024, Dr.-Ing. Anisa Rizvanolli (Fraunhofer CML): Potenziale des Quantencomputings für verbesserte Schifffahrt und maritime Logistik
 - 25.04.2024, Shekhar Khandelwal (Mercury): Build AI Applications from scratch
 - 23.04.2024, Shekhar Khandelwal (Mercury): Understand next frontier of AI advancement - Agents!
