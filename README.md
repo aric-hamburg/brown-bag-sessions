@@ -16,7 +16,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 30.04.2024, haben wir als Vortragende gewinnen können:
+Für Donnerstag, 02.05.2024, haben wir als Vortragenden gewinnen können:
 
 - Dr. Pedram Emami (Ärztekammer Hamburg): Brauchen wir Ärzt:innen im Zeitalter von KI
 
