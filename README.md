@@ -19,7 +19,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 Für Dienstag, 07.05.2024, haben wir als Vortragenden gewinnen können:
 
 - Yakup Özkardes-Cheung (Content AI Tools): Zehn Schlüsselfragen zur Förderung einer KI-positiven Organisationskultur
-- 
+  
 ## Weitere geplante Vorträge
 
 - tbd.
