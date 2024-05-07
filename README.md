@@ -22,7 +22,7 @@ Für Dienstag, 07.05.2024, haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- tbd.
+- Hendrik Reese (PwC): EU AI Act - The Imperative to build AI Governance
 
 ## Bisherige Vorträge
 
