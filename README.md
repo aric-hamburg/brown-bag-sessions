@@ -17,12 +17,12 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Dienstag, 14.05.2024, haben wir als Vortragenden gewinnen können:
 
-- Hendrik Reese (PwC): EU AI Act - The Imperative to build AI Governance
-- Dr. Wolfgang König (Bildungswerk der Wirtschaft): Mit KI-Chatbots Lernen lernen 
+- Hendrik Reese (PwC): EU AI Act - The Imperative to build AI Governance 
   
 ## Weitere geplante Vorträge
 
 - Aleksander Fegel (Ailio): Wenn Datenprojekte scheitern - Wie kann ich scheiternde PoCs erfolgreich machen?
+- Dr. Wolfgang König (Bildungswerk der Wirtschaft): Mit KI-Chatbots Lernen lernen
 
 ## Bisherige Vorträge
 
