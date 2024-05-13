@@ -1,5 +1,5 @@
 # ARIC Brown Bag Sessions
-Das ARIC Hamburg (www.aric-hamburg.de) organisiert sogenannte "Brown Bag Talks", die jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 stattfinden.
+Das ARIC (www.aric-hamburg.de) organisiert sogenannte "Brown Bag Sessions", die jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 stattfinden.
 Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft sprechen zur Mittagszeit zu spannenden Themen und Projekten aus den Bereichen Artificial Intelligence, Data Science, Data Architecture, AI Business Development, etc. An jedem letzten Dienstag des Monats findet zudem ein Brown Bag zum Thema Quantentechnologie statt. Diese Sessions bieten einen tiefen Einblick in das Quantumtechnologie-Ökosystem Hamburgs (www.hqic.de) und stellen laufende Projekte u.a. aus den Bereichen Quantencomputing, -sensor, kommunikation, und -materialien vor.
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
