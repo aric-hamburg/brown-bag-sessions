@@ -22,7 +22,7 @@ Für Donnerstag, 16.05.2024, haben wir als Vortragenden gewinnen können:
 ## Weitere geplante Vorträge
 
 - Aleksander Fegel (Ailio): Wenn Datenprojekte scheitern - Wie kann ich scheiternde PoCs erfolgreich machen?
-- Christian Schwehm	(CalColution): tbd.
+- Christian Schwehm	(CalColution): Eco Solution Corner – KI-gestütztes Wissensmanagement für effektive Kooperation!
 - Prof. Henning Moritz (Quantum Matter Group Uni Hamburg): Entwicklung des ersten Quantencomputers mit neutralen Atomen an der Universität
 - Dr. Wolfgang König (Bildungswerk der Wirtschaft): Mit KI-Chatbots Lernen lernen
 
