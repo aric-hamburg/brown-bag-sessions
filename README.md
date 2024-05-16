@@ -15,19 +15,19 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 16.05.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 21.05.2024, haben wir als Vortragenden gewinnen können:
 
--  tbd.
+-  Aleksander Fegel (Ailio): Wenn Datenprojekte scheitern - Wie kann ich scheiternde PoCs erfolgreich machen?
   
 ## Weitere geplante Vorträge
 
-- Aleksander Fegel (Ailio): Wenn Datenprojekte scheitern - Wie kann ich scheiternde PoCs erfolgreich machen?
 - Christian Schwehm	(CalColution): Eco Solution Corner – KI-gestütztes Wissensmanagement für effektive Kooperation!
 - Prof. Henning Moritz (Quantum Matter Group Uni Hamburg): Entwicklung des ersten Quantencomputers mit neutralen Atomen an der Universität
 - Dr. Wolfgang König (Bildungswerk der Wirtschaft): Mit KI-Chatbots Lernen lernen
 
 ## Bisherige Vorträge
 
+- 16.05.2024, -,-
 - 14.05.2024, Hendrik Reese (PwC): EU AI Act - The Imperative to build AI Governance
 - 07.05.2024, Yakup Özkardes-Cheung (Content AI Tools): Zehn Schlüsselfragen zur Förderung einer KI-positiven Organisationskultur
 - 02.05.2024, Dr. Pedram Emami (Ärztekammer Hamburg): Brauchen wir Ärzt:innen im Zeitalter von KI
