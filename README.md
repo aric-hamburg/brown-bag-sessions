@@ -24,6 +24,7 @@ Für Dienstag, 21.05.2024, haben wir als Vortragenden gewinnen können:
 - Christian Schwehm	(CalColution): Eco Solution Corner – KI-gestütztes Wissensmanagement für effektive Kooperation!
 - Prof. Henning Moritz (Quantum Matter Group Uni Hamburg): Entwicklung des ersten Quantencomputers mit neutralen Atomen an der Universität
 - Dr. Wolfgang König (Bildungswerk der Wirtschaft): Mit KI-Chatbots Lernen lernen
+- Dennis Räk (HAW): Diffusionsmodelle: Das Generative Model hinter Sora, Imagen, Stable Diffusion und Co.
 
 ## Bisherige Vorträge
 
