@@ -1,6 +1,6 @@
 # ARIC Brown Bag Sessions
-Das ARIC (www.aric-hamburg.de) organisiert sogenannte "Brown Bag Sessions", die jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 stattfinden.
-Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft sprechen zur Mittagszeit zu spannenden Themen und Projekten aus den Bereichen Artificial Intelligence, Data Science, Data Architecture, AI Business Development, etc. An jedem letzten Dienstag des Monats findet zudem ein Brown Bag zum Thema Quantentechnologie statt. Diese Sessions bieten einen tiefen Einblick in das Quantumtechnologie-Ökosystem Hamburgs (www.hqic.de) und stellen laufende Projekte u.a. aus den Bereichen Quantencomputing, -sensor, kommunikation, und -materialien vor.
+Das ARIC (www.aric-hamburg.de) organisiert sogenannte "ARIC Brown Bag Sessions", die jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 stattfinden.
+Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft sprechen zur Mittagszeit zu spannenden Themen und Projekten aus den Bereichen Artificial Intelligence, Data Science, Data Architecture, AI Business Development, etc. An jedem letzten Dienstag des Monats findet zudem ein ARIC Brown Bag zum Thema Quantentechnologie statt. Diese Sessions bieten einen tiefen Einblick in das QT-Ökosystem Hamburgs und stellen laufende Projekte u.a. aus den Bereichen Quantencomputing, -sensor, kommunikation, und -materialien vor.
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
 Über dann nachfolgenden Link könnt ihr euch gerne dazuschalten 
@@ -15,17 +15,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 28.05.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 30.05.2024, haben wir als Vortragenden gewinnen können:
 
--  Prof. Henning Moritz (Quantum Matter Group Uni Hamburg): Entwicklung des ersten Quantencomputers mit neutralen Atomen an der Universität
+-  Dr. Wolfgang König (Bildungswerk der Wirtschaft): Mit KI-Chatbots Lernen lernen
   
 ## Weitere geplante Vorträge
 
-- Dr. Wolfgang König (Bildungswerk der Wirtschaft): Mit KI-Chatbots Lernen lernen
 - Dennis Räk (HAW): Diffusionsmodelle: Das Generative Model hinter Sora, Imagen, Stable Diffusion und Co.
 
 ## Bisherige Vorträge
 
+- 28.05.2024, Prof. Henning Moritz (Quantum Matter Group Uni Hamburg): Entwicklung des ersten Quantencomputers mit neutralen Atomen an der Universität
 - 23.05.2024, Christian Schwehm	(CalColution): Eco Solution Corner – KI-gestütztes Wissensmanagement für effektive Kooperation!
 - 21.05.2024, Aleksander Fegel (Ailio): Wenn Datenprojekte scheitern - Wie kann ich scheiternde PoCs erfolgreich machen?
 - 16.05.2024, -,-
