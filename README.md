@@ -15,9 +15,9 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 04.06.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 06.06.2024, haben wir als Vortragenden gewinnen können:
 
--  Dennis Räk (HAW): Diffusionsmodelle: Das Generative Model hinter Sora, Imagen, Stable Diffusion und Co.
+-  Noah Bani-Harouni(Zelvor): Ist KI der Gamechanger für produktivere Meetings
   
 ## Weitere geplante Vorträge
 
@@ -25,6 +25,7 @@ Für Dienstag, 04.06.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 04.06.2024, Dennis Räk (HAW): Diffusionsmodelle: Das Generative Model hinter Sora, Imagen, Stable Diffusion und Co.
 - 30.05.2024, Dr. Wolfgang König (Bildungswerk der Wirtschaft): Mit KI-Chatbots Lernen lernen
 - 28.05.2024, Prof. Henning Moritz (Quantum Matter Group Uni Hamburg): Entwicklung des ersten Quantencomputers mit neutralen Atomen an der Universität
 - 23.05.2024, Christian Schwehm	(CalColution): Eco Solution Corner – KI-gestütztes Wissensmanagement für effektive Kooperation!
