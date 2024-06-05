@@ -17,7 +17,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Donnerstag, 06.06.2024, haben wir als Vortragenden gewinnen können:
 
--  Noah Bani-Harouni(Zelvor): Ist KI der Gamechanger für produktivere Meetings
+-  Noah Bani-Harouni (Zelvor): Ist KI der Gamechanger für produktivere Meetings
   
 ## Weitere geplante Vorträge
 
