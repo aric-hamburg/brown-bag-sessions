@@ -15,16 +15,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 06.06.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 18.06.2024, haben wir als Vortragenden gewinnen können:
 
--  Noah Bani-Harouni (Zelvor): Ist KI der Gamechanger für produktivere Meetings
+- Markus Meister: Der Nutzen proprietärer Vorverarbeitung medizinischer Bildsegmentierung 
   
 ## Weitere geplante Vorträge
 
-- tba.
+- Adrian Baetu (NordWind KI & Medien): Von der Idee zum KI-Produkt: Erfolgsfaktoren für Business Case Development
 
 ## Bisherige Vorträge
 
+- 06.06.2024, Noah Bani-Harouni (Zelvor): Ist KI der Gamechanger für produktivere Meetings
 - 04.06.2024, Dennis Räk (HAW): Diffusionsmodelle: Das Generative Model hinter Sora, Imagen, Stable Diffusion und Co.
 - 30.05.2024, Dr. Wolfgang König (Bildungswerk der Wirtschaft): Mit KI-Chatbots Lernen lernen
 - 28.05.2024, Prof. Henning Moritz (Quantum Matter Group Uni Hamburg): Entwicklung des ersten Quantencomputers mit neutralen Atomen an der Universität
