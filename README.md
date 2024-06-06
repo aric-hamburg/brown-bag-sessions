@@ -25,6 +25,8 @@ Für Dienstag, 18.06.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 13.06.2024, -,-
+- 11.06.2024, -,-
 - 06.06.2024, Noah Bani-Harouni (Zelvor): Ist KI der Gamechanger für produktivere Meetings
 - 04.06.2024, Dennis Räk (HAW): Diffusionsmodelle: Das Generative Model hinter Sora, Imagen, Stable Diffusion und Co.
 - 30.05.2024, Dr. Wolfgang König (Bildungswerk der Wirtschaft): Mit KI-Chatbots Lernen lernen
