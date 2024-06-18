@@ -15,16 +15,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 18.06.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 20.06.2024, haben wir als Vortragenden gewinnen können:
 
-- Markus Meister: Der Nutzen proprietärer Vorverarbeitung medizinischer Bildsegmentierung 
+-  Adrian Baetu (NordWind KI & Medien): Von der Idee zum KI-Produkt: Erfolgsfaktoren für Business Case Development
   
 ## Weitere geplante Vorträge
 
-- Adrian Baetu (NordWind KI & Medien): Von der Idee zum KI-Produkt: Erfolgsfaktoren für Business Case Development
+- tba
 
 ## Bisherige Vorträge
 
+- 18.06.2024, Markus Meister: Der Nutzen proprietärer Vorverarbeitung medizinischer Bildsegmentierung
 - 13.06.2024, -,-
 - 11.06.2024, -,-
 - 06.06.2024, Noah Bani-Harouni (Zelvor): Ist KI der Gamechanger für produktivere Meetings
