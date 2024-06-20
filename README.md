@@ -17,7 +17,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Dienstag, 25.06.2024, haben wir als Vortragenden gewinnen können:
 
--  Dr. Stefan Rombouts (ParityQC): Mapping real-world problems on QC with the ParityQC architecture
+-  Dr. Stefan Rombouts (ParityQC): Mapping real-world problems on quantum computers with the ParityQC architecture
   
 ## Weitere geplante Vorträge
 
