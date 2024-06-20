@@ -15,9 +15,9 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 20.06.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 25.06.2024, haben wir als Vortragenden gewinnen können:
 
--  Adrian Baetu (NordWind KI & Medien): Von der Idee zum KI-Produkt: Erfolgsfaktoren für Business Case Development
+-  Dr. Stefan Rombouts (ParityQC): Mapping real-world problems on QC with the ParityQC architecture
   
 ## Weitere geplante Vorträge
 
@@ -25,6 +25,7 @@ Für Donnerstag, 20.06.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 20.06.2024, Adrian Baetu (NordWind KI & Medien): Von der Idee zum KI-Produkt: Erfolgsfaktoren für Business Case Development
 - 18.06.2024, Markus Meister: Der Nutzen proprietärer Vorverarbeitung medizinischer Bildsegmentierung
 - 13.06.2024, -,-
 - 11.06.2024, -,-
