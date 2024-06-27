@@ -29,7 +29,7 @@ Für Dienstag, 02.07.2024, haben wir als Vortragenden gewinnen können:
 ## Bisherige Vorträge
 
 - 27.06.2024, -,-
-- 25.06.2024, Dr. Stefan Rombouts (ParityQC): Mapping real-world problems on quantum computers with the ParityQC architecture
+- 25.06.2024, Dr. Stefan Rombouts (Parity Quantum Computing): Mapping real-world problems on quantum computers with the ParityQC architecture
 - 20.06.2024, Adrian Baetu (NordWind KI & Medien): Von der Idee zum KI-Produkt: Erfolgsfaktoren für Business Case Development
 - 18.06.2024, Markus Meister: Der Nutzen proprietärer Vorverarbeitung medizinischer Bildsegmentierung
 - 13.06.2024, -,-
