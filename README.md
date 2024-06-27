@@ -15,16 +15,21 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 25.06.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 02.07.2024, haben wir als Vortragenden gewinnen können:
 
--  Dr. Stefan Rombouts (ParityQC): Mapping real-world problems on quantum computers with the ParityQC architecture
+-  Adrian Baetu (NordWind KI & Medien): Von Chaos zur Effizienz: KI-gestütztes E-Mail-Management Teil 1
   
 ## Weitere geplante Vorträge
 
-- tba
+- Linus Schacht (Sopra Steria): KI-unterstützte Meldeerfassung für das Hamburgische Krebsregister
+- Stefan Raab (engAIge): tba.
+- Adrian Baetu (NordWind KI & Medien): Von Chaos zur Effizienz: KI-gestütztes E-Mail-Management Teil 2
+- Jan Schnedler (ARIC): ARIC Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 27.06.2024, -,-
+- 25.06.2024, Dr. Stefan Rombouts (ParityQC): Mapping real-world problems on quantum computers with the ParityQC architecture
 - 20.06.2024, Adrian Baetu (NordWind KI & Medien): Von der Idee zum KI-Produkt: Erfolgsfaktoren für Business Case Development
 - 18.06.2024, Markus Meister: Der Nutzen proprietärer Vorverarbeitung medizinischer Bildsegmentierung
 - 13.06.2024, -,-
