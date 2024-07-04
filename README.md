@@ -17,17 +17,19 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Dienstag, 02.07.2024, haben wir als Vortragenden gewinnen können:
 
--  Adrian Baetu (NordWind KI & Medien): Von Chaos zur Effizienz: KI-gestütztes E-Mail-Management Teil 1
+-  
   
 ## Weitere geplante Vorträge
 
 - Linus Schacht (Sopra Steria): KI-unterstützte Meldeerfassung für das Hamburgische Krebsregister
 - Stefan Raab (engAIge): tba.
-- Adrian Baetu (NordWind KI & Medien): Von Chaos zur Effizienz: KI-gestütztes E-Mail-Management Teil 2
+- Adrian Baetu (NordWind KI & Medien): Von Chaos zur Effizienz: KI-gestütztes E-Mail-Management Teil 1
 - Jan Schnedler (ARIC): ARIC Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 04.07.2024, -,-
+- 02.07.2024, -,-
 - 27.06.2024, -,-
 - 25.06.2024, Dr. Stefan Rombouts (Parity Quantum Computing): Mapping real-world problems on quantum computers with the ParityQC architecture
 - 20.06.2024, Adrian Baetu (NordWind KI & Medien): Von der Idee zum KI-Produkt: Erfolgsfaktoren für Business Case Development
