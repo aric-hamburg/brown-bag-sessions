@@ -17,7 +17,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Dienstag, 09.07.2024, haben wir als Vortragenden gewinnen können:
 
--  Linus Schacht (Sopra Steria): KI-unterstützte Meldeerfassung für das Hamburgische Krebsregister
+-  Linus Schacht/Ulrich Heinemann (Sopra Steria / Hamburgisches Krebregister): KI-unterstützte Meldeerfassung für das Hamburgische Krebsregister
   
 ## Weitere geplante Vorträge
 
