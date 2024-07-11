@@ -15,17 +15,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 11.07.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 16.07.2024, haben wir als Vortragenden gewinnen können:
 
--  Stefan Raab (engAIge): Die letzte Meile: Vom KI-Prototypen zum Produktivsystem
+-  Adrian Baetu (NordWind KI & Medien): Von Chaos zur Effizienz: KI-gestütztes E-Mail-Management Teil 1
   
 ## Weitere geplante Vorträge
 
-- Adrian Baetu (NordWind KI & Medien): Von Chaos zur Effizienz: KI-gestütztes E-Mail-Management Teil 1
 - Jan Schnedler (ARIC): ARIC Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 11.07.2024, Stefan Raab (engAIge): Die letzte Meile: Vom KI-Prototypen zum Produktivsystem
 - 09.07.2024, Linus Schacht/Ulrich Heinemann (Sopra Steria/Hamburgisches Krebregister): KI-unterstützte Meldeerfassung für das Hamburgische Krebsregister
 - 04.07.2024, -,-
 - 02.07.2024, -,-
