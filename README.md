@@ -15,13 +15,13 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 16.07.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 18.07.2024, haben wir als Vortragenden gewinnen können:
 
--  fällt leider aus
+-  Jan Schnedler (ARIC): ARIC Halbjahresrückblick
   
 ## Weitere geplante Vorträge
 
-- Jan Schnedler (ARIC): ARIC Halbjahresrückblick
+- wir sind am 10. September aus der Sommerpause zurück
 
 ## Bisherige Vorträge
 
