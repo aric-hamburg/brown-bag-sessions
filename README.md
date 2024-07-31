@@ -15,16 +15,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 18.07.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 10.09.2024, haben wir als Vortragenden gewinnen können:
 
--  Jan Schnedler (ARIC): ARIC Halbjahresrückblick
+-  tba.
   
 ## Weitere geplante Vorträge
 
-- wir sind am 10. September aus der Sommerpause zurück
+- tba.
 
 ## Bisherige Vorträge
 
+- 18.07.2024, Jan Schnedler (ARIC): ARIC Halbjahresrückblick
 - 16.07.2024, -,-
 - 11.07.2024, Stefan Raab (engAIge): Die letzte Meile: Vom KI-Prototypen zum Produktivsystem
 - 09.07.2024, Linus Schacht/Ulrich Heinemann (Sopra Steria/Hamburgisches Krebregister): KI-unterstützte Meldeerfassung für das Hamburgische Krebsregister
