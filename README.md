@@ -26,7 +26,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Dienstag, 10.09.2024, haben wir als Vortragenden gewinnen können:
 
--  Chrsitian Schwehm (Essencif.AI): Essencif.AI: Stundenlanges Lesen war gestern – wir liefern die Quintessenz der Aktienmärkte in Sekunden
+-  Christian Schwehm (Essencif.AI): Essencif.AI: Stundenlanges Lesen war gestern – wir liefern die Quintessenz der Aktienmärkte in Sekunden
 
   
 ## Weitere geplante Vorträge
