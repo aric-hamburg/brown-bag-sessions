@@ -7,13 +7,13 @@ Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft s
 
 In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
-# Teilnahme
+## Teilnahme
 Über dann nachfolgenden Link könnt ihr euch gerne dazuschalten 
 (ihr könnt euch dazu die Microsoft Teams App kostenlos runterladen oder einfach über euren Webbrowser daran teilnehmen):
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhLWE5YWEtYmU1MDI4N2Y0YjI0%40thread.v2/0?context=%7b%22Tid%22%3a%22b2f09837-8b02-4136-9f46-52ffb6b93f9a%22%2c%22Oid%22%3a%2230ac9a78-0adf-416f-bd76-afc7935555ef%22%7d
 
-# Feedback
+## Feedback
 Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unterstützung durch die EU und die IFB Hamburg durchgeführt. Um unsere Events zukünftig noch besser auf die Wünsche und Bedürfnisse unserer Teilnehmer abstimmen zu können, sind wir auf Dein Feedback angewiesen. Wir würden uns sehr freuen, wenn Du Dir ein paar Minuten Zeit nehmen könntest, um unseren Fragebogen auszufüllen. Hier findest Du den Link zum Feedback-Formular: https://ec.europa.eu/eusurvey/runner/EDIH_Hamburg_Befragung_Innovation_Ecosystem
 
 Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir unsere Veranstaltungen stetig verbessern können. Vielen Dank im Voraus für Deine Unterstützung! 
