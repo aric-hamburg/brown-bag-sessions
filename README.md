@@ -24,20 +24,20 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 10.09.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 12.09.2024, haben wir als Vortragende gewinnen können:
 
--  Christian Schwehm (Essencif.AI): Essencif.AI: Stundenlanges Lesen war gestern – wir liefern die Quintessenz der Aktienmärkte in Sekunden
+-  Karen Chu Sam (Qurix Technologies): AI based sales forecasting
 
   
 ## Weitere geplante Vorträge
 
-- Karen Chu Sam (Qurix Technologies): AI based sales forecasting
 - Anthony Mc Loughlin  (Better Futures AI): Instant AI for Engineers
 - Aleksander Fegel (Ailio): Wie baue ich ein schlagkräftiges Data-Team auf
 
 
 ## Bisherige Vorträge
 
+- 10.09.2024, Christian Schwehm (Essencif.AI): Essencif.AI: Stundenlanges Lesen war gestern – wir liefern die Quintessenz der Aktienmärkte in Sekunden
 - 18.07.2024, Jan Schnedler (ARIC): ARIC Halbjahresrückblick
 - 16.07.2024, -,-
 - 11.07.2024, Stefan Raab (engAIge): Die letzte Meile: Vom KI-Prototypen zum Produktivsystem
