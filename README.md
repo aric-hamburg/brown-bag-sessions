@@ -31,7 +31,9 @@ Für Dienstag, 10.09.2024, haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- tba.
+- Karen Chu Sam (Qurix Technologies): AI based sales forecasting
+- Anthony Mc Loughlin  (Better Futures AI): Instant AI for Engineers
+- Aleksander Fegel (Ailio): Wie baue ich ein schlagkräftiges Data-Team auf
 
 
 ## Bisherige Vorträge
