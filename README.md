@@ -24,18 +24,18 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 17.09.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 19.09.2024, haben wir als Vortragenden gewinnen können:
 
--  Anthony Mc Loughlin  (Better Futures AI): Instant AI for Engineers
-
+-  Aleksander Fegel (Ailio): Wie baue ich ein schlagkräftiges Data-Team auf
   
 ## Weitere geplante Vorträge
 
-- Aleksander Fegel (Ailio): Wie baue ich ein schlagkräftiges Data-Team auf
+- tba.
 
 
 ## Bisherige Vorträge
 
+- 17.09.2024, Anthony Mc Loughlin  (Better Futures AI): Instant AI for Engineers
 - 12.09.2024, Karen Chu Sam (Qurix Technologies): AI based sales forecasting
 - 10.09.2024, Christian Schwehm (Essencif.AI): Essencif.AI: Stundenlanges Lesen war gestern – wir liefern die Quintessenz der Aktienmärkte in Sekunden
 - 18.07.2024, Jan Schnedler (ARIC): ARIC Halbjahresrückblick
