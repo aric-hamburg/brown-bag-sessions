@@ -30,7 +30,10 @@ Für Donnerstag, 19.09.2024, haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- tba.
+- Prof. Dr.-Ing. Hoc Khiem Trieu (TU Hamburg): Engineering für Quantum-Computer
+- Bernd Peper (Sopra Steria): KI trifft auf Organisation - vom Pilotprojekt zum skalierten Einsatz
+- Nicolas Hoyer (Luvis AI): tba.
+- Christoph Hassler (): tba.
 
 
 ## Bisherige Vorträge
