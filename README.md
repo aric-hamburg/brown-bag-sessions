@@ -24,19 +24,19 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 24.09.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 26.09.2024, haben wir als Vortragenden gewinnen können:
 
--  Prof. Dr.-Ing. Hoc Khiem Trieu (TU Hamburg): Engineering für Quantum-Computer
+- Dr. Bernd Peper (Sopra Steria): KI trifft auf Organisation - vom Pilotprojekt zum skalierten Einsatz
   
 ## Weitere geplante Vorträge
 
-- Bernd Peper (Sopra Steria): KI trifft auf Organisation - vom Pilotprojekt zum skalierten Einsatz
 - Nicolas Hoyer (Luvis AI): tba.
 - Christoph Hassler (): tba.
 
 
 ## Bisherige Vorträge
 
+- 24.09.2024, Prof. Dr.-Ing. Hoc Khiem Trieu (TU Hamburg): Engineering für Quantum-Computer
 - 19.09.2024, Aleksander Fegel (Ailio): Wie baue ich ein schlagkräftiges Data-Team auf
 - 17.09.2024, Anthony Mc Loughlin  (Better Futures AI): Instant AI for Engineers
 - 12.09.2024, Karen Chu Sam (Qurix Technologies): AI based sales forecasting
