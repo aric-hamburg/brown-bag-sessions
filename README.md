@@ -24,18 +24,18 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 26.09.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 01.10.2024, haben wir als Vortragenden gewinnen können:
 
-- Dr. Bernd Peper (Sopra Steria): KI trifft auf Organisation - vom Pilotprojekt zum skalierten Einsatz
+- Nicolas Hoyer (Luvis AI): Herausforderungen und Lösungsvorschläge in der Auswahl relevanter Daten für supervised learning Trainings 
   
 ## Weitere geplante Vorträge
 
-- Nicolas Hoyer (Luvis AI): tba.
-- Christoph Hassler (): tba.
+- Christoph Hassler (): Yana, die KI-basierte Umarmung bei Alltagsrassismus
 
 
 ## Bisherige Vorträge
 
+- 26.09.2024, Dr. Bernd Peper (Sopra Steria): KI trifft auf Organisation - vom Pilotprojekt zum skalierten Einsatz
 - 24.09.2024, Prof. Dr.-Ing. Hoc Khiem Trieu (TU Hamburg): Engineering für Quantum-Computer
 - 19.09.2024, Aleksander Fegel (Ailio): Wie baue ich ein schlagkräftiges Data-Team auf
 - 17.09.2024, Anthony Mc Loughlin  (Better Futures AI): Instant AI for Engineers
