@@ -26,11 +26,11 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Dienstag, 08.10.2024, haben wir als Vortragenden gewinnen können:
 
--  Christoph Hassler (): Yana, die KI-basierte Umarmung bei Alltagsrassismus
+- Christoph Hassler (): Yana, die KI-basierte Umarmung bei Alltagsrassismus
   
 ## Weitere geplante Vorträge
 
-- tbd.
+- Johannes Jamroszczyk (Charit Insight): TEBL – The child ChatGPT and Excel never had
 
 
 ## Bisherige Vorträge
