@@ -30,7 +30,7 @@ Für Dienstag, 08.10.2024, haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- Johannes Jamroszczyk (Charit Insight): TEBL – The child ChatGPT and Excel never had
+- Johannes Jamroszczyk (Charit Insights): TEBL – The child ChatGPT and Excel never had
 
 
 ## Bisherige Vorträge
@@ -71,7 +71,7 @@ Für Dienstag, 08.10.2024, haben wir als Vortragenden gewinnen können:
 - 16.04.2024, Benedikt Schulz (-): KI & Consulting - Unternehmensberatung in Zeiten der KI
 - 11.04.2024, -,-
 - 09.04.2024, Martin Lose (Fieldfisher): Gen-AI im Unternehmen
-- 04.04.2024, Johannes Jamroszczyk (Charit Insight): KI-Psychometrie: Was LLM's im Durchschnitt zu sagen haben
+- 04.04.2024, Johannes Jamroszczyk (Charit Insights): KI-Psychometrie: Was LLM's im Durchschnitt zu sagen haben
 - 02.04.2024, Martin Lose (Fieldfisher): Update zum AI Act: Jetzt wird es ernst
 - 28.03.2024, Alessandro Alviani (Ippen Media): Welche Herausforderungen hat ein Medienverlag mit KI-Tools?
 - 23.03.2024, Dr.-Ing. Soner Emec (ARIC e.V./HQIC): Hamburg Quantum Innovation Capital - Combined expertise in quantum technology
@@ -80,7 +80,7 @@ Für Dienstag, 08.10.2024, haben wir als Vortragenden gewinnen können:
 - 14.03.2024, Shekhar Khandelwal (Mercury): Large Language Models (LLMs) - GenAI
 - 12.03.2024, Tom Tlok: Detectora – Erkennung von KI-generierten Texten
 - 07.03.2024, Bahne Sievers (Fieldfisher): KI & Urheberrecht – Lösung durch den AI Act?
-- 05.03.2024, Johannes Jamroszczyk (Charit Insight): LLMs und ihre innovative Bedeutung im Markt von morgen
+- 05.03.2024, Johannes Jamroszczyk (Charit Insights): LLMs und ihre innovative Bedeutung im Markt von morgen
 - 29.02.2024, Bahne Sievers (Fieldfisher): KI und Persönlichkeitsrecht
 - 27.02.2024, Elisabeth Weißbecker (ARIC e.V.): Projektvorstellung IlidenT - Responsible AI in der Luftfahrt
 - 22.02.2024, Akbay Tabak: Introducing FraiLT: Compact and Powerful Language Model
