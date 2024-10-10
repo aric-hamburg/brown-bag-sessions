@@ -40,6 +40,7 @@ Für Dienstag, 15.10.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 08.10.2024, -,-
 - 08.10.2024, Christoph Hassler (): Yana, die KI-basierte Umarmung bei Alltagsrassismus
 - 01.10.2024, Nicolas Hoyer (Luvis AI): Herausforderungen und Lösungsvorschläge in der Auswahl relevanter Daten für supervised learning Trainings
 - 26.09.2024, Dr. Bernd Peper (Sopra Steria): KI trifft auf Organisation - vom Pilotprojekt zum skalierten Einsatz
