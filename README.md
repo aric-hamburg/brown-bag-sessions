@@ -30,7 +30,10 @@ Für Dienstag, 15.10.2024, haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- tba.
+- Dr. Natalie Rotermund (ARIC e.V.): tba.
+- Marcus-Oliver Schneider (LSBG Hamburg): DaQuAI – mit KI zum Qualitätscheck für die Hamburger Verkehrsdaten
+- Nicolas Hoyer (Luvis AI): tba.
+- Jan Werum (ARIC e.V./hqic): tba.
 
 
 ## Bisherige Vorträge
