@@ -30,7 +30,7 @@ Für Dienstag, 15.10.2024, haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- Dr. Natalie Rotermund (ARIC e.V.): Spotlight Neuromorphes Computing
+- Dr. Natalie Rotermund (ARIC e.V.): Spotlight Neuromorphes Computing: Grundlegende Konzepte und Anwendungsschwerpunkte
 - Marcus-Oliver Schneider (LSBG Hamburg): DaQuAI – mit KI zum Qualitätscheck für die Hamburger Verkehrsdaten
 - Nicolas Hoyer (Luvis AI): tba.
 - Jan Werum (ARIC e.V./hqic): tba.
