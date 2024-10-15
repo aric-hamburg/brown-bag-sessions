@@ -26,7 +26,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Dienstag, 15.10.2024, haben wir als Vortragenden gewinnen können:
 
-- Johannes Jamroszczyk (Charit Insights): TEBL – The child ChatGPT and Excel never had
+- Johannes Jamroszczyk (Charit Insights): TEBBL – The child ChatGPT and Excel never had
   
 ## Weitere geplante Vorträge
 
