@@ -24,13 +24,12 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 15.10.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 17.10.2024, haben wir als Vortragende gewinnen können:
 
-- Johannes Jamroszczyk (Charit Insights): TEBBL – The child ChatGPT and Excel never had
+- Dr. Natalie Rotermund (ARIC e.V.): Spotlight Neuromorphes Computing: Grundlegende Konzepte und Anwendungsschwerpunkte
   
 ## Weitere geplante Vorträge
 
-- Dr. Natalie Rotermund (ARIC e.V.): Spotlight Neuromorphes Computing: Grundlegende Konzepte und Anwendungsschwerpunkte
 - Marcus-Oliver Schneider (LSBG Hamburg): DaQuAI – mit KI zum Qualitätscheck für die Hamburger Verkehrsdaten
 - Nicolas Hoyer (Luvis AI): tba.
 - Jan Werum (ARIC e.V./hqic): tba.
@@ -40,6 +39,7 @@ Für Dienstag, 15.10.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 15.10.2024, Johannes Jamroszczyk (Charit Insights): TEBBL – The child ChatGPT and Excel never had
 - 08.10.2024, -,-
 - 08.10.2024, Christoph Hassler (): Yana, die KI-basierte Umarmung bei Alltagsrassismus
 - 01.10.2024, Nicolas Hoyer (Luvis AI): Herausforderungen und Lösungsvorschläge in der Auswahl relevanter Daten für supervised learning Trainings
