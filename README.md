@@ -24,13 +24,12 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 17.10.2024, haben wir als Vortragende gewinnen können:
+Für Dienstag, 22.10.2024, haben wir als Vortragenden gewinnen können:
 
-- Dr. Natalie Rotermund (ARIC e.V.): Spotlight Neuromorphes Computing: Grundlegende Konzepte und Anwendungsschwerpunkte
+- Marcus-Oliver Schneider (LSBG Hamburg): DaQuAI – mit KI zum Qualitätscheck für die Hamburger Verkehrsdaten
   
 ## Weitere geplante Vorträge
 
-- Marcus-Oliver Schneider (LSBG Hamburg): DaQuAI – mit KI zum Qualitätscheck für die Hamburger Verkehrsdaten
 - Nicolas Hoyer (Luvis AI): tba.
 - Jan Werum (ARIC e.V./hqic): tba.
 - Yakup Özkardes-Cheung (Content AI Tools): KI-Geschäftsmodelle: Dein Fahrplan für nachhaltigen Erfolg
@@ -39,6 +38,7 @@ Für Donnerstag, 17.10.2024, haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
+- 17.10.2024, Dr. Natalie Rotermund (ARIC e.V.): Spotlight Neuromorphes Computing: Grundlegende Konzepte und Anwendungsschwerpunkte
 - 15.10.2024, Johannes Jamroszczyk (Charit Insights): TEBBL – The child ChatGPT and Excel never had
 - 08.10.2024, -,-
 - 08.10.2024, Christoph Hassler (): Yana, die KI-basierte Umarmung bei Alltagsrassismus
