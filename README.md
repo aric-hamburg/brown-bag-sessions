@@ -24,13 +24,12 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 22.10.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 24.10.2024, haben wir als Vortragenden gewinnen können:
 
-- Marcus-Oliver Schneider (LSBG Hamburg): DaQuAI – mit KI zum Qualitätscheck für die Hamburger Verkehrsdaten
+- Nicolas Hoyer (Luvis AI): tba.
   
 ## Weitere geplante Vorträge
 
-- Nicolas Hoyer (Luvis AI): tba.
 - Jan Werum (ARIC e.V./hqic): tba.
 - Yakup Özkardes-Cheung (Content AI Tools): KI-Geschäftsmodelle: Dein Fahrplan für nachhaltigen Erfolg
 - Carsten Hagemann (Hagemann Consulting): tba.
@@ -38,6 +37,7 @@ Für Dienstag, 22.10.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 22.10.2024, Marcus-Oliver Schneider (LSBG Hamburg): DaQuAI – mit KI zum Qualitätscheck für die Hamburger Verkehrsdaten
 - 17.10.2024, Dr. Natalie Rotermund (ARIC e.V.): Spotlight Neuromorphes Computing: Grundlegende Konzepte und Anwendungsschwerpunkte
 - 15.10.2024, Johannes Jamroszczyk (Charit Insights): TEBBL – The child ChatGPT and Excel never had
 - 08.10.2024, -,-
