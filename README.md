@@ -26,7 +26,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Donnerstag, 24.10.2024, haben wir als Vortragenden gewinnen können:
 
-- Nicolas Hoyer (Luvis AI): tba.
+- Nicolas Hoyer (Luvis AI): Cloudmigration im Startup
   
 ## Weitere geplante Vorträge
 
