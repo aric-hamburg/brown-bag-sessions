@@ -24,19 +24,19 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 24.10.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 30.10.2024, haben wir als Vortragenden gewinnen können:
 
-- Nicolas Hoyer (Luvis AI): Cloudmigration im Startup
+- Jan Werum (ARIC e.V./hqic): tba.
   
 ## Weitere geplante Vorträge
 
-- Jan Werum (ARIC e.V./hqic): tba.
 - Yakup Özkardes-Cheung (Content AI Tools): KI-Geschäftsmodelle: Dein Fahrplan für nachhaltigen Erfolg
 - Carsten Hagemann (Hagemann Consulting): tba.
 
 
 ## Bisherige Vorträge
 
+- 24.10.2024, Nicolas Hoyer (Luvis AI): Cloudmigration im Startup
 - 22.10.2024, Marcus-Oliver Schneider (LSBG Hamburg): DaQuAI – mit KI zum Qualitätscheck für die Hamburger Verkehrsdaten
 - 17.10.2024, Dr. Natalie Rotermund (ARIC e.V.): Spotlight Neuromorphes Computing: Grundlegende Konzepte und Anwendungsschwerpunkte
 - 15.10.2024, Johannes Jamroszczyk (Charit Insights): TEBBL – The child ChatGPT and Excel never had
