@@ -24,7 +24,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 30.10.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 29.10.2024, haben wir als Vortragenden gewinnen können:
 
 - Die geplante Session muss leider kurzfristig ausfallen
   
