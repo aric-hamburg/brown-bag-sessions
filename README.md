@@ -26,7 +26,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Dienstag, 30.10.2024, haben wir als Vortragenden gewinnen können:
 
-- Jan Werum (ARIC e.V./hqic): tba.
+- Die geplante Session muss leider kurzfristig ausfallen
   
 ## Weitere geplante Vorträge
 
@@ -36,6 +36,8 @@ Für Dienstag, 30.10.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 31.10.2024, -,-
+- 29.10.2024, -,-
 - 24.10.2024, Nicolas Hoyer (Luvis AI): Cloudmigration im Startup
 - 22.10.2024, Marcus-Oliver Schneider (LSBG Hamburg): DaQuAI – mit KI zum Qualitätscheck für die Hamburger Verkehrsdaten
 - 17.10.2024, Dr. Natalie Rotermund (ARIC e.V.): Spotlight Neuromorphes Computing: Grundlegende Konzepte und Anwendungsschwerpunkte
