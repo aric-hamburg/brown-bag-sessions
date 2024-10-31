@@ -24,14 +24,14 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 29.10.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 07.11.2024, haben wir als Vortragenden gewinnen können:
 
-- Die geplante Session muss leider kurzfristig ausfallen
+- Yakup Özkardes-Cheung (Content AI Tools): KI-Geschäftsmodelle: Dein Fahrplan für nachhaltigen Erfolg
   
 ## Weitere geplante Vorträge
 
-- Yakup Özkardes-Cheung (Content AI Tools): KI-Geschäftsmodelle: Dein Fahrplan für nachhaltigen Erfolg
-- Carsten Hagemann (Hagemann Consulting): tba.
+- Carsten Hagemann (Hagemann Consulting): Management von KI-Projekten aus Unternehmenssicht
+- Tobias Quadfasel (Ailio): Conformal predictions
 
 
 ## Bisherige Vorträge
