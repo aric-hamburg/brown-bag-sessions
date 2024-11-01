@@ -24,7 +24,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 07.11.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 05.11.2024, haben wir als Vortragenden gewinnen können:
 
 - Yakup Özkardes-Cheung (Content AI Tools): KI-getriebene Geschäftsmodelle: Die Roadmap zur Wertschöpfung und Kundenbindung
   
