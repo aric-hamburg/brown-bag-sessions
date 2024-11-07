@@ -24,18 +24,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Dienstag, 05.11.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 07.11.2024, haben wir als Vortragenden gewinnen können:
 
-- Yakup Özkardes-Cheung (Content AI Tools): KI-getriebene Geschäftsmodelle: Die Roadmap zur Wertschöpfung und Kundenbindung
+- Carsten Hagemann (Hagemann Consulting): Management von KI-Projekten aus Unternehmenssicht
   
 ## Weitere geplante Vorträge
 
-- Carsten Hagemann (Hagemann Consulting): Management von KI-Projekten aus Unternehmenssicht
 - Tobias Quadfasel (Ailio): Conformal predictions
-
 
 ## Bisherige Vorträge
 
+- 05.11.2024, Yakup Özkardes-Cheung (Content AI Tools): KI-getriebene Geschäftsmodelle: Die Roadmap zur Wertschöpfung und Kundenbindung
 - 31.10.2024, -,-
 - 29.10.2024, -,-
 - 24.10.2024, Nicolas Hoyer (Luvis AI): Cloudmigration im Startup
