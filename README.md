@@ -24,9 +24,9 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Für Donnerstag, 07.11.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 14.11.2024, haben wir als Vortragenden gewinnen können:
 
-- Carsten Hagemann (Hagemann Consulting): Management von KI-Projekten aus Unternehmenssicht
+- Tobias Quadfasel (Ailio): Conformal predictions
   
 ## Weitere geplante Vorträge
 
@@ -34,6 +34,7 @@ Für Donnerstag, 07.11.2024, haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+- 08.11.2024, Carsten Hagemann (Hagemann Consulting): Management von KI-Projekten aus Unternehmenssicht
 - 05.11.2024, Yakup Özkardes-Cheung (Content AI Tools): KI-getriebene Geschäftsmodelle: Die Roadmap zur Wertschöpfung und Kundenbindung
 - 31.10.2024, -,-
 - 29.10.2024, -,-
