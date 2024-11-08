@@ -30,7 +30,7 @@ Für Donnerstag, 14.11.2024, haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- Tobias Quadfasel (Ailio): Conformal predictions
+- tba.
 
 ## Bisherige Vorträge
 
