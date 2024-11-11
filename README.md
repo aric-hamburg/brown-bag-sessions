@@ -26,7 +26,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Donnerstag, 14.11.2024, haben wir als Vortragenden gewinnen können:
 
-- Tobias Quadfasel (Ailio): Conformal predictions
+- Tobias Quadfasel (Ailio): Conformal Prediction: Quantifizieren von Unsicherheiten in KI-Modellen
   
 ## Weitere geplante Vorträge
 
