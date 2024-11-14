@@ -30,10 +30,14 @@ Für Donnerstag, 14.11.2024, haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- tba.
+- Sebastian Pehlke (q.beyond): Einführung in KI-Assistenten: Die Zukunft der Interaktion
+- Joseph Doetsch (LHIND): Quantum Computing Use Cases in Aviation
+- Carsten Hagemann (Hagemann Consulting): Meilensteine und Entwicklungen der KI – Partywissen
+- Jan Schnedler (ARIC e.V.): ARIC Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 12.11.2024, -,-
 - 08.11.2024, Carsten Hagemann (Hagemann Consulting): Management von KI-Projekten aus Unternehmenssicht
 - 05.11.2024, Yakup Özkardes-Cheung (Content AI Tools): KI-getriebene Geschäftsmodelle: Die Roadmap zur Wertschöpfung und Kundenbindung
 - 31.10.2024, -,-
