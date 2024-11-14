@@ -25,7 +25,8 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Das Brown Bag am Dienstag fällt leider aus! Für Donnerstag, 21.11.2024, haben wir als Vortragenden gewinnen können:
+Das Brown Bag am Dienstag fällt leider aus! 
+Für Donnerstag, 21.11.2024, haben wir als Vortragenden gewinnen können:
 
 - Sebastian Pehlke (q.beyond): Einführung in KI-Assistenten: Die Zukunft der Interaktion
   
