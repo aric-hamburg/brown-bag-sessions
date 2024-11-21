@@ -25,19 +25,20 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Das Brown Bag am Dienstag fällt leider aus! 
-Für Donnerstag, 21.11.2024, haben wir als Vortragenden gewinnen können:
+Für Dienstag, 26.11.2024, haben wir als Vortragenden gewinnen können:
 
-- Sebastian Pehlke (q.beyond): Einführung in KI-Assistenten: Die Zukunft der Interaktion
+- Joseph Doetsch (LHIND): Quantum Computing Use Cases in Aviation
   
 ## Weitere geplante Vorträge
 
-- Joseph Doetsch (LHIND): Quantum Computing Use Cases in Aviation
+- 
 - Carsten Hagemann (Hagemann Consulting): Meilensteine und Entwicklungen der KI – Partywissen
 - Jan Schnedler (ARIC e.V.): ARIC Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 21.11.2024, Sebastian Pehlke (q.beyond): Einführung in KI-Assistenten: Die Zukunft der Interaktion
+- 19.11.2924, -,-
 - 14.11.2024, Tobias Quadfasel (Ailio): Conformal Prediction: Quantifizieren von Unsicherheiten in KI-Modellen
 - 12.11.2024, -,-
 - 08.11.2024, Carsten Hagemann (Hagemann Consulting): Management von KI-Projekten aus Unternehmenssicht
