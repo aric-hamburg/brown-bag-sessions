@@ -31,7 +31,6 @@ Für Dienstag, 26.11.2024, haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- 
 - Carsten Hagemann (Hagemann Consulting): Meilensteine und Entwicklungen der KI – Partywissen
 - Jan Schnedler (ARIC e.V.): ARIC Halbjahresrückblick
 
