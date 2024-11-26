@@ -25,17 +25,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Für Dienstag, 26.11.2024, haben wir als Vortragenden gewinnen können:
+Für Donnerstag, 28.11.2024, haben wir als Vortragenden gewinnen können:
 
-- Joseph Doetsch (LHIND): Quantum Computing Use Cases in Aviation
+- Carsten Hagemann (Hagemann Consulting): Meilensteine und Entwicklungen der KI – Partywissen
   
 ## Weitere geplante Vorträge
 
-- Carsten Hagemann (Hagemann Consulting): Meilensteine und Entwicklungen der KI – Partywissen
 - Jan Schnedler (ARIC e.V.): ARIC Halbjahresrückblick
 
 ## Bisherige Vorträge
 
+- 26.11.2024, Joseph Doetsch (LHIND): Quantum Computing Use Cases in Aviation
 - 21.11.2024, Sebastian Pehlke (q.beyond): Einführung in KI-Assistenten: Die Zukunft der Interaktion
 - 19.11.2924, -,-
 - 14.11.2024, Tobias Quadfasel (Ailio): Conformal Prediction: Quantifizieren von Unsicherheiten in KI-Modellen
