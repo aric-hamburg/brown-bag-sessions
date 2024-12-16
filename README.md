@@ -27,14 +27,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Für Donnerstag, 28.11.2024, haben wir als Vortragenden gewinnen können:
 
-- Carsten Hagemann (Hagemann Consulting): Meilensteine und Entwicklungen der KI – Partywissen
+- 
   
 ## Weitere geplante Vorträge
 
-- Jan Schnedler (ARIC e.V.): ARIC Halbjahresrückblick
+- 
 
 ## Bisherige Vorträge
 
+- 05.12.2024, -,-
+- 03.12.2024, -,-
+- 28.11.2024, Carsten Hagemann (Hagemann Consulting): Meilensteine und Entwicklungen der KI – Partywissen
 - 26.11.2024, Joseph Doetsch (LHIND): Quantum Computing Use Cases in Aviation
 - 21.11.2024, Sebastian Pehlke (q.beyond): Einführung in KI-Assistenten: Die Zukunft der Interaktion
 - 19.11.2924, -,-
