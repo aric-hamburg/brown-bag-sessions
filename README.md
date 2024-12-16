@@ -25,13 +25,13 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Für Donnerstag, 28.11.2024, haben wir als Vortragenden gewinnen können:
+Im neuen Jahr geht es weiter.
 
-- 
+- tbd.
   
 ## Weitere geplante Vorträge
 
-- 
+- tbd.
 
 ## Bisherige Vorträge
 
