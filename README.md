@@ -43,7 +43,7 @@ Im neuen Jahr geht es weiter.
 - 19.11.2924, -,-
 - 14.11.2024, Tobias Quadfasel (Ailio): Conformal Prediction: Quantifizieren von Unsicherheiten in KI-Modellen
 - 12.11.2024, -,-
-- 08.11.2024, Carsten Hagemann (Hagemann Consulting): Management von KI-Projekten aus Unternehmenssicht
+- 07.11.2024, Carsten Hagemann (Hagemann Consulting): Management von KI-Projekten aus Unternehmenssicht
 - 05.11.2024, Yakup Özkardes-Cheung (Content AI Tools): KI-getriebene Geschäftsmodelle: Die Roadmap zur Wertschöpfung und Kundenbindung
 - 31.10.2024, -,-
 - 29.10.2024, -,-
