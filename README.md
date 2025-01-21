@@ -25,13 +25,13 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Im neuen Jahr geht es weiter.
+Am Dienstag, den 04.02. haben wir als Vortragenden gewinnen können:
 
-- tbd.
+- Michael Franz / Linnea Feddeck (Metric Space): Fintuning a LLM - Practical Insights
   
 ## Weitere geplante Vorträge
 
-- tbd.
+- Dr. David Geisel (Ailio): Feature Selection - Wie man aus Sensordaten effiziente Vorhersagemodelle entwickelt
 
 ## Bisherige Vorträge
 
