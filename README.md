@@ -35,6 +35,8 @@ Am Dienstag, den 04.02. haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
+2024
+
 - 05.12.2024, -,-
 - 03.12.2024, -,-
 - 28.11.2024, Carsten Hagemann (Hagemann Consulting): Meilensteine und Entwicklungen der KI – Partywissen
