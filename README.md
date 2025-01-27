@@ -31,6 +31,7 @@ Am Dienstag, den 04.02. haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
+- Dr. Lothar Hotz (HITeC e.V.): Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems
 - Dr. David Geisel (Ailio): Feature Selection - Wie man aus Sensordaten effiziente Vorhersagemodelle entwickelt
 
 ## Bisherige Vorträge
