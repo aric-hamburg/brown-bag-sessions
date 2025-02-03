@@ -27,7 +27,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Am Dienstag, den 04.02. haben wir als Vortragenden gewinnen können:
 
-- Jannik Malte Meissner (Neuralfinity) :DeepSeek R1 entschlüsselt
+- Jannik Malte Meissner (Neuralfinity) : DeepSeek R1 entschlüsselt
   
 ## Weitere geplante Vorträge
 
