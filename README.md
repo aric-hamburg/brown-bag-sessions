@@ -27,11 +27,12 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Am Dienstag, den 04.02. haben wir als Vortragenden gewinnen können:
 
-- Michael Franz / Linnea Feddeck (Metric Space): Fintuning a LLM - Practical Insights
+- Jannik Malte Meissner (Neuralfinity) :DeepSeek R1 entschlüsselt
   
 ## Weitere geplante Vorträge
 
 - Dr. Lothar Hotz (HITeC e.V.): Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems
+- Marcel Franz / Linnea Feddeck (Metric Space): Fintuning a LLM - Practical Insights
 - Dr. David Geisel (Ailio): Feature Selection - Wie man aus Sensordaten effiziente Vorhersagemodelle entwickelt
 
 ## Bisherige Vorträge
