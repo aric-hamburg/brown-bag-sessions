@@ -25,7 +25,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Dienstag, den 06.02. haben wir als Vortragenden gewinnen können:
+Am Donnerstag, den 06.02. haben wir als Vortragenden gewinnen können:
 
 - Dr. Lothar Hotz (HITeC e.V.): Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems
   
