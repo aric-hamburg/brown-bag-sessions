@@ -25,17 +25,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Donnerstag, den 06.02. haben wir als Vortragenden gewinnen können:
+Am Dienstag, den 11.02. haben wir als Vortragende gewinnen können:
 
-- Dr. Lothar Hotz (HITeC e.V.): Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems
+- Marcel Franz / Linnea Feddeck (Metric Space): Fintuning a LLM - Practical Insights
   
 ## Weitere geplante Vorträge
 
-- Marcel Franz / Linnea Feddeck (Metric Space): Fintuning a LLM - Practical Insights
 - Dr. David Geisel (Ailio): Feature Selection - Wie man aus Sensordaten effiziente Vorhersagemodelle entwickelt
 
 ## Bisherige Vorträge
 
+- 06.02.2025, Dr. Lothar Hotz (HITeC e.V.): Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems
 - 04.02.2025, Jannik Malte Meissner (Neuralfinity) : DeepSeek R1 entschlüsselt
 
 2024
