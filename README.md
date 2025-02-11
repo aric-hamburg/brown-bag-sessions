@@ -25,16 +25,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Dienstag, den 11.02. haben wir als Vortragende gewinnen können:
+Am Donnerstag, den 13.02. haben wir als Vortragenden gewinnen können:
 
-- Marcel Franz / Linnea Feddeck (Metric Space): Fintuning a LLM - Practical Insights
+- Dr. David Geisel (Ailio): Feature Selection - Wie man aus Sensordaten effiziente Vorhersagemodelle entwickelt
   
 ## Weitere geplante Vorträge
 
-- Dr. David Geisel (Ailio): Feature Selection - Wie man aus Sensordaten effiziente Vorhersagemodelle entwickelt
+- tbd.
 
 ## Bisherige Vorträge
 
+- 11.02.2025, Linnea Feddeck / Marcel Franz (Metric Space): Fintuning a LLM - Practical Insights
 - 06.02.2025, Dr. Lothar Hotz (HITeC e.V.): Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems
 - 04.02.2025, Jannik Malte Meissner (Neuralfinity) : DeepSeek R1 entschlüsselt
 
