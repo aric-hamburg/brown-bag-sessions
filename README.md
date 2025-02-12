@@ -31,7 +31,8 @@ Am Donnerstag, den 13.02. haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- tbd.
+- Dr. Matthias Grob (Pavant): Zwei Perspektiven auf den Komplex KI und Patente
+- Marc Wilken (Ergon Web): Automatisierte Dokumentenverarbeitung mit KI im Mittelstand
 
 ## Bisherige Vorträge
 
