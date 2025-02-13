@@ -31,7 +31,7 @@ Am Dienstag, den 18.02. haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- Marc Wilken (Ergon Web): Automatisierte Dokumentenverarbeitung mit KI im Mittelstand
+- Marc Wilken (ERGON Datenprojekte): Automatisierte Dokumentenverarbeitung mit KI im Mittelstand
 
 ## Bisherige Vorträge
 
