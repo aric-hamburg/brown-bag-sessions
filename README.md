@@ -25,7 +25,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Dienstag, den 20.02. haben wir als Vortragenden gewinnen können:
+Am Donnerstag, den 20.02. haben wir als Vortragenden gewinnen können:
 
 - Marc Wilken (ERGON Datenprojekte): Automatisierte Dokumentenverarbeitung mit KI im Mittelstand
   
