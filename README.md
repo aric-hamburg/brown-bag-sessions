@@ -25,16 +25,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Dienstag, den 18.02. haben wir als Vortragenden gewinnen können:
+Am Dienstag, den 20.02. haben wir als Vortragenden gewinnen können:
 
-- Dr. Matthias Grob (Pavant): Zwei Perspektiven auf den Komplex KI und Patente
+- Marc Wilken (ERGON Datenprojekte): Automatisierte Dokumentenverarbeitung mit KI im Mittelstand
   
 ## Weitere geplante Vorträge
 
-- Marc Wilken (ERGON Datenprojekte): Automatisierte Dokumentenverarbeitung mit KI im Mittelstand
+- tbd.
 
 ## Bisherige Vorträge
 
+- 18.02.2025, Dr. Matthias Grob (Pavant): Zwei Perspektiven auf den Komplex KI und Patente
 - 13.02.2025, Dr. David Geisel (Ailio): Feature Selection - Wie man aus Sensordaten effiziente Vorhersagemodelle entwickelt
 - 11.02.2025, Linnea Feddeck / Marcel Franz (Metric Space): Fintuning a LLM - Practical Insights
 - 06.02.2025, Dr. Lothar Hotz (HITeC e.V.): Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems
