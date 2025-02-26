@@ -59,7 +59,7 @@ Am Donnerstag, den 20.02. haben wir als Vortragenden gewinnen können:
 - 22.10.2024, Marcus-Oliver Schneider (LSBG Hamburg): DaQuAI – mit KI zum Qualitätscheck für die Hamburger Verkehrsdaten
 - 17.10.2024, Dr. Natalie Rotermund (ARIC e.V.): Spotlight Neuromorphes Computing: Grundlegende Konzepte und Anwendungsschwerpunkte
 - 15.10.2024, Johannes Jamroszczyk (Charit Insights): TEBBL – The child ChatGPT and Excel never had
-- 08.10.2024, -,-
+- 10.10.2024, -,-
 - 08.10.2024, Christoph Hassler (): Yana, die KI-basierte Umarmung bei Alltagsrassismus
 - 01.10.2024, Nicolas Hoyer (Luvis AI): Herausforderungen und Lösungsvorschläge in der Auswahl relevanter Daten für supervised learning Trainings
 - 26.09.2024, Dr. Bernd Peper (Sopra Steria): KI trifft auf Organisation - vom Pilotprojekt zum skalierten Einsatz
