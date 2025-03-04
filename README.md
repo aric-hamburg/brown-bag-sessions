@@ -25,16 +25,20 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Donnerstag, den 20.02. haben wir als Vortragenden gewinnen können:
+Am Donnerstag, den 06.03. haben wir als Vortragende gewinnen können:
 
-- Marc Wilken (ERGON Datenprojekte): Automatisierte Dokumentenverarbeitung mit KI im Mittelstand
+- Rumyana Al-Ubaydi / Lisa Steinhauser (ARIC): Frauen in Tech & KI: Hürden überwinden - Kapital und Förderung als Schlüssel zum Erfolg
   
 ## Weitere geplante Vorträge
 
-- tbd.
+- Shekhar Khandelwal (Mercury Media Technology): Building Practical AI Agents with n8n: A Hands-on Demonstration
 
 ## Bisherige Vorträge
 
+- 04.03.2025, Janis Gösser (Ailio): Strategien der Datenvisualisierung
+- 27.02.2025, Julian Ivanov: Predicting the Postmortem Interval using Deep Learning in the Postmortem Computed Tomography
+- 25.02.2025, -,-
+- 20.02.2025, Marc Wilken (ERGON Datenprojekte): Automatisierte Dokumentenverarbeitung mit KI im Mittelstand
 - 18.02.2025, Dr. Matthias Grob (Pavant): Zwei Perspektiven auf den Komplex KI und Patente
 - 13.02.2025, Dr. David Geisel (Ailio): Feature Selection - Wie man aus Sensordaten effiziente Vorhersagemodelle entwickelt
 - 11.02.2025, Linnea Feddeck / Marcel Franz (Metric Space): Fintuning a LLM - Practical Insights
