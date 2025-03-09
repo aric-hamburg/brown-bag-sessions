@@ -25,16 +25,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Donnerstag, den 06.03. haben wir als Vortragende gewinnen können:
+Am Dienstag, den 11.03. haben wir als Vortragende gewinnen können:
 
-- Rumyana Al-Ubaydi / Lisa Steinhauser (ARIC): Frauen in Tech & KI: Hürden überwinden - Kapital und Förderung als Schlüssel zum Erfolg
+- Shekhar Khandelwal (Mercury Media Technology): Building Practical AI Agents with n8n: A Hands-on Demonstration
   
 ## Weitere geplante Vorträge
 
-- Shekhar Khandelwal (Mercury Media Technology): Building Practical AI Agents with n8n: A Hands-on Demonstration
+- Christian Schwehm (essencif.AI): KIEBIDZ - Einkommensteuererklärung auf Knopfdruck
 
 ## Bisherige Vorträge
 
+- 09.03.2024, Rumyana Al-Ubaydi / Lisa Steinhauser (ARIC): Frauen in Tech & KI: Hürden überwinden - Kapital und Förderung als Schlüssel zum Erfolg
 - 04.03.2025, Janis Gösser (Ailio): Strategien der Datenvisualisierung
 - 27.02.2025, Julian Ivanov: Predicting the Postmortem Interval using Deep Learning in the Postmortem Computed Tomography
 - 25.02.2025, -,-
