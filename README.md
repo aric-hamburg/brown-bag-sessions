@@ -33,7 +33,6 @@ Am Dienstag, den 18.03. haben wir als Vortragende gewinnen können:
 
 - Lukas Lenz (Hamburger Energienetze): ChatAI – Eine KI für uns
 - QT Vortrag
-- Prof. Dr. Randolf Isenberg (PPCI – Prozesse Projekte Coaching Isenberg / HAW Hamburg):  Mit LLM Türen öffnen für kreative Mixed-Reality Welten (Quest 3)
 
 ## Bisherige Vorträge
 
