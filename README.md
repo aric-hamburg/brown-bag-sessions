@@ -35,7 +35,7 @@ Am Dienstag, den 18.03. haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
-- 13.03.2025, Christian Schwehm (essencif.AI): KIEBIDZ - Einkommensteuererklärung auf Knopfdruck
+- 13.03.2025, Christian Schwehm / Sascha Trageser (essencif.AI): KIEBIDZ - Einkommensteuererklärung auf Knopfdruck
 - 11.03.2025, Shekhar Khandelwal (Mercury Media Technology): Building Practical AI Agents with n8n: A Hands-on Demonstration
 - 06.03.2025, Rumyana Al-Ubaydi / Lisa Steinhauser (ARIC): Frauen in Tech & KI: Hürden überwinden - Kapital und Förderung als Schlüssel zum Erfolg
 - 04.03.2025, Janis Gösser (Ailio): Strategien der Datenvisualisierung
