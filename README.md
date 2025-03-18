@@ -25,17 +25,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Dienstag, den 18.03. haben wir als Vortragende gewinnen können:
+Am Donnerstag, den 20.03. haben wir als Vortragenden gewinnen können:
 
-- Adrian Baetu (NordWind KI & Medien): Von Ordnern zu Antworten: Wie RAG das Dokumentenmanagement revolutioniert
+- Lukas Lenz (Hamburger Energienetze): ChatAI – Eine KI für uns
   
 ## Weitere geplante Vorträge
 
-- Lukas Lenz (Hamburger Energienetze): ChatAI – Eine KI für uns
 - QT Vortrag
 
 ## Bisherige Vorträge
 
+- 18.03.2025, Adrian Baetu (NordWind KI & Medien): Von Ordnern zu Antworten: Wie RAG das Dokumentenmanagement revolutioniert
 - 13.03.2025, Christian Schwehm / Sascha Trageser (essencif.AI): KIEBIDZ - Einkommensteuererklärung auf Knopfdruck
 - 11.03.2025, Shekhar Khandelwal (Mercury Media Technology): Building Practical AI Agents with n8n: A Hands-on Demonstration
 - 06.03.2025, Rumyana Al-Ubaydi / Lisa Steinhauser (ARIC): Frauen in Tech & KI: Hürden überwinden - Kapital und Förderung als Schlüssel zum Erfolg
