@@ -25,16 +25,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Donnerstag, den 25.03. haben wir als Vortragenden gewinnen können:
+Am Donnerstag, den 27.03. haben wir als Vortragenden gewinnen können:
 
-- Prof. Dr. Ralf Riedinger (Uni Hamburg): Quantum Super Computers - scaling quantum tech to a useful level
+- tba.
   
 ## Weitere geplante Vorträge
 
-- tbd.
+- tba.
 
 ## Bisherige Vorträge
 
+- 25.03.2025, Prof. Dr. Ralf Riedinger (Uni Hamburg): Quantum Super Computers - scaling quantum tech to a useful level
 - 20.03.2025, Lukas Lenz (Hamburger Energienetze): ChatAI – Eine KI für uns
 - 18.03.2025, Adrian Baetu (NordWind KI & Medien): Von Ordnern zu Antworten: Wie RAG das Dokumentenmanagement revolutioniert
 - 13.03.2025, Christian Schwehm / Sascha Trageser (essencif.AI): KIEBIDZ - Einkommensteuererklärung auf Knopfdruck
