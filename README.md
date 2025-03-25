@@ -27,14 +27,15 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Am Donnerstag, den 20.03. haben wir als Vortragenden gewinnen können:
 
-- Lukas Lenz (Hamburger Energienetze): ChatAI – Eine KI für uns
+- Prof. Dr. Ralf Riedinger (Uni Hamburg): Quantum Super Computers - scaling quantum tech to a useful level
   
 ## Weitere geplante Vorträge
 
-- QT Vortrag
+- tbd.
 
 ## Bisherige Vorträge
 
+- 20.03.2025, Lukas Lenz (Hamburger Energienetze): ChatAI – Eine KI für uns
 - 18.03.2025, Adrian Baetu (NordWind KI & Medien): Von Ordnern zu Antworten: Wie RAG das Dokumentenmanagement revolutioniert
 - 13.03.2025, Christian Schwehm / Sascha Trageser (essencif.AI): KIEBIDZ - Einkommensteuererklärung auf Knopfdruck
 - 11.03.2025, Shekhar Khandelwal (Mercury Media Technology): Building Practical AI Agents with n8n: A Hands-on Demonstration
