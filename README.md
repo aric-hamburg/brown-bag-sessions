@@ -25,7 +25,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Donnerstag, den 20.03. haben wir als Vortragenden gewinnen können:
+Am Donnerstag, den 25.03. haben wir als Vortragenden gewinnen können:
 
 - Prof. Dr. Ralf Riedinger (Uni Hamburg): Quantum Super Computers - scaling quantum tech to a useful level
   
