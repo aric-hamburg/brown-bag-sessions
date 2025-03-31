@@ -25,13 +25,14 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Donnerstag, den 27.03. haben wir als Vortragenden gewinnen können:
+Am Dienstag, den 01.04. haben wir als Vortragenden gewinnen können:
 
-- tba.
+- Christian Schwehm (essencif.AI): Calcolution – KI-gestützte SaaS-Wissensplattform
   
 ## Weitere geplante Vorträge
 
-- tba.
+- Ramin Farkhondeh (HITeC e.V.): Deep Metric Learning - Learning What Belongs Together
+- Dr. Bahne Sievers (Fieldfisher): Update - KI & Urheberrecht
 
 ## Bisherige Vorträge
 
