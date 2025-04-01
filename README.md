@@ -27,15 +27,15 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Am Dienstag, den 01.04. haben wir als Vortragenden gewinnen können:
 
-- Christian Schwehm (essencif.AI): Calcolution – KI-gestützte SaaS-Wissensplattform
+- Ramin Farkhondeh (HITeC e.V.): Deep Metric Learning - Learning What Belongs Together
   
 ## Weitere geplante Vorträge
 
-- Ramin Farkhondeh (HITeC e.V.): Deep Metric Learning - Learning What Belongs Together
 - Dr. Bahne Sievers (Fieldfisher): Update - KI & Urheberrecht
 
 ## Bisherige Vorträge
 
+- 01.04.2025, Christian Schwehm (essencif.AI): Calcolution – KI-gestützte SaaS-Wissensplattform
 - 25.03.2025, Prof. Dr. Ralf Riedinger (Uni Hamburg): Quantum Super Computers - scaling quantum tech to a useful level
 - 20.03.2025, Lukas Lenz (Hamburger Energienetze): ChatAI – Eine KI für uns
 - 18.03.2025, Adrian Baetu (NordWind KI & Medien): Von Ordnern zu Antworten: Wie RAG das Dokumentenmanagement revolutioniert
