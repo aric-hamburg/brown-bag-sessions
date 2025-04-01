@@ -25,7 +25,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Dienstag, den 01.04. haben wir als Vortragenden gewinnen können:
+Am Donnerstag, den 03.04. haben wir als Vortragenden gewinnen können:
 
 - Ramin Farkhondeh (HITeC e.V.): Deep Metric Learning - Learning What Belongs Together
   
