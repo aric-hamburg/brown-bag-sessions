@@ -25,16 +25,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Donnerstag, den 10.04. haben wir als Vortragenden gewinnen können:
+Am Donerstag, den 17.04. haben wir als Vortragenden gewinnen können:
 
-- Werner Bogula (ARIC e.V./Pinktum): Conversational AI und E-Learning
+- tba
   
 ## Weitere geplante Vorträge
 
-- tbd
+- tba
 
 ## Bisherige Vorträge
 
+- 10.04.2025, Werner Bogula (ARIC e.V./Pinktum): Conversational AI und E-Learning
 - 08.04.2025, Dr. Bahne Sievers (Fieldfisher): Update - KI & Urheberrecht
 - 03.04.2025, Ramin Farkhondeh (HITeC e.V.): Deep Metric Learning - Learning What Belongs Together
 - 01.04.2025, Christian Schwehm (essencif.AI): Calcolution – KI-gestützte SaaS-Wissensplattform
