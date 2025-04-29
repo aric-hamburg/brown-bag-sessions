@@ -25,18 +25,18 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Donerstag, den 29.04. haben wir als Vortragenden gewinnen können:
+Am Dienstag, den 06.05. haben wir als Vortragenden gewinnen können:
 
-- Prof. Dr. Dieter Jaksch (Uni Hamburg): Quantum Computer for numerical fluid dynamics
+- Prof. Dr. Randolf Isenberg (PPCI/HAW Hamburg): Mit LLM Türen öffnen für kreative Mixed-Reality Welten (Quest 3)
   
 ## Weitere geplante Vorträge
 
-- Prof. Dr. Randolf Isenberg (PPCI/HAW Hamburg): Mit LLM Türen öffnen für kreative Mixed-Reality Welten (Quest 3)
 - Eylem Tas (TU Hamburg/Uni Tokyo): folgt
 - Dr. Bahne Sievers (Fieldfisher): Blockchain-based Agentic AI
 
 ## Bisherige Vorträge
 
+- 29.04.2025, Prof. Dr. Dieter Jaksch (Uni Hamburg): Quantum Computer for numerical fluid dynamics
 - 24.04.2025, Christian Schwehm (essencif.AI): Essencif.ai – Prozessoptimierung im Handumdrehen – effizient und individuell!
 - 22.04.2025, -,-
 - 17.04.2025, -,-
