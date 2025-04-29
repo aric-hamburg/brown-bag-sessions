@@ -31,7 +31,6 @@ Am Dienstag, den 06.05. haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- Eylem Tas (TU Hamburg/Uni Tokyo): folgt
 - Dr. Bahne Sievers (Fieldfisher): Blockchain-based Agentic AI
 
 ## Bisherige Vorträge
