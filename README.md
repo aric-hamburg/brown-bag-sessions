@@ -31,6 +31,7 @@ Am Dienstag, den 06.05. haben wir als Vortragenden gewinnen können:
   
 ## Weitere geplante Vorträge
 
+- Dr. Janna Lipenkova (Anacode): tbd.
 - Dr. Bahne Sievers (Fieldfisher): Blockchain-based Agentic AI
 
 ## Bisherige Vorträge
