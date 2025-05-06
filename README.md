@@ -32,6 +32,11 @@ Am Donnerstag, den 08.05. haben wir als Vortragende gewinnen können:
 ## Weitere geplante Vorträge
 
 - Dr. Bahne Sievers (Fieldfisher): Blockchain-based Agentic AI
+- Andrea Drews (Echo Studios): AI Tools & Menschen
+- Sven Crone (iquast): AI for Railway Passenger Forecasting in Revenue Management
+- Kevin Hermeneit (SHZ): Mensch, Maschine, Medium: Wie viel Transparenz braucht KI im Journalismus?
+- Quantum Talk: tbd.
+- Andrea Drews (Echo Studios): AI Bewegtbild
 
 ## Bisherige Vorträge
 
