@@ -25,17 +25,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Dienstag, den 06.05. haben wir als Vortragenden gewinnen können:
+Am Donnerstag, den 08.05. haben wir als Vortragende gewinnen können:
 
-- Prof. Dr. Randolf Isenberg (PPCI/HAW Hamburg): Mit LLM Türen öffnen für kreative Mixed-Reality Welten (Quest 3)
+- Dr. Janna Lipenkova (Anacode): tbd.
   
 ## Weitere geplante Vorträge
 
-- Dr. Janna Lipenkova (Anacode): tbd.
 - Dr. Bahne Sievers (Fieldfisher): Blockchain-based Agentic AI
 
 ## Bisherige Vorträge
 
+- 06.05.2025, Prof. Dr. Randolf Isenberg (PPCI/HAW Hamburg): Mit LLM Türen öffnen für kreative Mixed-Reality Welten (Quest 3)
 - 29.04.2025, Prof. Dr. Dieter Jaksch (Uni Hamburg): Quantum Computer for numerical fluid dynamics
 - 24.04.2025, Christian Schwehm (essencif.AI): Essencif.ai – Prozessoptimierung im Handumdrehen – effizient und individuell!
 - 22.04.2025, -,-
