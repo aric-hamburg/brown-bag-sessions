@@ -27,7 +27,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Am Donnerstag, den 08.05. haben wir als Vortragende gewinnen können:
 
-- Dr. Janna Lipenkova (Anacode): tbd.
+- Dr. Janna Lipenkova (Anacode): Introduction to "The Art of AI Product Development"
   
 ## Weitere geplante Vorträge
 
