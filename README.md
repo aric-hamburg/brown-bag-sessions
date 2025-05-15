@@ -31,7 +31,7 @@ Am Donnerstag, den 15.05. haben wir als Vortragende gewinnen können:
   
 ## Weitere geplante Vorträge
 
-- Sven Crone (iquast): AI for Railway Passenger Forecasting in Revenue Management
+- Sven Crone (iqast): AI for Railway Passenger Forecasting in Revenue Management
 - Kevin Hermeneit (SHZ): Mensch, Maschine, Medium: Wie viel Transparenz braucht KI im Journalismus?
 - Quantum Talk: tbd.
 - Andrea Drews (Echo Studios): AI Bewegtbild
