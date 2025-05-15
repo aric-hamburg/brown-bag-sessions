@@ -1,4 +1,4 @@
-# ARIC Brown Bag Sessions
+![image](https://github.com/user-attachments/assets/00c66fe6-8f6f-40fc-add3-170ed631e546)# ARIC Brown Bag Sessions
 Das ARIC (www.aric-hamburg.de) organisiert sogenannte "ARIC Brown Bag Sessions", die jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 stattfinden.
 Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft sprechen zur Mittagszeit zu spannenden Themen und Projekten aus den Bereichen 
 
@@ -25,13 +25,12 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Dienstag, den 13.05. haben wir als Vortragende gewinnen können:
+Am Donnerstag, den 15.05. haben wir als Vortragende gewinnen können:
 
-- Dr. Bahne Sievers (Fieldfisher): Blockchain-based Agentic AI
+- Andrea Drews & Patrick Hoppe (Echo Studios/Unltd. Visions): AI Tools & Menschen
   
 ## Weitere geplante Vorträge
 
-- Andrea Drews (Echo Studios): AI Tools & Menschen
 - Sven Crone (iquast): AI for Railway Passenger Forecasting in Revenue Management
 - Kevin Hermeneit (SHZ): Mensch, Maschine, Medium: Wie viel Transparenz braucht KI im Journalismus?
 - Quantum Talk: tbd.
@@ -39,7 +38,8 @@ Am Dienstag, den 13.05. haben wir als Vortragende gewinnen können:
 
 ## Bisherige Vorträge
 
-- Dr. Janna Lipenkova (Anacode): Introduction to "The Art of AI Product Development"
+- 13.05.2025, Dr. Bahne Sievers (Fieldfisher): Blockchain-based Agentic AI
+- 08.05.2025, Dr. Janna Lipenkova (Anacode): Introduction to "The Art of AI Product Development"
 - 06.05.2025, Prof. Dr. Randolf Isenberg (PPCI/HAW Hamburg): Mit LLM Türen öffnen für kreative Mixed-Reality Welten (Quest 3)
 - 29.04.2025, Prof. Dr. Dieter Jaksch (Uni Hamburg): Quantum Computer for numerical fluid dynamics
 - 24.04.2025, Christian Schwehm (essencif.AI): Essencif.ai – Prozessoptimierung im Handumdrehen – effizient und individuell!
