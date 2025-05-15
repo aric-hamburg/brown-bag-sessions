@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/00c66fe6-8f6f-40fc-add3-170ed631e546)# ARIC Brown Bag Sessions
+# ARIC Brown Bag Sessions
 Das ARIC (www.aric-hamburg.de) organisiert sogenannte "ARIC Brown Bag Sessions", die jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 stattfinden.
 Experten aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft sprechen zur Mittagszeit zu spannenden Themen und Projekten aus den Bereichen 
 
