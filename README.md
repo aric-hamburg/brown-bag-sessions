@@ -37,7 +37,7 @@ Am Dienstag, den 20.05. haben wir als Vortragenden gewinnen können:
 
 ## Bisherige Vorträge
 
-- 15.05.2025, Andrea Drews & Patrick Hoppe (Echo Studios/Unltd. Visions): AI Tools & Menschen
+- 15.05.2025, Andrea Drews & Patrick Hoppe (Echo Stvdio/Unltd. Visions): AI Tools & Menschen
 - 13.05.2025, Dr. Bahne Sievers (Fieldfisher): Blockchain-based Agentic AI
 - 08.05.2025, Dr. Janna Lipenkova (Anacode): Introduction to "The Art of AI Product Development"
 - 06.05.2025, Prof. Dr. Randolf Isenberg (PPCI/HAW Hamburg): Mit LLM Türen öffnen für kreative Mixed-Reality Welten (Quest 3)
