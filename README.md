@@ -25,7 +25,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Dienstag, den 20.05. haben wir als Vortragenden gewinnen können:
+Am Donnerstag, den 22.05. haben wir als Vortragenden gewinnen können:
 
 - Kevin Hermeneit (SHZ): Mensch, Maschine, Medium: Wie viel Transparenz braucht KI im Journalismus?
   
