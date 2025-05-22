@@ -25,17 +25,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Donnerstag, den 22.05. haben wir als Vortragenden gewinnen können:
+Am Dienstag, den 27.05. haben wir als Vortragenden gewinnen können:
 
-- Kevin Hermeneit (SHZ): Mensch, Maschine, Medium: Wie viel Transparenz braucht KI im Journalismus?
+- Adrian Marotzke (NXP): An Introduction to Post-Quantum Cryptography (english)
   
 ## Weitere geplante Vorträge
 
-- Adrian Marotzke (NXP): An Introduction to Post-Quantum Cryptography (english)
 - Andrea Drews (Echo Studios): AI Bewegtbild
 
 ## Bisherige Vorträge
 
+- 22.05.2025, Kevin Hermeneit (SHZ): Mensch, Maschine, Medium: Wie viel Transparenz braucht KI im Journalismus?
 - 20.05.2025, Sven Crone (iqast): AI for Railway Passenger Forecasting in Revenue Management
 - 15.05.2025, Andrea Drews & Patrick Hoppe (Echo Stvdio/Unltd. Visions): AI Tools & Menschen
 - 13.05.2025, Dr. Bahne Sievers (Fieldfisher): Blockchain-based Agentic AI
