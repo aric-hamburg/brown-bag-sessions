@@ -25,16 +25,20 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Dienstag, den 03.06. haben wir als Vortragenden gewinnen können:
+Am Dienstag, den 10.06. haben wir als Vortragenden gewinnen können:
 
-- Andrea Drews (Echo Studios): AI Bewegtbild
+- Paul Baumgarten (2b innovative): Der Weg zu einer vertrauenswürdigeren KI
   
 ## Weitere geplante Vorträge
 
-- tbd
+- Marie Reiter (): 6 KI Hacks für den Alltag – Work smarter, not hard
+- Yakup Özkardes-Cheung (Content AI Tools): Mit KI zu mehr Nachhaltigkeit: Effizienz, Innovation, Verantwortung
+- Michael Welsch (Metric Space): Prototyp in 24h, Produkt in 45 Tagen: Ein E-Mail Bot entsteht
 
 ## Bisherige Vorträge
 
+- 05.06.2025, -,-
+- 03.06.2025, Andrea Drews (Echo Studios): AI Bewegtbild
 - 29.05.2025, -,-
 - 27.05.2025, Adrian Marotzke (NXP): An Introduction to Post-Quantum Cryptography (english)
 - 22.05.2025, Kevin Hermeneit (SHZ): Mensch, Maschine, Medium: Wie viel Transparenz braucht KI im Journalismus?
