@@ -27,7 +27,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 Am Donnerstag, den 12.06. haben wir als Vortragende gewinnen können:
 
-- Marie Reiter (): 6 KI Hacks für den Alltag – Work smarter, not hard
+- Marie Reiter (-): 6 KI Hacks für den Alltag – Work smarter, not hard
   
 ## Weitere geplante Vorträge
 
