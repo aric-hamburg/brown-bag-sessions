@@ -25,17 +25,18 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Donnerstag, den 12.06. haben wir als Vortragende gewinnen können:
+Am Dienstag, den 17.06. haben wir als Vortragenden gewinnen können:
 
-- Marie Reiter (-): 6 KI Hacks für den Alltag – Work smarter, not harder
+- Yakup Özkardes-Cheung (Content AI Tools): Mit KI zu mehr Nachhaltigkeit: Effizienz, Innovation, Verantwortung
   
 ## Weitere geplante Vorträge
 
-- Yakup Özkardes-Cheung (Content AI Tools): Mit KI zu mehr Nachhaltigkeit: Effizienz, Innovation, Verantwortung
+- 
 - Michael Welsch (Metric Space): Prototyp in 24h, Produkt in 45 Tagen: Ein E-Mail Bot entsteht
 
 ## Bisherige Vorträge
 
+- 12.06.2025, Marie Reiter (-): 6 KI Hacks für den Alltag – Work smarter, not harder
 - 10.06.2025, Paul Baumgarten (2b innovative): Der Weg zu einer vertrauenswürdigeren KI
 - 05.06.2025, -,-
 - 03.06.2025, Andrea Drews (Echo Studios): AI Bewegtbild
