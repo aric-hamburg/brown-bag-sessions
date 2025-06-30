@@ -25,19 +25,19 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 
 
-Am Dienstag, den 24.06. haben wir als Vortragenden gewinnen können:
+Am Dienstag, den 31.06. haben wir als Vortragende gewinnen können:
 
-- Prof. Martin Kliesch (TU Hamburg): On the limitations and possibilities of practically relevant quantum advantages
+- Eylem Tas (TU Hamburg/Universität Tokyo): tba.
   
 ## Weitere geplante Vorträge
 
-- Andrea Drews (Echo Studios): AI Creator - Ist das Kunst?
-- Eylem Tas (TU Hamburg/Universität Tokyo): tba.
 - Alex Blancke (): tba.
 - Max Seiter (Digital Beat): tba.
 
 ## Bisherige Vorträge
 
+- 26.06.2025, Andrea Drews (Echo Studios): AI Creator - Ist das Kunst?
+- 24.06.2025, Prof. Martin Kliesch (TU Hamburg): On the limitations and possibilities of practically relevant quantum advantages
 - 19.06.2025, Michael Welsch (Metric Space): Prototyp in 24h, Produkt in 45 Tagen: Ein E-Mail Bot entsteht
 - 17.06.2025, Yakup Özkardes-Cheung (Content AI Tools): Mit KI zu mehr Nachhaltigkeit: Effizienz, Innovation, Verantwortung
 - 12.06.2025, Marie Reiter (-): 6 KI Hacks für den Alltag – Work smarter, not harder
