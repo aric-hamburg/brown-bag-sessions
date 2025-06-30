@@ -24,16 +24,17 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
+Di., 01.07.2025:
 
-Am Dienstag, den 01.07. haben wir als Vortragende gewinnen können:
+- Fällt leider aufgrund von Krankheit aus
 
-- Eylem Tas (TU Hamburg/Universität Tokyo): tba.
-  
+
 ## Weitere geplante Vorträge
 
 - 03.07.2025 - Alex Blancke (): tba.
 - 08.07.2025 - Max Seiter (Digital Beat): tba.
 - 10.07. fällt voraussichtlich wegen HHIS 2025 aus
+- Eylem Tas (TU Hamburg/Universität Tokyo): tba.
 
 ## Bisherige Vorträge
 
