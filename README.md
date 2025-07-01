@@ -32,12 +32,11 @@ Di., 01.07.2025:
 ## Weitere geplante Vorträge
 
 - 03.07.2025 - Alex Blancke (): tba.
-- 08.07.2025 - Max Seiter (Digital Beat): tba.
-- 10.07. fällt voraussichtlich wegen HHIS 2025 aus
-- Eylem Tas (TU Hamburg/Universität Tokyo): tba.
+- 08.07.2025 - Max Seiter (Digital Beat): KI trifft Datenschutz
+
 
 ## Bisherige Vorträge
-
+- 01.07.2025 -,-
 - 26.06.2025, Andrea Drews (Echo Studios): AI Creator - Ist das Kunst?
 - 24.06.2025, Prof. Martin Kliesch (TU Hamburg): On the limitations and possibilities of practically relevant quantum advantages
 - 19.06.2025, Michael Welsch (Metric Space): Prototyp in 24h, Produkt in 45 Tagen: Ein E-Mail Bot entsteht
