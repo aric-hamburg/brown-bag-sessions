@@ -31,9 +31,12 @@ Di., 01.07.2025:
 
 ## Weitere geplante Vorträge
 
-- 03.07.2025 - Alex Blancke (): tba.
+- 03.07.2025 - Alex Blancke: „Sokrates“-Chatbot - Live-Demo der sokratischen Fragetechnik - und einen kurzen Blick hinter die Kulissen, wie Alex den Bot konzipiert, gepromptet und in seinen n8n-Workflow eingebettet hat
 - 08.07.2025 - Max Seiter (Digital Beat): KI trifft Datenschutz
 - 10.07.2025 - fällt aus, wegen Hamburg Innovation Summit
+- 15.07.2025 - Quantumcomputing Brown Bag Session (hqic): tba.
+
+  SOMMERPAUSE ab 17.07. bis 
 
 
 ## Bisherige Vorträge
