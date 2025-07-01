@@ -33,6 +33,7 @@ Di., 01.07.2025:
 
 - 03.07.2025 - Alex Blancke (): tba.
 - 08.07.2025 - Max Seiter (Digital Beat): KI trifft Datenschutz
+- 10.07.2025 - fällt aus, wegen Hamburg Innovation Summit
 
 
 ## Bisherige Vorträge
