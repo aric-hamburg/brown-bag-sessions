@@ -36,7 +36,7 @@ Di., 01.07.2025:
 - 10.07.2025 - fällt aus, wegen Hamburg Innovation Summit
 - 15.07.2025 - Quantumcomputing Brown Bag Session (hqic): tba.
 
-  SOMMERPAUSE ab 17.07. bis 
+  SOMMERPAUSE ab 17.07. bis Ende Sommerferien (Anfang September)
 
 
 ## Bisherige Vorträge
