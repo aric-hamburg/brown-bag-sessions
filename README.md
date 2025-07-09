@@ -24,19 +24,20 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-Dienstag, 08.07.2025 - Max Seiter (Digital Beat): KI trifft Datenschutz
-Der Vortrag gibt einen kompakten Überblick über die datenschutzrechtlichen Anforderungen beim Einsatz von Künstlicher Intelligenz in Unternehmen. Im Fokus stehen dabei typische Problemfelder wie Datenflüsse in Cloud-Umgebungen, die Abgrenzung von Verantwortlichkeiten und die zentralen Vorgaben der DSGVO für den rechtskonformen Einsatz von KI-Systemen
+- 10.07.2025 - fällt aus, wegen Hamburg Innovation Summit
+
 
 
 ## Weitere geplante Vorträge
 
-- 10.07.2025 - fällt aus, wegen Hamburg Innovation Summit
 - 15.07.2025 - Quantumcomputing Brown Bag Session (hqic): tba
 
   SOMMERPAUSE ab 17.07. bis Ende Sommerferien Hamburg (Anfang September)
 
 
 ## Bisherige Vorträge
+
+- 08.07.2025 Max Seiter (Digital Beat): KI trifft Datenschutz
 - 03.07.2025 Alex Blancke: „Sokrates“-Chatbot - Live-Demo der sokratischen Fragetechnik
 - 01.07.2025 -,-
 - 26.06.2025, Andrea Drews (Echo Studios): AI Creator - Ist das Kunst?
