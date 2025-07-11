@@ -33,7 +33,6 @@ This talk will present the quantum algorithms developed for LUXE, a new experime
 
 ## Weitere geplante Vorträge
 
-- 15.07.2025 - Quantumcomputing Brown Bag Session (hqic): tba
 
   SOMMERPAUSE ab 17.07. bis Ende Sommerferien Hamburg (Anfang September)
 
