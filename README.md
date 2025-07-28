@@ -24,21 +24,18 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 
-- 15.07.2025 - Quantumcomputing Brown Bag Session (organised by hqic) / Dr. Federico Meloni (DESY): Follow the Qubit - Particle Tracking at LUXE
 
-Abstract: Reconstructing the trajectories of charged particles from detector measurements is an extremely challenging combinatorial problem in current and future high-energy particle physics experiments, and can become computationally prohibitive for classical computers. 
-Quantum algorithms have the potential to disrupt this field by dramatically reducing the time-to-solution or the amount of resources needed to perform a calculation. 
-This talk will present the quantum algorithms developed for LUXE, a new experiment in planning at DESY and the European XFEL in Hamburg which will study Quantum Electrodynamics at the strong-field frontier, and compare them with classical approaches.
+  SOMMERPAUSE ab 17.07. bis Ende Sommerferien Hamburg (Anfang September)
 
 
 ## Weitere geplante Vorträge
 
 
-  SOMMERPAUSE ab 17.07. bis Ende Sommerferien Hamburg (Anfang September)
+-.-
 
 
 ## Bisherige Vorträge
-
+- 15.07.2025 - Quantumcomputing Brown Bag Session (organised by hqic) / Dr. Federico Meloni (DESY): Follow the Qubit - Particle Tracking at LUXE
 - 10.07.2025 -,-
 - 08.07.2025 Max Seiter (Digital Beat): KI trifft Datenschutz
 - 03.07.2025 Alex Blancke: „Sokrates“-Chatbot - Live-Demo der sokratischen Fragetechnik
