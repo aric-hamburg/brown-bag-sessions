@@ -10,9 +10,9 @@ In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit 
 
 ## Teilnahme
 Über dann nachfolgenden Link könnt ihr euch gerne dazuschalten 
-(ihr könnt euch dazu die Microsoft Teams App kostenlos runterladen oder einfach über euren Webbrowser daran teilnehmen):
+(ihr könnt euch dazu die Microsoft Teams App kostenlos herunterladen oder einfach über euren Webbrowser daran teilnehmen):
 
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzE4YTUtYmQ0ZC00OGJhLWE5YWEtYmU1MDI4N2Y0YjI0%40thread.v2/0?context=%7b%22Tid%22%3a%22b2f09837-8b02-4136-9f46-52ffb6b93f9a%22%2c%22Oid%22%3a%2230ac9a78-0adf-416f-bd76-afc7935555ef%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjFmMDM3MTEtZmVhOS00NDU1LWI5YjYtZWEzYzc1M2ZjODg5%40thread.v2/0?context=%7b%22Tid%22%3a%22b2f09837-8b02-4136-9f46-52ffb6b93f9a%22%2c%22Oid%22%3a%2232f9bc80-2d30-4f6e-84ee-e430022a5855%22%7d
 
 
 ## Feedback
