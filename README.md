@@ -32,7 +32,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Bisherige Vorträge
-- 11.09.2025 - Alexander Krumm (VPATh AI): KI-Agenten im Systems Engineering - Potenziale, Risiken, Reifegrad
+- 11.09.2025 - Alexander Krumm (VPATH AI): KI-Agenten im Systems Engineering - Potenziale, Risiken, Reifegrad
 - 15.07.2025 - Quantumcomputing Brown Bag Session (organised by hqic) / Dr. Federico Meloni (DESY): Follow the Qubit - Particle Tracking at LUXE
 - 10.07.2025 -,-
 - 08.07.2025 Max Seiter (Digital Beat): KI trifft Datenschutz
