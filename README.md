@@ -23,12 +23,12 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-23.09.2025: Jörg Forthmann (Vorsitzender des Vereins KI für Demokratie): Mit KI rechte Netzwerke im Internet transparent machen
+- 23.09.2025: Jörg Forthmann (Vorsitzender des Vereins KI für Demokratie): Mit KI rechte Netzwerke im Internet transparent machen
 
 
 ## Weitere geplante Vorträge
-30.09.2025: Quantumcomputing Brown Bag Session (organised by hqic)/ Dr. Mark Tehrani (Founder @ CyberSeQ): Post-Quantum Cryptography Migration Tools and Methods
-02.10.2025: Aaron Frank (Gedankenfabrik): KI-Automation mit N8N - Blogposts einfach erstellen
+- 30.09.2025: Quantumcomputing Brown Bag Session (organised by hqic)/ Dr. Mark Tehrani (Founder @ CyberSeQ): Post-Quantum Cryptography Migration Tools and Methods
+- 02.10.2025: Aaron Frank (Gedankenfabrik): KI-Automation mit N8N - Blogposts einfach erstellen
 
 
 ## Bisherige Vorträge
