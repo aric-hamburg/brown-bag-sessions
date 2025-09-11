@@ -23,18 +23,16 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-
-
-  SOMMERPAUSE ab 17.07. bis Ende Sommerferien Hamburg (Anfang September)
+23.09.2025: Jörg Forthmann (Vorsitzender des Vereins KI für Demokratie): Mit KI rechte Netzwerke im Internet transparent machen
 
 
 ## Weitere geplante Vorträge
-
-
--.-
+30.09.2025: Quantumcomputing Brown Bag Session (organised by hqic)/ Dr. Mark Tehrani (Founder @ CyberSeQ): Post-Quantum Cryptography Migration Tools and Methods
+02.10.2025: Aaron Frank (Gedankenfabrik): KI-Automation mit N8N - Blogposts einfach erstellen
 
 
 ## Bisherige Vorträge
+- 11.09.2025 - Alexander Krumm (VPATh AI): KI-Agenten im Systems Engineering - Potenziale, Risiken, Reifegrad
 - 15.07.2025 - Quantumcomputing Brown Bag Session (organised by hqic) / Dr. Federico Meloni (DESY): Follow the Qubit - Particle Tracking at LUXE
 - 10.07.2025 -,-
 - 08.07.2025 Max Seiter (Digital Beat): KI trifft Datenschutz
