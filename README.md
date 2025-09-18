@@ -26,11 +26,11 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 - 23.09.2025: Jörg Forthmann (Vorsitzender des Vereins KI für Demokratie): Mit KI rechte Netzwerke im Internet transparent machen
 
 ## Weitere geplante Vorträge
-# September 2025
+### September 2025
 - 30.09.2025: Quantumcomputing Brown Bag Session (organised by hqic)/ Dr. Mark Tehrani (Founder @ CyberSeQ): Post-Quantum Cryptography Migration Tools and Methods
-# Oktober 2025
+### Oktober 2025
 - 02.10.2025: Aaron Frank (Gedankenfabrik): KI-Automation mit N8N - Blogposts einfach erstellen
-# Dezember 2025
+### Dezember 2025
 - 04.12.2025: Dr. Sohrab Shojaei Khatouni (Nosc.AI): Von Wahrscheinlichkeiten zu Sprachmodellen - Bayes-Netze vs. LLMs in der Diagnostik
 
 
