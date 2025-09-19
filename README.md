@@ -38,7 +38,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Bisherige Vorträge
-- 18.09.2025: Dr. Aleksander Reitsakas (First Project Manager of X-Road and Founder of Aktors) & Ms. Kedi Välba (CEO of Aktors): Estonia’s X-Road: Secure Data Exchange
+- 18.09.2025 - Dr. Aleksander Reitsakas (First Project Manager of X-Road and Founder of Aktors) & Ms. Kedi Välba (CEO of Aktors): Estonia’s X-Road: Secure Data Exchange
 - 11.09.2025 - Alexander Krumm (VPATH AI): KI-Agenten im Systems Engineering - Potenziale, Risiken, Reifegrad
 - 15.07.2025 - Quantumcomputing Brown Bag Session (organised by hqic) / Dr. Federico Meloni (DESY): Follow the Qubit - Particle Tracking at LUXE
 - 10.07.2025 -,-
