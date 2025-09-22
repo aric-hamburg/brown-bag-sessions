@@ -28,7 +28,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Weitere geplante Vorträge
 ### September 2025
 - **25.09.2025** - Nicklas Scharpff (Freelance Consultant for Node.js AI applications): Building open-source AI packages to solve my clients problems
-- 30.09.2025 - Quantumcomputing Brown Bag Session (organised by hqic) / Dr. Mark Tehrani (Founder @ CyberSeQ): Post-Quantum Cryptography Migration Tools and Methods
+- **30.09.2025** - Quantumcomputing Brown Bag Session (organised by hqic) / Dr. Mark Tehrani (Founder @ CyberSeQ): Post-Quantum Cryptography Migration Tools and Methods
 ### Oktober 2025
 - **02.10.2025** - Aaron Frank (Gedankenfabrik): KI-Automation mit N8N - Blogposts einfach erstellen
 ### November 2025
