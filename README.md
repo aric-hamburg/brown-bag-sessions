@@ -23,11 +23,10 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-- **23.09.2025** - Jörg Forthmann (Vorsitzender des Vereins KI für Demokratie): Mit KI rechte Netzwerke im Internet transparent machen
+- **25.09.2025** - Nicklas Scharpff (Freelance Consultant for Node.js AI applications): Building open-source AI packages to solve my clients problems
 
 ## Weitere geplante Vorträge
 ### September 2025
-- **25.09.2025** - Nicklas Scharpff (Freelance Consultant for Node.js AI applications): Building open-source AI packages to solve my clients problems
 - **30.09.2025** - Quantumcomputing Brown Bag Session (organised by hqic) / Dr. Mark Tehrani (Founder @ CyberSeQ): Post-Quantum Cryptography Migration Tools and Methods
 ### Oktober 2025
 - **02.10.2025** - Aaron Frank (Gedankenfabrik): KI-Automation mit N8N - Blogposts einfach erstellen
@@ -38,6 +37,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Bisherige Vorträge
+- 23.09.2025 - Jörg Forthmann (Vorsitzender des Vereins KI für Demokratie): Mit KI rechte Netzwerke im Internet transparent machen
 - 18.09.2025 - Dr. Aleksander Reitsakas (First Project Manager of X-Road and Founder of Aktors) & Ms. Kedi Välba (CEO of Aktors): Estonia’s X-Road: Secure Data Exchange
 - 11.09.2025 - Alexander Krumm (VPATH AI): KI-Agenten im Systems Engineering - Potenziale, Risiken, Reifegrad
 - 15.07.2025 - Quantumcomputing Brown Bag Session (organised by hqic) / Dr. Federico Meloni (DESY): Follow the Qubit - Particle Tracking at LUXE
