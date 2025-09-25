@@ -36,6 +36,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Bisherige Vorträge
+- 25.09.2025 - Niklas Scharpff (Freelance Consultant for Node.js Applications: Building open-source AI packages to solve my clients problems
 - 23.09.2025 - Jörg Forthmann (Vorsitzender des Vereins KI für Demokratie): Mit KI rechte Netzwerke im Internet transparent machen
 - 18.09.2025 - Dr. Aleksander Reitsakas (First Project Manager of X-Road and Founder of Aktors) & Ms. Kedi Välba (CEO of Aktors): Estonia’s X-Road: Secure Data Exchange
 - 11.09.2025 - Alexander Krumm (VPATH AI): KI-Agenten im Systems Engineering - Potenziale, Risiken, Reifegrad
