@@ -29,8 +29,11 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ### Oktober 2025
 - **02.10.2025** - Aaron Frank (Gedankenfabrik): KI-Automation mit N8N - Blogposts einfach erstellen
 - **07.10.2025** - Tim Albers (atflow GmbH): Use-Case finden & umsetzen - Spracherfassung für ERP
+- **09.10.2025** - Jan Schlicht (Katulu): Kubernetes for AI - SprungInnovation made in Hamburg
+
 ### November 2025
 - **04.11.2025** - Antonie Casper (Behörde für Stadtentwicklung und Wohnen/Stadtwerkstatt und Digitale Urbane Zwillinge): Digitale Beteiligungsverfahren mit KI auswerten
+- **11.11.2025** - Lasse Bremer und Eike Meyer (Zukunftslabor Generative KI): Promptathon als Change-Tool
 ### Dezember 2025
 - **04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Von Wahrscheinlichkeiten zu Sprachmodellen - Bayes-Netze vs. LLMs in der Diagnostik
 
