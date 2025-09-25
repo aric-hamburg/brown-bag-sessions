@@ -30,7 +30,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 - **02.10.2025** - Aaron Frank (Gedankenfabrik): KI-Automation mit N8N - Blogposts einfach erstellen
 - **07.10.2025** - Tim Albers (atflow GmbH): Use-Case finden & umsetzen - Spracherfassung für ERP
 ### November 2025
-- **04.11.2025** - Antonie Casper (Behörde für Stadtentwicklung und Wohnen/Stadtwerkstatt und Digitale Urbane Zwillinge): Auswertung mit KI – Das Feedback aus der Beteiligung besser verstehen
+- **04.11.2025** - Antonie Casper (Behörde für Stadtentwicklung und Wohnen/Stadtwerkstatt und Digitale Urbane Zwillinge): Digitale Beteiligungsverfahren mit KI auswerten
 ### Dezember 2025
 - **04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Von Wahrscheinlichkeiten zu Sprachmodellen - Bayes-Netze vs. LLMs in der Diagnostik
 
