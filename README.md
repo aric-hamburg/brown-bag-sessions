@@ -36,7 +36,9 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ### Dezember 2025
 - **04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
-- **16.12.2025** - Quantumcomputing Session (organised by hqic) / Univ.-Prof. Mag. Dr. Matthias C. Kettemann (Universitätsprofessor für Innovation, Theorie und Philosophie des Rechts, Universität Innsbruck) : Ethics and Governance of Quantum Technology --- in Englisch
+- **16.12.2025** - Quantumcomputing Session (organised by hqic) / Prof. Dr. Matthias C. Kettemann, LL.M. (Harvard
+Head, Department of Theory and Future of Law, University of Innsbruck and Innsbruck Quantum Ethics Lab
+Research Program Head, Leibniz Institute for Media Research, Hamburg: Ethics and Governance of Quantum Technology --- in Englisch
 
 ## Bisherige Vorträge
 
