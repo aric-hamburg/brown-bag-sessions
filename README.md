@@ -28,7 +28,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Weitere geplante Vorträge
 ### Oktober 2025
 - **09.10.2025** - Jan Schlicht (Katulu): Kubernetes for AI - SprungInnovation made in Hamburg
-- **14.10.2025** - Rumyana Al-ubaydi (ARIC/EDIH Hamburg): Public Funding for SMEs and Research Organisations
+- **14.10.2025** - Rumyana Al-ubaydi (ARIC/EDIH Hamburg): Public Funding for SMEs and Research Organisations -- in Englisch
 - **16.10.2025** - Kevin Murray (Mimir): KI-Unterstützung in der Notaufnahme
   
 ### November 2025
