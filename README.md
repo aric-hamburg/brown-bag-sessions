@@ -29,6 +29,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ### Oktober 2025
 - **14.10.2025** - Rumyana Al-ubaydi (ARIC/EDIH Hamburg): Public Funding for Deep Tech Projects -- in Englisch
 - **16.10.2025** - Kevin Murray (Mimir): KI-Unterstützung in der Notaufnahme
+- **30.10.2025** - Tobias Oertel (zukunft zwei): Europa als globaler Hotspot für gemeinwohlorientierte KI
   
 ### November 2025
 - **04.11.2025** - Antonie Casper (Behörde für Stadtentwicklung und Wohnen/Stadtwerkstatt und Digitale Urbane Zwillinge): Digitale Beteiligungsverfahren mit KI auswerten
