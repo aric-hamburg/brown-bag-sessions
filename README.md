@@ -23,11 +23,10 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-- **09.10.2025** - Jan Schlicht (Katulu): Kubernetes for AI - SprungInnovation made in Hamburg
+- **14.10.2025** - Rumyana Al-ubaydi (ARIC/EDIH Hamburg): Public Funding for Deep Tech Projects -- in Englisch
 
 ## Weitere geplante Vorträge
 ### Oktober 2025
-- **14.10.2025** - Rumyana Al-ubaydi (ARIC/EDIH Hamburg): Public Funding for Deep Tech Projects -- in Englisch
 - **16.10.2025** - Kevin Murray (Mimir): KI-Unterstützung in der Notaufnahme
 - **21.10.2025** - Norman Blanck (mgo Joblokal GmbH): mgo Jobpush: Smartes Recruiting mit KI
 - **30.10.2025** - Tobias Oertel (zukunft zwei): Europa als globaler Hotspot für gemeinwohlorientierte KI
@@ -43,7 +42,7 @@ Head, Department of Theory and Future of Law, University of Innsbruck and Innsbr
 Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics and Governance of Quantum Technology --- in Englisch
 
 ## Bisherige Vorträge
-
+- 09.10.2025 - Jan Schlicht (Katulu): Kubernetes for AI - SprungInnovation made in Hamburg
 - 07.10.2025 - Tim Albers (atflow GmbH): Use-Case finden & umsetzen - Spracherfassung für ERP
 - 02.10.2025 - Aaron Frank (Gedankenfabrik): KI-Automation mit N8N - Blogposts einfach erstellen
 - 30.09.2025 - Quantumcomputing Brown Bag Session (organised by hqic) / Dr. Mark Tehrani (Founder @ CyberSeQ): Post-Quantum Cryptography Migration Tools and Methods
