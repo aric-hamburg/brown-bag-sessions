@@ -34,6 +34,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
   
 ### November 2025
 - **04.11.2025** - Antonie Casper (Behörde für Stadtentwicklung und Wohnen/Stadtwerkstatt und Digitale Urbane Zwillinge): Digitale Beteiligungsverfahren mit KI auswerten
+- **06.11.2025** - Dr. Christian Pichler (digitalbarn): Die DNA der KI-Fabrik
 - **11.11.2025** - Lasse Bremer und Eike Meyer (Zukunftslabor Generative KI): Promptathon als Change-Tool
 
 ### Dezember 2025
