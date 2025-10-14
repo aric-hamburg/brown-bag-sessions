@@ -29,7 +29,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ### Oktober 2025
 - **16.10.2025** - Kevin Murray (Mimir): KI-Unterstützung in der Notaufnahme
 - **21.10.2025** - Norman Blanck (mgo Joblokal GmbH): mgo Jobpush: Smartes Recruiting mit KI
-- **28.10.2025** - Quantumcomputing Session (organised by hqic) / Axel Schönbeck (CEO & Co-Founder Noisy Labs GmbH): Squeezed light for quantum sensing -- in Englisch
+- **28.10.2025** - Quantum Technology Session (organised by hqic) / Axel Schönbeck (CEO & Co-Founder Noisy Labs GmbH): Squeezed light for quantum sensing -- in Englisch
 - **30.10.2025** - Tobias Oertel (zukunft zwei): Europa als globaler Hotspot für gemeinwohlorientierte KI
   
 ### November 2025
@@ -39,7 +39,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ### Dezember 2025
 - **04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
-- **16.12.2025** - Quantumcomputing Session (organised by hqic) / Prof. Dr. Matthias C. Kettemann, LL.M. (Harvard
+- **16.12.2025** - Quantum Technology Session (organised by hqic) / Prof. Dr. Matthias C. Kettemann, LL.M. (Harvard
 Head, Department of Theory and Future of Law, University of Innsbruck and Innsbruck Quantum Ethics Lab
 Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics and Governance of Quantum Technology -- in Englisch
 
