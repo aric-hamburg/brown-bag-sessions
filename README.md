@@ -27,8 +27,8 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Weitere geplante Vorträge
 ### Oktober 2025
-- **21.10.2025** - Norman Blanck (mgo Joblokal GmbH): mgo Jobpush - GRU vs. Transformer im Reinforcement Learning
-- **23.10.2025** - Jesse Günzl (HAW Hamburg): mgo Jobpush: Smartes Recruiting mit KI
+- **21.10.2025** - Norman Blanck (mgo Joblokal GmbH): mgo Jobpush - Smartes Recruiting mit KI
+- **23.10.2025** - Jesse Günzl (HAW Hamburg): GRU vs. Transformer im Reinforcement Learning
 - **28.10.2025** - Quantum Technology Session (organised by hqic) / Axel Schönbeck (CEO & Co-Founder Noisy Labs GmbH): Squeezed light for quantum sensing -- in Englisch
 - **30.10.2025** - Tobias Oertel (zukunft zwei): Europa als globaler Hotspot für gemeinwohlorientierte KI
   
