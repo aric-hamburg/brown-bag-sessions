@@ -23,11 +23,10 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-- **21.10.2025** - Norman Blanck (mgo Joblokal GmbH): mgo Jobpush - Smartes Recruiting mit KI
+- **23.10.2025** - Jesse Günzl (HAW Hamburg): GRU vs. Transformer im Reinforcement Learning
 
 ## Weitere geplante Vorträge
 ### Oktober 2025
-- **23.10.2025** - Jesse Günzl (HAW Hamburg): GRU vs. Transformer im Reinforcement Learning
 - **28.10.2025** - Quantum Technology Session (organised by hqic) / Axel Schönbeck (CEO & Co-Founder Noisy Labs GmbH): Squeezed light for quantum sensing -- in Englisch
 - **30.10.2025** - Tobias Oertel (zukunft zwei): Europa als globaler Hotspot für gemeinwohlorientierte KI
   
@@ -43,6 +42,7 @@ Head, Department of Theory and Future of Law, University of Innsbruck and Innsbr
 Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics and Governance of Quantum Technology -- in Englisch
 
 ## Bisherige Vorträge
+- 21.10.2025 - Norman Blanck (mgo Joblokal GmbH): mgo Jobpush - Smartes Recruiting mit KI
 - 16.10.2025 - Kevin Murray (Mimir): KI-Unterstützung in der Notaufnahme
 - 14.10.2025 - Rumyana Al-ubaydi (ARIC/EDIH Hamburg): Public Funding for Deep Tech Projects -- in Englisch
 - 09.10.2025 - Jan Schlicht (Katulu): Kubernetes for AI - SprungInnovation made in Hamburg
