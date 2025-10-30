@@ -35,6 +35,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ### Dezember 2025
 - **04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
+- **11.12.2025** - Daniel Linsukin (Legal Research Manager): EU AI Act - Überblick zu den aktuellen Entwicklungen
 - **16.12.2025** - Quantum Technology Session (organised by hqic) / Prof. Dr. Matthias C. Kettemann, LL.M. (Harvard
 Head, Department of Theory and Future of Law, University of Innsbruck and Innsbruck Quantum Ethics Lab
 Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics and Governance of Quantum Technology -- in English
