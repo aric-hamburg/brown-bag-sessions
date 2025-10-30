@@ -29,6 +29,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ### November 2025
 - **06.11.2025** - Dr. Christian Pichler (digitalbarn): Die DNA der KI-Fabrik
 - **11.11.2025** - Lasse Bremer und Eike Meyer (Zukunftslabor Generative KI): Promptathons als Change-Enabler
+- **13.11.2025** - Dr. Felix Biermann (Leitung der Geschäftsstelle Civic Coding): Ist die Zivilgesellschaft AI-ready?
 - **18.11.2025** - Dr. Cem Özel (Oberarzt Notfallmedizin am Klinikum Leverkusen): Zwischen Hippokrates und DSGVO: Einblicke in die "Schatten-KI" der Notaufnahme
 - **20.11.2025** - Dr. Alex El Gammal (Sacuramed MVZ GmbH): Anwendung von AI in der ambulanten hausärztlichen Versorgung
 
@@ -37,6 +38,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 - **16.12.2025** - Quantum Technology Session (organised by hqic) / Prof. Dr. Matthias C. Kettemann, LL.M. (Harvard
 Head, Department of Theory and Future of Law, University of Innsbruck and Innsbruck Quantum Ethics Lab
 Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics and Governance of Quantum Technology -- in English
+- **18.12.2025** - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
 
 ## Bisherige Vorträge
 - 28.10.2025 - Quantum Technology Session (organised by hqic) / Axel Schönbeck (CEO & Co-Founder Noisy Labs GmbH): Squeezed light for quantum sensing -- in Englisch
