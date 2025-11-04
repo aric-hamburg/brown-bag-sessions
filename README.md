@@ -31,6 +31,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 - **13.11.2025** - Dr. Felix Biermann (Leitung der Geschäftsstelle Civic Coding): Ist die Zivilgesellschaft AI-ready?
 - **18.11.2025** - Dr. Cem Özel (Oberarzt Notfallmedizin am Klinikum Leverkusen): Zwischen Hippokrates und DSGVO: Einblicke in die "Schatten-KI" der Notaufnahme
 - **20.11.2025** - Dr. Alex El Gammal (Sacuramed MVZ GmbH): Anwendung von AI in der ambulanten hausärztlichen Versorgung
+- **25.11.2025** -  Quantum Technology Session (organised by hqic) / Dr. Erik Schulze (Eviden Germany GmbH): Quantum Computing - From Lab to Business -- in English
 
 ### Dezember 2025
 - **04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
