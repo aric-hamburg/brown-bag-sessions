@@ -35,7 +35,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ### Dezember 2025
 - **04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
-- **09.12.2025** - Graydon Pawlik (ARIC e.V.): Human or Human-Centered?
+- **09.12.2025** - Graydon Pawlik (ARIC e.V.): Human or Human-Centered? -- in English
 - **11.12.2025** - Daniel Linsukin (ARIC e.V.): EU AI Act - Überblick zu den aktuellen Entwicklungen
 - **16.12.2025** - Quantum Technology Session (organised by hqic) / Prof. Dr. Matthias C. Kettemann, LL.M. (Harvard
 Head, Department of Theory and Future of Law, University of Innsbruck and Innsbruck Quantum Ethics Lab
