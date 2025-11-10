@@ -23,11 +23,10 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-- **06.11.2025** - Dr. Christian Pichler (digitalbarn): Die DNA der KI-Fabrik
+- **11.11.2025** - Lasse Bremer und Eike Meyer (Zukunftslabor Generative KI): Promptathons als Change-Enabler
 
 ## Weitere geplante Vorträge
 ### November 2025
-- **11.11.2025** - Lasse Bremer und Eike Meyer (Zukunftslabor Generative KI): Promptathons als Change-Enabler
 - **13.11.2025** - Dr. Felix Biermann (Leitung der Geschäftsstelle Civic Coding): Ist die Zivilgesellschaft AI-ready?
 - **18.11.2025** - Dr. Cem Özel (Oberarzt Notfallmedizin am Klinikum Leverkusen): Zwischen Hippokrates und DSGVO: Einblicke in die "Schatten-KI" der Notaufnahme
 - **20.11.2025** - Dr. Alex El Gammal (Sacuramed MVZ GmbH): Anwendung von AI in der ambulanten hausärztlichen Versorgung
@@ -43,6 +42,7 @@ Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics an
 - **18.12.2025** - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
 
 ## Bisherige Vorträge
+- 06.11.2025 - Dr. Christian Pichler (digitalbarn): Die DNA der KI-Fabrik
 - 04.11.2025 - Antonie Casper (Behörde für Stadtentwicklung und Wohnen/Stadtwerkstatt und Digitale Urbane Zwillinge): Digitale Beteiligungsverfahren mit KI auswerten- 
 - 28.10.2025 - Quantum Technology Session (organised by hqic) / Axel Schönbeck (CEO & Co-Founder Noisy Labs GmbH): Squeezed light for quantum sensing -- in Englisch
 - 23.10.2025 - Jesse Günzl (HAW Hamburg): GRU vs. Transformer im Reinforcement Learning
