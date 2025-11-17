@@ -27,7 +27,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Weitere geplante Vorträge
 ### November 2025
-- **20.11.2025** - Dr. Alex El Gammal (Sacuramed MVZ GmbH): Anwendung von AI in der ambulanten hausärztlichen Versorgung
+- **20.11.2025** - Jakob Mertes (ARIC e.V.): Model Context Protocol (MCP)
 - **25.11.2025** - Quantum Technology Session (organised by hqic) / Dr. Erik Schulze (Eviden Germany GmbH): Quantum Computing - From Lab to Business -- in English
 - **27.11.2025** - Benedikt Krieger und Lorenz Hornbostel (Institut für Innovation und Technik (iit)): KI-Sentiment-Index 2025
 
