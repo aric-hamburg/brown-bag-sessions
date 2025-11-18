@@ -23,14 +23,12 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-- **18.11.2025** - Dr. Cem Özel (Oberarzt Notfallmedizin am Klinikum Leverkusen): Zwischen Hippokrates und DSGVO: Einblicke in die "Schatten-KI" der Notaufnahme
+- **20.11.2025** - Jakob Mertes (ARIC e.V.): Model Context Protocol (MCP)
 
 ## Weitere geplante Vorträge
 ### November 2025
-- **20.11.2025** - Jakob Mertes (ARIC e.V.): Model Context Protocol (MCP)
 - **25.11.2025** - Quantum Technology Session (organised by hqic) / Dr. Erik Schulze (Eviden Germany GmbH): Quantum Computing - From Lab to Business -- in English
 - **27.11.2025** - Benedikt Krieger und Lorenz Hornbostel (Institut für Innovation und Technik (iit)): KI-Sentiment-Index 2025
-
 
 ### Dezember 2025
 - **04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
@@ -42,6 +40,8 @@ Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics an
 - **18.12.2025** - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
 
 ## Bisherige Vorträge
+- 18.11.2025 - Dr. Cem Özel (Oberarzt Notfallmedizin am Klinikum Leverkusen): Zwischen Hippokrates und DSGVO: Einblicke in die "Schatten-KI" der Notaufnahme
+- 13.11.2025 - Dr. Felix Biermann (Civic Coding): Ist die Zivilgesellschaft AI-ready?
 - 11.11.2025 - Lasse Bremer und Eike Meyer (Zukunftslabor Generative KI): Promptathons als Change-Enabler
 - 06.11.2025 - Dr. Christian Pichler (digitalbarn): Die DNA der KI-Fabrik
 - 04.11.2025 - Antonie Casper (Behörde für Stadtentwicklung und Wohnen/Stadtwerkstatt und Digitale Urbane Zwillinge): Digitale Beteiligungsverfahren mit KI auswerten- 
