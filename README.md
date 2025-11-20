@@ -1,5 +1,5 @@
 # ARIC Brown Bag Sessions
-Das ARIC (www.aric-hamburg.de) organisiert sogenannte "ARIC Brown Bag Sessions", die jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 auf Teams stattfinden.
+Das ARIC (www.aric-hamburg.de) organisiert seit 2020 sogenannte "ARIC Brown Bag Sessions", die jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 auf Teams stattfinden.
 Expert:innen aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft sprechen zur Mittagszeit zu spannenden Themen und Projekten aus den Bereichen 
 
   - Artificial Intelligence, Data Science, Data Architecture, AI Business Development, etc.
@@ -37,13 +37,14 @@ Head, Department of Theory and Future of Law, University of Innsbruck and Innsbr
 Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics and Governance of Quantum Technology -- in English
 - **18.12.2025** - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
 
-### Wir haben Winterpause
+### Winterpause
 Liebe BrownBag-Community,
 nach der letzten Session am 18.12.2025 machen wir eine Winterpause.
 Am 13.01.2026 geht es dann wie gewohnt um 12 Uhr jeden Dienstag und Donnerstag weiter. 
 Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
 ## Bisherige Vorträge
+### 2025
 - 20.11.2025 - Jakob Mertes (ARIC e.V.): Model Context Protocol (MCP)
 - 18.11.2025 - Dr. Cem Özel (Oberarzt Notfallmedizin am Klinikum Leverkusen): Zwischen Hippokrates und DSGVO: Einblicke in die "Schatten-KI" der Notaufnahme
 - 13.11.2025 - Dr. Felix Biermann (Civic Coding): Ist die Zivilgesellschaft AI-ready?
@@ -109,8 +110,7 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 - 06.02.2025, Dr. Lothar Hotz (HITeC e.V.): Exploiting Large Language Models for the Automated Generation of Constraint Satisfaction Problems
 - 04.02.2025, Jannik Malte Meissner (Neuralfinity) : DeepSeek R1 entschlüsselt
 
-2024
-
+### 2024
 - 05.12.2024, -,-
 - 03.12.2024, -,-
 - 28.11.2024, Carsten Hagemann (Hagemann Consulting): Meilensteine und Entwicklungen der KI – Partywissen
@@ -186,8 +186,7 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 - 01.02.2024, Dr. Florian Vogt (ARIC e.V.): Randbedingungen für den Einsatz von Rezyklaten in Kunststoffverpackungen
 - 30.01.2024, Janis Goesser (Ailio): Big Data gleich Big Chaos?! So meistern wir tausende Pipelines und liefern effiziente Wege zur Datenqualitätssicherung
 
-2023
-
+### 2023
 - 05.12.2023, Jan Schedler (ARIC e.V.): ARIC Halbjahresrückblick
 - 30.11.2023, Jun-Gyu Kim (Fehrmann GmbH): MatGPT – Beschleunigte Legierungsentwicklung durch Kombination von LLMs, maschinellem Lernen und Simulation
 - 28.11.2023, Kim Nadja Jopp (CGI): Psychologische Aspekte bei der Synergie von menschlicher und künstlicher Intelligenz
@@ -260,8 +259,7 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 - 17.01.2023, Yakup Özkardes-Cheung (ContentAItools): Video Content mit KI
 - 12.01.2023, Anna Ehrenberg & Daniel Baumgärtner (Nordakademie): Quantencomputing mit D-Wave. Am Beispiel von Fährroutenoptimierung
 
-2022
-
+### 2022
 - 08.12.2022, Jan Schnedler (ARIC e.V.): Halbjahresrückblick
 - 06.12.2022, Sven Crone (iquast): AI Forecasting in Industry
 - 01.12.2022, Dr. Kristoffer Appel (IFB Hamburg): Fördermöglichkeiten für innovative F&E-Projekte
@@ -339,7 +337,8 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 - 25.01.2022, Markus Iske (Fieldfisher): Arbeitsrechtliche Implikationen beim Einsatz von KI-Systemen
 - 20.01.2022, Javier Canales: You can’t fix what you can’t see. - Discussing the role of Earth Observation in monitoring environmental change. The case of Climate TRACE
 - 18.01.2022, Stephanie von Riegen (HITeC e.V.): Towards a traffic understanding by ontology-based rules
-**********************************************************************************************************************************************
+
+### 2021
 - 09.12.2021, Jan Schnedler (ARIC e.V.): ARIC-Halbjahresrückblick
 - 07.12.2021, Jan Ruhnke (ARIC e.V.): Vorstellung Roboterprojekt AIMEE
 - 02.12.2021, Dr. Nils Haldenwang (Slashwhy): Predictive Quality: Vorhersehen ist besser als Nachsicht
@@ -426,7 +425,8 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 - 26.01.2021, Jochen Halfmann (Handelskammer IPC): KI Standpunktepapier - Patentanalyse des Innovations und Patent Centrums der Handelskammer Hamburg
 - 21.01.2021, Vanessa Cann (KI Bundesverband): KI in Deutschland - Sind wir für die Zukunft gut aufgestellt?
 - 19.01.2021, Jorge Davilla-Chacon (Heldenkombinat): Generative models in the arts: exploring creative possibilities with underspecified objectives
-**********************************************************************************************************************************************
+
+### 2020
 - 15.12.2020, Jan Schnedler (ARIC e.V.): ARIC Brown Bag Jahresrückblick
 - 10.12.2020, Daniel Beutel (ADAP GmbH): Federated Learning with Flower
 - 08.12.2020, Aljoscha Niazi-Shahabi (botario): Intelligente Chatbots für das Recruiting neuer Mitarbeiter
