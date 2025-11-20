@@ -38,11 +38,10 @@ Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics an
 - **18.12.2025** - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
 
 ### Wir haben Winterpause
-Hallo liebe BrownBag-Community,
+Liebe BrownBag-Community,
 nach der letzten Session am 18.12.2025 machen wir eine Winterpause.
 Am 13.01.2026 geht es dann wie gewohnt um 12 Uhr jeden Dienstag und Donnerstag weiter. 
 Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
-Wir freuen uns auf euch!
 
 ## Bisherige Vorträge
 - 20.11.2025 - Jakob Mertes (ARIC e.V.): Model Context Protocol (MCP)
