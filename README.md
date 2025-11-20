@@ -9,7 +9,7 @@ In diesem Repository sind die anstehenden Brown Bag Sessions zu finden und -- so
 
 
 ## Teilnahme
-Über den nachfolgenden Link könnt ihr euch gerne auf Teams dazuschalten (ladet euch dazu die Microsoft Teams App kostenlos herunetr oder nehmt einfach über euren Webbrowser daran teil):
+Über den nachfolgenden Link könnt ihr euch gerne auf Teams dazuschalten (ladet euch dazu die Microsoft Teams App kostenlos herunter oder nehmt einfach über euren Webbrowser teil):
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjFmMDM3MTEtZmVhOS00NDU1LWI5YjYtZWEzYzc1M2ZjODg5%40thread.v2/0?context=%7b%22Tid%22%3a%22b2f09837-8b02-4136-9f46-52ffb6b93f9a%22%2c%22Oid%22%3a%2232f9bc80-2d30-4f6e-84ee-e430022a5855%22%7d
 
@@ -39,8 +39,10 @@ Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics an
 
 ### Winterpause
 Liebe BrownBag-Community,
+
 nach der letzten Session am 18.12.2025 machen wir eine Winterpause.
-Am 13.01.2026 geht es dann wie gewohnt um 12 Uhr jeden Dienstag und Donnerstag weiter. 
+Am 13.01.2026 geht es dann wie gewohnt jeden Dienstag und Donnerstag um 12 Uhr weiter.
+
 Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
 ## Bisherige Vorträge
