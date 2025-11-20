@@ -24,6 +24,8 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 ## Nächster Vortrag:
 - **25.11.2025** - Quantum Technology Session (organised by hqic) / Dr. Erik Schulze (Eviden Germany GmbH): Quantum Computing - From Lab to Business -- in English
 
+  Quantum Computing is on the edge of becoming meaningful for industry-relevant use-cases. Recent developments point towards practical quantum advantage, but many challenges, such as efficient error correction for fault-tolerance and integrating quantum systems into existing infrastructures still remain.
+
 ## Weitere geplante Vorträge
 ### November 2025
 - **27.11.2025** - Benedikt Krieger und Lorenz Hornbostel (Institut für Innovation und Technik (iit)): KI-Sentiment-Index 2025
