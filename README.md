@@ -1,16 +1,15 @@
 # ARIC Brown Bag Sessions
-Das ARIC (www.aric-hamburg.de) organisiert sogenannte "ARIC Brown Bag Sessions", die jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 stattfinden.
+Das ARIC (www.aric-hamburg.de) organisiert sogenannte "ARIC Brown Bag Sessions", die jeden Dienstag und Donnerstag jeweils von 12:00 bis 12:30 auf Teams stattfinden.
 Expert:innen aus Wissenschaft und Forschung, Unternehmen, Politik und Gesellschaft sprechen zur Mittagszeit zu spannenden Themen und Projekten aus den Bereichen 
 
   - Artificial Intelligence, Data Science, Data Architecture, AI Business Development, etc.
   - des Quantentechnologie-Ökosystems (www.hqic.de), Quantencomputing, Quantenkommunikation, etc.
 
-In diesem Repository sind die Agenda für die Vorträge zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
+In diesem Repository sind die anstehenden Brown Bag Sessions zu finden und -- soweit eine Freigabe vorliegt -- auch die Folien und Codes.
 
 
 ## Teilnahme
-Über dann nachfolgenden Link könnt ihr euch gerne dazuschalten 
-(ihr könnt euch dazu die Microsoft Teams App kostenlos herunterladen oder einfach über euren Webbrowser daran teilnehmen):
+Über den nachfolgenden Link könnt ihr euch gerne auf Teams dazuschalten (ladet euch dazu die Microsoft Teams App kostenlos herunetr oder nehmt einfach über euren Webbrowser daran teil):
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjFmMDM3MTEtZmVhOS00NDU1LWI5YjYtZWEzYzc1M2ZjODg5%40thread.v2/0?context=%7b%22Tid%22%3a%22b2f09837-8b02-4136-9f46-52ffb6b93f9a%22%2c%22Oid%22%3a%2232f9bc80-2d30-4f6e-84ee-e430022a5855%22%7d
 
@@ -23,11 +22,10 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-- **20.11.2025** - Jakob Mertes (ARIC e.V.): Model Context Protocol (MCP)
+- **25.11.2025** - Quantum Technology Session (organised by hqic) / Dr. Erik Schulze (Eviden Germany GmbH): Quantum Computing - From Lab to Business -- in English
 
 ## Weitere geplante Vorträge
 ### November 2025
-- **25.11.2025** - Quantum Technology Session (organised by hqic) / Dr. Erik Schulze (Eviden Germany GmbH): Quantum Computing - From Lab to Business -- in English
 - **27.11.2025** - Benedikt Krieger und Lorenz Hornbostel (Institut für Innovation und Technik (iit)): KI-Sentiment-Index 2025
 
 ### Dezember 2025
@@ -39,7 +37,15 @@ Head, Department of Theory and Future of Law, University of Innsbruck and Innsbr
 Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics and Governance of Quantum Technology -- in English
 - **18.12.2025** - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
 
+### Wir haben Winterpause
+Hallo liebe BrownBag-Community,
+nach der letzten Session am 18.12.2025 machen wir eine Winterpause.
+Am 13.01.2026 geht es dann wie gewohnt um 12 Uhr jeden Dienstag und Donnerstag weiter. 
+Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
+Wir freuen uns auf euch!
+
 ## Bisherige Vorträge
+- 20.11.2025 - Jakob Mertes (ARIC e.V.): Model Context Protocol (MCP)
 - 18.11.2025 - Dr. Cem Özel (Oberarzt Notfallmedizin am Klinikum Leverkusen): Zwischen Hippokrates und DSGVO: Einblicke in die "Schatten-KI" der Notaufnahme
 - 13.11.2025 - Dr. Felix Biermann (Civic Coding): Ist die Zivilgesellschaft AI-ready?
 - 11.11.2025 - Lasse Bremer und Eike Meyer (Zukunftslabor Generative KI): Promptathons als Change-Enabler
