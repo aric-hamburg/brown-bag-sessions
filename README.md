@@ -22,14 +22,11 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-- **25.11.2025** - Quantum Technology Session (organised by hqic) / Dr. Erik Schulze (Eviden Germany GmbH): Quantum Computing - From Lab to Business -- in English
-
-  Quantum Computing is on the edge of becoming meaningful for industry-relevant use-cases. Recent developments point towards practical quantum advantage, but many challenges, such as efficient error correction for fault-tolerance and integrating quantum systems into existing infrastructures still remain.
+- **27.11.2025** - Benedikt Krieger und Lorenz Hornbostel (Institut für Innovation und Technik (iit)): KI-Sentiment-Index 2025
+  
+  Wie steht es um die Künstliche Intelligenz in Deutschland? Der neue KI-Sentiment-Index 2025 des Instituts für Innovation und Technik (iit) zeigt, wie rund 700 Expertinnen und Experten die aktuelle Lage einschätzen – von Technologie und Regulierung bis zu Fachkräften und Investitionen.
 
 ## Weitere geplante Vorträge
-### November 2025
-- **27.11.2025** - Benedikt Krieger und Lorenz Hornbostel (Institut für Innovation und Technik (iit)): KI-Sentiment-Index 2025
-
 ### Dezember 2025
 - **04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
 - **09.12.2025** - Graydon Pawlik (ARIC e.V.): Human or Human-Centered? -- in English
@@ -49,6 +46,7 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
 ## Bisherige Vorträge
 ### 2025
+- 25.11.2025 - Quantum Technology Session (organised by hqic) / Dr. Erik Schulze (Eviden Germany GmbH): Quantum Computing - From Lab to Business -- in English
 - 20.11.2025 - Jakob Mertes (ARIC e.V.): Model Context Protocol (MCP)
 - 18.11.2025 - Dr. Cem Özel (Oberarzt Notfallmedizin am Klinikum Leverkusen): Zwischen Hippokrates und DSGVO: Einblicke in die "Schatten-KI" der Notaufnahme
 - 13.11.2025 - Dr. Felix Biermann (Civic Coding): Ist die Zivilgesellschaft AI-ready?
