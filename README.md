@@ -28,6 +28,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Weitere geplante Vorträge
 ### Dezember 2025
+- **02.12.2025** - Ingo Roßdeutscher (Unfuture GmbH): Von Hype zu Impact - Der Weg zur erfolgreichen KI-Transformation
 - **04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
 - **09.12.2025** - Graydon Pawlik (ARIC e.V.): Human or Human-Centered? -- in English
 - **11.12.2025** - Daniel Lisunkin (ARIC e.V.): EU AI Act - Überblick zu den aktuellen Entwicklungen
