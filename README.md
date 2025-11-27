@@ -22,13 +22,12 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-- **27.11.2025** - Benedikt Krieger und Lorenz Hornbostel (Institut für Innovation und Technik (iit)): KI-Sentiment-Index 2025
+**02.12.2025** - Ingo Roßdeutscher (Unfuture GmbH): Von Hype zu Impact - Der Weg zur erfolgreichen KI-Transformation
   
-  Wie steht es um die Künstliche Intelligenz in Deutschland? Der neue KI-Sentiment-Index 2025 des Instituts für Innovation und Technik (iit) zeigt, wie rund 700 Expertinnen und Experten die aktuelle Lage einschätzen – von Technologie und Regulierung bis zu Fachkräften und Investitionen.
+Was unterscheidet Unternehmen, bei denen KI im Alltag ankommt, von denen, die im Pilotmodus stecken bleiben? Wir teilen unsere Learnings aus erfolgreichen Transformationsprojekten: welche Use Cases echten Impact liefern, wie Change Management gelingt und was es braucht, damit Mitarbeitende KI nicht nur nutzen – sondern wollen.
 
 ## Weitere geplante Vorträge
 ### Dezember 2025
-- **02.12.2025** - Ingo Roßdeutscher (Unfuture GmbH): Von Hype zu Impact - Der Weg zur erfolgreichen KI-Transformation
 - **04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
 - **09.12.2025** - Graydon Pawlik (ARIC e.V.): Human or Human-Centered? -- in English
 - **11.12.2025** - Daniel Lisunkin (ARIC e.V.): EU AI Act - Überblick zu den aktuellen Entwicklungen
@@ -47,6 +46,7 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
 ## Bisherige Vorträge
 ### 2025
+- 27.11.2025 - Benedikt Krieger und Lorenz Hornbostel (Institut für Innovation und Technik (iit)): KI-Sentiment-Index 2025
 - 25.11.2025 - Quantum Technology Session (organised by hqic) / Dr. Erik Schulze (Eviden Germany GmbH): Quantum Computing - From Lab to Business -- in English
 - 20.11.2025 - Jakob Mertes (ARIC e.V.): Model Context Protocol (MCP)
 - 18.11.2025 - Dr. Cem Özel (Oberarzt Notfallmedizin am Klinikum Leverkusen): Zwischen Hippokrates und DSGVO: Einblicke in die "Schatten-KI" der Notaufnahme
