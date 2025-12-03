@@ -35,7 +35,7 @@ Head, Department of Theory and Future of Law, University of Innsbruck and Innsbr
 Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics and Governance of Quantum Technology -- in English
 - **18.12.2025** - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
 
-### Winterpause
+### U+26C4 Winterpause U+26C4
 Liebe BrownBag-Community,
 
 nach der letzten Session am 18.12.2025 machen wir eine Winterpause.
