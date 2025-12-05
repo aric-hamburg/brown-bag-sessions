@@ -22,13 +22,12 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-**04.12.2025** - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
+**09.12.2025** - Graydon Pawlik (ARIC e.V.): Human or Human-Centered? -- in English
   
-Der Vortrag beleuchtet den Unterschied zwischen klassischen Bayeschen Netzen – die seit Jahrzehnten als transparente, probabilistische Werkzeuge in der medizinischen Diagnostik dienen – und modernen Large Language Models, die durch riesige Datenmengen und Mustererkennung beeindruckende Leistungen erbringen, jedoch weniger erklärbar sind. Anhand von Beispielen wird gezeigt, wo Bayes-Netze weiterhin ihre Stärke haben, wo LLMs neue Chancen eröffnen und wie eine Kombination beider Ansätze die Zukunft der medizinischen Entscheidungsunterstützung prägen könnte.
+As AI systems grow increasingly capable, they occupy spaces once reserved for human abilities—from social interaction to core aspects of professional work. This raises a critical question: where and how do we draw lines between desirable and undesirable uses of technology? This brown bag examines value creation through the distinction between enabling and disabling technologies, exploring how deliberate choices can shape a positive future.
 
 ## Weitere geplante Vorträge
 ### Dezember 2025
-- **09.12.2025** - Graydon Pawlik (ARIC e.V.): Human or Human-Centered? -- in English
 - **11.12.2025** - Daniel Lisunkin (ARIC e.V.): EU AI Act - Überblick zu den aktuellen Entwicklungen
 - **16.12.2025** - Quantum Technology Session (organised by hqic) / Prof. Dr. Matthias C. Kettemann, LL.M. (Harvard
 Head, Department of Theory and Future of Law, University of Innsbruck and Innsbruck Quantum Ethics Lab
@@ -45,6 +44,7 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
 ## Bisherige Vorträge
 ### 2025
+- 04.12.2025 - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
 - 02.12.2025 - Ingo Roßdeutscher (Unfuture GmbH): Von Hype zu Impact - Der Weg zur erfolgreichen KI-Transformation
 - 27.11.2025 - Benedikt Krieger und Lorenz Hornbostel (Institut für Innovation und Technik (iit)): KI-Sentiment-Index 2025
 - 25.11.2025 - Quantum Technology Session (organised by hqic) / Dr. Erik Schulze (Eviden Germany GmbH): Quantum Computing - From Lab to Business -- in English
