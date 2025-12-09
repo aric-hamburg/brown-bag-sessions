@@ -23,10 +23,10 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag:
 **11.12.2025** - Daniel Lisunkin (ARIC e.V.): EU AI Act - Überblick zu den aktuellen Entwicklungen
-  
-    - Grundlagen zur Regelungswirkung des EU AI-Acts
-    - Aktueller Stand bezüglich der Implementierung und "Scharfstellung" der Regelungen
-    - Neueste Politische Entwicklungen bezüglich einer möglichen Verzögerung der vollständigen Implementierung
+
+- Grundlagen zur Regelungswirkung des EU AI-Acts
+- Aktueller Stand bezüglich der Implementierung und "Scharfstellung" der Regelungen
+- Neueste Politische Entwicklungen bezüglich einer möglichen Verzögerung der vollständigen Implementierung
 
 ## Weitere geplante Vorträge
 ### Dezember 2025
