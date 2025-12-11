@@ -22,17 +22,14 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-**11.12.2025** - Daniel Lisunkin (ARIC e.V.): EU AI Act - Überblick zu den aktuellen Entwicklungen
+**16.12.2025** - Quantum Technology Session (organised by hqic) / Prof. Dr. Matthias C. Kettemann, LL.M. (Harvard
+Head, Department of Theory and Future of Law, University of Innsbruck and Innsbruck Quantum Ethics Lab
+Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics and Governance of Quantum Technology -- in English
 
-- Grundlagen zur Regelungswirkung des EU AI-Acts
-- Aktueller Stand bezüglich der Implementierung und "Scharfstellung" der Regelungen
-- Neueste Politische Entwicklungen bezüglich einer möglichen Verzögerung der vollständigen Implementierung
+We will explore how quantum technologies (computing, communication, sensing) raise new ethical challenges and societal risks alongside opportunities at the example of UNESCO's science ethics commission's 2025 report on the ethics of quantum computing. We will present different governance approaches, from international coordination and standard-setting to national regulation and industry self-regulation, highlighting their strengths and limitations. Finally, we will address unresolved problems, including questions of global equity and intergenerational responsibility. 
 
 ## Weitere geplante Vorträge
 ### Dezember 2025
-- **16.12.2025** - Quantum Technology Session (organised by hqic) / Prof. Dr. Matthias C. Kettemann, LL.M. (Harvard
-Head, Department of Theory and Future of Law, University of Innsbruck and Innsbruck Quantum Ethics Lab
-Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics and Governance of Quantum Technology -- in English
 - **18.12.2025** - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
 
 ### ☃️ Winterpause ☃️
@@ -45,6 +42,7 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
 ## Bisherige Vorträge
 ### 2025
+- 11.12.2025 - Daniel Lisunkin (ARIC e.V.): EU AI Act - Überblick zu den aktuellen Entwicklungen
 - 09.12.2025 - Graydon Pawlik (ARIC e.V.): Human or Human-Centered? -- in English
 - 04.12.2025 - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
 - 02.12.2025 - Ingo Roßdeutscher (Unfuture GmbH): Von Hype zu Impact - Der Weg zur erfolgreichen KI-Transformation
