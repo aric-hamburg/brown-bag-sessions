@@ -40,6 +40,13 @@ Am 13.01.2026 geht es dann wie gewohnt jeden Dienstag und Donnerstag um 12 Uhr w
 
 Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
+### Januar 2026
+- **22.01.2026** - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
+
+### Februar 2026
+- **10.02.2026** - Julian Fenten (KI.NRW) und Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
+- **17.02.2026** - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
+
 ## Bisherige Vorträge
 ### 2025
 - 11.12.2025 - Daniel Lisunkin (ARIC e.V.): EU AI Act - Überblick zu den aktuellen Entwicklungen
