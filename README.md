@@ -22,16 +22,11 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag:
-**16.12.2025** - Quantum Technology Session (organised by hqic) / Prof. Dr. Matthias C. Kettemann, LL.M. (Harvard
-Head, Department of Theory and Future of Law, University of Innsbruck and Innsbruck Quantum Ethics Lab
-Research Program Head, Leibniz Institute for Media Research, Hamburg): Ethics and Governance of Quantum Technology -- in English
+**18.12.2025** - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
 
-We will explore how quantum technologies (computing, communication, sensing) raise new ethical challenges and societal risks alongside opportunities at the example of UNESCO's science ethics commission's 2025 report on the ethics of quantum computing. We will present different governance approaches, from international coordination and standard-setting to national regulation and industry self-regulation, highlighting their strengths and limitations. Finally, we will address unresolved problems, including questions of global equity and intergenerational responsibility. 
+In diesem Vortrag werden die zentralen Learnings aus vier Jahren intensiver KI-Startupförderung in Norddeutschland im Rahmen des AI.STARTUP.HUBs vorgestellt. Es wird aufgezeigt, welche Herausforderungen Gründer*innen meistern mussten, welche Unterstützungsmaßnahmen besonders wirksam waren und wie sich der Förderungsprozess kontinuierlich weiterentwickeln konnte. Der Vortrag bietet wertvolle Einblicke in die praktische Umsetzung von Förderprogrammen und die Erfolgsfaktoren für nachhaltige Gründungsperspektiven.
 
 ## Weitere geplante Vorträge
-### Dezember 2025
-- **18.12.2025** - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
-
 ### ☃️ Winterpause ☃️
 Liebe BrownBag-Community,
 
