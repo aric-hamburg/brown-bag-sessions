@@ -46,6 +46,7 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
 ## Bisherige Vorträge
 ### 2025
+- 15.12.2025 - Univ.-Prof. Mag. Dr. Matthias C. Kettemann, LL.M. (Harvard) - Universität Innsbruck: Ethics and Governance of Quantum Technology
 - 11.12.2025 - Daniel Lisunkin (ARIC e.V.): EU AI Act - Überblick zu den aktuellen Entwicklungen
 - 09.12.2025 - Graydon Pawlik (ARIC e.V.): Human or Human-Centered? -- in English
 - 04.12.2025 - Dr. Sohrab Shojaei Khatouni (Nosc.AI): Bayes oder Bot? KI neu gedacht in der Diagnostik
