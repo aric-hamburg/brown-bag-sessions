@@ -31,11 +31,12 @@ In diesem Vortrag werden die zentralen Learnings aus vier Jahren intensiver KI-S
 Liebe BrownBag-Community,
 
 nach der letzten Session am 18.12.2025 machen wir eine Winterpause.
-Am 13.01.2026 geht es dann wie gewohnt jeden Dienstag und Donnerstag um 12 Uhr weiter.
+Am 15.01.2026 geht es dann wie gewohnt jeden Dienstag und Donnerstag um 12 Uhr weiter.
 
 Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
 ### Januar 2026
+- **15.01.2026** - Matthias Buchhorn-Roth (AI and Cloud Engineer at Sopra Steria): Graph AI vs LLMs – From Language to Logic
 - **22.01.2026** - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
 
 ### Februar 2026
