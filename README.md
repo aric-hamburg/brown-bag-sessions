@@ -20,14 +20,7 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir unsere Veranstaltungen stetig verbessern können. Vielen Dank im Voraus für Deine Unterstützung! 
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
-
-## Nächster Vortrag:
-**18.12.2025** - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
-
-In diesem Vortrag werden die zentralen Learnings aus vier Jahren intensiver KI-Startupförderung in Norddeutschland im Rahmen des AI.STARTUP.HUBs vorgestellt. Es wird aufgezeigt, welche Herausforderungen Gründer*innen meistern mussten, welche Unterstützungsmaßnahmen besonders wirksam waren und wie sich der Förderungsprozess kontinuierlich weiterentwickeln konnte. Der Vortrag bietet wertvolle Einblicke in die praktische Umsetzung von Förderprogrammen und die Erfolgsfaktoren für nachhaltige Gründungsperspektiven.
-
-## Weitere geplante Vorträge
-### ☃️ Winterpause ☃️
+## ☃️ Winterpause ☃️
 Liebe BrownBag-Community,
 
 nach der letzten Session am 18.12.2025 machen wir eine Winterpause.
@@ -35,8 +28,13 @@ Am 15.01.2026 geht es dann wie gewohnt jeden Dienstag und Donnerstag um 12 Uhr w
 
 Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
+## Nächster Vortrag:
+**15.01.2026** - Matthias Buchhorn-Roth (AI and Cloud Engineer at Sopra Steria): Graph AI vs LLMs – From Language to Logic
+
+'I will explore why standard LLMs and vector search fall short in complex regulatory environments where relationships have consequences. I will demonstrate how to transition from "PDF Hell" to structured Knowledge Graphs using Neo4j, enabling accurate, auditable answers for government use cases. Attendees will learn how to implement a hybrid architecture combining Azure AI with sovereign, air-gapped data layers, and discover practical techniques for preserving document hierarchy using GraphRAG and NeoDash.
+
+## Weitere geplante Vorträge
 ### Januar 2026
-- **15.01.2026** - Matthias Buchhorn-Roth (AI and Cloud Engineer at Sopra Steria): Graph AI vs LLMs – From Language to Logic
 - **22.01.2026** - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
 
 ### Februar 2026
