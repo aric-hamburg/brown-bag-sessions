@@ -44,6 +44,7 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
 ## Bisherige Vorträge
 ### 2025
+- 18.12.2025 - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
 - 16.12.2025 - Univ.-Prof. Mag. Dr. Matthias C. Kettemann, LL.M. (Harvard) - Universität Innsbruck: Ethics and Governance of Quantum Technology
 - 11.12.2025 - Daniel Lisunkin (ARIC e.V.): EU AI Act - Überblick zu den aktuellen Entwicklungen
 - 09.12.2025 - Graydon Pawlik (ARIC e.V.): Human or Human-Centered? -- in English
