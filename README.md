@@ -35,9 +35,11 @@ Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
 
 ## Weitere geplante Vorträge
 ### Januar 2026
+- **20.01.2026** - Philipp Maier (Senior Manager CIO Advisory, Sopra Steria): Return on AI - GenAI-Impact realistisch messen
 - **22.01.2026** - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
 
 ### Februar 2026
+- **05.02.2026** - Marcus Soll (NORDAKADEMIE | DLC): Unproduktive generative KI?
 - **10.02.2026** - Julian Fenten (KI.NRW) und Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
 - **12.02.2026** - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant: Threat Modelling Überblick und Demo
 - **17.02.2026** - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
