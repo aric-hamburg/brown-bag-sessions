@@ -20,14 +20,6 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir unsere Veranstaltungen stetig verbessern können. Vielen Dank im Voraus für Deine Unterstützung! 
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
-## ☃️ Winterpause ☃️
-Liebe BrownBag-Community,
-
-nach der letzten Session am 18.12.2025 machen wir eine Winterpause.
-Am 15.01.2026 geht es dann wie gewohnt jeden Dienstag und Donnerstag um 12 Uhr weiter.
-
-Bis dahin wünschen wir frohe Feiertage und einen guten Rutsch ins neue Jahr!
-
 ## Nächster Vortrag:
 **15.01.2026** - Matthias Buchhorn-Roth (AI and Cloud Engineer at Sopra Steria): Graph AI vs LLMs – From Language to Logic
 
