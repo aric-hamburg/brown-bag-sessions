@@ -29,6 +29,7 @@ Generative AI verändert Arbeitsweisen - doch wie misst man ihren tatsächlichen
 ### Januar 2026
 - **22.01.2026** - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
 - **27.01.2026** - Quantum Technology Session (organised by hqic) / Dr. Matthias Grob (Patentanwalt, Pavant Patentanwälte PartGmbB):  Patents and Quantum Technology -- in English
+- **29.01.2026** - Werner Bogula (Head of AI, Pinktum): AI und Education
 
 ### Februar 2026
 - **05.02.2026** - Marcus Soll (NORDAKADEMIE | DLC): Unproduktive generative KI?
