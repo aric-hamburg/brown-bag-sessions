@@ -21,13 +21,12 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag:
-**20.01.2026** - Philipp Maier (Senior Manager CIO Advisory, Sopra Steria): Return on AI - GenAI-Impact realistisch messen
+**22.01.2026** - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
 
-Generative AI verändert Arbeitsweisen - doch wie misst man ihren tatsächlichen Nutzen? Der Impuls zeigt einen praxiserprobten Ansatz, mit dem Organisationen Effizienz‑, Qualitäts‑ und Akzeptanzeffekte von GenAI systematisch erfassen können. Anhand realer Projektbeispiele werden Messlogiken, Erfolgsfaktoren und typische Fallstricke greifbar gemacht.
+GenAI ist in aller Munde: Als Zukunftstechnologie, als Next Big Thing, in Gestalt enttäuschter Erwartungen, oder als Gesellschaftsdystopie. Die Session wird diese Wahrnehmungen sortieren und von dort aus aufzeigen, wo der Einsatz Generativer KI erhebliche ethische Herausforderungen mit sich bringt (und wo vermutlich eher nicht).
 
 ## Weitere geplante Vorträge
 ### Januar 2026
-- **22.01.2026** - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
 - **27.01.2026** - Quantum Technology Session (organised by hqic) / Dr. Matthias Grob (Patentanwalt, Pavant Patentanwälte PartGmbB):  Patents and Quantum Technology -- in English
 - **29.01.2026** - Werner Bogula (Head of AI, Pinktum): AI und Education
 
@@ -39,7 +38,8 @@ Generative AI verändert Arbeitsweisen - doch wie misst man ihren tatsächlichen
 
 ## Bisherige Vorträge
 ### 2026
-- **15.01.2026** - Matthias Buchhorn-Roth (AI and Cloud Engineer at Sopra Steria): Graph AI vs LLMs – From Language to Logic
+- 20.01.2026 - Philipp Maier (Senior Manager CIO Advisory, Sopra Steria): Return on AI - GenAI-Impact realistisch messen
+- 15.01.2026 - Matthias Buchhorn-Roth (AI and Cloud Engineer at Sopra Steria): Graph AI vs LLMs – From Language to Logic
 
 ### 2025
 - 18.12.2025 - Laura Tönnsen (ARIC e.V.): 4 Jahre KI-Startup Förderung - Unsere Learnings
