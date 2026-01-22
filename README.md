@@ -37,7 +37,7 @@ Patent applications are being filed in the field of quantum technology in an inc
 - **17.02.2026** - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
 
 ### März 2026 - Themenmonat zum internationalen Frauentag
-Anlässlich des internationalen Frauentags am 08.03. begrüßen wir im März ausschließlich weibliche Speakerinnen.
+Anlässlich des internationalen Frauentags am 08.03. begrüßen wir im März ausschließlich weibliche Speakerinnen. Mehr Infos folgen...
 
 ## Bisherige Vorträge
 ### 2026
