@@ -21,13 +21,10 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag:
-**22.01.2026** - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
-
-GenAI ist in aller Munde: Als Zukunftstechnologie, als Next Big Thing, in Gestalt enttäuschter Erwartungen, oder als Gesellschaftsdystopie. Die Session wird diese Wahrnehmungen sortieren und von dort aus aufzeigen, wo der Einsatz Generativer KI erhebliche ethische Herausforderungen mit sich bringt (und wo vermutlich eher nicht).
+**27.01.2026** - Quantum Technology Session (organised by hqic) / Dr. Matthias Grob (Patentanwalt, Pavant Patentanwälte PartGmbB):  Patents and Quantum Technology -- in English
 
 ## Weitere geplante Vorträge
 ### Januar 2026
-- **27.01.2026** - Quantum Technology Session (organised by hqic) / Dr. Matthias Grob (Patentanwalt, Pavant Patentanwälte PartGmbB):  Patents and Quantum Technology -- in English
 - **29.01.2026** - Werner Bogula (Head of AI, Pinktum): AI und Education
 
 ### Februar 2026
@@ -37,8 +34,12 @@ GenAI ist in aller Munde: Als Zukunftstechnologie, als Next Big Thing, in Gestal
 - **12.02.2026** - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant: Threat Modelling Überblick und Demo
 - **17.02.2026** - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
 
+### März 2026 - Themenmonat zum internationalen Frauentag
+Anlässlich des internationalen Frauentags am 08.03. begrüßen wir im März ausschließlich weibliche Speakerinnen.
+
 ## Bisherige Vorträge
 ### 2026
+- 22.01.2026 - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
 - 20.01.2026 - Philipp Maier (Senior Manager CIO Advisory, Sopra Steria): Return on AI - GenAI-Impact realistisch messen
 - 15.01.2026 - Matthias Buchhorn-Roth (AI and Cloud Engineer at Sopra Steria): Graph AI vs LLMs – From Language to Logic
 
