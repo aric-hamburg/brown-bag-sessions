@@ -36,7 +36,7 @@ Patent applications are being filed in the field of quantum technology in an inc
 - **12.02.2026** - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant: Threat Modelling Überblick und Demo
 - **17.02.2026** - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
 
-### März 2026 - Themenmonat zum internationalen Frauentag
+### März 2026 - Themenmonat zum internationalen Frauentag ♀️
 Anlässlich des internationalen Frauentags am 08.03. begrüßen wir im März ausschließlich weibliche Speakerinnen. Mehr Infos folgen...
 
 ## Bisherige Vorträge
