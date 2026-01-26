@@ -35,6 +35,7 @@ Patent applications are being filed in the field of quantum technology in an inc
 - **10.02.2026** - Julian Fenten (KI.NRW) und Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
 - **12.02.2026** - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant: Threat Modelling Überblick und Demo
 - **17.02.2026** - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
+- **19.02.2026** - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
 
 ## Bisherige Vorträge
 ### 2026
