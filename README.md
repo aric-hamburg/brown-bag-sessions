@@ -20,7 +20,7 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://edih-hamburg.de/) mit Unt
 Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir unsere Veranstaltungen stetig verbessern können. Vielen Dank im Voraus für Deine Unterstützung! 
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
-## Nächster Vortrag:
+## Nächster Vortrag
 **27.01.2026** - Quantum Technology Session (organised by hqic) / Dr. Matthias Grob (Patentanwalt, Pavant Patentanwälte PartGmbB):  Patents and Quantum Technology -- in English
 
 Patent applications are being filed in the field of quantum technology in an increasing number. The talk provides insights into the patent system with a strong connection to quantum technology and illustrates motivations for patent applicants and holders. In addition, the patentability of quantum technology is discussed.
