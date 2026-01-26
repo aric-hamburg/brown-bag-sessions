@@ -30,7 +30,7 @@ Patent applications are being filed in the field of quantum technology in an inc
 - **29.01.2026** - Werner Bogula (Head of AI, Pinktum): AI und Education
 
 ### Februar 2026
-- **03.02.2026** - Ben Arnon (Co-founder of Novathes): Voice AI in 2026 - What Works, What Breaks -- in English
+- **03.02.2026** - BBen Arnon and Virendra Bhalothia (Co-founders of Kolsetu): Voice AI in 2026 - What Works, What Breaks -- in English
 - **05.02.2026** - Marcus Soll (NORDAKADEMIE | DLC): Unproduktive generative KI?
 - **10.02.2026** - Julian Fenten (KI.NRW) und Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
 - **12.02.2026** - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant: Threat Modelling Überblick und Demo
