@@ -21,13 +21,12 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**29.01.2026** - Werner Bogula (Head of AI, Pinktum): AI und Education
+**03.02.2026** - Ben Arnon and Virendra Bhalothia (Co-founders of Kolsetu): Voice AI in 2026 - What Works, What Breaks -- in English
 
-Werner Bogula, Head of AI beim Erwachsenenbildungsanbieter Pinktum geht der Frage nach, wie KI als persönlicher Fortbildungscoach langfristig den Lernerfolg steigern kann, statt durch kurzfristiges Outsourcen des Denkens das eigene Lernen zu schwächen. 
+Voice AI looks simple in demos-but real-world systems fail for very specific reasons. In this session, we break down where voice AI actually works in production and where it breaks. We’ll compare real-time conversational models with more robust, task-oriented workflows, share lessons from enterprise deployments, and explain the technical trade-offs that determine success or failure.
 
 ## Weitere geplante Vorträge
 ### Februar 2026
-- **03.02.2026** - Ben Arnon and Virendra Bhalothia (Co-founders of Kolsetu): Voice AI in 2026 - What Works, What Breaks -- in English
 - **05.02.2026** - Marcus Soll (NORDAKADEMIE | DLC): Unproduktive generative KI?
 - **10.02.2026** - Julian Fenten (KI.NRW) und Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
 - **12.02.2026** - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant: Threat Modelling Überblick und Demo
@@ -36,6 +35,7 @@ Werner Bogula, Head of AI beim Erwachsenenbildungsanbieter Pinktum geht der Frag
 
 ## Bisherige Vorträge
 ### 2026
+- 29.01.2026 - Werner Bogula (Head of AI, Pinktum): AI und Education
 - 27.01.2026 - Quantum Technology Session (organised by hqic) / Dr. Matthias Grob (Patentanwalt, Pavant Patentanwälte PartGmbB):  Patents and Quantum Technology -- in English
 - 22.01.2026 - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
 - 20.01.2026 - Philipp Maier (Senior Manager CIO Advisory, Sopra Steria): Return on AI - GenAI-Impact realistisch messen
