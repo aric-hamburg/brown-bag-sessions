@@ -34,7 +34,7 @@ Voice AI looks simple in demos-but real-world systems fail for very specific rea
 - **19.02.2026** - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
 
 ### März 2026 - Wir feiern den internationalen Frauentag ♀️
-Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI erhöhen. Aus diesem Grund begrüßen wir in diesem Monat ausschließlich weibliche Speakerinnen. Freut euch auf eine Reihe an interessanten Themen!
+Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI erhöhen. Aus diesem Grund möchten wir interessanten Speakerinnen bewusst eine Bühne bieten.
 
 ## Bisherige Vorträge
 ### 2026
