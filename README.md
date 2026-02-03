@@ -21,7 +21,8 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**Cancelled**
+**Krankheitsbedingt abgesagt**
+
 ~**03.02.2026** - Ben Arnon and Virendra Bhalothia (Co-founders of Kolsetu): Voice AI in 2026 - What Works, What Breaks -- in English~
 
 Voice AI looks simple in demos-but real-world systems fail for very specific reasons. In this session, we break down where voice AI actually works in production and where it breaks. We’ll compare real-time conversational models with more robust, task-oriented workflows, share lessons from enterprise deployments, and explain the technical trade-offs that determine success or failure.
