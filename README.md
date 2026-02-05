@@ -42,7 +42,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
-- 03.02.2026: Krankheitsbedingt ausgefallen ~Ben Arnon and Virendra Bhalothia (Co-founders of Kolsetu): Voice AI in 2026 - What Works, What Breaks -- in English~
+- 03.02.2026 - Krankheitsbedingt ausgefallen ~Ben Arnon and Virendra Bhalothia (Co-founders of Kolsetu): Voice AI in 2026 - What Works, What Breaks -- in English~
 - 29.01.2026 - Werner Bogula (Head of AI, Pinktum): AI und Education
 - 27.01.2026 - Quantum Technology Session (organised by hqic) / Dr. Matthias Grob (Patentanwalt, Pavant Patentanwälte PartGmbB):  Patents and Quantum Technology -- in English
 - 22.01.2026 - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
