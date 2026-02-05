@@ -21,13 +21,12 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**05.02.2026** - Marcus Soll (NORDAKADEMIE | DLC): Unproduktive generative KI?
+**10.02.2026** - Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
 
-"KI wird viele Jobs überflüssig machen" -- "Arbeitnehmer berichten von mehr Aufwand durch KI". Viel unterschiedlicher können die Überschriften nicht sein, die man über generative KI liest. Was bedeutet (un)produktive KI? Was könnten hier die Ursachen sein?
+Mit dem AI.Lab lassen sich AI-Workflows aus wiederverwendbaren KI-Modulen in einer No Code Umgebung erstellen. In diesem Vortrag zeigen wir anhand von praktischen Beispielen die Anwendung von SmartRAG, Agentic AI und Long Term Memory.
 
 ## Weitere geplante Vorträge
 ### Februar 2026
-- **10.02.2026** - Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
 - **12.02.2026** - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant - Threat Modelling Überblick und Demo
 - **17.02.2026** - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
 - **19.02.2026** - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
@@ -42,7 +41,8 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
-- 03.02.2026 - Krankheitsbedingt ausgefallen ~Ben Arnon and Virendra Bhalothia (Co-founders of Kolsetu): Voice AI in 2026 - What Works, What Breaks -- in English~
+- 05.02.2026 - Marcus Soll (NORDAKADEMIE | DLC): Unproduktive generative KI?
+- 03.02.2026 - Krankheitsbedingt ausgefallen
 - 29.01.2026 - Werner Bogula (Head of AI, Pinktum): AI und Education
 - 27.01.2026 - Quantum Technology Session (organised by hqic) / Dr. Matthias Grob (Patentanwalt, Pavant Patentanwälte PartGmbB):  Patents and Quantum Technology -- in English
 - 22.01.2026 - Dr. Jan-Philipp Kruse (Research Associate - Forschungsgruppe Ethik in der Informationstechnologie - Universität Hamburg): Hype, Hope und Statistik: GenAI aus ethischer Perspektive
