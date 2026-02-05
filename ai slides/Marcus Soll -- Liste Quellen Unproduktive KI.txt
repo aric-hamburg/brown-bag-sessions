@@ -1,0 +1,115 @@
+Autor: Marcus Soll, 2026
+Basierend auf dem Vortrag "Unproduktive generative KI?" bei der ARIC Brown Bag Session am 05.02.2026
+
+# Einleitung
+
+## Versprechen
+
+Gartner, Inc. (2025). Gartner Says Worldwide AI Spending Will Total $1.5 Trillion in 2025. Gartner, Inc. https://www.gartner.com/en/newsroom/press-releases/2025-09-17-gartner-says-worldwide-ai-spending-will-total-1-point-5-trillion-in-2025
+
+Selassie, B. (2025). KI-Schockwellen: Die wahren Disruptoren jenseits des Produktivitätsbooms. Gartner. https://www.gartner.de/de/artikel/ki-schockwellen
+
+Temkin, M. (2026). McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over. TechCrunch. https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/
+
+## Realität
+
+Bearne, S. (2025). ‘I’m being paid to fix issues caused by AI’. British Broadcasting Corporation. https://www.bbc.com/news/articles/cyvm1dyp9v2o
+
+Becker, J., Rush, N., Barnes, E., & Rein, D. (2025). Measuring the impact of early-2025 ai on experienced open-source developer productivity. arXiv. https://doi.org/10.48550/ARXIV.2507.09089
+
+Challapally, A., Pease, C., Raskar, R., & Chari, P. (2025). The GenAI Divide—State of AI in Business 2025. MIT NANDA. https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai_report_2025.pdf
+
+Edelman, B. G., Ngwe, D., & Peng, S. (2023). Measuring the impact of ai on information worker productivity. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4648686
+
+Elliott, O. & BBC Responsible AI Team. (2025). Representation of BBC News content in AI Assistants. British Broadcasting Corporation. https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf
+
+Finance Sector Union. (2025). WIN: CBA backflips on customer service job cuts, admits they got it wrong. https://www.fsunion.org.au/Hub/Content/News_and_publications/Member_updates/2025/WIN-CBA-backflips-on-customer-service-job-cuts.aspx
+
+Humlum, A., & Vestergaard, E. (2025). Large language models, small labor market effects. https://doi.org/10.2139/ssrn.5219933
+
+Linden, M. (2025). KI-Müll kostet Unternehmen Millionen. Golem. https://www.golem.de/news/produktivitaetssabotage-ki-muell-kostet-unternehmen-millionen-2509-200417.html
+
+Mazeika, M., Gatti, A., Menghini, C., Sehwag, U. M., Singhal, S., Orlovskiy, Y., Basart, S., Sharma, M., Peskoff, D., Lau, E., Lim, J., Carroll, L., Blair, A., Sivakumar, V., Basu, S., Kenstler, B., Ma, Y., Michael, J., Li, X., … Hendrycks, D. (2025). Remote labor index: Measuring ai automation of remote work. arXiv. https://doi.org/10.48550/ARXIV.2510.26787
+
+Stenberg, D. (2025, July 14). Death by a thousand slops. Daniel.Haxx.Se. https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/
+
+Stenberg, D. (2026, January 26). The end of the curl bug-bounty. Daniel.Haxx.Se. https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/
+
+Weber, T., Brandmaier, M., Schmidt, A., & Mayer, S. (2024). Significant productivity gains through programming with large language models. Proceedings of the ACM on Human-Computer Interaction, 8(EICS), 1–29. https://doi.org/10.1145/3661145
+
+
+# Thesen
+
+## These 1: (Dauerhafte?) Limitationen KI 
+
+Betley, J., Warncke, N., Sztyber-Betley, A., Tan, D., Bao, X., Soto, M., Srivastava, M., Labenz, N., & Evans, O. (2026). Training large language models on narrow tasks can lead to broad misalignment. Nature, 649(8097), 584–589. https://doi.org/10.1038/s41586-025-09937-5
+
+Huang, L., Yu, W., Ma, W., Zhong, W., Feng, Z., Wang, H., Chen, Q., Peng, W., Feng, X., Qin, B., & Liu, T. (2025). A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions. ACM Transactions on Information Systems, 43(2), 1–55. https://doi.org/10.1145/3703155
+
+Kandpal, N., Deng, H., Roberts, A., Wallace, E., & Raffel, C. (2023). Large language models struggle to learn long-tail knowledge. Proceedings of the 40th International Conference on Machine Learning, 15696–15707. https://proceedings.mlr.press/v202/kandpal23a.html
+
+McCloskey, M., & Cohen, N. J. (1989). Catastrophic interference in connectionist networks: The sequential learning problem. In Psychology of Learning and Motivation (Vol. 24, pp. 109–165). Elsevier. https://doi.org/10.1016/S0079-7421(08)60536-8
+
+Ord, T. (2025). Is there a half-life for the success rates of AI agents? arXiv. https://doi.org/10.48550/ARXIV.2505.05115
+
+Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. Nature, 631(8022), 755–759. https://doi.org/10.1038/s41586-024-07566-y
+
+Smith, A. L., Greaves, F., & Panch, T. (2023). Hallucination or confabulation? Neuroanatomy as metaphor in large language models. PLOS Digital Health, 2(11), e0000388. https://doi.org/10.1371/journal.pdig.0000388
+
+Zheng, J., Qiu, S., Shi, C., & Ma, Q. (2025). Towards lifelong learning of large language models: A survey. ACM Computing Surveys, 57(8), 1–35. https://doi.org/10.1145/3716629
+
+
+## These 2: Überschätzung der Produktivität
+
+Becker, J., Rush, N., Barnes, E., & Rein, D. (2025). Measuring the impact of early-2025 ai on experienced open-source developer productivity. arXiv. https://doi.org/10.48550/ARXIV.2507.09089
+
+Fernandes, D., Villa, S., Nicholls, S., Haavisto, O., Buschek, D., Schmidt, A., Kosch, T., Shen, C., & Welsch, R. (2026). AI makes you smarter but none the wiser: The disconnect between performance and metacognition. Computers in Human Behavior, 175, 108779. https://doi.org/10.1016/j.chb.2025.108779
+
+## These 3: Weniger Fähigkeiten
+
+### Anekdote
+
+Koebler, J. (2025, June 2). Teachers are not ok. 404 Media. https://www.404media.co/teachers-are-not-ok-ai-chatgpt/
+
+### Evidenz
+
+Correction for Bastani et al., Generative AI without guardrails can harm learning: Evidence from high school mathematics. (2025). Proceedings of the National Academy of Sciences, 122(34), e2518204122. https://doi.org/10.1073/pnas.2518204122
+
+Darvishi, A., Khosravi, H., Sadiq, S., Gašević, D., & Siemens, G. (2024). Impact of AI assistance on student agency. Computers & Education, 210, 104967. https://doi.org/10.1016/j.compedu.2023.104967
+
+Fan, Y., Tang, L., Le, H., Shen, K., Tan, S., Zhao, Y., Shen, Y., Li, X., & Gašević, D. (2025). Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance. British Journal of Educational Technology, 56(2), 489–530. https://doi.org/10.1111/bjet.13544
+
+Gerlich, M. (2025). Ai tools in society: Impacts on cognitive offloading and the future of critical thinking. Societies, 15(1), 6. https://doi.org/10.3390/soc15010006
+
+Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I., & Maes, P. (2025). Your brain on chatgpt: Accumulation of cognitive debt when using an ai assistant for essay writing task. arXiv. https://doi.org/10.48550/ARXIV.2506.08872
+
+Shen, J. H., & Tamkin, A. (2026). How ai impacts skill formation. arXiv. https://doi.org/10.48550/ARXIV.2601.20245
+
+Stadler, M., Bannert, M., & Sailer, M. (2024). Cognitive ease at a cost: LLMs reduce mental effort but compromise depth in student scientific inquiry. Computers in Human Behavior, 160, 108386. https://doi.org/10.1016/j.chb.2024.108386
+
+### Beispiel GPS
+
+Ruginski, I. T., Creem-Regehr, S. H., Stefanucci, J. K., & Cashdan, E. (2019). GPS use negatively affects environmental learning through spatial transformation abilities. Journal of Environmental Psychology, 64, 12–20. https://doi.org/10.1016/j.jenvp.2019.05.001
+
+Zhang, Y., & Li, J. (2025). Limiting the negative effect of GPS dependence on spatial knowledge with landmark-based instructions. Journal of Environmental Psychology, 108, 102813. https://doi.org/10.1016/j.jenvp.2025.102813
+
+## These 4: Brain Drain 
+
+Böttger, T., Poschik, M., & Zierer, K. (2023). Does the brain drain effect really exist? A meta-analysis. Behavioral Sciences, 13(9), 751. https://doi.org/10.3390/bs13090751
+
+## These 5: Automation Bias
+
+Cummings, M. L. (2017). Automation bias in intelligent time critical decision support systems. In D. Harris, Decision Making in Aviation (1st edn, pp. 289–294). Routledge. https://doi.org/10.4324/9781315095080-17
+
+Elish, M. C. (2019). Moral crumple zones: Cautionary tales in human-robot interaction. Engaging Science, Technology, and Society, 5, 40–60. https://doi.org/10.17351/ests2019.260
+
+Goddard, K., Roudsari, A., & Wyatt, J. C. (2012). Automation bias: A systematic review of frequency, effect mediators, and mitigators. Journal of the American Medical Informatics Association, 19(1), 121–127. https://doi.org/10.1136/amiajnl-2011-000089
+
+Krügel, S., Ostermaier, A., & Uhl, M. (2022). Zombies in the loop? Humans trust untrustworthy ai-advisors for ethical decisions. Philosophy & Technology, 35(1), 17. https://doi.org/10.1007/s13347-022-00511-9
+
+# Bonus
+
+FOSDEM-Video über AI-Slop in action: https://fosdem.org/2026/schedule/event/B7YKQ7-oss-in-spite-of-ai/
+
+Zum Thema Produktivitätsmetriken: 
+Sauermann, J. (2023). Performance measures and worker productivity. IZA World of Labor. https://doi.org/10.15185/izawol.260
