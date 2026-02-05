@@ -37,6 +37,9 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 - **03.03.2026** - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture: Smart Mobility Case
 - **12.03.2026** - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs
 
+### April 2026
+- **14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence
+
 ## Bisherige Vorträge
 ### 2026
 - Krankheitsbedingt ausgefallen ~03.02.2026 - Ben Arnon and Virendra Bhalothia (Co-founders of Kolsetu): Voice AI in 2026 - What Works, What Breaks -- in English~
