@@ -21,13 +21,14 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**10.02.2026** - Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
+- **12.02.2026** - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant - Threat Modelling Überblick und Demo
 
-Mit dem AI.Lab lassen sich AI-Workflows aus wiederverwendbaren KI-Modulen in einer No Code Umgebung erstellen. In diesem Vortrag zeigen wir anhand von praktischen Beispielen die Anwendung von SmartRAG, Agentic AI und Long Term Memory.
+Was ist Threat Modelling?
+Erleben Sie in dieser Session eine praxisnahe Demo des Microsoft-internen AI Threat Modelling Assistant, der auch in Kundenprojekten verwendet werden kann. Das Tool automatisiert und beschleunigt zentrale Schritte des Threat Modellings: Von der Analyse von Architektur-Artefakten über die automatische Generierung von Bedrohungen, Angriffsszenarien und Gegenmaßnahmen bis hin zur strukturierten Berichterstellung. Die Demo zeigt, wie Sie mit KI-Unterstützung effizienter Risiken erkennen und abschwächen können.
 
 ## Weitere geplante Vorträge
 ### Februar 2026
-- **12.02.2026** - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant - Threat Modelling Überblick und Demo
+
 - **17.02.2026** - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
 - **19.02.2026** - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
 
@@ -41,6 +42,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
+- 10.02.2026 - Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
 - 05.02.2026 - Marcus Soll (NORDAKADEMIE | DLC): Unproduktive generative KI?
 - 03.02.2026 - Krankheitsbedingt ausgefallen
 - 29.01.2026 - Werner Bogula (Head of AI, Pinktum): AI und Education
