@@ -21,15 +21,14 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-- **12.02.2026** - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant - Threat Modelling Überblick und Demo
 
-Was ist Threat Modelling?
-Erleben Sie in dieser Session eine praxisnahe Demo des Microsoft-internen AI Threat Modelling Assistant, der auch in Kundenprojekten verwendet werden kann. Das Tool automatisiert und beschleunigt zentrale Schritte des Threat Modellings: Von der Analyse von Architektur-Artefakten über die automatische Generierung von Bedrohungen, Angriffsszenarien und Gegenmaßnahmen bis hin zur strukturierten Berichterstellung. Die Demo zeigt, wie Sie mit KI-Unterstützung effizienter Risiken erkennen und abschwächen können.
+**17.02.2026** - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
+
+Accurately extracting information from documents has been a decades-old challenge at the core of many workflows, from automated back-office processing to enterprise RAG. While LLMs promise to solve this, they still hallucinate, struggle with long or complex documents, and fail on real-world structure. This talk introduces specialized LLMs for information extraction — NuExtract and NuMarkdown — which reduce hallucinations and outperform frontier models while being orders of magnitude smaller.
 
 ## Weitere geplante Vorträge
 ### Februar 2026
 
-- **17.02.2026** - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
 - **19.02.2026** - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
 
 ### März 2026 ♀️
@@ -42,6 +41,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
+- 12.02.2026 - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant - Threat Modelling Überblick und Demo
 - 10.02.2026 - Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
 - 05.02.2026 - Marcus Soll (NORDAKADEMIE | DLC): Unproduktive generative KI?
 - 03.02.2026 - Krankheitsbedingt ausgefallen
