@@ -34,6 +34,7 @@ Accurately extracting information from documents has been a decades-old challeng
 ### März 2026 ♀️
 Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
 - **03.03.2026** - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture: Smart Mobility Case
+- **05.03.2026** - Dr. Tina Klüwer, KI-Forscherin, Gründerin und Autorin von „Zukunft made in Germany“: Innovationsland Deutschland
 - **12.03.2026** - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs
 
 ### April 2026
