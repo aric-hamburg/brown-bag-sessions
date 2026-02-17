@@ -22,26 +22,32 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag
 
-**17.02.2026** - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
+**19.02.2026** - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
 
-Accurately extracting information from documents has been a decades-old challenge at the core of many workflows, from automated back-office processing to enterprise RAG. While LLMs promise to solve this, they still hallucinate, struggle with long or complex documents, and fail on real-world structure. This talk introduces specialized LLMs for information extraction — NuExtract and NuMarkdown — which reduce hallucinations and outperform frontier models while being orders of magnitude smaller.
+Kaum eine Berufsgruppe erlebt den Einfluss von KI so unmittelbar wie die Softwareentwickler. Dieser Vortrag zeichnet die rasante Entwicklung von ChatGPT bis hin zu autonomen Coding-Agenten und beleuchtet den aktuellen Status Quo der Technologie.
+Im Mittelpunkt steht, wie sich dadurch der Job von Entwicklern, aber auch die Strukturen der gesamten Softwareindustrie verändern werden.
+
 
 ## Weitere geplante Vorträge
 ### Februar 2026
 
-- **19.02.2026** - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
+- **24.02.2026** tba
+- **26.02.2026** Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
 
 ### März 2026 ♀️
 Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
 - **03.03.2026** - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture: Smart Mobility Case
-- **05.03.2026** - Dr. Tina Klüwer, KI-Forscherin, Gründerin und Autorin von „Zukunft made in Germany“: Innovationsland Deutschland
+- **05.03.2026** - Dr. Tina Klüwer (KI-Forscherin, Gründerin und Autorin von „Zukunft made in Germany“): Innovationsland Deutschland
+- **10.03.2026** - Dr. Maria Börner (Leitung des Competence Centers AI, Westernacher Solutions GmbH): Souveränität - Vom Buzzword zur Datenhoheit
 - **12.03.2026** - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs
+- **17.03.2026** - Ann Rheinheimer (CEO, myProtectify gUG): Wenn KI schützt: Maya gegen häusliche Gewalt
 
 ### April 2026
 - **14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence
 
 ## Bisherige Vorträge
 ### 2026
+- 17.02.2026 - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
 - 12.02.2026 - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant - Threat Modelling Überblick und Demo
 - 10.02.2026 - Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
 - 05.02.2026 - Marcus Soll (NORDAKADEMIE | DLC): Unproduktive generative KI?
