@@ -22,16 +22,11 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag
 
-**19.02.2026** - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
-
-Kaum eine Berufsgruppe erlebt den Einfluss von KI so unmittelbar wie die Softwareentwickler. Dieser Vortrag zeichnet die rasante Entwicklung von ChatGPT bis hin zu autonomen Coding-Agenten und beleuchtet den aktuellen Status Quo der Technologie.
-Im Mittelpunkt steht, wie sich dadurch der Job von Entwicklern, aber auch die Strukturen der gesamten Softwareindustrie verändern werden.
-
+- **24.02.2026** Anselm Fehnker (ARIC e.V.): Wie funktionieren Algorithmische Verzerrungen, Fake News und Deep Fakes?
 
 ## Weitere geplante Vorträge
 ### Februar 2026
 
-- **24.02.2026** tba
 - **26.02.2026** Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
 
 ### März 2026 ♀️
@@ -47,6 +42,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
+- 19.02.2026 - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
 - 17.02.2026 - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
 - 12.02.2026 - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant - Threat Modelling Überblick und Demo
 - 10.02.2026 - Martin Welß (Fraunhofer IAIS): No Code AI-Workflows mit dem AI.Lab
