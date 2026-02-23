@@ -36,8 +36,12 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 - **10.03.2026** - Dr. Maria Börner (Leitung des Competence Centers AI, Westernacher Solutions GmbH): Souveränität - Vom Buzzword zur Datenhoheit
 - **12.03.2026** - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs
 - **17.03.2026** - Ann Rheinheimer (CEO, myProtectify gUG): Wenn KI schützt: Maya gegen häusliche Gewalt
+- **19.03.2026** - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
+- **24.03.2026** - Dr. Natalie Rotermund (Neuroscientist, ARIC e.V.): Neuromorphes Computing
+- **26.03.2026** - Michelle Gutting (Senior Consultant, KI Sparringspartner für Führungskräfte, 55BirchStreet): Hire or fire: Wer bleibt in der KI-Ära?
 
 ### April 2026
+- **02.04.2026** - ARIC KI Team, tbd
 - **14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence
 
 ## Bisherige Vorträge
