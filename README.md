@@ -22,7 +22,7 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Nächster Vortrag
 
-- **24.02.2026** Anselm Fehnker (ARIC e.V.): Wie funktionieren Algorithmische Verzerrungen, Fake News und Deep Fakes?
+- **24.02.2026** Anselm Fehnker (ARIC e.V.): Wie funktionieren Algorithmische Verzerrungen, Fake News und Filterblasen?
 
 ## Weitere geplante Vorträge
 ### Februar 2026
