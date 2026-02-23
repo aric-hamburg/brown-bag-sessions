@@ -26,19 +26,18 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 ## Weitere geplante Vorträge
 ### Februar 2026
-
 - **26.02.2026** Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
 
 ### März 2026 ♀️
-Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
+Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI und Quantum erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
 - **03.03.2026** - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture: Smart Mobility Case
 - **05.03.2026** - Dr. Tina Klüwer (KI-Forscherin, Gründerin und Autorin von „Zukunft made in Germany“): Innovationsland Deutschland
-- **10.03.2026** - Dr. Maria Börner (Leitung des Competence Centers AI, Westernacher Solutions GmbH): Souveränität - Vom Buzzword zur Datenhoheit
-- **12.03.2026** - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs
-- **17.03.2026** - Ann Rheinheimer (CEO, myProtectify gUG): Wenn KI schützt: Maya gegen häusliche Gewalt
+- **10.03.2026** - Dr. Maria Börner (Leitung des Competence Centers AI - Westernacher Solutions GmbH): Souveränität - Vom Buzzword zur Datenhoheit
+- **12.03.2026** - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs -- in English
+- **17.03.2026** - Ann Rheinheimer (CEO - myProtectify gUG): Wenn KI schützt: Maya gegen häusliche Gewalt
 - **19.03.2026** - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
-- **24.03.2026** - Dr. Natalie Rotermund (Neuroscientist, ARIC e.V.): Neuromorphes Computing
-- **26.03.2026** - Michelle Gutting (Senior Consultant, KI Sparringspartner für Führungskräfte, 55BirchStreet): Hire or fire: Wer bleibt in der KI-Ära?
+- **24.03.2026** - Dr. Natalie Rotermund (Neuroscientist - ARIC e.V.): Neuromorphes Computing
+- **26.03.2026** - Michelle Gutting (Senior Consultant, KI Sparringspartner für Führungskräfte - 55BirchStreet): Hire or fire: Wer bleibt in der KI-Ära?
 
 ### April 2026
 - **02.04.2026** - ARIC KI Team, tbd
