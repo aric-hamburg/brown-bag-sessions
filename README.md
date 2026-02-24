@@ -21,13 +21,11 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
+**26.02.2026** Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
 
-- **24.02.2026** Anselm Fehnker (ARIC e.V.): Wie funktionieren Algorithmische Verzerrungen, Fake News und Filterblasen?
+Der Vortrag gibt einen kurzen Überblick darüber, was heute unter KI-Agenten verstanden wird. Er vermittelt grundlegende technische Einblicke und zeigt Implementierungsbeispiele von einfachen bis hin zu komplexeren Agenten. Anschließend werden Einsatzmöglichkeiten im Arbeitsalltag sowie die damit verbundenen Chancen und Risiken dieser neuen Technologie vorgestellt.
 
 ## Weitere geplante Vorträge
-### Februar 2026
-- **26.02.2026** Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
-
 ### März 2026 ♀️
 Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI und Quantum erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
 - **03.03.2026** - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture: Smart Mobility Case
@@ -45,6 +43,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
+- 24.02.2026 - Anselm Fehnker (ARIC e.V.): Wie funktionieren Algorithmische Verzerrungen, Fake News und Filterblasen?
 - 19.02.2026 - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
 - 17.02.2026 - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
 - 12.02.2026 - Oliver Niehus (Cybersecurity Lead Architect - Enterprise Architecture and Engineering Security Group (EAG Security) - Microsoft): AI Threat Modelling Assistant - Threat Modelling Überblick und Demo
