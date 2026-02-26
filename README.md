@@ -21,14 +21,14 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**Muss leider krankheitsbedingt ausfallen**
+- **03.03.2026** - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture: Smart Mobility Case
 
-~**26.02.2026** - Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken~
+AI & Digital Methods is the new working group at HafenCity University Hamburg. We research human-centered AI methods, hybrid digital twins, agentic systems, and innovative sensing technologies to understand complex architectural use cases and design livable cities. The presentation will dive into the Smart Mobility case FPOplus, focusing on real-time flow prediction and advanced network data integration to optimize passenger mobility. The project is funded by the German Federal Ministry of Transport and contributes to making German railways on time.
 
 ## Weitere geplante Vorträge
 ### März 2026 ♀️
 Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI und Quantum erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
-- **03.03.2026** - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture: Smart Mobility Case
+
 - **05.03.2026** - Dr. Tina Klüwer (KI-Forscherin, Gründerin und Autorin von „Zukunft made in Germany“): Innovationsland Deutschland
 - **10.03.2026** - Dr. Maria Börner (Leitung des Competence Centers AI - Westernacher Solutions GmbH): Souveränität - Vom Buzzword zur Datenhoheit
 - **12.03.2026** - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs -- in English
@@ -43,6 +43,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
+- 26.02.2026 - Krankheitsbedingt ausgefallen
 - 24.02.2026 - Anselm Fehnker (ARIC e.V.): Wie funktionieren Algorithmische Verzerrungen, Fake News und Filterblasen?
 - 19.02.2026 - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
 - 17.02.2026 - Etienne Bernard (CEO & Co-Founder - Numind): Outclassing Frontier LLMs at Extracting Information -- in English
