@@ -21,7 +21,7 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-- **03.03.2026** - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture: Smart Mobility Case
+- **03.03.2026** - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture - Smart Mobility Case -- in English
 
 AI & Digital Methods is the new working group at HafenCity University Hamburg. We research human-centered AI methods, hybrid digital twins, agentic systems, and innovative sensing technologies to understand complex architectural use cases and design livable cities. The presentation will dive into the Smart Mobility case FPOplus, focusing on real-time flow prediction and advanced network data integration to optimize passenger mobility. The project is funded by the German Federal Ministry of Transport and contributes to making German railways on time.
 
