@@ -21,7 +21,8 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**26.02.2026** - Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
+**Muss leider krankheitsbedingt ausfallen**
+~**26.02.2026** - Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken~
 
 Der Vortrag gibt einen kurzen Überblick darüber, was heute unter KI-Agenten verstanden wird. Er vermittelt grundlegende technische Einblicke und zeigt Implementierungsbeispiele von einfachen bis hin zu komplexeren Agenten. Anschließend werden Einsatzmöglichkeiten im Arbeitsalltag sowie die damit verbundenen Chancen und Risiken dieser neuen Technologie vorgestellt.
 
