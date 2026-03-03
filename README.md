@@ -21,15 +21,14 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-- **03.03.2026** - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture - Smart Mobility Case -- in English
+**05.03.2026** - Dr. Tina Klüwer (KI-Forscherin, Gründerin und Autorin von „Zukunft made in Germany“): Innovationsland Deutschland
 
-AI & Digital Methods is the new working group at HafenCity University Hamburg. We research human-centered AI methods, hybrid digital twins, agentic systems, and innovative sensing technologies to understand complex architectural use cases and design livable cities. The presentation will dive into the Smart Mobility case FPOplus, focusing on real-time flow prediction and advanced network data integration to optimize passenger mobility. The project is funded by the German Federal Ministry of Transport and contributes to making German railways on time.
+Deutschland steht am Scheideweg. Unsere Wirtschaft steckt in der Rezession, gleichzeitig liefert unser Forschungssystem Spitzenleistungen. Innovationen, vor allem in Zukunftstechnologien wie Künstlicher Intelligenz, könnten unseren Wohlstand sichern, doch aus den meisten Erfindungen erfolgt keine Weiterentwicklung zur vollen Innovation. Was braucht es, damit aus Erfindungen Innovationen werden und was müssen einzelnen Player, sei es in der Wissenschaft, Wirtschaft und Politik, tun, um Deutschland wieder auf Wachstumskurs zu bringen?
 
 ## Weitere geplante Vorträge
 ### März 2026 ♀️
 Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI und Quantum erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
 
-- **05.03.2026** - Dr. Tina Klüwer (KI-Forscherin, Gründerin und Autorin von „Zukunft made in Germany“): Innovationsland Deutschland
 - **10.03.2026** - Dr. Maria Börner (Leitung des Competence Centers AI - Westernacher Solutions GmbH): Souveränität - Vom Buzzword zur Datenhoheit
 - **12.03.2026** - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs -- in English
 - **17.03.2026** - Ann Rheinheimer (CEO - myProtectify gUG): Wenn KI schützt: Maya gegen häusliche Gewalt
@@ -43,6 +42,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
+- 03.03.2026 - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture - Smart Mobility Case -- in English
 - 26.02.2026 - Krankheitsbedingt ausgefallen
 - 24.02.2026 - Anselm Fehnker (ARIC e.V.): Wie funktionieren Algorithmische Verzerrungen, Fake News und Filterblasen?
 - 19.02.2026 - Johnny Kessler (Data Architect - PINKTUM): Wie KI die Softwareentwicklung verändert
