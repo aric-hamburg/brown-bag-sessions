@@ -21,7 +21,7 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-- **10.03.2026** - Dr. Maria Börner (Leitung des Competence Centers AI - Westernacher Solutions GmbH): Souveränität - Vom Buzzword zur Datenhoheit
+**10.03.2026** - Dr. Maria Börner (Leitung des Competence Centers AI - Westernacher Solutions GmbH): Souveränität - Vom Buzzword zur Datenhoheit
 
 Der Vortrag beleuchtet, was Souveränität im rechtlichen und technologischen Kontext wirklich bedeutet und welche Rahmenbedingungen dabei eine Rolle spielen. Er zeigt, welche Herausforderungen entstehen können, wenn Daten oder KI Systeme nicht unter eigener Hoheit betrieben werden. Zudem wird skizziert, welche Ansätze Unternehmen unterstützen können, um echte technologische Unabhängigkeit zu erreichen.
 
