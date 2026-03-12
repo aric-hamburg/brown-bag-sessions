@@ -21,15 +21,14 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**12.03.2026** - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs -- in English
+**17.03.2026** - Ann Rheinheimer (CEO - myProtectify gUG): Wenn KI schützt: Maya gegen häusliche Gewalt
 
-Based on expert insights and case studies, this talk presents eight themes of organisational best practices for small and medium enterprises adopting AI — ranging from selecting first use cases to leveraging external resources. The aim is to provide SMEs with a practical roadmap to explore and implement AI confidently and strategically.
+Nicht jede Person, die Gewalt in ihrer Beziehung erlebt, erkennt sie sofort als solche – und viele suchen zunächst online nach Orientierung, bevor sie sich an Beratungsstellen oder ihr persönliches Umfeld wenden. Maya bietet als KI-Hilfe-Chat einen geschützten digitalen Raum zur Reflexion, Einordnung und Stärkung der eigenen Handlungssicherheit. In 30 Minuten zeigen wir, wie Technologie und soziale Wirkung in einem AI-for-Good-Produkt für eine besonders sensible Zielgruppe zusammenkommen.
 
 ## Weitere geplante Vorträge
 ### März 2026 ♀️
 Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI und Quantum erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
 
-- **17.03.2026** - Ann Rheinheimer (CEO - myProtectify gUG): Wenn KI schützt: Maya gegen häusliche Gewalt
 - **19.03.2026** - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
 - **24.03.2026** - Dr. Natalie Rotermund (Neuroscientist - ARIC e.V.): Neuromorphes Computing
 - **26.03.2026** - Michelle Gutting (Senior Consultant, KI Sparringspartner für Führungskräfte - 55BirchStreet): Hire or fire: Wer bleibt in der KI-Ära?
@@ -40,6 +39,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
+- 12.03.2026 - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs -- in English
 - 10.03.2026 - Dr. Maria Börner (Leitung des Competence Centers AI - Westernacher Solutions GmbH): Souveränität - Vom Buzzword zur Datenhoheit
 - 05.03.2026 - Dr. Tina Klüwer (KI-Forscherin, Gründerin und Autorin von „Zukunft made in Germany“): Innovationsland Deutschland
 - 03.03.2026 - V. Prof. Dr. Ayse Glass (Interim Professor of AI and Digital Methods & Manager of Fahrplanoptimierung plus project - HafenCity University Hamburg): AI and Digital Methods for Cities & Architecture - Smart Mobility Case -- in English
