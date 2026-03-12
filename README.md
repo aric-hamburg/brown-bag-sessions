@@ -30,7 +30,7 @@ Nicht jede Person, die Gewalt in ihrer Beziehung erlebt, erkennt sie sofort als 
 Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI und Quantum erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
 
 - **19.03.2026** - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
-- **24.03.2026** - Dr. Natalie Rotermund (Neuroscientist - ARIC e.V.): Neuromorphes Computing
+- **24.03.2026** - Dr. Natalie Rotermund (Neuroscientist - ARIC e.V.): Insight - Neuromorphes Computing: Teil 1
 - **26.03.2026** - Michelle Gutting (Senior Consultant, KI Sparringspartner für Führungskräfte - 55BirchStreet): Hire or fire: Wer bleibt in der KI-Ära?
 
 ### April 2026
