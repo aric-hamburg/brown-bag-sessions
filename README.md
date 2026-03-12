@@ -31,7 +31,8 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 - **19.03.2026** - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
 - **24.03.2026** - Dr. Natalie Rotermund (Neuroscientist - ARIC e.V.): Insight - Neuromorphes Computing: Teil 1
-- **26.03.2026** - Michelle Gutting (Senior Consultant, KI Sparringspartner für Führungskräfte - 55BirchStreet): Hire or fire: Wer bleibt in der KI-Ära?
+- **26.03.2026** - Michelle Gutting (Senior Consultant, KI Sparringspartner für Führungskräfte - 55BirchStreet): Hire or fire - Wer bleibt in der KI-Ära?
+- **31.03.2026** - Quantum Technology Session (organised by hqic) / Dr. Melissa Azouaoui (Principal Cryptographer, Competence Center Cryptography & Security - NXP Semiconductors): Beyond Quantum Resilience - Embedded Security with & for PQC
 
 ### April 2026
 - **02.04.2026** - ARIC KI Team, tbd
