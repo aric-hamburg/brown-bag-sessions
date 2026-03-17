@@ -21,22 +21,21 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**17.03.2026** - Ann Rheinheimer (CEO - myProtectify gUG): Wenn KI schützt: Maya gegen häusliche Gewalt
+**19.03.2026** - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
 
-Nicht jede Person, die Gewalt in ihrer Beziehung erlebt, erkennt sie sofort als solche – und viele suchen zunächst online nach Orientierung, bevor sie sich an Beratungsstellen oder ihr persönliches Umfeld wenden. Maya bietet als KI-Hilfe-Chat einen geschützten digitalen Raum zur Reflexion, Einordnung und Stärkung der eigenen Handlungssicherheit. In 30 Minuten zeigen wir, wie Technologie und soziale Wirkung in einem AI-for-Good-Produkt für eine besonders sensible Zielgruppe zusammenkommen.
+Ich nutze OpenClaw schon seit ein paar Wochen als meinen täglichen Begleiter, Berater und Kompagnon. In dieser Session zeige ich euch, wie ich das gemacht habe, gebe ein paar Beispiele für Anwendungsbereiche und zeige euch, welche Möglichkeiten und Risiken es gibt.
 
 ## Weitere geplante Vorträge
 ### März 2026 ♀️
 Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI und Quantum erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
 
-- **19.03.2026** - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
 - **24.03.2026** - Dr. Natalie Rotermund (Neuroscientist - ARIC e.V.): Insight - Neuromorphes Computing: Teil 1
 - **26.03.2026** - Michelle Gutting (Senior Consultant, KI Sparringspartner für Führungskräfte - 55BirchStreet): Hire or fire - Wer bleibt in der KI-Ära?
 - **31.03.2026** - Quantum Technology Session (organised by hqic) / Dr. Melissa Azouaoui (Principal Cryptographer, Competence Center Cryptography & Security - NXP Semiconductors): Beyond Quantum Resilience - Embedded Security with & for PQC
 
 ### April 2026
 - **02.04.2026** - ARIC KI Team, tbd
-- **07.04.2026** - tbd
+- **07.04.2026** - Dirk Murschall (Interim PO & PM (IT Freelancer)): OpenClaw aus Anwendersicht - Installation, Security, Use cases
 - **09.04.2026** - Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
 - **14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence
 - **21.04.2026** - Gregor Hartmann (Gruppenleiter "KI+Data Science” - Helmholtz-Zentrum Berlin (HZB)): Dinosaurierspuren durch die Augen einer KI
@@ -46,6 +45,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
+- 17.03.2026 - Ann Rheinheimer (CEO - myProtectify gUG): Wenn KI schützt: Maya gegen häusliche Gewalt
 - 12.03.2026 - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs -- in English
 - 10.03.2026 - Dr. Maria Börner (Leitung des Competence Centers AI - Westernacher Solutions GmbH): Souveränität - Vom Buzzword zur Datenhoheit
 - 05.03.2026 - Dr. Tina Klüwer (KI-Forscherin, Gründerin und Autorin von „Zukunft made in Germany“): Innovationsland Deutschland
