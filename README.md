@@ -29,7 +29,7 @@ Neuromorphe Prinzipien in der Entwicklung künstlicher Intelligenz - Diese Brown
 ### März 2026 ♀️
 Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI und Quantum erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
 
-- **26.03.2026** - Michelle Gutting (Senior Consultant, KI Sparringspartner für Führungskräfte - 55BirchStreet): Hire or fire - Wer bleibt in der KI-Ära?
+- **26.03.2026** - Michelle Gutting (KI Sparringspartner für Führungskräfte): Hire or fire - Wer bleibt in der KI-Ära?
 - **31.03.2026** - Quantum Technology Session (organised by hqic) / Dr. Melissa Azouaoui (Principal Cryptographer, Competence Center Cryptography & Security - NXP Semiconductors): Beyond Quantum Resilience - Embedded Security with & for PQC
 
 ### April 2026
