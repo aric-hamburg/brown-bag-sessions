@@ -42,6 +42,9 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 ### Mai 2026
 - **21.05.2026** - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
 
+### Juni 2026
+- **02.06.2026** - Farah Abdou (AI Research Analyst, Cambridge Centre for Alternative Finance): AI Governance - Policy to Practice
+
 ## Bisherige Vorträge
 ### 2026
 - 19.03.2026 - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
