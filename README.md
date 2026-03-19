@@ -21,15 +21,14 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**19.03.2026** - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
+**24.03.2026** - Dr. Natalie Rotermund (Neuroscientist - ARIC e.V.): Insight - Neuromorphes Computing: Teil 1
 
-Ich nutze OpenClaw schon seit ein paar Wochen als meinen täglichen Begleiter, Berater und Kompagnon. In dieser Session zeige ich euch, wie ich das gemacht habe, gebe ein paar Beispiele für Anwendungsbereiche und zeige euch, welche Möglichkeiten und Risiken es gibt.
+Neuromorphe Prinzipien in der Entwicklung künstlicher Intelligenz - Diese Brown Bag Session gibt grundlegende Orientierung zum Thema Neuromorphes Computing und dessen Einflüsse auf KI; Was ist Neuromorphes Computing? Wo steht die Technologie? Was macht deren Prinzipien für KI-Anwendungen interessant?
 
 ## Weitere geplante Vorträge
 ### März 2026 ♀️
 Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI und Quantum erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
 
-- **24.03.2026** - Dr. Natalie Rotermund (Neuroscientist - ARIC e.V.): Insight - Neuromorphes Computing: Teil 1
 - **26.03.2026** - Michelle Gutting (Senior Consultant, KI Sparringspartner für Führungskräfte - 55BirchStreet): Hire or fire - Wer bleibt in der KI-Ära?
 - **31.03.2026** - Quantum Technology Session (organised by hqic) / Dr. Melissa Azouaoui (Principal Cryptographer, Competence Center Cryptography & Security - NXP Semiconductors): Beyond Quantum Resilience - Embedded Security with & for PQC
 
@@ -45,6 +44,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
+- 19.03.2026 - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
 - 17.03.2026 - Ann Rheinheimer (CEO - myProtectify gUG): Wenn KI schützt: Maya gegen häusliche Gewalt
 - 12.03.2026 - Pari Sivaraj (M.Sc. graduate - TUHH): AI Adoption Best Practices for KMU/SMEs -- in English
 - 10.03.2026 - Dr. Maria Börner (Leitung des Competence Centers AI - Westernacher Solutions GmbH): Souveränität - Vom Buzzword zur Datenhoheit
