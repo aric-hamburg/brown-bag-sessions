@@ -33,6 +33,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 - **31.03.2026** - Quantum Technology Session (organised by hqic) / Dr. Melissa Azouaoui (Principal Cryptographer, Competence Center Cryptography & Security - NXP Semiconductors): Beyond Quantum Resilience - Embedded Security with & for PQC
 
 ### April 2026
+- **02.04.2026** - Azadeh Haratiannezhadi (Professor in OPIT): How to Establish AI Governance
 - **07.04.2026** - Dirk Murschall (Interim PO & PM (IT Freelancer)): OpenClaw aus Anwendersicht - Installation, Security, Use cases
 - **09.04.2026** - Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
 - **14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence
@@ -42,7 +43,8 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 - **21.05.2026** - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
 
 ### Juni 2026
-- **02.06.2026** - Farah Abdou (AI Research Analyst, Cambridge Centre for Alternative Finance): AI Governance - Policy to Practice
+- **02.06.2026** - Farah Abdou (AI Research Analyst -Cambridge Centre for Alternative Finance): AI Governance - Policy to Practice
+- **16.06.2026** - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
 
 ## Bisherige Vorträge
 ### 2026
