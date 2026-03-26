@@ -21,15 +21,11 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**26.03.2026** - Michelle Gutting (KI Sparringspartner für Führungskräfte): Hire or fire - Wer bleibt in der KI-Ära?
+**31.03.2026** - Quantum Technology Session (organised by hqic) / Dr. Melissa Azouaoui (Principal Cryptographer, Competence Center Cryptography & Security - NXP Semiconductors): Beyond Quantum Resilience - Embedded Security with & for PQC
 
-In KI-Projekten geht es längst nicht mehr nur um Technologie, sondern um Entscheidungen über Menschen, Rollen und Skills. Ich teile Einblicke aus der Praxis und zeige, wie man Veränderungen von Rollen einordnet, Weiterentwicklung sinnvoll angeht und fundierte Entscheidungen für sich selbst und für Teams trifft.
+Post-Quantum Cryptography (PQC) is being standardized and guidance for migration is available. This talk explains what PQC means for embedded devices and what to consider when moving from today’s crypto to PQC, including resource constraints and secure implementations.
 
 ## Weitere geplante Vorträge
-### März 2026 ♀️
-Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarkeit von Frauen im Bereich KI und Quantum erhöhen. Aus diesem Grund bieten wir interessanten Speakerinnen in diesem Monat bewusst eine Bühne.
-
-- **31.03.2026** - Quantum Technology Session (organised by hqic) / Dr. Melissa Azouaoui (Principal Cryptographer, Competence Center Cryptography & Security - NXP Semiconductors): Beyond Quantum Resilience - Embedded Security with & for PQC
 
 ### April 2026
 - **02.04.2026** - Azadeh Haratiannezhadi (Professor in OPIT): How to Establish AI Governance
@@ -47,6 +43,7 @@ Anlässlich des internationen Frauentags am 8. März möchten wir die Sichtbarke
 
 ## Bisherige Vorträge
 ### 2026
+- 26.03.2026 - Michelle Gutting (KI Sparringspartner für Führungskräfte): Hire or fire - Wer bleibt in der KI-Ära?
 - 24.03.2026 - Dr. Natalie Rotermund (Neuroscientist - ARIC e.V.): Insight - Neuromorphes Computing: Teil 1
 - 19.03.2026 - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
 - 17.03.2026 - Ann Rheinheimer (CEO - myProtectify gUG): Wenn KI schützt: Maya gegen häusliche Gewalt
