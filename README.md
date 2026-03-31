@@ -21,14 +21,13 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**31.03.2026** - Quantum Technology Session (organised by hqic) / Dr. Melissa Azouaoui (Principal Cryptographer, Competence Center Cryptography & Security - NXP Semiconductors): Beyond Quantum Resilience - Embedded Security with & for PQC
+**02.04.2026** - Azadeh Haratiannezhadi (Professor in OPIT): How to Establish AI Governance
 
-Post-Quantum Cryptography (PQC) is being standardized and guidance for migration is available. This talk explains what PQC means for embedded devices and what to consider when moving from today’s crypto to PQC, including resource constraints and secure implementations.
+AI is often deployed without clear ownership, risk controls, or oversight, creating exposure to legal, ethical, and operational failures. This session introduces ISO/IEC 42001 as a practical framework for defining responsibilities, managing risks, and aligning AI with existing security and compliance processes.
 
 ## Weitere geplante Vorträge
 
 ### April 2026
-- **02.04.2026** - Azadeh Haratiannezhadi (Professor in OPIT): How to Establish AI Governance
 - **07.04.2026** - Dirk Murschall (Interim PO & PM (IT Freelancer)): OpenClaw aus Anwendersicht - Installation, Security, Use cases
 - **09.04.2026** - Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
 - **14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence
@@ -43,6 +42,7 @@ Post-Quantum Cryptography (PQC) is being standardized and guidance for migration
 
 ## Bisherige Vorträge
 ### 2026
+- 31.03.2026 - Quantum Technology Session (organised by hqic) / Dr. Melissa Azouaoui (Principal Cryptographer, Competence Center Cryptography & Security - NXP Semiconductors): Beyond Quantum Resilience - Embedded Security with & for PQC
 - 26.03.2026 - Michelle Gutting (KI Sparringspartner für Führungskräfte): Hire or fire - Wer bleibt in der KI-Ära?
 - 24.03.2026 - Dr. Natalie Rotermund (Neuroscientist - ARIC e.V.): Insight - Neuromorphes Computing: Teil 1
 - 19.03.2026 - Antje Klemichen (Green AI Hub Mittelstand): Nachhaltig wirtschaften mit KI
