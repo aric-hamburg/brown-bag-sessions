@@ -21,7 +21,7 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**02.04.2026** - Azadeh Haratiannezhadi (Professor in OPIT): How to Establish AI Governance
+**02.04.2026** - Azadeh Haratiannezhadi (Professor in OPIT): How to Establish AI Governance -- in English
 
 AI is often deployed without clear ownership, risk controls, or oversight, creating exposure to legal, ethical, and operational failures. This session introduces ISO/IEC 42001 as a practical framework for defining responsibilities, managing risks, and aligning AI with existing security and compliance processes.
 
