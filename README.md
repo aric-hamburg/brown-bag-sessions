@@ -30,14 +30,14 @@ AI is often deployed without clear ownership, risk controls, or oversight, creat
 ### April 2026
 - **07.04.2026** - Dirk Murschall (Interim PO & PM (IT Freelancer)): OpenClaw aus Anwendersicht - Installation, Security, Use cases
 - **09.04.2026** - Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
-- **14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence
+- **14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence -- in English
 - **21.04.2026** - Gregor Hartmann (Gruppenleiter "KI+Data Science” - Helmholtz-Zentrum Berlin (HZB)): Dinosaurierspuren durch die Augen einer KI
 
 ### Mai 2026
 - **21.05.2026** - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
 
 ### Juni 2026
-- **02.06.2026** - Farah Abdou (AI Research Analyst -Cambridge Centre for Alternative Finance): AI Governance - Policy to Practice
+- **02.06.2026** - Farah Abdou (AI Research Analyst -Cambridge Centre for Alternative Finance): AI Governance - Policy to Practice -- in English
 - **16.06.2026** - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
 
 ## Bisherige Vorträge
