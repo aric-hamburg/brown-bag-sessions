@@ -21,14 +21,15 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**07.04.2026** - Dirk Murschall (Interim PO & PM (IT Freelancer)): OpenClaw aus Anwendersicht - Installation, Security, Use cases
 
-Ich nutze OpenClaw schon seit ein paar Wochen als meinen täglichen Begleiter, Berater und Kompagnon. In dieser Session zeige ich euch, wie ich das gemacht habe, gebe ein paar Beispiele für Anwendungsbereiche und zeige euch, welche Möglichkeiten und Risiken es gibt.
+**09.04.2026** - Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
+
+Der Vortrag gibt einen kurzen Überblick darüber, was heute unter KI-Agenten verstanden wird. Er vermittelt grundlegende technische Einblicke und zeigt Implementierungsbeispiele von einfachen bis hin zu komplexeren Agenten. Anschließend werden Einsatzmöglichkeiten im Arbeitsalltag sowie die damit verbundenen Chancen und Risiken dieser neuen Technologie vorgestellt.
 
 ## Weitere geplante Vorträge
 
 ### April 2026
-- **09.04.2026** - Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
+
 - **14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence -- in English
 - **21.04.2026** - Gregor Hartmann (Gruppenleiter "KI+Data Science” - Helmholtz-Zentrum Berlin (HZB)): Dinosaurierspuren durch die Augen einer KI
 
@@ -41,6 +42,7 @@ Ich nutze OpenClaw schon seit ein paar Wochen als meinen täglichen Begleiter, B
 
 ## Bisherige Vorträge
 ### 2026
+- 07.04.2026 - Dirk Murschall (Interim PO & PM (IT Freelancer)): OpenClaw aus Anwendersicht - Installation, Security, Use cases
 - 02.04.2026 - Azadeh Haratiannezhadi (Professor in OPIT): How to Establish AI Governance -- in English
 - 31.03.2026 - Quantum Technology Session (organised by hqic) / Dr. Melissa Azouaoui (Principal Cryptographer, Competence Center Cryptography & Security - NXP Semiconductors): Beyond Quantum Resilience - Embedded Security with & for PQC
 - 26.03.2026 - Michelle Gutting (KI Sparringspartner für Führungskräfte): Hire or fire - Wer bleibt in der KI-Ära?
