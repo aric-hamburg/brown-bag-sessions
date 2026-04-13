@@ -29,7 +29,7 @@ As AI-driven products grow, cloud-only architectures often become a hidden busin
 
 ### April 2026
 
-- **16.04.2026** - Reinher Karl (Rechtsanwalt/Fachanwalt für Urheber- und Medienrecht): Urheberrecht vs generative KI  
+- **16.04.2026** - Reinher Karl (Rechtsanwalt/Fachanwalt für Urheber- und Medienrecht - IfKI & BKP): Urheberrecht vs generative KI  
 - **21.04.2026** - Gregor Hartmann (Gruppenleiter "KI+Data Science” - Helmholtz-Zentrum Berlin (HZB)): Dinosaurierspuren durch die Augen einer KI
 
 ### Mai 2026
