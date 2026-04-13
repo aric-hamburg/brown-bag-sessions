@@ -21,11 +21,9 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
+**14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence -- in English
 
-- **14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence -- in English
-
-As AI-driven products grow, cloud-only architectures often become a hidden business constraint - driving up operational costs while limiting performance, scalability, and data control. This session looks at the business challenges behind cloud versus edge data processing and explains why hybrid architectures are increasingly critical for sustainable growth.
-Using real-world examples, we’ll demonstrate how to design cost-efficient, scalable systems by distributing functionality between the edge and the cloud. The audience will learn how to balance AI-powered decision-making with core system logic to reduce costs, improve responsiveness, and support long-term product evolution.
+As AI-driven products grow, cloud-only architectures often become a hidden business constraint - driving up operational costs while limiting performance, scalability, and data control. This session looks at the business challenges behind cloud versus edge data processing and explains why hybrid architectures are increasingly critical for sustainable growth. Using real-world examples, we’ll demonstrate how to design cost-efficient, scalable systems by distributing functionality between the edge and the cloud. The audience will learn how to balance AI-powered decision-making with core system logic to reduce costs, improve responsiveness, and support long-term product evolution.
 
 ## Weitere geplante Vorträge
 
