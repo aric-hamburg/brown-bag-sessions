@@ -21,15 +21,13 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**14.04.2026** - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence -- in English
+**16.04.2026** - Reinher Karl (Rechtsanwalt/Fachanwalt für Urheber- und Medienrecht - IfKI & BKP): Urheberrecht vs generative KI  
 
-As AI-driven products grow, cloud-only architectures often become a hidden business constraint - driving up operational costs while limiting performance, scalability, and data control. This session looks at the business challenges behind cloud versus edge data processing and explains why hybrid architectures are increasingly critical for sustainable growth. Using real-world examples, we’ll demonstrate how to design cost-efficient, scalable systems by distributing functionality between the edge and the cloud. The audience will learn how to balance AI-powered decision-making with core system logic to reduce costs, improve responsiveness, and support long-term product evolution.
+KI wird mit urheberrechtlich geschützten Inhalten trainiert. Prompts werden auf Märkten gehandelt. KI Musik erobert die Charts. Welche Rechte werden verletzt und welche neuen Rechte entstehen? Die wichtigsten Antworten in 20min.
 
 ## Weitere geplante Vorträge
 
 ### April 2026
-
-- **16.04.2026** - Reinher Karl (Rechtsanwalt/Fachanwalt für Urheber- und Medienrecht - IfKI & BKP): Urheberrecht vs generative KI  
 - **21.04.2026** - Gregor Hartmann (Gruppenleiter "KI+Data Science” - Helmholtz-Zentrum Berlin (HZB)): Dinosaurierspuren durch die Augen einer KI
 
 ### Mai 2026
@@ -42,6 +40,7 @@ As AI-driven products grow, cloud-only architectures often become a hidden busin
 
 ## Bisherige Vorträge
 ### 2026
+- 14.04.2026 - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence -- in English
 - 09.04.2026 - Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
 - 07.04.2026 - Dirk Murschall (Interim PO & PM (IT Freelancer)): OpenClaw aus Anwendersicht - Installation, Security, Use cases
 - 02.04.2026 - Azadeh Haratiannezhadi (Professor in OPIT): How to Establish AI Governance -- in English
