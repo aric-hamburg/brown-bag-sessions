@@ -29,7 +29,8 @@ KI wird mit urheberrechtlich geschützten Inhalten trainiert. Prompts werden auf
 
 ### April 2026
 - **21.04.2026** - Gregor Hartmann (Gruppenleiter "KI+Data Science” - Helmholtz-Zentrum Berlin (HZB)): Dinosaurierspuren durch die Augen einer KI
-- **23.04.2026** - Werner Bogula (ARIC e.V.): Jobskills im Zeitalter der KI-Agenten
+- **23.04.2026** - Werner Bogula (Head of AI - PINKTUM): Jobskills im Zeitalter der KI-Agenten
+- **30.04.2026** - Phil Szalay (Tech Lead - Beyond the Loop GmbH): Vom Prompt zum ersten Token - Ein Blick hinter die Kulissen einer modernen KI-Chat-Anwendung
 
 ### Mai 2026
 - **05.05.2026** - Dr. Jennifer Seifert (Leiterin Transformationsprojekte, Arbeit und Leben Niedersachsen): Future Skills im KI-Zeitalter
