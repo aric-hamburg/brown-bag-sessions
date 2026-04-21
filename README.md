@@ -21,14 +21,13 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**21.04.2026** - Gregor Hartmann (Gruppenleiter "KI+Data Science” - Helmholtz-Zentrum Berlin (HZB)): Dinosaurierspuren durch die Augen einer KI
+**23.04.2026** - Werner Bogula (Head of AI - PINKTUM): Jobskills im Zeitalter der KI-Agenten
 
-Dinosaurierspuren gehören zu den bekanntesten Fossilien – doch ihre Urheber zu bestimmen ist oft überraschend schwierig. In diesem Vortrag zeige ich, wie eine unüberwachte KI fast 2.000 fossile Fußabdrücke analysiert und selbstständig Muster in ihrer Form erkennt. Mit der frei verfügbaren DinoTracker-App können Forschende und Interessierte diese Analyse sogar selbst ausprobieren.
+Wenn KI-Agenten beginnen, Aufgaben nicht nur zu unterstützen, sondern eigenständig zu steuern, stellt sich die drängende Frage nach der künftigen Rolle unserer eigenen Expertise. Dieser Impuls lädt dazu ein, den Wandel von der fachlichen Ausführung hin zur kreativen Orchestrierung und ethischen Einordnung gemeinsam zu hinterfragen. Wir erkunden, ob unsere Wettbewerbsfähigkeit künftig vielleicht weniger im „Wissen“, sondern vielmehr in der menschlichen Urteilskraft und der Fähigkeit zur Navigation in autonomen Systemen liegt.
 
 ## Weitere geplante Vorträge
 
 ### April 2026
-- **23.04.2026** - Werner Bogula (Head of AI - PINKTUM): Jobskills im Zeitalter der KI-Agenten
 - **30.04.2026** - Phil Szalay (Tech Lead - Beyond the Loop GmbH): Vom Prompt zum ersten Token - Ein Blick hinter die Kulissen einer modernen KI-Chat-Anwendung
 
 ### Mai 2026
@@ -41,6 +40,7 @@ Dinosaurierspuren gehören zu den bekanntesten Fossilien – doch ihre Urheber z
 
 ## Bisherige Vorträge
 ### 2026
+- 21.04.2026 - Gregor Hartmann (Gruppenleiter "KI+Data Science” - Helmholtz-Zentrum Berlin (HZB)): Dinosaurierspuren durch die Augen einer KI
 - 16.04.2026 - Reinher Karl (Rechtsanwalt/Fachanwalt für Urheber- und Medienrecht - IfKI & BKP): Urheberrecht vs generative KI  
 - 14.04.2026 - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence -- in English
 - 09.04.2026 - Marius Lotz (Gründer Camphire): KI-Agenten – Überblick, Chancen & Risiken
