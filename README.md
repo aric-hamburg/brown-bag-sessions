@@ -21,14 +21,11 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**23.04.2026** - Werner Bogula (Head of AI - PINKTUM): Jobskills im Zeitalter der KI-Agenten
+**30.04.2026** - Phil Szalay (Tech Lead - Beyond the Loop GmbH): Vom Prompt zum ersten Token - Ein Blick hinter die Kulissen einer modernen KI-Chat-Anwendung
 
-Wenn KI-Agenten beginnen, Aufgaben nicht nur zu unterstützen, sondern eigenständig zu steuern, stellt sich die drängende Frage nach der künftigen Rolle unserer eigenen Expertise. Dieser Impuls lädt dazu ein, den Wandel von der fachlichen Ausführung hin zur kreativen Orchestrierung und ethischen Einordnung gemeinsam zu hinterfragen. Wir erkunden, ob unsere Wettbewerbsfähigkeit künftig vielleicht weniger im „Wissen“, sondern vielmehr in der menschlichen Urteilskraft und der Fähigkeit zur Navigation in autonomen Systemen liegt.
+Zwischen dem Absenden einer Prompt in der UI und dem ersten Token der Antwort passiert in einer produktiven KI-Plattform weit mehr als ein API-Call an GPT oder Gemini. Von Authentifizierung und Intent-Detection über dynamisches Modell-Routing bis hin zu Credit-Validierung und Fair-Usage-Enforcement – dieser Vortrag gibt Einblicke in die Middleware-Pipeline von Beyond the Loop, einer Multi-Tenant-KI-Plattform mit 25+ Sprachmodellen, und macht sichtbar, wie moderne KI-Chat-Anwendungen wirklich funktionieren.
 
 ## Weitere geplante Vorträge
-
-### April 2026
-- **30.04.2026** - Phil Szalay (Tech Lead - Beyond the Loop GmbH): Vom Prompt zum ersten Token - Ein Blick hinter die Kulissen einer modernen KI-Chat-Anwendung
 
 ### Mai 2026
 - **05.05.2026** - Dr. Jennifer Seifert (Leiterin Transformationsprojekte, Arbeit und Leben Niedersachsen): Future Skills im KI-Zeitalter
@@ -40,6 +37,7 @@ Wenn KI-Agenten beginnen, Aufgaben nicht nur zu unterstützen, sondern eigenstä
 
 ## Bisherige Vorträge
 ### 2026
+- 23.04.2026 - Werner Bogula (Head of AI - PINKTUM): Jobskills im Zeitalter der KI-Agenten
 - 21.04.2026 - Gregor Hartmann (Gruppenleiter "KI+Data Science” - Helmholtz-Zentrum Berlin (HZB)): Dinosaurierspuren durch die Augen einer KI
 - 16.04.2026 - Reinher Karl (Rechtsanwalt/Fachanwalt für Urheber- und Medienrecht - IfKI & BKP): Urheberrecht vs generative KI  
 - 14.04.2026 - Yuriy Chen (Head of Cloud Development - Lemberg Solutions): Balancing edge autonomy and cloud intelligence -- in English
