@@ -29,14 +29,20 @@ Zwischen dem Absenden einer Prompt in der UI und dem ersten Token der Antwort pa
 
 ### Mai 2026
 - **05.05.2026** - Dr. Jennifer Seifert (Leiterin Transformationsprojekte, Arbeit und Leben Niedersachsen): Future Skills im KI-Zeitalter
+- **07.05.2026** - Dr. Kai Himstedt (HITeC e.V.): HPC-Cluster-Nutzung im Rahmen des EDIH Hamburg
+- **14.05.2026** - Christi Himmelfahrt (Feiertag)
+- **19.05.2026** - Stefan Epping (Entwickler - S-Bahn Hamburg) & Dr. Jan Staudenmaier (Entwickler - DB Systel GmbH): Auslastungsprognosen by DB Lightgate
 - **21.05.2026** - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
+- **28.05.2026** - Lars Krupp (PhD Student & Researcher - DFKI & RPTU): Challenges of GenAI in Quantum Education
 
 ### Juni 2026
 - **02.06.2026** - Farah Abdou (AI Research Analyst -Cambridge Centre for Alternative Finance): AI Governance - Policy to Practice -- in English
+- **04.06.2026** - Justus Mann (TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie) & Tim Kanis (Doktorand, TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie): LLMs in der strategischen Unternehmensführung - Chancen, Risiken und Ansätze
 - **16.06.2026** - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
 
 ## Bisherige Vorträge
 ### 2026
+- 28.04.2026 - Krankheitsbedingt ausgefallen
 - 23.04.2026 - Werner Bogula (Head of AI - PINKTUM): Jobskills im Zeitalter der KI-Agenten
 - 21.04.2026 - Gregor Hartmann (Gruppenleiter "KI+Data Science” - Helmholtz-Zentrum Berlin (HZB)): Dinosaurierspuren durch die Augen einer KI
 - 16.04.2026 - Reinher Karl (Rechtsanwalt/Fachanwalt für Urheber- und Medienrecht - IfKI & BKP): Urheberrecht vs generative KI  
