@@ -29,6 +29,7 @@ Programmieren, Projektmanagement - macht der Kollege KI? Welche Skills auch in Z
 
 ### Mai 2026
 - **07.05.2026** - Dr. Kai Himstedt (HITeC e.V.): HPC-Cluster-Nutzung im Rahmen des EDIH Hamburg
+- **12.05.2026** - Abdulrahman Ulfat (Arzt und KI-Forscher - Universitätsklinikum Hamburg (UKE)): Klinische Evidenz auf Knopfdruck? Large Language Models zwischen Anspruch und Wirklichkeit
 - **14.05.2026** - Christi Himmelfahrt (Feiertag)
 - **19.05.2026** - Stefan Epping (Entwickler - S-Bahn Hamburg) & Dr. Jan Staudenmaier (Entwickler - DB Systel GmbH): Auslastungsprognosen by DB Lightgate
 - **21.05.2026** - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
