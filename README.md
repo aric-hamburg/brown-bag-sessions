@@ -32,6 +32,7 @@ Diese Session zeigt, wie Startups, KMU und Einrichtungen der öffentlichen Verwa
 - **14.05.2026** - Christi Himmelfahrt (Feiertag)
 - **19.05.2026** - Stefan Epping (Entwickler - S-Bahn Hamburg) & Dr. Jan Staudenmaier (Entwickler - DB Systel GmbH): Auslastungsprognosen by DB Lightgate
 - **21.05.2026** - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
+- **26.05.2026** - Quantum Technology Session (organised by hqic) / Giorgio Zarantonello (CTO - Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 - **28.05.2026** - Lars Krupp (PhD Student & Researcher - DFKI & RPTU): Challenges of GenAI in Quantum Education
 
 ### Juni 2026
