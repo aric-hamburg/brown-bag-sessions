@@ -21,14 +21,13 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**05.05.2026** - Dr. Jennifer Seifert (Leiterin Transformationsprojekte, Arbeit und Leben Niedersachsen): Future Skills im KI-Zeitalter
+**07.05.2026** - Dr. Kai Himstedt (HITeC e.V.): HPC-Cluster-Nutzung im Rahmen des EDIH Hamburg
 
-Programmieren, Projektmanagement - macht der Kollege KI? Welche Skills auch in Zukunft wichtig bleiben, welche vielleicht technisch abgebildet werden können und ob wir das überhaupt wollen - über all das sprechen wir in diesem Vortrag.
+Diese Session zeigt, wie Startups, KMU und Einrichtungen der öffentlichen Verwaltung im Rahmen des EDIH Hamburg kostenfrei GPU‑Ressourcen auf einem modernen HPC‑Cluster nutzen können. Sie bietet einen kompakten Überblick über die Infrastruktur und die verfügbaren Nutzungsmodi wie Batch‑Jobs und JupyterHub als interaktive Arbeitsumgebung.
 
 ## Weitere geplante Vorträge
 
 ### Mai 2026
-- **07.05.2026** - Dr. Kai Himstedt (HITeC e.V.): HPC-Cluster-Nutzung im Rahmen des EDIH Hamburg
 - **12.05.2026** - Abdulrahman Ulfat (Arzt und KI-Forscher - Universitätsklinikum Hamburg (UKE)): Klinische Evidenz auf Knopfdruck? Large Language Models zwischen Anspruch und Wirklichkeit
 - **14.05.2026** - Christi Himmelfahrt (Feiertag)
 - **19.05.2026** - Stefan Epping (Entwickler - S-Bahn Hamburg) & Dr. Jan Staudenmaier (Entwickler - DB Systel GmbH): Auslastungsprognosen by DB Lightgate
@@ -42,6 +41,7 @@ Programmieren, Projektmanagement - macht der Kollege KI? Welche Skills auch in Z
 
 ## Bisherige Vorträge
 ### 2026
+- 05.05.2026 - Dr. Jennifer Seifert (Leiterin Transformationsprojekte, Arbeit und Leben Niedersachsen): Future Skills im KI-Zeitalter
 - 30.04.2026 - Phil Szalay (Tech Lead - Beyond the Loop GmbH): Vom Prompt zum ersten Token - Ein Blick hinter die Kulissen einer modernen KI-Chat-Anwendung
 - 28.04.2026 - Ausgefallen
 - 23.04.2026 - Werner Bogula (Head of AI - PINKTUM): Jobskills im Zeitalter der KI-Agenten
