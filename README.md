@@ -21,15 +21,14 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**12.05.2026** - Abdulrahman Ulfat (Arzt und KI-Forscher - Universitätsklinikum Hamburg (UKE)): Klinische Evidenz auf Knopfdruck? Large Language Models zwischen Anspruch und Wirklichkeit
+**19.05.2026** - Stefan Epping (Entwickler - S-Bahn Hamburg) & Dr. Jan Staudenmaier (Entwickler - DB Systel GmbH): Auslastungsprognosen by DB Lightgate
 
-LLMs versprechen einen schnelleren Zugang zu medizinischem Wissen, bringen aber auch Risiken wie Halluzinationen, fehlende Quellenprüfung und regulatorische Unsicherheiten mit sich. Der Vortrag beleuchtet, wie evidenzbasierte KI-Systeme aufgebaut sein müssen, um im klinischen Alltag sinnvoll, transparent und verantwortungsvoll eingesetzt zu werden.
+Früher wissen, wo ich einen Platz bekomme:
+Wie aus Live-Messdaten von S-Bahnen, Zugauslastungs-Informationen und KI-Prognosen für Kunden und Betrieb entstehen.
 
 ## Weitere geplante Vorträge
 
 ### Mai 2026
-- **14.05.2026** - Christi Himmelfahrt (Feiertag)
-- **19.05.2026** - Stefan Epping (Entwickler - S-Bahn Hamburg) & Dr. Jan Staudenmaier (Entwickler - DB Systel GmbH): Auslastungsprognosen by DB Lightgate
 - **21.05.2026** - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
 - **28.05.2026** - Lars Krupp (PhD Student & Researcher - DFKI & RPTU): Challenges of GenAI in Quantum Education
 
@@ -41,6 +40,8 @@ LLMs versprechen einen schnelleren Zugang zu medizinischem Wissen, bringen aber 
 
 ## Bisherige Vorträge
 ### 2026
+- 14.05.2026 - Christi Himmelfahrt (Feiertag)
+- 12.05.2026 - Abdulrahman Ulfat (Arzt und KI-Forscher - Universitätsklinikum Hamburg (UKE)): Klinische Evidenz auf Knopfdruck? Large Language Models zwischen Anspruch und Wirklichkeit
 - 07.05.2026 - Dr. Kai Himstedt (HITeC e.V.): HPC-Cluster-Nutzung im Rahmen des EDIH Hamburg
 - 05.05.2026 - Dr. Jennifer Seifert (Leiterin Transformationsprojekte, Arbeit und Leben Niedersachsen): Future Skills im KI-Zeitalter
 - 30.04.2026 - Phil Szalay (Tech Lead - Beyond the Loop GmbH): Vom Prompt zum ersten Token - Ein Blick hinter die Kulissen einer modernen KI-Chat-Anwendung
