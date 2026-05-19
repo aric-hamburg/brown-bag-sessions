@@ -21,15 +21,13 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**19.05.2026** - Stefan Epping (Entwickler - S-Bahn Hamburg) & Dr. Jan Staudenmaier (Entwickler - DB Systel GmbH): Auslastungsprognosen by DB Lightgate
+**21.05.2026** - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
 
-Früher wissen, wo ich einen Platz bekomme:
-Wie aus Live-Messdaten von S-Bahnen, Zugauslastungs-Informationen und KI-Prognosen für Kunden und Betrieb entstehen.
+Bildkompetenz war schon immer ein wichtiger Bestandteil von Medienkompetenz. Mit der zunehmenden gesellschaftlichen Durchdringung von KI-Technologien und im Kontext von Fake News und Desinformation gewinnt dieser Bereich an Brisanz. Da sehr viele politische Informationen auch über Bilder kommuniziert und rezipiert werden, leistet Bildkompetenz auch einen wichtigen Beitrag zum Erhalt von Demokratien.
 
 ## Weitere geplante Vorträge
 
 ### Mai 2026
-- **21.05.2026** - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
 - **28.05.2026** - Lars Krupp (PhD Student & Researcher - DFKI & RPTU): Challenges of GenAI in Quantum Education
 
 ### Juni 2026
@@ -40,6 +38,7 @@ Wie aus Live-Messdaten von S-Bahnen, Zugauslastungs-Informationen und KI-Prognos
 
 ## Bisherige Vorträge
 ### 2026
+- 19.05.2026 - Stefan Epping (Entwickler - S-Bahn Hamburg) & Dr. Jan Staudenmaier (Entwickler - DB Systel GmbH): Auslastungsprognosen by DB Lightgate
 - 14.05.2026 - Christi Himmelfahrt (Feiertag)
 - 12.05.2026 - Abdulrahman Ulfat (Arzt und KI-Forscher - Universitätsklinikum Hamburg (UKE)): Klinische Evidenz auf Knopfdruck? Large Language Models zwischen Anspruch und Wirklichkeit
 - 07.05.2026 - Dr. Kai Himstedt (HITeC e.V.): HPC-Cluster-Nutzung im Rahmen des EDIH Hamburg
