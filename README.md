@@ -21,14 +21,11 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**21.05.2026** - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
+**28.05.2026** - Lars Krupp (PhD Student & Researcher - DFKI & RPTU): Challenges of GenAI in Quantum Education -- in English
 
-Bildkompetenz war schon immer ein wichtiger Bestandteil von Medienkompetenz. Mit der zunehmenden gesellschaftlichen Durchdringung von KI-Technologien und im Kontext von Fake News und Desinformation gewinnt dieser Bereich an Brisanz. Da sehr viele politische Informationen auch über Bilder kommuniziert und rezipiert werden, leistet Bildkompetenz auch einen wichtigen Beitrag zum Erhalt von Demokratien.
+Expertise in quantum computing is in high demand and GenAI-based tutoring options may offer scalable solutions to address this demand. In this talk I will present my research on the risks associated with GenAI-based tutoring systems and highlight design solutions to mitigate adverse effects, such as blind reliance. I will highlight how proper moderation of such systems can facilitate active reflection and learning benefits.
 
 ## Weitere geplante Vorträge
-
-### Mai 2026
-- **28.05.2026** - Lars Krupp (PhD Student & Researcher - DFKI & RPTU): Challenges of GenAI in Quantum Education
 
 ### Juni 2026
 - **02.06.2026** - Farah Abdou (AI Research Analyst -Cambridge Centre for Alternative Finance): AI Governance - Policy to Practice -- in English
@@ -38,6 +35,8 @@ Bildkompetenz war schon immer ein wichtiger Bestandteil von Medienkompetenz. Mit
 
 ## Bisherige Vorträge
 ### 2026
+- 26.05.2026 - Ausgefallen
+- 21.05.2026 - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
 - 19.05.2026 - Stefan Epping (Entwickler - S-Bahn Hamburg) & Dr. Jan Staudenmaier (Entwickler - DB Systel GmbH): Auslastungsprognosen by DB Lightgate
 - 14.05.2026 - Christi Himmelfahrt (Feiertag)
 - 12.05.2026 - Abdulrahman Ulfat (Arzt und KI-Forscher - Universitätsklinikum Hamburg (UKE)): Klinische Evidenz auf Knopfdruck? Large Language Models zwischen Anspruch und Wirklichkeit
