@@ -32,7 +32,7 @@ Expertise in quantum computing is in high demand and GenAI-based tutoring option
 - **04.06.2026** - Justus Mann (TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie) & Tim Kanis (Doktorand, TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie): LLMs in der strategischen Unternehmensführung - Chancen, Risiken und Ansätze
 - **09.06.2026** - Eva Luise Knor (Wissenschaftliche Mitarbeiterin - Universität Hamburg): Politische Informationssuche mit Generativer KI
 - **16.06.2026** - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
-- **30.06.2026** - Quantum Technology Session (organised by hqic) / Giorgio Zarantonello (CTO - Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
+- **30.06.2026** - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 
 ## Bisherige Vorträge
 ### 2026
