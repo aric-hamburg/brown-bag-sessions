@@ -21,14 +21,13 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**28.05.2026** - Lars Krupp (PhD Student & Researcher - DFKI & RPTU): Challenges of GenAI in Quantum Education -- in English
+**02.06.2026** - Farah Abdou (AI Research Analyst): AI Governance - Policy to Practice -- in English
 
-Expertise in quantum computing is in high demand and GenAI-based tutoring options may offer scalable solutions to address this demand. In this talk I will present my research on the risks associated with GenAI-based tutoring systems and highlight design solutions to mitigate adverse effects, such as blind reliance. I will highlight how proper moderation of such systems can facilitate active reflection and learning benefits.
+As AI regulations like the EU AI Act take effect, organizations face a critical challenge: turning governance frameworks into actionable, day-to-day practices. This session draws on hands-on ML engineering experience to explore what effective AI policies look like in practice — from internal guidelines for LLM use to building compliance into development workflows — with real-world examples.
 
 ## Weitere geplante Vorträge
 
 ### Juni 2026
-- **02.06.2026** - Farah Abdou (AI Research Analyst): AI Governance - Policy to Practice -- in English
 - **04.06.2026** - Justus Mann (TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie) & Tim Kanis (Doktorand, TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie): LLMs in der strategischen Unternehmensführung - Chancen, Risiken und Ansätze
 - **09.06.2026** - Eva Luise Knor (Wissenschaftliche Mitarbeiterin - Universität Hamburg): Politische Informationssuche mit Generativer KI
 - **11.06.2026** - Anselm Fehnker (Senior AI Project Manager - ARIC e.V.): KI und Energieverbrauch
@@ -40,6 +39,7 @@ Expertise in quantum computing is in high demand and GenAI-based tutoring option
 
 ## Bisherige Vorträge
 ### 2026
+- 28.05.2026 - Lars Krupp (PhD Student & Researcher - DFKI & RPTU): Challenges of GenAI in Quantum Education -- in English
 - 26.05.2026 - Ausgefallen
 - 21.05.2026 - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
 - 19.05.2026 - Stefan Epping (Entwickler - S-Bahn Hamburg) & Dr. Jan Staudenmaier (Entwickler - DB Systel GmbH): Auslastungsprognosen by DB Lightgate
