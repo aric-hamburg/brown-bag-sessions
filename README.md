@@ -35,6 +35,9 @@ Expertise in quantum computing is in high demand and GenAI-based tutoring option
 - **16.06.2026** - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
 - **30.06.2026** - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 
+### Juli 2026
+- **07.07.2026** - ARIC e.V.
+
 ## Bisherige Vorträge
 ### 2026
 - 26.05.2026 - Ausgefallen
