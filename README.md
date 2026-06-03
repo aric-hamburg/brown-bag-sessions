@@ -21,24 +21,28 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**02.06.2026** - Farah Abdou (AI Research Analyst): AI Governance - Policy to Practice -- in English
+- **04.06.2026** - Justus Mann (TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie) & Tim Kanis (Doktorand, TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie): LLMs in der strategischen Unternehmensführung - Chancen, Risiken und Ansätze
 
-As AI regulations like the EU AI Act take effect, organizations face a critical challenge: turning governance frameworks into actionable, day-to-day practices. This session draws on hands-on ML engineering experience to explore what effective AI policies look like in practice — from internal guidelines for LLM use to building compliance into development workflows — with real-world examples.
+Large Language Models (LLMs) gewinnen in der strategischen Unternehmensführung zunehmend an Bedeutung. Die Nutzung von LLMs beinhaltet neben großen Chancen jedoch auch erhebliche Risiken. Im Rahmen des Vortrags werden auf Basis aktueller Forschung praxisnahe Ansätze zur effektiven Nutzung von LLMs in der strategischen Unternehmensführung vorgestellt, um Chancen besser zu nutzen und Risiken zu reduzieren.
 
 ## Weitere geplante Vorträge
 
 ### Juni 2026
-- **04.06.2026** - Justus Mann (TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie) & Tim Kanis (Doktorand, TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie): LLMs in der strategischen Unternehmensführung - Chancen, Risiken und Ansätze
+
 - **09.06.2026** - Eva Luise Knor (Wissenschaftliche Mitarbeiterin - Universität Hamburg): Politische Informationssuche mit Generativer KI
 - **11.06.2026** - Anselm Fehnker (Senior AI Project Manager - ARIC e.V.): KI und Energieverbrauch
 - **16.06.2026** - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
+- **25.06.2026** - Sophie Haas (DFKI): Crashkurs KI im Gesundheitswesen - Wie du dein Projekt zielsicher gegen die Wand fährst
 - **30.06.2026** - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 
 ### Juli 2026
-- **07.07.2026** - ARIC e.V.
+- **07.07.2026** - Lou Rockstedt und Daniel Lisunkin (ARIC e.V.): KI-Deepfakes und digitale Gewalt - Aktuelle Entwicklungen aus Gesellschaft, Recht und Forschung
+
+!! Sommerpause ab 08.07.2026 !!
 
 ## Bisherige Vorträge
 ### 2026
+- 02.06.2026 - Farah Abdou (AI Research Analyst): AI Governance - Policy to Practice -- in English
 - 28.05.2026 - Lars Krupp (PhD Student & Researcher - DFKI & RPTU): Challenges of GenAI in Quantum Education -- in English
 - 26.05.2026 - Ausgefallen
 - 21.05.2026 - Dr. Peter Holzwarth (Dozent Pädagogische Hochschule Zürich, Medienpädagoge, Autor, Berater): Bildkompetenz, Fake News und KI
