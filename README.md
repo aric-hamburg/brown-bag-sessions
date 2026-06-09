@@ -38,7 +38,7 @@ Künstliche Intelligenz ermöglicht immer leistungsfähigere Anwendungen. Doch w
 ### Juli 2026
 - **07.07.2026** - Lou Rockstedt und Daniel Lisunkin (Project Managers - ARIC e.V.): KI-Deepfakes und digitale Gewalt - Aktuelle Entwicklungen aus Gesellschaft, Recht und Forschung
 
-###☀️ Sommerpause vom 08.07.2026 bis zum 31.08.2026 ☀️
+### ☀️ Sommerpause vom 08.07.2026 bis zum 31.08.2026 ☀️
 Nach der letzten Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Sommerpause. Ab dem 01.09.2026 finden die Brown Bag Sessions wieder wie gewohnt jeden Dienstag und Donnerstag statt.
 
 
