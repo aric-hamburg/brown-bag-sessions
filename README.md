@@ -32,6 +32,7 @@ Generative KI-Systeme wie ChatGPT werden zunehmend als politische Informationsqu
 
 - **11.06.2026** - Anselm Fehnker (Senior AI Project Manager - ARIC e.V.): KI und Energieverbrauch
 - **16.06.2026** - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
+- **18.06.2026** - Entfällt wegen internem Termin
 - **25.06.2026** - Sophie Haas (Researcherin - DFKI): Crashkurs KI im Gesundheitswesen - Wie du dein Projekt zielsicher gegen die Wand fährst
 - **30.06.2026** - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 
