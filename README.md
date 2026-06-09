@@ -21,16 +21,14 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**09.06.2026** - Eva Luise Knor (Wissenschaftliche Mitarbeiterin - Universität Hamburg): Politische Informationssuche mit Generativer KI
+**11.06.2026** - Anselm Fehnker (Senior AI Project Manager - ARIC e.V.): KI und Energieverbrauch
 
-Generative KI-Systeme wie ChatGPT werden zunehmend als politische Informationsquelle genutzt. Dabei entstehen neue Chancen für den Zugang zu Informationen, zugleich aber auch Risiken durch plausibel wirkende, potenziell fehlerhafte oder verzerrte Inhalte. Im Vortrag soll sich der Frage genähert werden, wie Endnutzende mit dieser Unsicherheit in politischen Informationskontexten umgehen, ob und wie menschenähnliche Interaktionen mit KI politische Meinungsbildung beeinflussen und auf welche Weise Techunternehmen implizite Erwartungen an die Verlässlichkeit von KI-Technologien prägen.
+Künstliche Intelligenz ermöglicht immer leistungsfähigere Anwendungen. Doch wie viel Energie verbraucht sie dabei eigentlich? Von Training und Inferenz bis hin zum Betrieb großer Rechenzentren: Der Energiebedarf von KI ist vielfältig und oft unsichtbar. In dieser Brown Bag Session werfen wir einen Blick auf den konkreten Energieverbrauch von Sprachmodellen, beleuchten gängige Formen der Energieversorgung von Rechenzentren und diskutieren, wie eine nachhaltigere Zukunft für die KI-Infrastruktur aussehen könnte.
 
 
 ## Weitere geplante Vorträge
 
 ### Juni 2026
-
-- **11.06.2026** - Anselm Fehnker (Senior AI Project Manager - ARIC e.V.): KI und Energieverbrauch
 - **16.06.2026** - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
 - **18.06.2026** - Entfällt wegen internem Termin
 - **25.06.2026** - Sophie Haas (Researcherin - DFKI): Crashkurs KI im Gesundheitswesen - Wie du dein Projekt zielsicher gegen die Wand fährst
@@ -45,6 +43,7 @@ Nach der letzten Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Somme
 
 ## Bisherige Vorträge
 ### 2026
+- 09.06.2026 - Eva Luise Knor (Wissenschaftliche Mitarbeiterin - Universität Hamburg): Politische Informationssuche mit Generativer KI
 - 04.06.2026 - Justus Mann (TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie) & Tim Kanis (Doktorand, TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie): LLMs in der strategischen Unternehmensführung - Chancen, Risiken und Ansätze
 - 02.06.2026 - Farah Abdou (AI Research Analyst): AI Governance - Policy to Practice -- in English
 - 28.05.2026 - Lars Krupp (PhD Student & Researcher - DFKI & RPTU): Challenges of GenAI in Quantum Education -- in English
