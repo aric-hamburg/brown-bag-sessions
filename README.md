@@ -21,7 +21,7 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-- **09.06.2026** - Eva Luise Knor (Wissenschaftliche Mitarbeiterin - Universität Hamburg): Politische Informationssuche mit Generativer KI
+**09.06.2026** - Eva Luise Knor (Wissenschaftliche Mitarbeiterin - Universität Hamburg): Politische Informationssuche mit Generativer KI
 
 Generative KI-Systeme wie ChatGPT werden zunehmend als politische Informationsquelle genutzt. Dabei entstehen neue Chancen für den Zugang zu Informationen, zugleich aber auch Risiken durch plausibel wirkende, potenziell fehlerhafte oder verzerrte Inhalte. Im Vortrag soll sich der Frage genähert werden, wie Endnutzende mit dieser Unsicherheit in politischen Informationskontexten umgehen, ob und wie menschenähnliche Interaktionen mit KI politische Meinungsbildung beeinflussen und auf welche Weise Techunternehmen implizite Erwartungen an die Verlässlichkeit von KI-Technologien prägen.
 
@@ -38,7 +38,9 @@ Generative KI-Systeme wie ChatGPT werden zunehmend als politische Informationsqu
 ### Juli 2026
 - **07.07.2026** - Lou Rockstedt und Daniel Lisunkin (Project Managers - ARIC e.V.): KI-Deepfakes und digitale Gewalt - Aktuelle Entwicklungen aus Gesellschaft, Recht und Forschung
 
-!! Sommerpause ab 08.07.2026 !!
+### Sommerpause vom 08.07.2026 bis zum 31.08.2026 ☀️
+Nach der letzten Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Sommerpause. Ab dem 01.09.2026 finden die Brown Bag Sessions wieder wie gewohnt jeden Dienstag und Donnerstag statt.
+
 
 ## Bisherige Vorträge
 ### 2026
