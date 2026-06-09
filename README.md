@@ -31,6 +31,7 @@ Künstliche Intelligenz ermöglicht immer leistungsfähigere Anwendungen. Doch w
 ### Juni 2026
 - **16.06.2026** - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
 - **18.06.2026** - Entfällt wegen internem Termin
+- **23.06.2026** - PD Dr. med. habil. Witold H. Polanski (Neurochirurg - Universitätsklinikum Carld Gustav Carus Dresden) - Human in the Loop: Kontrolle oder Kontrollgefühl?
 - **25.06.2026** - Sophie Haas (Researcherin - DFKI): Crashkurs KI im Gesundheitswesen - Wie du dein Projekt zielsicher gegen die Wand fährst
 - **30.06.2026** - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 
