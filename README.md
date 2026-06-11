@@ -35,10 +35,11 @@ Automatisierung durch KI mit ihren Chancen und Risiken für die Arbeitswelt sch�
 - **30.06.2026** - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 
 ### Juli 2026
+- **02.07.2026** - tbd
 - **07.07.2026** - Lou Rockstedt und Daniel Lisunkin (Project Managers - ARIC e.V.): KI-Deepfakes und digitale Gewalt - Aktuelle Entwicklungen aus Gesellschaft, Recht und Forschung
 
 ### ☀️ Sommerpause vom 08.07.2026 bis zum 31.08.2026 ☀️
-Nach der letzten Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Sommerpause. Ab dem 01.09.2026 finden die Brown Bag Sessions wieder wie gewohnt jeden Dienstag und Donnerstag statt.
+Nach der Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Sommerpause. Ab dem 01.09.2026 finden die Brown Bag Sessions wieder wie gewohnt jeden Dienstag und Donnerstag statt.
 
 
 ## Bisherige Vorträge
