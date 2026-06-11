@@ -21,15 +21,14 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**11.06.2026** - Anselm Fehnker (Senior AI Project Manager - ARIC e.V.): KI und Energieverbrauch
+**16.06.2026** - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
 
-Künstliche Intelligenz ermöglicht immer leistungsfähigere Anwendungen. Doch wie viel Energie verbraucht sie dabei eigentlich? Von Training und Inferenz bis hin zum Betrieb großer Rechenzentren: Der Energiebedarf von KI ist vielfältig und oft unsichtbar. In dieser Brown Bag Session werfen wir einen Blick auf den konkreten Energieverbrauch von Sprachmodellen, beleuchten gängige Formen der Energieversorgung von Rechenzentren und diskutieren, wie eine nachhaltigere Zukunft für die KI-Infrastruktur aussehen könnte.
+Automatisierung durch KI mit ihren Chancen und Risiken für die Arbeitswelt schürt Ängste, macht Hoffnung und wirft Fragen auf. Damit der technologische Wandel für eine (Leistungs-)Gesellschaft gelingen kann, muss hier auch die psychologische Forschung zu Wort kommen. Der Vortrag beleuchtet den Stand Künstlicher Intelligenz im Arbeitskontext, zeigt auf, wie Beschäftigte auf KI in der Arbeitswelt reagieren und lädt ein zur Diskussion über Erwartungen hinsichtlich der Automation beruflicher Tätigkeiten.
 
 
 ## Weitere geplante Vorträge
 
 ### Juni 2026
-- **16.06.2026** - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
 - **18.06.2026** - Entfällt wegen internem Termin
 - **23.06.2026** - PD Dr. med. habil. Witold H. Polanski (Neurochirurg - Universitätsklinikum Carld Gustav Carus Dresden) - Human in the Loop: Kontrolle oder Kontrollgefühl?
 - **25.06.2026** - Sophie Haas (Researcherin - DFKI): Crashkurs KI im Gesundheitswesen - Wie du dein Projekt zielsicher gegen die Wand fährst
@@ -44,6 +43,7 @@ Nach der letzten Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Somme
 
 ## Bisherige Vorträge
 ### 2026
+- 11.06.2026 - Anselm Fehnker (Senior AI Project Manager - ARIC e.V.): KI und Energieverbrauch
 - 09.06.2026 - Eva Luise Knor (Wissenschaftliche Mitarbeiterin - Universität Hamburg): Politische Informationssuche mit Generativer KI
 - 04.06.2026 - Justus Mann (TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie) & Tim Kanis (Doktorand, TU Bergakademie Freiberg, Lehrstuhl für Internationales Management und Unternehmensstrategie): LLMs in der strategischen Unternehmensführung - Chancen, Risiken und Ansätze
 - 02.06.2026 - Farah Abdou (AI Research Analyst): AI Governance - Policy to Practice -- in English
