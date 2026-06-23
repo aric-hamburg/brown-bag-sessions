@@ -21,15 +21,14 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**23.06.2026** - PD Dr. med. habil. Witold H. Polanski (Neurochirurg - Universitätsklinikum Carld Gustav Carus Dresden) - Human in the Loop: Kontrolle oder Kontrollgefühl?
+**25.06.2026** - Sophie Haas (Researcherin - DFKI): Crashkurs KI im Gesundheitswesen - Wie du dein Projekt zielsicher gegen die Wand fährst
 
-Große Sprachmodelle schlagen Ärzt:innen in Studien, doch Ärzt:innen mit KI werden nicht besser. Der Vortrag zeigt, warum die Standardantwort "Human in the Loop" drei grundverschiedene Aufsichtsmodelle verschleiert, die das Risiko nur verschieben statt es zu lösen, und was draus für Regulierung (EU AI Act) und klinische Praxis folgt.
+Ein KI-Projekt im Gesundheitswesen von der ersten Idee bis in den medizinischen Versorgungsalltag zu bringen, bietet unzählige Gelegenheiten, elegant falsch abzubiegen. Auf Basis realer Praxiserfahrungen beleuchtet der Vortrag die technischen, organisatorischen und regulatorischen Stolpersteine entlang des gesamten End-to-End-Entwicklungsprozesses, ihre Ursachen und mögliche Bewältigungsstrategien.
 
 
 ## Weitere geplante Vorträge
 
 ### Juni 2026
-- **25.06.2026** - Sophie Haas (Researcherin - DFKI): Crashkurs KI im Gesundheitswesen - Wie du dein Projekt zielsicher gegen die Wand fährst
 - **30.06.2026** - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 
 ### Juli 2026
@@ -42,6 +41,8 @@ Nach der Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Sommerpause. 
 
 ## Bisherige Vorträge
 ### 2026
+- 23.06.2026 - PD Dr. med. habil. Witold H. Polanski (Neurochirurg - Universitätsklinikum Carld Gustav Carus Dresden) - Human in the Loop: Kontrolle oder Kontrollgefühl?
+- 18.06.2026 - Entfallen aufgrund eines internen Termins
 - 16.06.2026 - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
 - 11.06.2026 - Anselm Fehnker (Senior AI Project Manager - ARIC e.V.): KI und Energieverbrauch
 - 09.06.2026 - Eva Luise Knor (Wissenschaftliche Mitarbeiterin - Universität Hamburg): Politische Informationssuche mit Generativer KI
