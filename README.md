@@ -32,7 +32,7 @@ Ein KI-Projekt im Gesundheitswesen von der ersten Idee bis in den medizinischen 
 - **30.06.2026** - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 
 ### Juli 2026
-- **02.07.2026** - Pascal Wichmann (AI Manager @ARIC und Head of AI @Caps und Collars): tbd
+- **02.07.2026** - Dr. Pascal Wichmann (AI Manager @ARIC und Strategieberater): Präsentationen erstellen mit KI – Optionen und Hypothesen
 - **07.07.2026** - Lou Rockstedt und Daniel Lisunkin (Project Managers - ARIC e.V.): KI-Deepfakes und digitale Gewalt - Aktuelle Entwicklungen aus Gesellschaft, Recht und Forschung
 
 ### ☀️ Sommerpause vom 08.07.2026 bis zum 31.08.2026 ☀️
