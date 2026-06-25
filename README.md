@@ -21,15 +21,11 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
 
 ## Nächster Vortrag
-**25.06.2026** - Sophie Haas (Researcherin - DFKI): Crashkurs KI im Gesundheitswesen - Wie du dein Projekt zielsicher gegen die Wand fährst
+**30.06.2026** - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 
-Ein KI-Projekt im Gesundheitswesen von der ersten Idee bis in den medizinischen Versorgungsalltag zu bringen, bietet unzählige Gelegenheiten, elegant falsch abzubiegen. Auf Basis realer Praxiserfahrungen beleuchtet der Vortrag die technischen, organisatorischen und regulatorischen Stolpersteine entlang des gesamten End-to-End-Entwicklungsprozesses, ihre Ursachen und mögliche Bewältigungsstrategien.
-
+QUDORA develops ion-trap quantum computers using its proprietary Near Field Quantum Control (NFQC) technology for qubit control. The technology enables the minimization of error rates, the extension of coherence times, and the implementation of scalable quantum platforms, thereby providing high-performance quantum hardware for executing complex algorithms.
 
 ## Weitere geplante Vorträge
-
-### Juni 2026
-- **30.06.2026** - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 
 ### Juli 2026
 - **02.07.2026** - Dr. Pascal Wichmann (AI Manager @ARIC und Strategieberater): Präsentationen erstellen mit KI – Optionen und Hypothesen
@@ -41,6 +37,7 @@ Nach der Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Sommerpause. 
 
 ## Bisherige Vorträge
 ### 2026
+- 25.06.2026 - Sophie Haas (Researcherin - DFKI): Crashkurs KI im Gesundheitswesen - Wie du dein Projekt zielsicher gegen die Wand fährst
 - 23.06.2026 - PD Dr. med. habil. Witold H. Polanski (Neurochirurg - Universitätsklinikum Carld Gustav Carus Dresden) - Human in the Loop: Kontrolle oder Kontrollgefühl?
 - 18.06.2026 - Entfallen aufgrund eines internen Termins
 - 16.06.2026 - Jens Nachtwei (Psychologe - Humboldt-Universität zu Berlin und Hochschule für angewandtes Management): KI als Kollegin oder Konkurrenz?
