@@ -18,21 +18,18 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjFmMDM3MTEtZmVhOS00NDU1L
 Dieses Format wird im Rahmen des EDIH Hamburg (https://www.linkedin.com/company/edih-hamburg/) mit Unterstützung durch die EU und die IFB Hamburg durchgeführt. Um unsere Events zukünftig noch besser auf die Wünsche und Bedürfnisse unserer Teilnehmer abstimmen zu können, sind wir auf Dein Feedback angewiesen. Wir würden uns sehr freuen, wenn Du Dir ein paar Minuten Zeit nehmen könntest, um unseren Fragebogen auszufüllen. Hier findest Du den Link zum Feedback-Formular: https://ec.europa.eu/eusurvey/runner/EDIH_Hamburg_Befragung_Innovation_Ecosystem
 
 Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir unsere Veranstaltungen stetig verbessern können. Vielen Dank im Voraus für Deine Unterstützung! 
-Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.  
+Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
+
+## ☀️ Sommerpause vom 08.07.2026 bis zum 31.08.2026 ☀️
+Nach der Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Sommerpause. Ab dem 01.09.2026 finden die Brown Bag Sessions wieder wie gewohnt jeden Dienstag und Donnerstag statt.
 
 ## Nächster Vortrag
-**07.07.2026** - Lou Rockstedt und Daniel Lisunkin (Project Managers - ARIC e.V.): KI-Deepfakes und digitale Gewalt - Aktuelle Entwicklungen aus Gesellschaft, Recht und Forschung
-
-Generative KI-Technologien ermöglichen neue Formen digitaler Gewalt und stellen Gesellschaft, Rechtsprechung und Strafverfolgung vor neue Herausforderungen. Der Vortrag gibt einen Einblick in aktuelle Entwicklungen rund um sexualisierte Deepfakes: die Rechtslage in Deutschland und auf EU-Ebene, einen rechtsvergleichenden Überblick, sowie aktuelle Ergebnisse aus der Forschung
 
 ## Weitere geplante Vorträge
 
-### ☀️ Sommerpause vom 08.07.2026 bis zum 31.08.2026 ☀️
-Nach der Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Sommerpause. Ab dem 01.09.2026 finden die Brown Bag Sessions wieder wie gewohnt jeden Dienstag und Donnerstag statt.
-
-
 ## Bisherige Vorträge
 ### 2026
+- 07.07.2026 - Lou Rockstedt und Daniel Lisunkin (Project Managers - ARIC e.V.): KI-Deepfakes und digitale Gewalt - Aktuelle Entwicklungen aus Gesellschaft, Recht und Forschung
 - 02.07.2026 - Dr. Pascal Wichmann (AI Manager @ARIC und Strategieberater): Präsentationen erstellen mit KI – Optionen und Hypothesen
 - 30.06.2026 - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
 - 25.06.2026 - Sophie Haas (Researcherin - DFKI): Crashkurs KI im Gesundheitswesen - Wie du dein Projekt zielsicher gegen die Wand fährst
