@@ -27,8 +27,14 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 Nach der Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Sommerpause. Ab dem 01.09.2026 finden die Brown Bag Sessions wieder wie gewohnt jeden Dienstag und Donnerstag statt.
 
 ## Nächster Vortrag
+### 01.09.2026 - Jörg Forthmann (Vorsitzender von KI für Demokratie e.V.): „Rechte“ Narrative mit KI im Internet identifizieren
+Rechtspopulisten und Rechtsextremisten nutzen den Halbschatten und die Anonymität des Internets systematisch, um Desinformationskampagnen zu realisieren. Demokraten und demokratische Institutionen können sich dagegen nur dann wirkungsvoll wehren, wenn sie die Narrative rechter Desinformation sehr früh identifizieren – um darauf reagieren zu können. Hier hilft KI. In der Brown Bag Session zeige ich, wie wir vorgehen und welche Ergebnisse entstehen.
 
 ## Weitere geplante Vorträge
+### September 2026
+- **03.09.2026** - Petra Vogt (Wirtschaftsinformatikerin - Navorai): KI im Arbeitsschutz: Halluzination trifft Präzision
+- **08.09.2026** - Eylem Tas (Research Associate and Doctoral Researcher - Hamburg University of Technology / University of Hamburg): Citation Design for GenAI Use
+- **22.09.2026** - Manja Baudis (Geschäftsführerin - Die Lautmaler) & Dr. Jutta Stock (Beratung Conversational AI): Conversational AI: Durchbruch vs. Vertrauensproblem
 
 ## Bisherige Vorträge
 ### 2026
