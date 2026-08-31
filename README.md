@@ -23,9 +23,6 @@ Dieses Format wird im Rahmen des EDIH Hamburg (https://www.linkedin.com/company/
 Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir unsere Veranstaltungen stetig verbessern können. Vielen Dank im Voraus für Deine Unterstützung! 
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
-## ☀️ Sommerpause vom 08.07.2026 bis zum 31.08.2026 ☀️
-Nach der Session am 07.07.2026 gehen wir bis zum 31.08.2026 in die Sommerpause. Ab dem 01.09.2026 finden die Brown Bag Sessions wieder wie gewohnt jeden Dienstag und Donnerstag statt.
-
 ## Nächster Vortrag
 **01.09.2026** - Jörg Forthmann (Vorsitzender von KI für Demokratie e.V.): „Rechte“ Narrative mit KI im Internet identifizieren
 
