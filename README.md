@@ -39,7 +39,7 @@ Rechtspopulisten und Rechtsextremisten nutzen den Halbschatten und die Anonymit√
 - **24.09.2026** - Lou Dutko (CTO - Lemberg Solutions): How to integrate AI into your dev process effectively -- in English
 - **29.09.2026** - Quantum Technology Session (organised by hqic) / tbd
 
-## Oktober 2026
+### Oktober 2026
 - **06.10.2026** - Tom Last (CTO and Co-Founder - elbtech GmbH): Self-validating specifications -- in English
 
 ## Bisherige Vortr√§ge
