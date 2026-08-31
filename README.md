@@ -33,7 +33,14 @@ Rechtspopulisten und Rechtsextremisten nutzen den Halbschatten und die Anonymit�
 - **03.09.2026** - Petra Vogt (Wirtschaftsinformatikerin - Navorai): KI im Arbeitsschutz: Halluzination trifft Präzision
 - **08.09.2026** - Eylem Tas (Research Associate and Doctoral Researcher - Hamburg University of Technology / University of Hamburg): Citation Design for GenAI Use
 - **10.09.2026** - Justus Kilian Wolff (Gründer - bools): Entscheidungsprobleme mathematisch lösen
+- **15.09.2026** - tbd
+- **17.09.2026** - Theodor Schöwitz (Mitgründer und Produktentwicklung - Sozial KI): Souveräne KI für soziale Einrichtungen
 - **22.09.2026** - Manja Baudis (Geschäftsführerin - Die Lautmaler) & Dr. Jutta Stock (Beratung Conversational AI): Conversational AI: Durchbruch vs. Vertrauensproblem
+- **24.09.2026** - Lou Dutko (CTO - Lemberg Solutions): How to integrate AI into your dev process effectively -- in English
+- **29.09.2026** - Quantum Technology Session (organised by hqic) / tbd
+
+## Oktober 2026
+- **06.10.2026** - Tom Last (CTO and Co-Founder - elbtech GmbH): Self-validating specifications -- in English
 
 ## Bisherige Vorträge
 ### 2026
