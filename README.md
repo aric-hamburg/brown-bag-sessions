@@ -24,13 +24,12 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**03.09.2026** - Petra Vogt (Wirtschaftsinformatikerin - Navorai): KI im Arbeitsschutz: Halluzination trifft Präzision
+**08.09.2026** - Eylem Tas (Research Associate and Doctoral Researcher - Hamburg University of Technology / University of Hamburg): Citation Design for GenAI Use
 
-Der Einsatz nicht-deterministischer KI scheint in sicherheits- und compliance-kritischen Prozessen zunächst ausgeschlossen. Anhand eines Praxisprojekts zur automatisierten Verarbeitung von Sicherheitsdatenblättern zeigt der Vortrag, wie KI durch strukturierte Datenextraktion, präzises Prompting und systematische Validierung dennoch zuverlässig eingesetzt werden kann. Die vorgestellten Maßnahmen liefern übertragbare Best Practices für belastbare KI-Workflows in hochpräzisen Unternehmensprozessen.
+This talk shows how citation design can make the use of generative AI in organizational work contexts more transparent, verifiable, and responsible. Based on a qualitative study of GenAI use in companies, it presents design mechanisms that strengthen transparency, human oversight, and epistemic responsibility in the use of AI-generated content.
 
 ## Weitere geplante Vorträge
 ### September 2026
-- **08.09.2026** - Eylem Tas (Research Associate and Doctoral Researcher - Hamburg University of Technology / University of Hamburg): Citation Design for GenAI Use
 - **10.09.2026** - Justus Kilian Wolff (Gründer - bools): Entscheidungsprobleme mathematisch lösen
 - **15.09.2026** - tbd
 - **17.09.2026** - Theodor Schöwitz (Mitgründer und Produktentwicklung - Sozial KI): Souveräne KI für soziale Einrichtungen
@@ -43,6 +42,7 @@ Der Einsatz nicht-deterministischer KI scheint in sicherheits- und compliance-kr
 
 ## Bisherige Vorträge
 ### 2026
+- 03.09.2026 - Petra Vogt (Wirtschaftsinformatikerin - Navorai): KI im Arbeitsschutz: Halluzination trifft Präzision
 - 01.09.2026 - Jörg Forthmann (Vorsitzender von KI für Demokratie e.V.): „Rechte“ Narrative mit KI im Internet identifizieren
 - 07.07.2026 - Lou Rockstedt und Daniel Lisunkin (Project Managers - ARIC e.V.): KI-Deepfakes und digitale Gewalt - Aktuelle Entwicklungen aus Gesellschaft, Recht und Forschung
 - 02.07.2026 - Dr. Pascal Wichmann (AI Manager @ARIC und Strategieberater): Präsentationen erstellen mit KI – Optionen und Hypothesen
