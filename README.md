@@ -24,7 +24,7 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**08.09.2026** - Eylem Tas (Research Associate and Doctoral Researcher - Hamburg University of Technology / University of Hamburg): Citation Design for GenAI Use
+**08.09.2026** - Eylem Tas (Research Associate and Doctoral Researcher - Hamburg University of Technology / University of Hamburg): Citation Design for GenAI Use -- in English
 
 This talk shows how citation design can make the use of generative AI in organizational work contexts more transparent, verifiable, and responsible. Based on a qualitative study of GenAI use in companies, it presents design mechanisms that strengthen transparency, human oversight, and epistemic responsibility in the use of AI-generated content.
 
