@@ -24,13 +24,12 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**01.09.2026** - Jörg Forthmann (Vorsitzender von KI für Demokratie e.V.): „Rechte“ Narrative mit KI im Internet identifizieren
+**03.09.2026** - Petra Vogt (Wirtschaftsinformatikerin - Navorai): KI im Arbeitsschutz: Halluzination trifft Präzision
 
-Rechtspopulisten und Rechtsextremisten nutzen den Halbschatten und die Anonymität des Internets systematisch, um Desinformationskampagnen zu realisieren. Demokraten und demokratische Institutionen können sich dagegen nur dann wirkungsvoll wehren, wenn sie die Narrative rechter Desinformation sehr früh identifizieren – um darauf reagieren zu können. Hier hilft KI. In der Brown Bag Session zeige ich, wie wir vorgehen und welche Ergebnisse entstehen.
+Der Einsatz nicht-deterministischer KI scheint in sicherheits- und compliance-kritischen Prozessen zunächst ausgeschlossen. Anhand eines Praxisprojekts zur automatisierten Verarbeitung von Sicherheitsdatenblättern zeigt der Vortrag, wie KI durch strukturierte Datenextraktion, präzises Prompting und systematische Validierung dennoch zuverlässig eingesetzt werden kann. Die vorgestellten Maßnahmen liefern übertragbare Best Practices für belastbare KI-Workflows in hochpräzisen Unternehmensprozessen.
 
 ## Weitere geplante Vorträge
 ### September 2026
-- **03.09.2026** - Petra Vogt (Wirtschaftsinformatikerin - Navorai): KI im Arbeitsschutz: Halluzination trifft Präzision
 - **08.09.2026** - Eylem Tas (Research Associate and Doctoral Researcher - Hamburg University of Technology / University of Hamburg): Citation Design for GenAI Use
 - **10.09.2026** - Justus Kilian Wolff (Gründer - bools): Entscheidungsprobleme mathematisch lösen
 - **15.09.2026** - tbd
@@ -44,6 +43,7 @@ Rechtspopulisten und Rechtsextremisten nutzen den Halbschatten und die Anonymit�
 
 ## Bisherige Vorträge
 ### 2026
+- 01.09.2026 - Jörg Forthmann (Vorsitzender von KI für Demokratie e.V.): „Rechte“ Narrative mit KI im Internet identifizieren
 - 07.07.2026 - Lou Rockstedt und Daniel Lisunkin (Project Managers - ARIC e.V.): KI-Deepfakes und digitale Gewalt - Aktuelle Entwicklungen aus Gesellschaft, Recht und Forschung
 - 02.07.2026 - Dr. Pascal Wichmann (AI Manager @ARIC und Strategieberater): Präsentationen erstellen mit KI – Optionen und Hypothesen
 - 30.06.2026 - Quantum Technology Session (organised by hqic) / Henning Hahn (Qudora Technologies): Ion-trap quantum computers based on NFQC -- in English
