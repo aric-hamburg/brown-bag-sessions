@@ -24,13 +24,12 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**08.09.2026** - Eylem Tas (Research Associate and Doctoral Researcher - Hamburg University of Technology / University of Hamburg): Citation Design for GenAI Use -- in English
+**10.09.2026** - Justus Kilian Wolff (Gründer - bools): Entscheidungsprobleme mathematisch lösen
 
-This talk shows how citation design can make the use of generative AI in organizational work contexts more transparent, verifiable, and responsible. Based on a qualitative study of GenAI use in companies, it presents design mechanisms that strengthen transparency, human oversight, and epistemic responsibility in the use of AI-generated content.
+Was haben Schichtplanung, Lieferrouten und Produktionsplanung gemeinsam? Sie alle lassen sich mit mathematischer Optimierung lösen, einem Bereich der KI, der oft im Schatten von Sprachmodellen steht. Diese Session gibt eine kompakte Einführung und zeigt interaktiv, wie große Optimierungsmodelle erstellt und gelöst werden können.
 
 ## Weitere geplante Vorträge
 ### September 2026
-- **10.09.2026** - Justus Kilian Wolff (Gründer - bools): Entscheidungsprobleme mathematisch lösen
 - **15.09.2026** - Makysm Kitsera (CEO and Founder - Dr.MaxHealth): Healthcare in the Age of AI: From Hype to Clinical Reality -- in English
 - **17.09.2026** - Theodor Schöwitz (Mitgründer und Produktentwicklung - Sozial KI): Souveräne KI für soziale Einrichtungen
 - **22.09.2026** - Manja Baudis (Geschäftsführerin - Die Lautmaler) & Dr. Jutta Stock (Beratung Conversational AI): Conversational AI: Durchbruch vs. Vertrauensproblem
@@ -42,6 +41,7 @@ This talk shows how citation design can make the use of generative AI in organiz
 
 ## Bisherige Vorträge
 ### 2026
+- 08.09.2026 - Eylem Tas (Research Associate and Doctoral Researcher - Hamburg University of Technology / University of Hamburg): Citation Design for GenAI Use -- in English
 - 03.09.2026 - Petra Vogt (Wirtschaftsinformatikerin - Navorai): KI im Arbeitsschutz: Halluzination trifft Präzision
 - 01.09.2026 - Jörg Forthmann (Vorsitzender von KI für Demokratie e.V.): „Rechte“ Narrative mit KI im Internet identifizieren
 - 07.07.2026 - Lou Rockstedt und Daniel Lisunkin (Project Managers - ARIC e.V.): KI-Deepfakes und digitale Gewalt - Aktuelle Entwicklungen aus Gesellschaft, Recht und Forschung
