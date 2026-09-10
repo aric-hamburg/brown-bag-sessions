@@ -24,13 +24,12 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**10.09.2026** - Justus Kilian Wolff (Gründer - bools): Entscheidungsprobleme mathematisch lösen
+**15.09.2026** - Makysm Kitsera (CEO and Founder - Dr.MaxHealth): Healthcare in the Age of AI: From Hype to Clinical Reality -- in English
 
-Was haben Schichtplanung, Lieferrouten und Produktionsplanung gemeinsam? Sie alle lassen sich mit mathematischer Optimierung lösen, einem Bereich der KI, der oft im Schatten von Sprachmodellen steht. Diese Session gibt eine kompakte Einführung und zeigt interaktiv, wie große Optimierungsmodelle erstellt und gelöst werden können.
+AI is rapidly becoming capable of answering medical questions, interpreting complex information and matching or exceeding expert performance on selected benchmarks — but turning these capabilities into useful clinical systems is a very different challenge. This talk will look at the gap between impressive AI demonstrations and real-world healthcare, including the problems of fragmented patient data, longitudinal reasoning, reliability, clinical integration and proving actual value. I’ll also discuss where the next generation of medical AI may be heading and share some of the lessons we are learning while building Dr.MaxHealth.
 
 ## Weitere geplante Vorträge
 ### September 2026
-- **15.09.2026** - Makysm Kitsera (CEO and Founder - Dr.MaxHealth): Healthcare in the Age of AI: From Hype to Clinical Reality -- in English
 - **17.09.2026** - Theodor Schöwitz (Mitgründer und Produktentwicklung - Sozial KI): Souveräne KI für soziale Einrichtungen
 - **22.09.2026** - Manja Baudis (Geschäftsführerin - Die Lautmaler) & Dr. Jutta Stock (Beratung Conversational AI): Conversational AI: Durchbruch vs. Vertrauensproblem
 - **24.09.2026** - Lou Dutko (CTO - Lemberg Solutions): How to integrate AI into your dev process effectively -- in English
@@ -38,9 +37,11 @@ Was haben Schichtplanung, Lieferrouten und Produktionsplanung gemeinsam? Sie all
 
 ### Oktober 2026
 - **06.10.2026** - Tom Last (CTO and Co-Founder - elbtech GmbH): Self-validating specifications -- in English
+- **15.10.2026** - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
 
 ## Bisherige Vorträge
 ### 2026
+- 10.09.2026 - Justus Kilian Wolff (Gründer - bools): Entscheidungsprobleme mathematisch lösen
 - 08.09.2026 - Eylem Tas (Research Associate and Doctoral Researcher - Hamburg University of Technology / University of Hamburg): Citation Design for GenAI Use -- in English
 - 03.09.2026 - Petra Vogt (Wirtschaftsinformatikerin - Navorai): KI im Arbeitsschutz: Halluzination trifft Präzision
 - 01.09.2026 - Jörg Forthmann (Vorsitzender von KI für Demokratie e.V.): „Rechte“ Narrative mit KI im Internet identifizieren
