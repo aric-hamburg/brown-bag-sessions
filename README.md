@@ -38,6 +38,7 @@ AI is rapidly becoming capable of answering medical questions, interpreting comp
 ### Oktober 2026
 - **06.10.2026** - Tom Last (CTO and Co-Founder - elbtech GmbH): Self-validating specifications -- in English
 - **15.10.2026** - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
+- **22.10.2026** - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
 
 ## Bisherige Vorträge
 ### 2026
