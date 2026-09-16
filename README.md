@@ -24,14 +24,13 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**15.09.2026** - Makysm Kitsera (CEO and Founder - Dr.MaxHealth): Healthcare in the Age of AI: From Hype to Clinical Reality -- in English
+ **17.09.2026** - Theodor Schöwitz (Mitgründer und Produktentwicklung - Sozial KI): Souveräne KI für soziale Einrichtungen
 
-AI is rapidly becoming capable of answering medical questions, interpreting complex information and matching or exceeding expert performance on selected benchmarks — but turning these capabilities into useful clinical systems is a very different challenge. This talk will look at the gap between impressive AI demonstrations and real-world healthcare, including the problems of fragmented patient data, longitudinal reasoning, reliability, clinical integration and proving actual value. I’ll also discuss where the next generation of medical AI may be heading and share some of the lessons we are learning while building Dr.MaxHealth.
+Soziale Organisationen arbeiten mit den sensibelsten Daten überhaupt, vom Kinderschutz über die Eingliederungshilfe bis zu Sucht und Migration, und ausgerechnet die KI-Werkzeuge, die den Dokumentationsaufwand senken könnten, sind jene, die diese Daten nie erreichen dürfen. Der Vortrag zeigt, wie offene Modelle auf EU-gehosteter Infrastruktur den Arbeitsalltag praktikabel machen: Hilfepläne und Vorlagen sicher befüllen, Fälle für Fallanalyse und Coaching visualisieren, Websuche nutzen, ohne Falldaten preiszugeben. Zum Schluss ein ehrlicher Blick darauf, wo Standardmodelle an der Sozialen Arbeit scheitern und was Sicherheit durch Architektur in der Praxis bedeutet statt nur auf der Compliance-Checkliste.
 
 ## Weitere geplante Vorträge
 ### September 2026
-- **17.09.2026** - Theodor Schöwitz (Mitgründer und Produktentwicklung - Sozial KI): Souveräne KI für soziale Einrichtungen
-- **22.09.2026** - Manja Baudis (Geschäftsführerin - Die Lautmaler) & Dr. Jutta Stock (Beratung Conversational AI): Conversational AI: Durchbruch vs. Vertrauensproblem
+- **22.09.2026** - Manja Baudis (Geschäftsführerin - Die Lautmaler) & Dr. Jutta Stock (Beratung Conversational AI): Conversational AI - Durchbruch vs. Vertrauensproblem
 - **24.09.2026** - Lou Dutko (CTO - Lemberg Solutions): How to integrate AI into your dev process effectively -- in English
 - **29.09.2026** - Quantum Technology Session (organised by hqic) / tbd
 
@@ -42,6 +41,7 @@ AI is rapidly becoming capable of answering medical questions, interpreting comp
 
 ## Bisherige Vorträge
 ### 2026
+- 15.09.2026 - Makysm Kitsera (CEO and Founder - Dr.MaxHealth): Healthcare in the Age of AI: From Hype to Clinical Reality -- in English
 - 10.09.2026 - Justus Kilian Wolff (Gründer - bools): Entscheidungsprobleme mathematisch lösen
 - 08.09.2026 - Eylem Tas (Research Associate and Doctoral Researcher - Hamburg University of Technology / University of Hamburg): Citation Design for GenAI Use -- in English
 - 03.09.2026 - Petra Vogt (Wirtschaftsinformatikerin - Navorai): KI im Arbeitsschutz: Halluzination trifft Präzision
