@@ -31,7 +31,7 @@ Technologisch war im Kundenservice noch nie so viel möglich: bessere Spracherke
 ## Weitere geplante Vorträge
 ### September 2026
 - **24.09.2026** - Lou Dutko (CTO - Lemberg Solutions): How to integrate AI into your dev process effectively -- in English
-- **29.09.2026** - Quantum Technology Session (organised by hqic) / tbd
+- **29.09.2026** - Quantum Technology Session (organised by hqic) / Daniel Ceglinski (Head of Partnerships and Business Development, Europe, JIJ): From Planning Problems to Quantum Tests
 
 ### Oktober 2026
 - **01.10.2026** - Alexander Kappler (Co-Managing Director, CTO & CISO - DIU MarTech Solutions GmbH): Wie wir mit der KI-Fabrik 10x schneller wurden
