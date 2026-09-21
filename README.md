@@ -34,7 +34,9 @@ Technologisch war im Kundenservice noch nie so viel möglich: bessere Spracherke
 - **29.09.2026** - Quantum Technology Session (organised by hqic) / tbd
 
 ### Oktober 2026
+- **01.10.2026** - Alexander Kappler (Co-Managing Director, CTO & CISO - DIU MarTech Solutions GmbH): Wie wir mit der KI-Fabrik 10x schneller wurden
 - **06.10.2026** - Tom Last (CTO and Co-Founder - elbtech GmbH): Self-validating specifications -- in English
+- **08.10.2026** - Dr.-Ing. Ralph Schmidt (Abteilungsleitung - Landesamt für Vermessung und Geoinformation Schleswig-Holstein Abt. 7 – Liegenschaftskataster Elmshorn): KI4Forst 2.0 – Monitoring von Wäldern und städtischen Grünflächen in Schleswig-Holstein mit Fernerkundungsdaten und KI
 - **15.10.2026** - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
 - **22.10.2026** - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
 
