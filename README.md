@@ -24,13 +24,17 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**22.09.2026** - Manja Baudis (Geschäftsführerin - Die Lautmaler) & Dr. Jutta Stock (Beratung Conversational AI): Conversational AI - Durchbruch vs. Vertrauensproblem
+**24.09.2026** - Lou Dutko (CTO - Lemberg Solutions): How to integrate AI into your dev process effectively -- in English
 
-Technologisch war im Kundenservice noch nie so viel möglich: bessere Spracherkennung, LLMs, Agentensysteme und Voicebots, die natürlicher wirken als je zuvor. Gleichzeitig erleben viele KundInnen weiterhin gebrochene Dialoge,  die freundlich klingen, aber das eigentliche Anliegen nicht lösen. Der Vortrag fragt, woran diese Lücke zwischen Demo und Realität liegt – und was jetzt passieren muss, damit aus Conversational AI echte Gesprächs- und Lösungskompetenz wird.
+Almost every software team experiments with AI. But how many have actually established a structured workflow that helps turn random attempts into measurable results?
+In his practical session, Lou Dutko, CTO at Lemberg Solutions, shares his team’s experience of moving beyond experimentation towards systematic implementation of AI tools during software development. What you’ll find out:
+- Workflow evolution: How the scope of tasks has shifted for each project role
+- Delegation and governance: What can be easily delegated to AI, and what still needs human oversight and approval
+- Phase-by-Phase ROI: How much costs can be saved eventually at each stage of the development process
+This webinar is for tech leaders looking to introduce AI tools into their engineering processes with structure, governance, and precision.
 
 ## Weitere geplante Vorträge
 ### September 2026
-- **24.09.2026** - Lou Dutko (CTO - Lemberg Solutions): How to integrate AI into your dev process effectively -- in English
 - **29.09.2026** - Quantum Technology Session (organised by hqic) / Daniel Ceglinski (Head of Partnerships and Business Development, Europe, JIJ): From Planning Problems to Quantum Tests
 
 ### Oktober 2026
@@ -42,6 +46,7 @@ Technologisch war im Kundenservice noch nie so viel möglich: bessere Spracherke
 
 ## Bisherige Vorträge
 ### 2026
+- 22.09.2026 - Manja Baudis (Geschäftsführerin - Die Lautmaler) & Dr. Jutta Stock (Beratung Conversational AI): Conversational AI - Durchbruch vs. Vertrauensproblem
 - 17.09.2026 - Theodor Schöwitz (Mitgründer und Produktentwicklung - Sozial KI): Souveräne KI für soziale Einrichtungen
 - 15.09.2026 - Makysm Kitsera (CEO and Founder - Dr.MaxHealth): Healthcare in the Age of AI: From Hype to Clinical Reality -- in English
 - 10.09.2026 - Justus Kilian Wolff (Gründer - bools): Entscheidungsprobleme mathematisch lösen
