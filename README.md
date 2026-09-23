@@ -14,7 +14,7 @@ In diesem Repository sind die anstehenden Brown Bag Sessions zu finden und -- so
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjFmMDM3MTEtZmVhOS00NDU1LWI5YjYtZWEzYzc1M2ZjODg5%40thread.v2/0?context=%7b%22Tid%22%3a%22b2f09837-8b02-4136-9f46-52ffb6b93f9a%22%2c%22Oid%22%3a%2232f9bc80-2d30-4f6e-84ee-e430022a5855%22%7d
 
 
-## Du möchtest selbst eine Brown Bag zum Thema KI oder Quantencomputing halten? 
+## Du möchtest selbst eine Brown Bag zum Thema KI oder Quantentechnologien halten? 
 Dann melde dich gerne unter brownbag@aric-hamburg.de. Ebenso nehmen wir Themenvorschläge oder Empfehlungen für Speaker:innen gerne darüber an.
 
 ## Feedback
