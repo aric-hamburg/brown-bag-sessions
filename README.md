@@ -24,18 +24,11 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**24.09.2026** - Lou Dutko (CTO - Lemberg Solutions): How to integrate AI into your dev process effectively -- in English
+**29.09.2026** - Quantum Technology Session (organised by hqic) / Daniel Ceglinski (Head of Partnerships and Business Development, Europe, JIJ): From Planning Problems to Quantum Tests
 
-Almost every software team experiments with AI. But how many have actually established a structured workflow that helps turn random attempts into measurable results?
-In his practical session, Lou Dutko, CTO at Lemberg Solutions, shares his team’s experience of moving beyond experimentation towards systematic implementation of AI tools during software development. What you’ll find out:
-- Workflow evolution: How the scope of tasks has shifted for each project role
-- Delegation and governance: What can be easily delegated to AI, and what still needs human oversight and approval
-- Phase-by-Phase ROI: How much costs can be saved eventually at each stage of the development process
-This webinar is for tech leaders looking to introduce AI tools into their engineering processes with structure, governance, and precision.
+How do real-world planning challenges become useful optimisation models, and where can quantum computing contribute? Drawing on JR Central’s crew-planning project and the SparQ power-generation scheduling project, JIJ will illustrate how operational expertise, mathematical modelling and classical–quantum workflows come together. The session will distinguish demonstrated results from future potential and discuss how companies can evaluate a first project. 
 
 ## Weitere geplante Vorträge
-### September 2026
-- **29.09.2026** - Quantum Technology Session (organised by hqic) / Daniel Ceglinski (Head of Partnerships and Business Development, Europe, JIJ): From Planning Problems to Quantum Tests
 
 ### Oktober 2026
 - **01.10.2026** - Alexander Kappler (Co-Managing Director, CTO & CISO - DIU MarTech Solutions GmbH): Wie wir mit der KI-Fabrik 10x schneller wurden
@@ -44,8 +37,12 @@ This webinar is for tech leaders looking to introduce AI tools into their engine
 - **15.10.2026** - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
 - **22.10.2026** - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
 
+### November 2026
+- **03.11.2026** - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur 
+
 ## Bisherige Vorträge
 ### 2026
+- 24.09.2026 - Lou Dutko (CTO - Lemberg Solutions): How to integrate AI into your dev process effectively -- in English
 - 22.09.2026 - Manja Baudis (Geschäftsführerin - Die Lautmaler) & Dr. Jutta Stock (Beratung Conversational AI): Conversational AI - Durchbruch vs. Vertrauensproblem
 - 17.09.2026 - Theodor Schöwitz (Mitgründer und Produktentwicklung - Sozial KI): Souveräne KI für soziale Einrichtungen
 - 15.09.2026 - Makysm Kitsera (CEO and Founder - Dr.MaxHealth): Healthcare in the Age of AI: From Hype to Clinical Reality -- in English
