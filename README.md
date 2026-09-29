@@ -24,9 +24,9 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**29.09.2026** - Quantum Technology Session (organised by hqic) / Daniel Ceglinski (Head of Partnerships and Business Development, Europe, JIJ): From Planning Problems to Quantum Tests
+**01.10.2026** - Alexander Kappler (Co-Managing Director, CTO & CISO - DIU MarTech Solutions GmbH): Wie wir mit der KI-Fabrik 10x schneller wurden
 
-How do real-world planning challenges become useful optimisation models, and where can quantum computing contribute? Drawing on JR Central’s crew-planning project and the SparQ power-generation scheduling project, JIJ will illustrate how operational expertise, mathematical modelling and classical–quantum workflows come together. The session will distinguish demonstrated results from future potential and discuss how companies can evaluate a first project. 
+Wir sind mit der KI-Fabrik zehnmal schneller geworden. Nicht durch mehr KI-Tools, sondern weil wir aufgehört haben, Wissen in Köpfen und einzelnen Chats zu lassen. In diesem Vortrag zeige ich, welche Herausforderungen wir hatten, was bei uns nicht funktioniert hat, was den Unterschied gemacht hat, und wie du das gleiche Modell auf dein Unternehmen überträgst.
 
 ## Weitere geplante Vorträge
 
@@ -42,6 +42,7 @@ How do real-world planning challenges become useful optimisation models, and whe
 
 ## Bisherige Vorträge
 ### 2026
+- 29.09.2026 - Quantum Technology Session (organised by hqic) / Daniel Ceglinski (Head of Partnerships and Business Development, Europe, JIJ): From Planning Problems to Quantum Tests
 - 24.09.2026 - Lou Dutko (CTO - Lemberg Solutions): How to integrate AI into your dev process effectively -- in English
 - 22.09.2026 - Manja Baudis (Geschäftsführerin - Die Lautmaler) & Dr. Jutta Stock (Beratung Conversational AI): Conversational AI - Durchbruch vs. Vertrauensproblem
 - 17.09.2026 - Theodor Schöwitz (Mitgründer und Produktentwicklung - Sozial KI): Souveräne KI für soziale Einrichtungen
