@@ -31,7 +31,6 @@ Wir sind mit der KI-Fabrik zehnmal schneller geworden. Nicht durch mehr KI-Tools
 ## Weitere geplante Vorträge
 
 ### Oktober 2026
-- **01.10.2026** - Alexander Kappler (Co-Managing Director, CTO & CISO - DIU MarTech Solutions GmbH): Wie wir mit der KI-Fabrik 10x schneller wurden
 - **06.10.2026** - Tom Last (CTO and Co-Founder - elbtech GmbH): Self-validating specifications -- in English
 - **08.10.2026** - Dr.-Ing. Ralph Schmidt (Abteilungsleitung - Landesamt für Vermessung und Geoinformation Schleswig-Holstein Abt. 7 – Liegenschaftskataster Elmshorn): KI4Forst 2.0 – Monitoring von Wäldern und städtischen Grünflächen in Schleswig-Holstein mit Fernerkundungsdaten und KI
 - **15.10.2026** - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
