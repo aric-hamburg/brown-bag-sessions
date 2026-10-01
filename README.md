@@ -24,14 +24,13 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**01.10.2026** - Alexander Kappler (Co-Managing Director, CTO & CISO - DIU MarTech Solutions GmbH): Wie wir mit der KI-Fabrik 10x schneller wurden
+- **06.10.2026** - Tom Last (CTO and Co-Founder - elbtech GmbH): Self-validating specifications -- in English
 
-Wir sind mit der KI-Fabrik zehnmal schneller geworden. Nicht durch mehr KI-Tools, sondern weil wir aufgehört haben, Wissen in Köpfen und einzelnen Chats zu lassen. In diesem Vortrag zeige ich, welche Herausforderungen wir hatten, was bei uns nicht funktioniert hat, was den Unterschied gemacht hat, und wie du das gleiche Modell auf dein Unternehmen überträgst.
+An overview of defining automation logic as self-validating specifications rather than embedding it directly in implementation code. These specifications make intended business behaviour explicit, can be checked independently, and can serve as a source for different implementation targets.
 
 ## Weitere geplante Vorträge
 
 ### Oktober 2026
-- **06.10.2026** - Tom Last (CTO and Co-Founder - elbtech GmbH): Self-validating specifications -- in English
 - **08.10.2026** - Dr.-Ing. Ralph Schmidt (Abteilungsleitung - Landesamt für Vermessung und Geoinformation Schleswig-Holstein Abt. 7 – Liegenschaftskataster Elmshorn): KI4Forst 2.0 – Monitoring von Wäldern und städtischen Grünflächen in Schleswig-Holstein mit Fernerkundungsdaten und KI
 - **15.10.2026** - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
 - **22.10.2026** - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
@@ -41,6 +40,7 @@ Wir sind mit der KI-Fabrik zehnmal schneller geworden. Nicht durch mehr KI-Tools
 
 ## Bisherige Vorträge
 ### 2026
+- 01.10.2026 - Alexander Kappler (Co-Managing Director, CTO & CISO - DIU MarTech Solutions GmbH): Wie wir mit der KI-Fabrik 10x schneller wurden
 - 29.09.2026 - Quantum Technology Session (organised by hqic) / Daniel Ceglinski (Head of Partnerships and Business Development, Europe, JIJ): From Planning Problems to Quantum Tests
 - 24.09.2026 - Lou Dutko (CTO - Lemberg Solutions): How to integrate AI into your dev process effectively -- in English
 - 22.09.2026 - Manja Baudis (Geschäftsführerin - Die Lautmaler) & Dr. Jutta Stock (Beratung Conversational AI): Conversational AI - Durchbruch vs. Vertrauensproblem
