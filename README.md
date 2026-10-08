@@ -24,15 +24,15 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**08.10.2026** - Dr.-Ing. Ralph Schmidt (Abteilungsleitung - Landesamt für Vermessung und Geoinformation Schleswig-Holstein Abt. 7 – Liegenschaftskataster Elmshorn): KI4Forst 2.0 – Monitoring von Wäldern und städtischen Grünflächen in Schleswig-Holstein mit Fernerkundungsdaten und KI
 
-Waldflächen und städtische Grünflächen sowie deren Vitalität und Veränderungen sind mittlerweile in den Fokus europäischer und nationaler Gesetzgebung und Verwaltung geraten. In diesem Vortrag werden zwei unterschiedliche Monitoring-Ansätze mittels Copernicus-Daten und Digitaler Orthophotos präsentiert. Ziel ist die Bereitstellung von Geo- und Umweltdaten zu Wäldern und städtischen Grünflächen in Schleswig-Holstein über das öffentlich zugängliche Web-Portal des DigitalenAtlasNord (DANord) für Waldeigentümer, Forstbetriebe, Naturschutzorganisationen, interessierte Bürger und Bürgerinnen etc.
+**13.10.2026** - entfällt aufgrund interner Termine
+**15.10.2026** - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
+
+Einen Champion zu finden ist bei KI-Projekten selten das Problem, denn es gibt fast immer jemanden im Team, der die Technologie privat nutzt und sie bei der Arbeit haben möchte. Schwierig wird der Rollout danach, wenn das Werkzeug bei erfahrenen Fachleuten ankommt, deren Ansehen darauf beruht, die Arbeit selbst zu machen, und deren eigentlicher Einwand ist, dass sich diese überhaupt automatisieren ließe. Aus zwei Jahren Einführung einer KI-Plattform bei Medical Writern in der Pharmabranche zeigt der Vortrag, was diese Kolleginnen und Kollegen erreicht hat, was nach hinten losging und was sich auf Organisationen übertragen lässt, bei denen Fachwissen und Urteilsvermögen das eigentliche Produkt sind.
 
 ## Weitere geplante Vorträge
 
 ### Oktober 2026
-- **13.10.2026** - entfällt aufgrund interner Termine
-- **15.10.2026** - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
 - **22.10.2026** - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
 
 ### November 2026
