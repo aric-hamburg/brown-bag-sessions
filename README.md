@@ -40,6 +40,7 @@ Waldflächen und städtische Grünflächen sowie deren Vitalität und Veränderu
 
 ## Bisherige Vorträge
 ### 2026
+- 08.10.2026 - Dr.-Ing. Ralph Schmidt (Abteilungsleitung - Landesamt für Vermessung und Geoinformation Schleswig-Holstein Abt. 7 – Liegenschaftskataster Elmshorn): KI4Forst 2.0 – Monitoring von Wäldern und städtischen Grünflächen in Schleswig-Holstein mit Fernerkundungsdaten und KI
 - 06.10.2026 - Tom Last (CTO and Co-Founder - elbtech GmbH): Self-validating specifications -- in English
 - 01.10.2026 - Alexander Kappler (Co-Managing Director, CTO & CISO - DIU MarTech Solutions GmbH): Wie wir mit der KI-Fabrik 10x schneller wurden
 - 29.09.2026 - Quantum Technology Session (organised by hqic) / Daniel Ceglinski (Head of Partnerships and Business Development, Europe, JIJ): From Planning Problems to Quantum Tests
