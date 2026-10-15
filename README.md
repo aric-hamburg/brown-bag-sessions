@@ -24,23 +24,26 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
+**20.10.2026** - Gabriele Salvo (CTO - Colchix): Why AI Governance Matters -- in English
 
-**13.10.2026** - entfällt aufgrund interner Termine
-
-**15.10.2026** - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
-
-Einen Champion zu finden ist bei KI-Projekten selten das Problem, denn es gibt fast immer jemanden im Team, der die Technologie privat nutzt und sie bei der Arbeit haben möchte. Schwierig wird der Rollout danach, wenn das Werkzeug bei erfahrenen Fachleuten ankommt, deren Ansehen darauf beruht, die Arbeit selbst zu machen, und deren eigentlicher Einwand ist, dass sich diese überhaupt automatisieren ließe. Aus zwei Jahren Einführung einer KI-Plattform bei Medical Writern in der Pharmabranche zeigt der Vortrag, was diese Kolleginnen und Kollegen erreicht hat, was nach hinten losging und was sich auf Organisationen übertragen lässt, bei denen Fachwissen und Urteilsvermögen das eigentliche Produkt sind.
+AI is quickly becoming part of how organisations work, but who decides how it’s used, and who is accountable when something goes wrong? That’s the question AI governance tries to answer.
+This 20-minute session is an accessible introduction to the topic. We’ll look at what AI governance actually means, why it matters for organisations of any size, and how regulation such as the EU AI Act fits into the picture. We’ll then go through its core building blocks: knowing which AI systems are in use, assessing their risks, setting clear policies, and keeping humans in the loop. The session closes with common misconceptions and a few simple first steps. No technical background required. 
 
 ## Weitere geplante Vorträge
 
 ### Oktober 2026
 - **22.10.2026** - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
+- **27.10.2026** - Quantum Technology Session (organised by hqic)/ tbd
+- **29.10.2026** - Eduardo Ortiz Ramírez (Founder & CEO - WATR): Agentic AI Under Audit -- in English
 
 ### November 2026
-- **03.11.2026** - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur 
+- **03.11.2026** - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur
+- **05.11.2026** - Dr. med. Oscar Freyer (Arzt und Postdoktorand - Else Kröner Fresenius Zentrum für Digitale Gesundheit der TU Dresden): KI-Agenten in der Medizin - Hürden der Zulassung  
 
 ## Bisherige Vorträge
 ### 2026
+- 15.10.2026 - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
+- 13.10.2026 - aufgrund interner Termine entfallen
 - 08.10.2026 - Dr.-Ing. Ralph Schmidt (Abteilungsleitung - Landesamt für Vermessung und Geoinformation Schleswig-Holstein Abt. 7 – Liegenschaftskataster Elmshorn): KI4Forst 2.0 – Monitoring von Wäldern und städtischen Grünflächen in Schleswig-Holstein mit Fernerkundungsdaten und KI
 - 06.10.2026 - Tom Last (CTO and Co-Founder - elbtech GmbH): Self-validating specifications -- in English
 - 01.10.2026 - Alexander Kappler (Co-Managing Director, CTO & CISO - DIU MarTech Solutions GmbH): Wie wir mit der KI-Fabrik 10x schneller wurden
