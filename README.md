@@ -38,7 +38,8 @@ This 20-minute session is an accessible introduction to the topic. We’ll look 
 
 ### November 2026
 - **03.11.2026** - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur
-- **05.11.2026** - Dr. med. Oscar Freyer (Arzt und Postdoktorand - Else Kröner Fresenius Zentrum für Digitale Gesundheit der TU Dresden): KI-Agenten in der Medizin - Hürden der Zulassung  
+- **05.11.2026** - Dr. med. Oscar Freyer (Arzt und Postdoktorand - Else Kröner Fresenius Zentrum für Digitale Gesundheit der TU Dresden): KI-Agenten in der Medizin - Hürden der Zulassung
+- **24.11.2026** - Quantum Technology Session (organised by hqic) / Uwe Resas (General Manager - QuBalt): Cyber Resilience for Spacecraft
 
 ## Bisherige Vorträge
 ### 2026
