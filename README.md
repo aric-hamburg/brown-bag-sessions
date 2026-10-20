@@ -33,7 +33,7 @@ This 20-minute session is an accessible introduction to the topic. We’ll look 
 
 ### Oktober 2026
 - **22.10.2026** - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
-- <p style="color:red">**27.10.2026** - entfällt - Quantum Technology Session (organised by hqic)</p>
+- ![#f03c15] **27.10.2026** - entfällt - Quantum Technology Session (organised by hqic)
 - **29.10.2026** - Eduardo Ortiz Ramírez (Founder & CEO - WATR): Agentic AI Under Audit -- in English
 
 ### November 2026
