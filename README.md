@@ -24,15 +24,14 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**20.10.2026** - Gabriele Salvo (CTO - Colchix): Why AI Governance Matters -- in English
+**22.10.2026** - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
 
-AI is quickly becoming part of how organisations work, but who decides how it’s used, and who is accountable when something goes wrong? That’s the question AI governance tries to answer.
-This 20-minute session is an accessible introduction to the topic. We’ll look at what AI governance actually means, why it matters for organisations of any size, and how regulation such as the EU AI Act fits into the picture. We’ll then go through its core building blocks: knowing which AI systems are in use, assessing their risks, setting clear policies, and keeping humans in the loop. The session closes with common misconceptions and a few simple first steps. No technical background required. 
+Seit 2.8.2026 müssen Betreiber generativer KI-Systeme, d. h. in der Praxis KI-Nutzende, sog. Deepfakes und bestimmte KI-Texte kennzeichnen.
+Der Vortrag bietet eine kompakte Übersicht zur neuen Transparenzpflicht für KI-generierte oder mit KI-bearbeitete Inhalte gemäß Art. 50 Abs. 4 EU AI Act.
 
 ## Weitere geplante Vorträge
 
 ### Oktober 2026
-- **22.10.2026** - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
 - **27.10.2026** - entfällt - Quantum Technology Session (organised by hqic)
 - **29.10.2026** - Eduardo Ortiz Ramírez (Founder & CEO - WATR): Agentic AI Under Audit -- in English
 
@@ -43,6 +42,7 @@ This 20-minute session is an accessible introduction to the topic. We’ll look 
 
 ## Bisherige Vorträge
 ### 2026
+- 20.10.2026 - Gabriele Salvo (CTO - Colchix): Why AI Governance Matters -- in English
 - 15.10.2026 - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
 - 13.10.2026 - aufgrund interner Termine entfallen
 - 08.10.2026 - Dr.-Ing. Ralph Schmidt (Abteilungsleitung - Landesamt für Vermessung und Geoinformation Schleswig-Holstein Abt. 7 – Liegenschaftskataster Elmshorn): KI4Forst 2.0 – Monitoring von Wäldern und städtischen Grünflächen in Schleswig-Holstein mit Fernerkundungsdaten und KI
