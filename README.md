@@ -24,16 +24,11 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**22.10.2026** - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
+**29.10.2026** - Eduardo Ortiz Ramírez (Founder & CEO - WATR): Agentic AI Under Audit -- in English
 
-Seit 2.8.2026 müssen Betreiber generativer KI-Systeme, d. h. in der Praxis KI-Nutzende, sog. Deepfakes und bestimmte KI-Texte kennzeichnen.
-Der Vortrag bietet eine kompakte Übersicht zur neuen Transparenzpflicht für KI-generierte oder mit KI-bearbeitete Inhalte gemäß Art. 50 Abs. 4 EU AI Act.
+European AI compliance is written before a system runs: risk classes, conformity assessments, technical documentation. The Mexican regime I build under is written after. At a moment I do not choose, an independent reviewer arrives and asks questions about one decision on one applicant, and what they want is the system's own record. That constraint forced architectural choices I would not have made for accuracy, or speed, or cost. This talk walks through the production system we developed an agent that picks every tool, fills in every argument and writes every explanation.
 
 ## Weitere geplante Vorträge
-
-### Oktober 2026
-- **27.10.2026** - entfällt - Quantum Technology Session (organised by hqic)
-- **29.10.2026** - Eduardo Ortiz Ramírez (Founder & CEO - WATR): Agentic AI Under Audit -- in English
 
 ### November 2026
 - **03.11.2026** - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur
@@ -43,6 +38,8 @@ Der Vortrag bietet eine kompakte Übersicht zur neuen Transparenzpflicht für KI
 
 ## Bisherige Vorträge
 ### 2026
+- 27.10.2026 - entfallen - Quantum Technology Session (organised by hqic)
+- 22.10.2026 - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
 - 20.10.2026 - Gabriele Salvo (CTO - Colchix): Why AI Governance Matters -- in English
 - 15.10.2026 - Pia Cuk (Co-founder & Geschäftsführerin Pharos Labs): Zwei Jahre KI-Einführung zwischen Champions und Skeptikern
 - 13.10.2026 - aufgrund interner Termine entfallen
