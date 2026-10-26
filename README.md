@@ -36,6 +36,7 @@ European AI compliance is written before a system runs: risk classes, conformity
 - **10.11.2026** - Jan Hill (Business Unit Lead - Director - Adesso SE): Attack AI – Die Schlagkraft eines Angreifers unter Kontrolle
 - **19.11.2026** - Gabriele Salvo (CTO - Colchix): The Deployer Stack - OpenTelemetry, Immutable Audit Trails, and Drift Detection for Enterprise AI
 - **24.11.2026** - Quantum Technology Session (organised by hqic) / Uwe Resas (General Manager - QuBalt): Cyber Resilience for Spacecraft
+- **26.11.2026** - Valerie Bohn (Doktorandin der Philosophie - Universität Göttingen): Die Illusion der bewussten Maschine – Warum KI weniger menschlich sein sollte
 
 ## Bisherige Vorträge
 ### 2026
