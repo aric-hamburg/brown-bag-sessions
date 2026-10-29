@@ -24,14 +24,13 @@ Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir u
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
 ## Nächster Vortrag
-**29.10.2026** - Eduardo Ortiz Ramírez (Founder & CEO - WATR): Agentic AI Under Audit -- in English
+**03.11.2026** - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur
 
-European AI compliance is written before a system runs: risk classes, conformity assessments, technical documentation. The Mexican regime I build under is written after. At a moment I do not choose, an independent reviewer arrives and asks questions about one decision on one applicant, and what they want is the system's own record. That constraint forced architectural choices I would not have made for accuracy, or speed, or cost. This talk walks through the production system we developed an agent that picks every tool, fills in every argument and writes every explanation.
+Vorstellung eines KI-Projekts von Sopra Steria zum Thema Inputmanagement bei einem österreichischen Kunden im öffentlichen Sektor. Dort wurde ein System entwickelt zur automatisierten Klassifikation und Auslesen von Daten aus Dokumentenscans, mit eigens auf Kundendaten trainierten KI-Modellen.
 
 ## Weitere geplante Vorträge
 
 ### November 2026
-- **03.11.2026** - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur
 - **05.11.2026** - Dr. med. Oscar Freyer (Arzt und Postdoktorand - Else Kröner Fresenius Zentrum für Digitale Gesundheit der TU Dresden): KI-Agenten in der Medizin - Hürden der Zulassung
 - **10.11.2026** - Jan Hill (Business Unit Lead - Director - Adesso SE): Attack AI – Die Schlagkraft eines Angreifers unter Kontrolle
 - **19.11.2026** - Gabriele Salvo (CTO - Colchix): The Deployer Stack - OpenTelemetry, Immutable Audit Trails, and Drift Detection for Enterprise AI
@@ -40,6 +39,7 @@ European AI compliance is written before a system runs: risk classes, conformity
 
 ## Bisherige Vorträge
 ### 2026
+- 29.10.2026 - musste entfallen
 - 27.10.2026 - entfallen - Quantum Technology Session (organised by hqic)
 - 22.10.2026 - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
 - 20.10.2026 - Gabriele Salvo (CTO - Colchix): Why AI Governance Matters -- in English
