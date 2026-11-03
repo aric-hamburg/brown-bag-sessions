@@ -17,21 +17,22 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjFmMDM3MTEtZmVhOS00NDU1L
 ## Du möchtest selbst eine Brown Bag zum Thema KI oder Quantentechnologien halten? 
 Dann melde dich gerne unter brownbag@aric-hamburg.de. Ebenso nehmen wir Themenvorschläge oder Empfehlungen für Speaker:innen gerne darüber an.
 
+
 ## Feedback
 Dieses Format wird im Rahmen des EDIH Hamburg (https://www.linkedin.com/company/edih-hamburg/) mit Unterstützung durch die EU und die IFB Hamburg durchgeführt. Um unsere Events zukünftig noch besser auf die Wünsche und Bedürfnisse unserer Teilnehmer abstimmen zu können, sind wir auf Dein Feedback angewiesen. Wir würden uns sehr freuen, wenn Du Dir ein paar Minuten Zeit nehmen könntest, um unseren Fragebogen auszufüllen. Hier findest Du den Link zum Feedback-Formular: https://ec.europa.eu/eusurvey/runner/EDIH_Hamburg_Befragung_Innovation_Ecosystem
 
 Deine Rückmeldungen sind für uns sehr wertvoll und tragen dazu bei, dass wir unsere Veranstaltungen stetig verbessern können. Vielen Dank im Voraus für Deine Unterstützung! 
 Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen.
 
-## Nächster Vortrag
-**03.11.2026** - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur
 
-Vorstellung eines KI-Projekts von Sopra Steria zum Thema Inputmanagement bei einem österreichischen Kunden im öffentlichen Sektor. Dort wurde ein System entwickelt zur automatisierten Klassifikation und Auslesen von Daten aus Dokumentenscans, mit eigens auf Kundendaten trainierten KI-Modellen.
+## Nächster Vortrag
+**05.11.2026** - Dr. med. Oscar Freyer (Arzt und Postdoktorand - Else Kröner Fresenius Zentrum für Digitale Gesundheit der TU Dresden): KI-Agenten in der Medizin - Hürden der Zulassung
+
+KI-Agenten können komplexe Aufgaben planen, Werkzeuge nutzen und medizinische Arbeitsabläufe unterstützen. Ihre Autonomie, breiten Einsatzmöglichkeiten und Veränderbarkeit stellen etablierte Zulassungsverfahren vor neue Herausforderungen. Ausgehend von aktuellen Forschungsarbeiten und dem neuen FDA-Diskussionspapier diskutiert der Vortrag, welche praktikablen Zulassungs- und Aufsichtswege Europa braucht, um solche Systeme sicher in die medizinische Versorgung zu integrieren.
 
 ## Weitere geplante Vorträge
 
 ### November 2026
-- **05.11.2026** - Dr. med. Oscar Freyer (Arzt und Postdoktorand - Else Kröner Fresenius Zentrum für Digitale Gesundheit der TU Dresden): KI-Agenten in der Medizin - Hürden der Zulassung
 - **10.11.2026** - Jan Hill (Business Unit Lead - Director - Adesso SE): Attack AI – Die Schlagkraft eines Angreifers unter Kontrolle
 - **12.11.2026** - Werner Bogula (Head of AI - PINKTUM): Resilienz und Europäische KI
 - **19.11.2026** - Gabriele Salvo (CTO - Colchix): The Deployer Stack - OpenTelemetry, Immutable Audit Trails, and Drift Detection for Enterprise AI
@@ -40,6 +41,7 @@ Vorstellung eines KI-Projekts von Sopra Steria zum Thema Inputmanagement bei ein
 
 ## Bisherige Vorträge
 ### 2026
+- 03.11.2026 - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur
 - 29.10.2026 - musste entfallen
 - 27.10.2026 - entfallen - Quantum Technology Session (organised by hqic)
 - 22.10.2026 - Andrea Schlotfeldt (Juristische Beratung, Hamburg Open Online University (HOOU), HAW Hamburg): KI-Inhalte kennzeichnen (EU AI Act)
