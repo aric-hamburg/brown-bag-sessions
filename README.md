@@ -26,14 +26,13 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag
-**05.11.2026** - Dr. med. Oscar Freyer (Arzt und Postdoktorand - Else Kröner Fresenius Zentrum für Digitale Gesundheit der TU Dresden): KI-Agenten in der Medizin - Hürden der Zulassung
+**10.11.2026** - Jan Hill (Business Unit Lead - Director - Adesso SE): Attack AI – Die Schlagkraft eines Angreifers unter Kontrolle
 
-KI-Agenten können komplexe Aufgaben planen, Werkzeuge nutzen und medizinische Arbeitsabläufe unterstützen. Ihre Autonomie, breiten Einsatzmöglichkeiten und Veränderbarkeit stellen etablierte Zulassungsverfahren vor neue Herausforderungen. Ausgehend von aktuellen Forschungsarbeiten und dem neuen FDA-Diskussionspapier diskutiert der Vortrag, welche praktikablen Zulassungs- und Aufsichtswege Europa braucht, um solche Systeme sicher in die medizinische Versorgung zu integrieren.
+KI verändert die Cybersicherheit grundlegend. Klassische Sicherheitsaudits sind oft nicht mehr ausreichend, um mit der Geschwindigkeit aktueller Angriffsszenarien Schritt zu halten. Attack AI prüft Anwendungen automatisiert und führt kontrolliert Angriffe mit Frontier-Modellen von Anthropic aus, um Schwachstellen zu identifizieren und zu katalogisieren. Erfahren Sie in der Brown-Bag-Session, wie Sie Ihre Anwendungen mithilfe von KI-basierten Angriffssimulationen auf das Niveau moderner Angreifer bringen.
 
 ## Weitere geplante Vorträge
 
 ### November 2026
-- **10.11.2026** - Jan Hill (Business Unit Lead - Director - Adesso SE): Attack AI – Die Schlagkraft eines Angreifers unter Kontrolle
 - **12.11.2026** - Werner Bogula (Head of AI - PINKTUM): Resilienz und Europäische KI
 - **19.11.2026** - Gabriele Salvo (CTO - Colchix): The Deployer Stack - OpenTelemetry, Immutable Audit Trails, and Drift Detection for Enterprise AI
 - **24.11.2026** - Quantum Technology Session (organised by hqic) / Uwe Resas (General Manager - QuBalt): Cyber Resilience for Spacecraft
@@ -41,6 +40,7 @@ KI-Agenten können komplexe Aufgaben planen, Werkzeuge nutzen und medizinische A
 
 ## Bisherige Vorträge
 ### 2026
+- 05.11.2026 - Dr. med. Oscar Freyer (Arzt und Postdoktorand - Else Kröner Fresenius Zentrum für Digitale Gesundheit der TU Dresden): KI-Agenten in der Medizin - Hürden der Zulassung
 - 03.11.2026 - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur
 - 29.10.2026 - musste entfallen
 - 27.10.2026 - entfallen - Quantum Technology Session (organised by hqic)
