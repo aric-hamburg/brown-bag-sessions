@@ -34,6 +34,7 @@ KI verändert die Cybersicherheit grundlegend. Klassische Sicherheitsaudits sind
 
 ### November 2026
 - **12.11.2026** - Werner Bogula (Head of AI - PINKTUM): Resilienz und Europäische KI
+- **17.11.2026** - Dr. Koen Sponselee (Hamburg Quantum Innovation Capital (HQIC)): Quantencomputer und die Zukunft der Verschlüsselung
 - **19.11.2026** - Gabriele Salvo (CTO - Colchix): The Deployer Stack - OpenTelemetry, Immutable Audit Trails, and Drift Detection for Enterprise AI
 - **24.11.2026** - Quantum Technology Session (organised by hqic) / Uwe Resas (General Manager - QuBalt): Cyber Resilience for Spacecraft
 - **26.11.2026** - Valerie Bohn (Doktorandin der Philosophie - Universität Göttingen): Die Illusion der bewussten Maschine – Warum KI weniger menschlich sein sollte
