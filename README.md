@@ -26,14 +26,14 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag
-**10.11.2026** - Jan Hill (Business Unit Lead - Director - Adesso SE): Attack AI – Die Schlagkraft eines Angreifers unter Kontrolle
+**12.11.2026** - Werner Bogula (Head of AI - PINKTUM): Resilienz und Europäische KI
 
-KI verändert die Cybersicherheit grundlegend. Klassische Sicherheitsaudits sind oft nicht mehr ausreichend, um mit der Geschwindigkeit aktueller Angriffsszenarien Schritt zu halten. Attack AI prüft Anwendungen automatisiert und führt kontrolliert Angriffe mit Frontier-Modellen von Anthropic aus, um Schwachstellen zu identifizieren und zu katalogisieren. Erfahren Sie in der Brown-Bag-Session, wie Sie Ihre Anwendungen mithilfe von KI-basierten Angriffssimulationen auf das Niveau moderner Angreifer bringen.
+Droht Europa in der KI zu einer technologischen Kolonie der USA zu werden? Bieten chinesische open weight LLMs einen Ausweg? Und wo stehen wir mit Europäischen Frontier Modellen? 
+In seinem Impuls zeigt Werner Bogula auf, warum Souveräne KI für Europa wichtig ist und welche Strategien dafür angewandt werden können. 
 
 ## Weitere geplante Vorträge
 
 ### November 2026
-- **12.11.2026** - Werner Bogula (Head of AI - PINKTUM): Resilienz und Europäische KI
 - **17.11.2026** - Dr. Koen Sponselee (Hamburg Quantum Innovation Capital (HQIC)): Quantencomputer und die Zukunft der Verschlüsselung
 - **19.11.2026** - Gabriele Salvo (CTO - Colchix): The Deployer Stack - OpenTelemetry, Immutable Audit Trails, and Drift Detection for Enterprise AI
 - **24.11.2026** - Quantum Technology Session (organised by hqic) / Uwe Resas (General Manager - QuBalt): Cyber Resilience for Spacecraft
@@ -41,6 +41,7 @@ KI verändert die Cybersicherheit grundlegend. Klassische Sicherheitsaudits sind
 
 ## Bisherige Vorträge
 ### 2026
+- 10.11.2026 - Jan Hill (Business Unit Lead - Director - Adesso SE): Attack AI – Die Schlagkraft eines Angreifers unter Kontrolle
 - 05.11.2026 - Dr. med. Oscar Freyer (Arzt und Postdoktorand - Else Kröner Fresenius Zentrum für Digitale Gesundheit der TU Dresden): KI-Agenten in der Medizin - Hürden der Zulassung
 - 03.11.2026 - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur
 - 29.10.2026 - musste entfallen
