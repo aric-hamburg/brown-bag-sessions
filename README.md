@@ -39,6 +39,23 @@ In seinem Impuls zeigt Werner Bogula auf, warum Souveräne KI für Europa wichti
 - **24.11.2026** - Quantum Technology Session (organised by hqic) / Uwe Resas (General Manager - QuBalt): Cyber Resilience for Spacecraft
 - **26.11.2026** - Valerie Bohn (Doktorandin der Philosophie - Universität Göttingen): Die Illusion der bewussten Maschine – Warum KI weniger menschlich sein sollte
 
+### Dezember 2026
+- **10.12.2026** - Lena Harnisch (55BirchStreet, navar.ai und AI Curious Collective): "Don't ask me, ask my AI twin“ - Zusammenarbeit der Zukunft
+
+### ☃️ Winterpause ☃️
+Liebe Brown Bagger,
+
+nach unserer letzten Session für dieses Jahr, am 17.12.2026 gehen wir in die Winterpause. 
+Unsere nächste Session findet dann ab dem 12.01.2027 wieder wie gewohnt jeden Dienstag und Donnerstag von 12:00 bis 12:30 Uhr statt.
+
+Ein großes Dankeschön, dass ihr auch in diesem Jahr dabei wart! Eure Teilnahme und eure Fragen machen die Brown Bag Sessions erst zu dem, was sie sind.
+
+Wir wünschen euch erholsame Feiertage und einen guten Rutsch ins neue Jahr! Wir freuen uns darauf, euch Anfang Januar wiederzusehen.
+
+Bis bald,
+Euer ARIC Brown Bag Team
+
+
 ## Bisherige Vorträge
 ### 2026
 - 10.11.2026 - Jan Hill (Business Unit Lead - Director - Adesso SE): Attack AI – Die Schlagkraft eines Angreifers unter Kontrolle
