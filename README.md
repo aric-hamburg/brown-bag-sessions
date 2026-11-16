@@ -38,6 +38,7 @@ Dr. Koen Sponselee vom Hamburg Quantum Innovation Capital (HQIC) ordnet die Entw
 - **26.11.2026** - Valerie Bohn (Doktorandin der Philosophie - Universität Göttingen): Die Illusion der bewussten Maschine – Warum KI weniger menschlich sein sollte
 
 ### Dezember 2026
+- **03.12.2026** - Mansoor Koshan (Gründer und CEO von Legal Cognition): 50 Jahre juristische KI - Geschichte und Ausblick
 - **10.12.2026** - Lena Harnisch (55BirchStreet, navar.ai und AI Curious Collective): "Don't ask me, ask my AI twin“ - Zusammenarbeit der Zukunft
 
 ### ☃️ Winterpause ☃️
