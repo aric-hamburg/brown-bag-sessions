@@ -26,15 +26,13 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag
-**12.11.2026** - Werner Bogula (Head of AI - PINKTUM): Resilienz und Europäische KI
+**17.11.2026** - Dr. Koen Sponselee (Hamburg Quantum Innovation Capital (HQIC)): Quantencomputer und die Zukunft der Verschlüsselung
 
-Droht Europa in der KI zu einer technologischen Kolonie der USA zu werden? Bieten chinesische open weight LLMs einen Ausweg? Und wo stehen wir mit Europäischen Frontier Modellen? 
-In seinem Impuls zeigt Werner Bogula auf, warum Souveräne KI für Europa wichtig ist und welche Strategien dafür angewandt werden können. 
+Dr. Koen Sponselee vom Hamburg Quantum Innovation Capital (HQIC) ordnet die Entwicklungen im Quantencomputing ein und erklärt, warum der Umstieg auf quantensichere Verschlüsselung schon heute relevant ist.
 
 ## Weitere geplante Vorträge
 
 ### November 2026
-- **17.11.2026** - Dr. Koen Sponselee (Hamburg Quantum Innovation Capital (HQIC)): Quantencomputer und die Zukunft der Verschlüsselung
 - **19.11.2026** - Gabriele Salvo (CTO - Colchix): The Deployer Stack - OpenTelemetry, Immutable Audit Trails, and Drift Detection for Enterprise AI
 - **24.11.2026** - Quantum Technology Session (organised by hqic) / Uwe Resas (General Manager - QuBalt): Cyber Resilience for Spacecraft
 - **26.11.2026** - Valerie Bohn (Doktorandin der Philosophie - Universität Göttingen): Die Illusion der bewussten Maschine – Warum KI weniger menschlich sein sollte
@@ -58,6 +56,7 @@ Euer ARIC Brown Bag Team
 
 ## Bisherige Vorträge
 ### 2026
+- 12.11.2026 - Werner Bogula (Head of AI - PINKTUM): Resilienz und Europäische KI
 - 10.11.2026 - Jan Hill (Business Unit Lead - Director - Adesso SE): Attack AI – Die Schlagkraft eines Angreifers unter Kontrolle
 - 05.11.2026 - Dr. med. Oscar Freyer (Arzt und Postdoktorand - Else Kröner Fresenius Zentrum für Digitale Gesundheit der TU Dresden): KI-Agenten in der Medizin - Hürden der Zulassung
 - 03.11.2026 - Dominik Sauter (AI Consultant - Sopra Steria): Intelligentes Dokumentenmanagement im öffentlichen Sektor - Mit KI vom Papier zur Datenstruktur
