@@ -26,14 +26,13 @@ Wir freuen uns darauf, Dich bei zukünftigen Events wieder begrüßen zu dürfen
 
 
 ## Nächster Vortrag
-**17.11.2026** - Dr. Koen Sponselee (Hamburg Quantum Innovation Capital (HQIC)): Quantencomputer und die Zukunft der Verschlüsselung
+**19.11.2026** - Gabriele Salvo (CTO - Colchix): The Deployer Stack - OpenTelemetry, Immutable Audit Trails, and Drift Detection for Enterprise AI
 
-Dr. Koen Sponselee vom Hamburg Quantum Innovation Capital (HQIC) ordnet die Entwicklungen im Quantencomputing ein und erklärt, warum der Umstieg auf quantensichere Verschlüsselung schon heute relevant ist.
+Under emerging regulations like the EU AI Act, organisations deploying AI carry strict legal obligations around logging, traceability, and human oversight. This session outlines the operational data stack needed to fulfill deployer duties at scale. We will inspect concrete implementations of OpenTelemetry tracing for GenAI, methods for capturing tamper-evident logs (linking prompts, model hashes, and retrieved context), and real-time monitoring strategies for detecting silent performance and semantic drift in production.
 
 ## Weitere geplante Vorträge
 
 ### November 2026
-- **19.11.2026** - Gabriele Salvo (CTO - Colchix): The Deployer Stack - OpenTelemetry, Immutable Audit Trails, and Drift Detection for Enterprise AI
 - **24.11.2026** - Quantum Technology Session (organised by hqic) / Uwe Resas (General Manager - QuBalt): Cyber Resilience for Spacecraft
 - **26.11.2026** - Valerie Bohn (Doktorandin der Philosophie - Universität Göttingen): Die Illusion der bewussten Maschine – Warum KI weniger menschlich sein sollte
 
@@ -57,6 +56,7 @@ Euer ARIC Brown Bag Team
 
 ## Bisherige Vorträge
 ### 2026
+- 17.11.2026 - Dr. Koen Sponselee (Hamburg Quantum Innovation Capital (HQIC)): Quantencomputer und die Zukunft der Verschlüsselung
 - 12.11.2026 - Werner Bogula (Head of AI - PINKTUM): Resilienz und Europäische KI
 - 10.11.2026 - Jan Hill (Business Unit Lead - Director - Adesso SE): Attack AI – Die Schlagkraft eines Angreifers unter Kontrolle
 - 05.11.2026 - Dr. med. Oscar Freyer (Arzt und Postdoktorand - Else Kröner Fresenius Zentrum für Digitale Gesundheit der TU Dresden): KI-Agenten in der Medizin - Hürden der Zulassung
