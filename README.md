@@ -39,7 +39,7 @@ Under emerging regulations like the EU AI Act, organisations deploying AI carry 
 ### Dezember 2026
 - **01.12.2026** - Laura Tönnsen (Senior AI Managerin - ARIC): KI, der Arbeitsmarkt und Future Skills
 - **03.12.2026** - Mansoor Koshan (Gründer und CEO von Legal Cognition): 50 Jahre juristische KI - Geschichte und Ausblick
-- **08.12.2026** - Quantum Technology Session (organised by hqic)/ tbd
+- **08.12.2026** - Quantum Technology Session (organised by hqic)/ Dr. Mira Wolf-Bauwens (Head of Initiatives Development, GESDA & Senior Strategic Advisor Governance and Responsible Compute, OQI): Why the Era of Quantum Utility must be the Era of Responsible Quantum -- in English
 - **10.12.2026** - ARIC: tbd
 - **17.12.2026** - ARIC und hqic Recap 2026
 
