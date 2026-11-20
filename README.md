@@ -37,9 +37,10 @@ Under emerging regulations like the EU AI Act, organisations deploying AI carry 
 - **26.11.2026** - Valerie Bohn (Doktorandin der Philosophie - Universität Göttingen): Die Illusion der bewussten Maschine – Warum KI weniger menschlich sein sollte
 
 ### Dezember 2026
-- **01.12.2026** - ARIC Intern: tbd
+- **01.12.2026** - Laura Tönnsen (Senior AI Managerin - ARIC): KI, der Arbeitsmarkt und Future Skills
 - **03.12.2026** - Mansoor Koshan (Gründer und CEO von Legal Cognition): 50 Jahre juristische KI - Geschichte und Ausblick
-- **10.12.2026** - ARIC Intern: tbd
+- **08.12.2026** - Quantum Technology Session (organised by hqic)/ tbd
+- **10.12.2026** - ARIC: tbd
 - **17.12.2026** - ARIC und hqic Recap 2026
 
 ### ☃️ Winterpause ☃️
